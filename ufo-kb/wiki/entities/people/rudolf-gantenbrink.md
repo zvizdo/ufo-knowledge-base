@@ -1,0 +1,37 @@
+---
+type: entity
+name: "Rudolf Gantenbrink"
+aliases: ["Rudolf Gantenbrink"]
+roles: ["researcher"]
+affiliations: []
+firsthand_claims: []
+first_seen_in: ufo-kb/wiki/youtube-transcripts/NvqxmTCwHA8.md
+created: 2026-05-06
+updated: 2026-05-06
+sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
+summary: "German roboticist who in 1993 navigated the Queen's Chamber southern shaft with the Upuaut II robot and discovered the limestone slab door with copper fittings."
+tags: ["pyramids", "robotics", "queens-chamber"]
+---
+
+# Rudolf Gantenbrink
+
+German roboticist who in 1993 navigated the Queen's Chamber southern shaft with the Upuaut II robot and discovered the limestone slab door with copper fittings.
+
+## Background
+
+Stub. See [[NvqxmTCwHA8]] for context.
+
+## Notable Claims
+
+- See [[NvqxmTCwHA8]] for context.
+
+## Sources Where They Appear
+
+- [[NvqxmTCwHA8]]
+
+## Connections
+
+- [[NvqxmTCwHA8]] — source where this term appears
+- [[pyramid-purpose-debate]] — related concept
+- [[upuaut-ii]]
+- [[gantenbrinks-door]]
