@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Plasma physicist John Brandenberg's claims-thesis that isotopic anomalies in Martian atmospheric data — in particular elevated Xenon-129 — are explainable by ancient, large-scale nuclear-fusion events on or above Mars, possibly artificial in origin. A high-leverage edge-case in the recurring-claims set."
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [mars, nuclear-fusion, xenon-129, brandenberg, viking, claims-thesis, exoplanetology]
 ---

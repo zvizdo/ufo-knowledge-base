@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Italian research university in Ferrara; institutional home of the Khafre Research Project and SISAR radar group under Filippo Biondi"
-created: 2026-04-27
-updated: 2026-04-27
 name: University of Ferrara
 aliases: [Università degli Studi di Ferrara, UNIFE]
 type: research-group

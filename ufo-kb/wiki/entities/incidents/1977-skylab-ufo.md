@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "~1977: Skylab astronauts photographed a red flashing light that paced their orbit and then disappeared; Alan Bean told Kevin Knuth personally; photographs are publicly accessible but blurry; not mentioned in the NASA UAP Commission report."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: "Skylab Red Light UFO Encounter (~1977)"
 date: "~1977"

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Psychological warfare specialist; TIME magazine publisher; member of the Psychological Strategy Board under Eisenhower that managed UAP information as a psyop asset."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md]
 name: Charles Douglas Jackson
 aliases: [C.D. Jackson, CD Jackson]

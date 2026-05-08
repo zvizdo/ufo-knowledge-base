@@ -7,8 +7,6 @@ parent_org:
 country: USA
 active_period: 1913–present
 tags: [philanthropy, public-health, flexner-report, eugenics-era, biomedical-funding]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

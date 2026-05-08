@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA mind-control precursor program signed into operation in April 1952—three months before the Korean War began; used hypnosis, drugs, and behavioral conditioning to create compartmentalized courier identities in subjects; ran experiments on secretaries and military personnel; predated the Korean War despite the CIA's disinformation cover story that it was a reaction to Chinese techniques."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Project Bluebird
 aliases: [Bluebird]

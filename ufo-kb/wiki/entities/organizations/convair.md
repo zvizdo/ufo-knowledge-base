@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/D2tKCFmJjks.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/D2tKCFmJjks.md]
 summary: "US aerospace manufacturer (San Diego/Fort Worth); built the B-36 and B-58 bombers, Atlas ICBM, and F-102/F-106 interceptors; listed in the 1971 Harry Turner classified Australian intelligence memo as a participant in an alleged classified US anti-gravity research program."
 tags: [aerospace, anti-gravity, defense-contractor, cold-war, uap-programs]

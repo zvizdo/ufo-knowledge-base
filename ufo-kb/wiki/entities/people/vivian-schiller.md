@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former head of NPR, senior Twitter media executive, NYT executive; organized Hunter Biden laptop pre-bunking at the Aspen Institute in 2020 alongside Garrett Graff."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: Vivian Schiller
 aliases: []

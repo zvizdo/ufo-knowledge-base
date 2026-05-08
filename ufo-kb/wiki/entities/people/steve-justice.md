@@ -6,8 +6,6 @@ roles: [official, researcher]
 affiliations: [lockheed-skunk-works, to-the-stars-academy]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/Y7PLeu5rTv4.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [skunk-works, ttsa, aerospace-engineering, advanced-propulsion]
 ---

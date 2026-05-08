@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "DOE national laboratory in Livermore, California; one of two primary US nuclear weapons design labs (alongside Los Alamos); connected to UAP discourse through derivative technology research, nuclear nexus, and alleged classified exotic physics programs."
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 name: Lawrence Livermore National Laboratory
 aliases: [LLNL, Livermore]

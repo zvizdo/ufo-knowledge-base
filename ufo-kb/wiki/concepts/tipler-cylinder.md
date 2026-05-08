@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "An exact solution of Einstein's field equations for a rotating infinite cylinder of dense matter, allowing closed timelike curves around the cylinder. Cited as one of the small set of GR-consistent time-travel mechanisms, alongside Gödel rotating universe and traversable wormholes."
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [general-relativity, time-travel, closed-timelike-curves, frank-tipler, claims-thesis]
 ---

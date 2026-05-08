@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "February 2011 mass UFO sighting in Irkutsk Oblast, Siberia; multiple spheres merging/splitting over trees near the 29th Guards missile division's nuclear ICBM assets; reported on Russian National Channel 1"
-created: 2026-04-26
-updated: 2026-04-26
 name: 2011 Kutsk Oblast UFO Sighting
 date: "2011-02"
 location: Irkutsk Oblast, Siberia, Russia

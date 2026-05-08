@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Eric Haseltine and Chris Gilbert's fiction novel embedding the science of 'The New Science of UFOs'; features forbidden archaeology, Silurian hypothesis, Tic Tacs, Alcubierre warp drive, and voice-of-god communication."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 title: The Shadow of Time
 authors: [eric-haseltine, chris-gilbert]

@@ -3,8 +3,6 @@ type: concept
 name: Black Triangle UAP
 aliases: [black triangle UAP, black-triangle-uap, black triangle UFO, TR-3B, silent black triangle, triangle UAP]
 first_seen_in: ufo-kb/wiki/entities/places/woomera-test-range.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Recurring UAP category: large, silent, triangular craft with three lights at vertices and one in the center, often observed at low altitude moving slowly; reported globally since the 1970s; associated both with alleged US black projects (TR-3B hypothesis) and with genuine unknown phenomena."
 tags: [triangle, uap, tr3b, black-project, belgium-ufo-wave, craft-type, reconnaissance]

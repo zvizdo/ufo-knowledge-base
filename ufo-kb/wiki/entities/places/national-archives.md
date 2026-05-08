@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The U.S. National Archives and Records Administration (NARA) — the official custodian of U.S. government records. In the UAP context, referenced as a repository for declassified documents and the location where Daniel Sheehan alleges he viewed UFO photographs in classified Blue Book files."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: National Archives and Records Administration
 aliases: [NARA, National Archives, The Archives]

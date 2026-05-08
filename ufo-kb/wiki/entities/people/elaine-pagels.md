@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Princeton religious studies professor; scholar of early Christianity and Gnosticism; author of Beyond Belief and works on the Gospel of Thomas; studies the secret traditions within early Christianity including the idea that Jesus whispered secret knowledge to specific disciples."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/tS_64sTN5AU.md]
 name: Elaine Pagels
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US biotech company advised by Harvard geneticist George Church; de-extincted the direwolf from ancient DNA; agreed to test Nazca mummies pending Peruvian government permission"
-created: 2026-04-26
-updated: 2026-04-26
 name: Colossal Biosciences
 aliases: []
 type: private-co

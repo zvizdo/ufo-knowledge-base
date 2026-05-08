@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Hypothesis that DNA contains intelligently encoded information beyond its known role in protein synthesis — whether as a message from NHI, a record of cosmic history, or a substrate for non-local consciousness. Referenced in the Bledsoe / Chris Bledsoe contactee network and IARPA research context."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KRDE1i3LDuU.md, raw/youtube-transcripts/_CBtd8Om-hU.md, raw/youtube-transcripts/q7Czo77qhHA.md]
 tags: [dna, nhi, consciousness, panspermia, iarpa, chris-bledsoe]
 ---

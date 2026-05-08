@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Federally Funded Research and Development Centers — quasi-governmental labs (MITRE, RAND, Aerospace Corporation, Lincoln Laboratory, etc.) that provide R&D to federal agencies outside normal procurement; relevant to UAP secrecy because they operate under contractor confidentiality while doing classified government work."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: FFRDC
 aliases: [Federally Funded Research and Development Center, FFRDCs]

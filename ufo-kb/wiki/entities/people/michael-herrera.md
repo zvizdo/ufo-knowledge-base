@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Marine Corps whistleblower who witnessed a ~300ft octagonal craft loading psionic human assets in refrigerated containers during a 2009 Indonesia deployment; apprehended at gunpoint by American operators; made to sign an NDA under threat of execution at Camp Hansen, Okinawa; has since testified publicly at AARO and the National Press Club."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/Sct30Qijfv8.md]
 name: Michael Herrera
 aliases: [Herrera]

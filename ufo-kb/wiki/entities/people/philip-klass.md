@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Longtime UFO skeptic/debunker whose alleged deep connections to the US intelligence community are cited as evidence his debunking work served institutional interests rather than honest inquiry."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Philip Klass
 aliases: []

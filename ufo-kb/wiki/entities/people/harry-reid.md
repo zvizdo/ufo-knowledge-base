@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "U.S. Senator (Nevada, D); primary congressional champion of AATIP funding; leveraged relationships with Ted Stevens and Dan Inouye to secure the black-budget line item; one of the few politicians to have genuinely pushed the UAP issue from inside Congress."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/LnAiNChnuEQ.md]
 name: Harry Reid
 aliases: [Reid]

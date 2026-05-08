@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Framing in which some or all NHI are actively hostile to humanity — extracting biological material, enslaving, farming, or controlling human populations rather than studying or cooperating with them. The dark reading of the 'we-are-property' family of claims."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 tags: [nhi, threat, hostile, abduction, we-are-property, disclosure]
 ---

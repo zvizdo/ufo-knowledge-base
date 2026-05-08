@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy episode with UAPGerb: pyramid org-structure of UAP legacy programs, DOE/NNSA crash retrieval infrastructure (NEST/SRT/OST), Jonathan Wagant Peru retrieval expanded, NURO as 6th intel agency, Kona Blue/Kingman wreckage transfer attempt, Glen Gaffney blocking it, TR3B at Edwards 412th, deep underground bases, NRO/CIA DS&T revolving door figures (Donald Kerr, Paul Kaminsky, Mary K. Sturivant), Dan Burish/J-Rod, IPU field report, Psalm 101 at AARO, Immaculate Constellation/Tom DeLonge connection, Jay Andrew Kissner 1994 disclosures, Alfred O'Donnell EG&G Area 51 source, 1933 Italian RS-33 cabinet, and anthrax booster silencing pattern."
-created: 2026-04-27
-updated: 2026-05-04
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 video_id: u7g5Sn1DJF4
 title: "The Pentagon's UFO Program Is Real [Here's How It Works!] ft. UAPGerb"

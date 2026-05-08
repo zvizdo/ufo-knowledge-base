@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "House Committee on Oversight and Accountability; held the landmark 2023/2024 Congressional UAP hearing featuring Grusch, Graves, and Fravor testimony; Nancy Mace chaired the relevant subcommittee."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: House Oversight Committee
 aliases: [House Committee on Oversight and Accountability, House Oversight and Government Reform Committee, House Oversight]

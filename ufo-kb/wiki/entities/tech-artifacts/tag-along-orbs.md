@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "'Tag-alongs' — the casual military slang used by 1962 to describe UAPs that persistently accompanied nuclear missile and weapons tests; the term implies normalization of the phenomenon at the highest clearance levels."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Tag-Along Orbs
 aliases: [tag-alongs, companion objects, orbs]

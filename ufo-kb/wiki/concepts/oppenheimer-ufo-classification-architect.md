@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: J. Robert Oppenheimer (with Robert Sarbacher) designed the UFO secrecy architecture — specifically the overlay of Atomic Energy Act (1954) nuclear classification onto UAP programs."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 tags: [oppenheimer, sarbacher, ufo-secrecy, atomic-energy-act, classification-architecture, claims-thesis]
 ---

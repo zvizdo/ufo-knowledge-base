@@ -7,8 +7,6 @@ parent_org: us-department-of-energy
 country: USA
 active_period: 1952–present
 tags: [doe, nuclear-weapons-design, classified-physics, brandenberg, national-lab]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

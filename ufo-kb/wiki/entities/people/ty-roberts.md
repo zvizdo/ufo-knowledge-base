@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO researcher associated with the International UFO Bureau and Total Disclosure; published Greg Rogers's Cape Canaveral CCTV witness account"
-created: 2026-05-02
-updated: 2026-05-02
 name: Ty Roberts
 aliases: []
 roles: [researcher, journalist]

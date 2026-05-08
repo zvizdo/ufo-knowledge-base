@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Psychiatric condition (formerly Multiple Personality Disorder) in which a person has two or more distinct identity states; the mechanism CIA mind-control programs exploited for courier and assassination programs; Colin Ross's clinical specialty; the False Memory Syndrome Foundation was partly created to suppress its diagnosis."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 tags: [did, mpd, mk-ultra, manchurian-candidate, psychiatry, trauma, mind-control, ross]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF Security Police officer (Ellsworth AFB, 1975–1983) who held Q clearance guarding Minuteman II ICBMs; experienced a CE3 abduction at the November 5 silo in November 1977 with ~5 hours missing time, beings sighted, and a catatonic partner; debriefed by OSI with Rick Doty present."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/73YBwFvcmF8.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/h0hAit-KH9A.md]
 name: Mario Woods
 aliases: [Anthony Mario Woods]

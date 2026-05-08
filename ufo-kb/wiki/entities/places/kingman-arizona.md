@@ -7,8 +7,6 @@ country: USA
 coordinates: 35.1894° N, 114.0530° W
 type: incident-site
 tags: [crash-retrieval, 1953-kingman, arthur-stansel, firsthand-witness]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

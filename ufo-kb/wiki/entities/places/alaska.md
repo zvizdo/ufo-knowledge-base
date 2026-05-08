@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/incidents/1986-jal-1628.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US state; recurring UAP hotspot with multiple significant documented incidents — including the 1986 JAL 1628 radar-confirmed encounter; Nathan Twining reportedly ran aerial observation programs over Alaska; its strategic importance as the closest US territory to Russia and its large airspace make it a nexus for both legitimate military monitoring and UAP observation."
 tags: [alaska, uap-hotspot, radar, military, russia, strategic, twining, jal-1628]

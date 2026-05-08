@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Emerging scientific field documenting quantum mechanical effects (tunneling, entanglement, superposition) in warm biological systems — overturning the assumption that quantum effects are confined to cold, isolated lab environments."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/qAou_h1POWs.md]
 tags: [quantum-biology, consciousness, microtubules, cryptochrome, photosynthesis, enzyme-tunneling, penrose, hameroff, dark-ice-magnetometer, lockheed]
 ---

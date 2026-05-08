@@ -3,8 +3,6 @@ type: concept
 name: Quantum Computing
 aliases: [quantum computing, Quantum Computing, quantum computer, quantum computers, QC]
 first_seen_in: ufo-kb/wiki/entities/people/mark-andreessen.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Computation using quantum-mechanical phenomena (superposition, entanglement) to process information in ways impossible for classical computers; Google's Willow quantum chip prompted Mark Andreessen's public statement about multiverse computation, which preceded an NSC meeting on 'classified physics.'"
 tags: [quantum, computing, physics, google, willow, andreessen, multiverse, silicon-valley]

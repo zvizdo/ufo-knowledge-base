@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Host of the Shawn Ryan Show; conducted Jake Barber's first major on-camera interview; also previously interviewed Sam Shoemate about Livelsberger's NJ drone email; twice entangled in the 2024 New Jersey drone/UAP flap narrative."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/dnnpyNuPdXs.md]
 name: Sean Ryan
 aliases: [Shawn Ryan]

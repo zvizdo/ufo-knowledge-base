@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Biographer of Thomas Townsend Brown; author of The Man Who Mastered Gravity; primary source for the most detailed modern account of Brown's classified and personal life."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RTEWLSTyUic.md]
 name: Paul Schatzkin
 aliases: [Schatzkin]

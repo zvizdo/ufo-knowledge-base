@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Army remote viewer from the Stargate program who claims to have been recruited into a darker black unit using psychokinesis against human targets; told Jorjani personally about a California underground facility training pilots to fly UFOs."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: Lyn Buchanan
 aliases: [Lin Buchanan]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former Raytheon employee who claims he installed a neutrino emitter/detector at the South Pole that was used as a weapon or control system, and may have triggered the 2010 Christchurch, New Zealand earthquake."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JE1oM89dpBc.md]
 name: Eric Hecker
 aliases: []

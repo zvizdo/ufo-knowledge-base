@@ -3,8 +3,6 @@ type: concept
 name: Experiencer Research
 aliases: [experiencer research, contact experiencer research]
 first_seen_in: ufo-kb/wiki/concepts/abduction-research.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The study of individuals who report anomalous contact experiences with non-human intelligence — broader than classical abduction research; includes voluntary contact, near-death experiences with NHI elements, shamanic encounters, and ongoing contact phenomena; associated with the CE5 movement and contact-positive research frames."
 tags: [abduction-research, nhi-contact, contact-experience, experiencer, ce5]

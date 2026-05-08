@@ -3,8 +3,6 @@ type: entity
 entity-type: organizations
 name: Hume Center for National Security and Technology
 summary: "Virginia Tech research center focused on national security, signals intelligence, and cyber; staffed with cleared personnel and operates in close proximity to the US intelligence community."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [research-group, national-security, virginia-tech, intelligence-community]
 aliases: []
 ---

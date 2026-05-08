@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Prominent American journalist and radio commentator (1897–1969); wrote columns documenting James Forrestal's mental deterioration in 1949; accused by Dolan-aligned researchers of participating in a deliberate public-discrediting operation to establish the 'suicide' narrative before Forrestal's death."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Drew Pearson
 aliases: []

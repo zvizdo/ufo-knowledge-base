@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Head of the nuclear division of Australia's Joint Intelligence Organisation who wrote a 1971 classified memo concluding that the US had secretly pursued deep anti-gravity and UFO research while using Project Blue Book as a cover to mislead allies and the public."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Harry Turner
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA program for training the S-Force triangular fire team; cover name for the covert anti-Castro (later anti-JFK) assassination capability developed 1960–1963."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: ZR RIFLE
 aliases: ["ZR/RIFLE"]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Walter Dornberger: Head of the Nazi V2/A4 rocket program at Peenemünde; brought to the US under Operation Paperclip; first posting was Wright Patterson Air Force Base — where Roswell debris arrived — making him the most likely analyst of recovered UAP material."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Walter Dornberger
 aliases: [Walter Robert Dornberger]

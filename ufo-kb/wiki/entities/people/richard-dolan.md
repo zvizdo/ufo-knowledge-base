@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO historian, author of UFOs and the National Security State and the USO book series; coined the term 'breakaway civilization'; former ABD historian at University of Rochester whose entry into UAP research in 1994 came through Timothy Good's Above Top Secret."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/hBrfe4hFuM0.md]
 name: Richard Dolan
 aliases: []

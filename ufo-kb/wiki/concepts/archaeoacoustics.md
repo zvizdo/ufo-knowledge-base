@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The study of sound and acoustic properties in ancient ritual and megalithic sites — the hypothesis that Neolithic chambers, caves, and temples were deliberately designed to produce specific resonance effects as part of altered-state initiation technology."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [ancient-history, acoustics, mystery-schools, consciousness, megalithic, ritual, altered-states]
 ---
 

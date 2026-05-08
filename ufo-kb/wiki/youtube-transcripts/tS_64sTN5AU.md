@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Diana Pasulka on UFOs, religion, René Girard, consciousness protocols, Vatican Observatory, St. Francis stigmata as radiation burns, muses as real entities, and the colonial framing of disclosure."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/tS_64sTN5AU.md]
 video_id: tS_64sTN5AU
 title: "UFOs & Religion: Vatican Reveals Hidden Link (Ft. Diana Pasulka)"

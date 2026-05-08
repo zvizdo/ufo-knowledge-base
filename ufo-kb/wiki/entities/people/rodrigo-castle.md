@@ -6,8 +6,6 @@ roles: [witness]
 affiliations: [us-marine-corps]
 firsthand_claims: ["During Hunter Warrior 1997 advanced war-fighting experiment, observed a massive ~300-foot rotating triangle accompanied by a black-ops team; was held at gunpoint; received an anthrax booster despite already having had the full anthrax vaccine series"]
 first_seen_in: raw/youtube-transcripts/u7g5Sn1DJF4.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 summary: "US Marine Corps AV8B Harrier aviation technician; during the 1997 Hunter Warrior advanced war-fighting experiment, was ordered to investigate unauthorized flare activity, witnessed a ~300-foot rotating triangle accompanied by an all-black no-insignia crash-retrieval team, was held at gunpoint, and received an anthrax booster — despite having already received the full anthrax vaccine and booster — consistent with the silencing pattern identified by UAPGerb across multiple witnesses."
 tags: [witness, crash-retrieval, triangle-ufo, anthrax-booster, hunter-warrior, 1997, silencing-pattern, recurring-claims]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The physics framework that restores Maxwell's original electromagnetic equations — including scalar and vector potential terms eliminated by Heaviside and Lorenz — enabling longitudinal waves, curved-spacetime EM effects, and applications to propulsion, communications, and biology."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/KGD1nuM4MR8.md, raw/youtube-transcripts/RTEWLSTyUic.md]
 tags: [physics, maxwell, scalar-waves, extended-electrodynamics, lorenz-gauge, heaviside, zero-point-energy, exotic-propulsion, physics-lockdown]
 ---

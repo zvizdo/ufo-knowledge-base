@@ -6,8 +6,6 @@ roles: [researcher, other]
 affiliations: [nasa, boston-university]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/space-program-patches.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Egyptian-American geologist and space scientist; oversaw Apollo lunar science planning at NASA and selected landing sites; nicknamed 'the King' by Apollo astronauts; son of an Egyptian Islamic scholar; connection in KB to Egyptian esoteric knowledge lineage and the space program's cultural symbolism."
 tags: [nasa, apollo, geology, egypt, space-science]

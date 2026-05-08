@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army testing facility in Utah; proposed in nTiFs8LudUo as the 'new Area 51' following relocation of 35–40% of Area 51 programs; implicated in classified biological and materials storage by Wein Brener's deathbed statement about dead extraterrestrials housed at a Utah facility."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/nTiFs8LudUo.md]
 name: Dugway Proving Ground
 aliases: [Dougway, Dugway, Dugway Proving Ground, Utah Test and Training Range]

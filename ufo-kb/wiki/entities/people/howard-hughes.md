@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Billionaire aviator, aerospace manufacturer, and film producer with documented CIA connections (Operation AZORIAN). Appears in UFO discourse as a node linking the CIA, organized crime, and aerospace black programs."
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 name: Howard Hughes
 aliases: [Howard Robard Hughes Jr.]

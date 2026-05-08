@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Brigadier General Thomas Jefferson Exon (USAF); stationed at Wright-Patterson Air Force Base in the late 1940s. One of the most credentialed firsthand witnesses to the Roswell material, stating he saw unusual craft wreckage and bodies transported through Wright-Patterson."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Thomas Jefferson Exon
 aliases: [General Exon, Brigadier General Exon]

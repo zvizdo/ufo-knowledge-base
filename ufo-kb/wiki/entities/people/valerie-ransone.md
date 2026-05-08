@@ -8,8 +8,6 @@ affiliations: []
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/2-GeTxXi670.md
 tags: [andrija-puharich, elf-waves, channeling, cia, nixon, kit-green]
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/2-GeTxXi670.md]
 summary: "Mysterious woman connected to the Nixon White House who claimed to channel aliens; sat on boards of ELF technology research organizations; was in contact with CIA's Kit Green in the late 1970s; her current whereabouts are unknown."
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "YouTube channel run by Jay Anderson covering UFOs/UAPs, secret science, ancient archaeology, and whistleblower testimony; part of the UFO disclosure media ecosystem."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md]
 name: Project Unity
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US civilian nuclear agency whose Q clearance system created the legal compartment that kept UAP materials inaccessible even to holders of presidential clearance."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Atomic Energy Commission
 aliases: [AEC, US Atomic Energy Commission]

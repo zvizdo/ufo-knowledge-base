@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nazi Wehrmacht intelligence chief (Eastern Front); post-WWII founder of the Gehlen Organization, which was absorbed wholesale by the CIA; organized exfiltration of the 1933 Magenta craft via rat lines per Malmgren testimony; member of Knights of Malta Monte Carlo faction."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: Reinhard Gehlen
 aliases: [Reinhard Galen, Gehlen]

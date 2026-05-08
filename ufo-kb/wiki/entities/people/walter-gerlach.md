@@ -6,8 +6,6 @@ roles: [researcher, official]
 affiliations: [university-of-frankfurt, uranverein, reichsforschungsrat]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/die-glocke-context.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [german-physics, stern-gerlach-experiment, uranverein, die-glocke, ww2-german-science]
 ---

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The cross-cultural practice and cosmological framework in which consciousness ascends through a structured hierarchy of celestial or dimensional levels — found in Merkavah Judaism, Shangqing Daoism, Neoplatonism, Gnostic systems, and Sumerian cosmology; described by Peter Levenda as the oldest continuous esoteric practice in recorded history."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [mysticism, consciousness, merkavah, daoism, ascent, cosmology, mystery-schools, peter-levenda, nhi]
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chinese science fiction trilogy by Liu Cixin in which an alien civilization, once detected, faces extermination by a 'Dark Forest' of predatory civilizations; cited in [[09KP8XVf5nY]] as the best available conceptual model for NHI behavior and referenced by George W. Bush administration officials as a framework for thinking about disclosure."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/ePdH01pphbk.md]
 title: The Three-Body Problem
 authors: [Liu Cixin]

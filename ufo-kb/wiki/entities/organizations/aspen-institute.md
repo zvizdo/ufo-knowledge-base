@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US non-profit think tank; flagged by Shellenberger as a nexus between intelligence community information management and mainstream media UAP debunking, via Vivian Schiller and Garrett Graff's Hunter Biden laptop pre-bunking operation (2020)."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: Aspen Institute
 aliases: []

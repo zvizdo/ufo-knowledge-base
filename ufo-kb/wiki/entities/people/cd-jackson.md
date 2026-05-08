@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US chief of psychological warfare in the 1950s; senior Time-Life executive; responsible for the missing frames in the Zapruder film of the JFK assassination; met with Betty and Barney Hill within weeks of their 1961 UFO abduction—a striking intersection of the intelligence community's psychological warfare apparatus with the landmark UFO abduction case."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: C.D. Jackson
 aliases: [Charles Douglas Jackson]

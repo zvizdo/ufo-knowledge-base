@@ -7,8 +7,6 @@ affiliations: [reichsforschungsrat, nazi-germany]
 firsthand_claims: []
 status: historical
 first_seen_in: ufo-kb/wiki/entities/people/walter-gerlach.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The German nuclear weapons research program (1939–1945), coordinated through the Reich Research Council; failed to produce a working bomb due to fundamental miscalculation of the critical mass required and resource constraints; key scientists including Heisenberg, Gerlach, and others were detained at Farm Hall after the war."
 tags: [nuclear, germany, wwii, nazi, heisenberg, gerlach, physics, operation-paperclip]

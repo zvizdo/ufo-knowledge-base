@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Hypothesis that advanced civilizations (human, hominid, or NHI) have inhabited large underground tunnel/cave systems globally — Turkey (Derinkuyu), Ecuador (Taiос caves), Dulce NM, Peru (Nazca tunnel system) — providing explanation for hidden species, ancient technology, and recurring UFO hotspots"
-created: 2026-04-26
-updated: 2026-04-26
 tags: [subterranean, underground, nhi, ancient-civilizations, nazca, dulce, turkey, claims-theses]
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md, raw/youtube-transcripts/IFaXi-NrPV0.md]
 ---

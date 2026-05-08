@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy interview with journalist Tom O'Neill on MK-Ultra, the Manson murders, and evidence that Charles Manson was a CIA behavioral-modification subject used to destroy the counterculture movement."
-created: 2026-04-25
-updated: 2026-04-25
 video_id: 75Je_0hZovQ
 title: "The CIA's Mind Control Program (Ft. Tom O'Neill)"
 channel: American Alchemy

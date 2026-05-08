@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former Google/Uber engineer who founded the Way of the Future AI church in San Francisco; convicted in a trade secrets case; a parallel to Blake Lemoine in assigning quasi-divine status to artificial intelligence."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/RNjC1vLcxKo.md]
 name: Anthony Lewandowski
 aliases: [Anthony Levandowski]

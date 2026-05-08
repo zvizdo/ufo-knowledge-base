@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA MK-Ultra psychiatrist who conducted LSD research at the Haight-Ashbury Free Clinic in 1967 (the same time and place as Charles Manson's emergence); corresponded under alias with Sidney Gottlieb; induced Jack Ruby's psychotic break; in 1955 reported to CIA that he had successfully developed permanent memory implantation/removal — a paragraph censored from the Congressional record."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/UrHLTFvdEZk.md, raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: Jolly West
 aliases: [Louis Jolyon West, L.J. West]

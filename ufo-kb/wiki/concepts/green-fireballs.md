@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Anomalous bright green luminous objects observed near nuclear weapons sites and atmospheric nuclear tests in the late 1940s–1950s; investigated by Lincoln LaPaz and Edward Ruppelt; distinct from meteors; never explained."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [ufo-nuclear-nexus, green-fireballs, lincoln-lapaz, new-mexico, los-alamos, atomic]
 ---
 

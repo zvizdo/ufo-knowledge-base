@@ -3,8 +3,6 @@ type: concept
 name: Gnosis and UAP
 aliases: [gnosis and UAP, gnosis-and-uap, Gnostic UAP, gnostic encounter, anamnesis and UAP, VALIS hypothesis]
 first_seen_in: ufo-kb/wiki/entities/people/philip-k-dick.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The framework interpreting UAP contact experiences as modern instances of Gnostic gnosis — direct knowledge downloads from non-material intelligence that bypass rational cognition; associated with Philip K. Dick's VALIS experiences, Jacques Vallée's observations, and the anamnesis tradition of recovering suppressed primordial knowledge."
 tags: [gnosis, gnosticism, uap, consciousness, philip-k-dick, vallee, anamnesis, valis]

@@ -8,8 +8,6 @@ witnesses: []
 craft_type: unknown
 corroboration: contested
 first_seen_in: ufo-kb/wiki/entities/people/enrico-fermi.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "1953 Italian UAP incident in the Varese province of Lombardy that allegedly prompted the reactivation of the Gabinetto RS-33 / RS-33 committee under Guglielmo Marconi; in researcher accounts, this case is the trigger that brought Enrico Fermi into the RS-33 oversight structure as vice-president in the final year of his life."
 tags: [italy, 1953, varese, rs-33, marconi, fermi, italian-uap, lombary, classified]

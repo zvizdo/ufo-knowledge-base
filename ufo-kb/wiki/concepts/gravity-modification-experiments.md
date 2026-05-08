@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "John Brandenburg's three experimental demonstrations of local gravity reduction using pulsed electromagnetic fields; cost as low as $200; results of ~1 part per thousand weight reduction; DARPA-funded; presented at APS; possibly absorbed into classified programs."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/p0S0BfoZy0w.md]
 tags: [anti-gravity, gravity-modification, electromagnetic, DARPA, experiment, weight-reduction, john-brandenberg]
 ---

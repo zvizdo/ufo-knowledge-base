@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Graham Hancock covers his full lost-civilization thesis, Ark of the Covenant/Ethiopia/Templar connection, ayahuasca novel origin, Gnostic identity, directed panspermia, Vallee's fairy-alien thesis, Imperial College DMT research, and psychedelic religion"
-created: 2026-04-27
-updated: 2026-04-27
 video_id: dfPfPB601hw
 title: "Graham Hancock: Aliens, Atlantis & the Apocalypse"
 channel: American Alchemy

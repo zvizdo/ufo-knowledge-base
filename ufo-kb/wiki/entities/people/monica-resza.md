@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "NASA/Air Force materials scientist; co-inventor of the Mandeloy nickel-based superalloy enabling oxygen-rich rocket engines; disappeared June 22, 2025 on a Mount Waterman hike; no remains found after 150+ days."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Monica Resza
 aliases: [Monica Jasinto Resza]

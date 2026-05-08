@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "University of Virginia psychiatrist who conducted systematic field research on children's past-life memories, particularly in India; foundational figure in academic parapsychology."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 name: Ian Stevenson
 aliases: []

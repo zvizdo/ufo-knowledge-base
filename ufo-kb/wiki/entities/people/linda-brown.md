@@ -2,8 +2,6 @@
 type: entity
 stub: true
 summary: "Thomas Townsend Brown's daughter; primary firsthand source on his private life, intelligence connections, and the NICAP filtering directive."
-created: 2026-04-27
-updated: 2026-04-27
 name: Linda Brown
 aliases: []
 roles: [other]

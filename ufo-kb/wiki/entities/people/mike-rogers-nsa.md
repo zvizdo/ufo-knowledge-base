@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [nsa, us-cyber-command, us-navy]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/jMCavr3dVP0.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [nsa, us-cyber-command, signals-intelligence, navy-admiral]
 ---

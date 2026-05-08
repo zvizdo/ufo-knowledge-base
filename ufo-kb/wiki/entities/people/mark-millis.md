@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "NASA physicist who founded the Breakthrough Propulsion Physics (BPP) program and co-edited Frontiers of Propulsion Science (2009) with Eric Davis — the definitive technical survey of exotic propulsion concepts including warp drives, vacuum energy, and inertial modification."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md]
 name: Mark Millis
 aliases: []

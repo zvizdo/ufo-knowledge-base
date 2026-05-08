@@ -3,8 +3,6 @@ type: concept
 name: Conscious Craft Hypothesis
 aliases: [conscious craft hypothesis, conscious-craft-hypothesis, craft as consciousness, UAP as consciousness, living craft]
 first_seen_in: ufo-kb/wiki/entities/people/jordan-skywatcher.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The hypothesis that UAP are not mechanical vehicles piloted by separate intelligences but are themselves conscious entities — or that the craft and the intelligence operating it are the same being; overlaps with craft-as-biological-entity and interdimensional-hypothesis frameworks."
 tags: [consciousness, craft, nhi, intelligent-craft, living-uap, non-mechanical, hypothesis]

@@ -8,8 +8,6 @@ affiliations: [cia-adjacent]
 firsthand_claims: []
 first_seen_in: jfk-assassination-ufo
 tags: [jfk, allen-dulles, network-node, stub]
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 summary: "Allen Dulles's mistress and close friend of Ruth Forbes Payne Young (Arthur Young's wife). Her significance in the JFK network is as the personal link between the Bell helicopter / Nine seance circle (Arthur Young) and the CIA director who would later sit on the Warren Commission."
 ---

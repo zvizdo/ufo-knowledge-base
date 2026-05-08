@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Apollo 11 astronaut; stood James Fox up in France at great cost; appeared on Larry King Live alongside Fox and Fife Symington where Fox describes him as lying on air about UAP knowledge; referenced in UAP discourse in connection with Freemasonry."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/bVhSPH2A5Vw.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 name: Buzz Aldrin
 aliases: [Edwin Eugene Aldrin Jr.]

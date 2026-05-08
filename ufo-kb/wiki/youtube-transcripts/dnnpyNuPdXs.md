@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Jake Barber's first major on-camera interview: firsthand helicopter retrieval of two non-human craft (egg and octagonal disc), psionic consciousness methodology, origins in a classified Air Force recruitment pipeline, DOPSR red-teaming disclosure strategy, and his Sky Watcher team's December 2024 New Jersey drone/UAP investigation."
-created: 2026-04-27
-updated: 2026-05-04
 video_id: dnnpyNuPdXs
 title: "\"I Retrieved a UFO With My Helicopter!\" — Jake Barber Tells All"
 channel: Shawn Ryan Show

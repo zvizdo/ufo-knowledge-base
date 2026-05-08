@@ -4,8 +4,6 @@ entity-type: people
 name: Richard Barth
 aliases: [Richard Bar, Richard Bart]
 summary: "USAF air policeman at Vandenberg AFB in 1964 who claims a CE3 abduction experience at a Minuteman missile site in September 1964; NHI communicated intent to prevent nuclear war and disclosed multiple NHI species."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Qe8br8yYEDM.md]
 roles: [witness, experiencer]
 affiliations: [US Air Force, 4392 Combat Defense Squadron, vandenberg-afb]

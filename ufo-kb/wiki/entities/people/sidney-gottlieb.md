@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chief chemist and director of MK-Ultra; known as 'the poisoner in chief'; received Jolly West's secret reports under alias; ordered operational experiments on non-consenting civilians."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Sidney Gottlieb
 aliases: [the poisoner in chief]

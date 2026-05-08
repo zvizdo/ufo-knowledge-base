@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1950s UFO researcher who claimed to have been visited by three Men in Black with orange glowing eyes and sulfur smell; reported being teleported to an Antarctic underground facility; shut down his International Flying Saucer Bureau after the encounter."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: Albert Bender
 aliases: [Bender]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Boss of the Chicago Outfit and CIA asset for the Castro assassination plots. Murdered in his basement in June 1975 the night before his planned Senate testimony. Central figure in the CIA-mob nexus connecting JFK, Watergate, and UAP secrecy theories."
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 name: Sam Giancana
 aliases: [Salvatore Giancana, Momo, Mooney]

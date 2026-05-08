@@ -120,8 +120,6 @@ Synthesis pages contain:
 type: synthesis
 synthesis-type: comparison | pattern | contradiction | gap-analysis | framework-application
 summary: "One-line statement of the conclusion"
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
 sources: [raw/... if applicable]
 derived-from: [page-slug-1, page-slug-2, ...]
 tags: [domain-specific tags]

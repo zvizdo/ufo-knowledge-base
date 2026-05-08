@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nuclear engineer turned full-time UFO researcher who published Robert Sarbacher's testimony on UAP classification levels and became one of the most credentialed voices in the field."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Stanton Friedman
 aliases: []

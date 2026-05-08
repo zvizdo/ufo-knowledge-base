@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1962 US nuclear test series of 31 detonations near Johnston Island and Christmas Island, including the high-altitude Operation Fishbowl sub-series."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Operation Dominic
 aliases: [Dominic I, Dominic II]

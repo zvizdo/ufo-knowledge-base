@@ -2,8 +2,6 @@
 type: entity
 entity-type: people
 summary: "Nobel Prize-winning biochemist who invented the polymerase chain reaction (PCR); also reported a personal alien encounter — cited by Hancock alongside Francis Crick as evidence that altered or anomalous states of consciousness are not incompatible with scientific genius."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/q7Czo77qhHA.md]
 name: Kary Mullis
 aliases: []

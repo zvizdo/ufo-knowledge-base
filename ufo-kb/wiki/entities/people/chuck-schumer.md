@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chuck Schumer — US Senate Majority Leader (D-NY); co-authored the 2023 UAP Disclosure Act (NDAA amendment) with Mike Rounds, calling for mandatory declassification of UAP records and a review board."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Chuck Schumer
 aliases: [Senator Schumer, Charles Schumer]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "German theoretical physicist and popular science communicator (YouTube/Substack); made a video on Filippo Biondi's Giza substructure claims, initially critical but ultimately open-minded"
-created: 2026-04-27
-updated: 2026-04-27
 name: Sabine Hossenfelder
 aliases: []
 roles: [researcher, journalist]

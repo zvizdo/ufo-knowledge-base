@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The hypothesis that perceived physical reality is a computational or informational simulation; consciousness is the underlying substrate that can, under certain conditions, 'dip out' of the simulation — connecting to UAP phenomena, telepathy, and NHI interaction."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/2Mb6NPPjCyg.md, raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/RNjC1vLcxKo.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/fyX8V1XXmQM.md]
 tags: [simulation, consciousness, reality, uap, nhi, quantum, metaphysics, claims-theses]
 ---

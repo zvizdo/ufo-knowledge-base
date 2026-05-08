@@ -7,8 +7,6 @@ roles: [banker, philanthropist, official]
 affiliations: [Chase Manhattan Bank, Council on Foreign Relations, Trilateral Commission, Bilderberg Group]
 firsthand_claims: []
 tags: [rockefeller, elite-networks, cfr, trilateral, bilderberg, disclosure-politics]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # David Rockefeller

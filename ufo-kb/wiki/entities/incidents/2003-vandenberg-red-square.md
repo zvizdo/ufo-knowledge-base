@@ -3,8 +3,6 @@ type: entity
 entity-type: incidents
 name: 2003 Vandenberg Red Square
 summary: "October 14 2003 UAP incident at Vandenberg AFB: Boeing contractors and USAF security witnessed a massive glowing red square hover over missile defense sites; same night a triangular craft larger than a football field hovered over an entry control point; official records held by AARO and FBI."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Qe8br8yYEDM.md]
 date: 2003-10-14
 location: Vandenberg Air Force Base, California

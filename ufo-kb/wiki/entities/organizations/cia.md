@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Central Intelligence Agency; the primary US foreign intelligence service; a central institutional actor in UAP secrecy, allegedly operating crash retrieval and reverse-engineering programs above presidential clearance level."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/75Je_0hZovQ.md]
 name: Central Intelligence Agency
 aliases: [CIA, The Agency]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Pioneering remote viewer and Church of Scientology operative who was simultaneously a top talent in the ONI/CIA remote-viewing program and a spy reporting its activities back to Scientology's Guardian's Office."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 name: Ingo Swann
 aliases: [Ingo Swan]

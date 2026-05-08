@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Spring 1992 incident in which Dr. Greg Rogers, chief of aerospace medicine at the 45th Space Wing, observed a pearly-white reverse-engineered saucer craft (~20 ft across) levitating and rotating via a closed-circuit TV feed at Cape Canaveral Air Force Station; the showing USAF major stated 'We got it from them.'"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/TNtlzEnl8rA.md]
 name: 1992 Cape Canaveral Saucer Sighting
 date: 1992-04 (approximate; Rogers recalls a hot spring day, April–May)

@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy interview with Matt Lroy on binary dead-star companion, pre-Flood civilizations in Turkey and Mesopotamia, plasma discharge evidence, Pioneer 10/11 suppression, underground cities, and Sumerian tablet decoding"
-created: 2026-04-26
-updated: 2026-05-04
 sources: [raw/youtube-transcripts/A_LsUSxTm7A.md]
 video_id: A_LsUSxTm7A
 tags: [ancient-civilizations, younger-dryas, binary-star, plasma-discharge, giza, sphinx, lake-van, atlantis, lost-civilization, catastrophism, matt-lroy, american-alchemy, sumerians, cuneiform, gobekli-tepe, pioneer-10-11, underground-cities]

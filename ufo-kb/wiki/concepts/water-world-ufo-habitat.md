@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Kevin Knuth's thesis: water worlds (ocean floors, icy moon interiors) are the optimal habitat for an advanced civilization — stable temperature, tunable pressure, EM shielding, radiation protection — making Earth's oceans the best candidate for NHI bases."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/aGqFOxuYRT0.md]
 tags: [ufo-hypothesis, water-worlds, underwater-bases, nhi-habitat, planetary-science, uso]
 ---

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The recurring observation that UAP encounters consistently produce low-quality, ambiguous footage despite occurring in contexts where high-quality documentation should be possible; debated as either evidence of genuine evasive behavior, a selection effect, or suppression."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md]
 tags: [uap-evidence, camera-evasion, low-information-zone, mick-west, selection-effect, crappy-video, twining-memo, evasiveness]
 synthesis-type: contradiction

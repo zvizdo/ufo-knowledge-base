@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Theoretical physicist who claims NHI contact experience; advocates a low-energy warp drive theory via scalar field modification of Einstein's equations; Cornell-educated; one of the 'hippie physicists' who saved theoretical physics in 1970s California; in private email exchange with Bob Maguire."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md]
 name: Jack Sarfatti
 aliases: [Sarfatti]

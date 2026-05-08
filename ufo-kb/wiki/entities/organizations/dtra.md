@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Defense Threat Reduction Agency — modern successor to AFSWP; allegedly retained Atomic Energy Commission records stating UFOs are of extraterrestrial origin, per whistleblower Dylan Borland."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md, raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: DTRA
 aliases: [Defense Threat Reduction Agency]

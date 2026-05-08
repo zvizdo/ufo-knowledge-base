@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Italian researcher collaborating with Filippo Biondi on Giza SAR scanning; proposes the fine structure constant (1/137) is encoded in Khafre pyramid proportions"
-created: 2026-04-27
-updated: 2026-04-27
 name: Armando Mei
 aliases: []
 roles: [researcher]

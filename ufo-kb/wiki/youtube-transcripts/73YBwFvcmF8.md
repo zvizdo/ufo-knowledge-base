@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Full interview with Mario Woods, former USAF nuclear missile security officer, detailing his 1977 abduction at Ellsworth AFB's November 5 silo — missing time, beings sighted, catatonic partner, OSI debrief, hypnotic regression."
-created: 2026-04-25
-updated: 2026-04-25
 video_id: 73YBwFvcmF8
 title: "Meet The Nuclear Base Employee Abducted By Aliens (Ft. Mario Woods)"
 channel: American Alchemy

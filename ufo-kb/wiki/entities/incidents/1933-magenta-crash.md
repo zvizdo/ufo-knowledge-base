@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1933 UFO crash near Magenta, Italy; studied by Mussolini's Gabinetto RS/33 including Guglielmo Marconi; transferred to US custody in 1945 via OSS Project McGregor; independently corroborated by Richard Bissell (CIA DDP) to Harald Malmgren."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: 1933 Magenta Crash
 date: 1933

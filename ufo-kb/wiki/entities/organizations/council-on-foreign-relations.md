@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The Council on Foreign Relations (CFR) — influential U.S. foreign policy think tank founded 1921. In UAP/deep-state discourse, cited by Harold Malmgren (50-year CFR member) as a complementary structure to the Knights of Malta within the broader UAP secrecy network."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Council on Foreign Relations
 aliases: [CFR]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis that frontier physics — quantum non-locality, consciousness studies, NDE research, and DMT entity contact — is converging with the experiential claims of religious and mystical traditions, suggesting both are approaching the same underlying reality from different directions."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [consciousness, physics, mysticism, religion, convergence, nde, quantum, dmt, synthesis]
 ---
 

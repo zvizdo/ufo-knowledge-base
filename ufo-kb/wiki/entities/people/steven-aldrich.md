@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [cia]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/programs/oard.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "CIA director of the Office of Research and Development (OARD) — the classified successor to MK-Ultra that continued behavioral control research into the 1970s with expanded capabilities including brain electrode implants, psychosurgery, and memory erasure; documented in John Marx's 'The Search for the Manchurian Candidate'."
 tags: [cia, mk-ultra, oard, behavioral-control, mind-control, director, official]

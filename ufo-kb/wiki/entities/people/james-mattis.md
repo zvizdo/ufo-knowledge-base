@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [us-marine-corps, us-department-of-defense, central-command]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/1f16VvXaSSE.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md]
 summary: "26th US Secretary of Defense (2017–2018) and retired US Marine Corps four-star general; the Defense Secretary that Lue Elizondo and Chris Mellon attempted to brief on UAPs in 2017 — but were intercepted by bureaucratic intermediaries, prompting Elizondo's decision to take the three Pentagon UAP videos to the New York Times."
 tags: [us-defense-secretary, pentagon, aatip, briefing-blocked, 2017-disclosure-trigger]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Thomas Townsend Brown's 1953 proposal describing an advanced propulsion and communications program using electrogravitic principles; described by insiders as a near-exact blueprint for how America's secret UAP program actually operates."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RTEWLSTyUic.md]
 title: Winter Haven Proposal
 authors: [Thomas Townsend Brown]

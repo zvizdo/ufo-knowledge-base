@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Randall Carlson's lecture on sacred number systems embedded in time, space, geometry, solar system dimensions, ancient calendars, and language — with the Great Pyramid and Parthenon as proof of advanced ancient geodetic knowledge."
-created: 2026-05-02
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/R7oyZGW99os.md]
 video_id: R7oyZGW99os
 tags: [sacred-geometry, sacred-numbers, geodesy, great-pyramid, precession, great-year, yuga-cycles, gematria, catastrophism, randall-carlson, platonic-solids, ancient-knowledge, sacred-calendar, new-jerusalem, geodetic-unit]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis that gray beings are cybernetic robotic servitors in service to Nordic beings — not independent entities — and that the 'Nordic vs. gray' conflict narrative is a deliberate good cop/bad cop deception."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 tags: [grays, nordics, hierarchy, deception, contactee, abduction, jorjani]
 ---

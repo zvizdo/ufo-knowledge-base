@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Field challenging mainstream archaeological chronology by cataloguing anomalous physical evidence — artifacts, skeletal remains, and structures that appear far older or technologically advanced beyond what consensus archaeology permits."
-created: 2026-05-02
-updated: 2026-05-02
 tags: [archaeology, ancient-mysteries, alternative-history, lost-civilization, suppressed-evidence]
 ---
 

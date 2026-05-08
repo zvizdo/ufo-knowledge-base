@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Tampa/Miami Mafia boss and former Batista-era Havana casino partner; key link in the CIA-Mafia assassination pipeline that became Nixon's 'S Force'; revealed details of the JFK assassination plot to Danny Sheehan's law firm."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
 name: Santos Trafficante
 aliases: [Trafficante]

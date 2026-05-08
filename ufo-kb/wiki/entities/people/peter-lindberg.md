@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Swedish diver and co-founder of Ocean X; co-discovered the Baltic Sea Anomaly with Dennis Asberg on June 19, 2011; first person to say 'UFO, Dennis' upon seeing the sidescan sonar image."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aGqFOxuYRT0.md]
 name: Peter Lindberg
 aliases: [Lindbergh, Lindbom]

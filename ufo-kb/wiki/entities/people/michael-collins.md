@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Apollo 11 command module pilot; orbited the Moon while Armstrong and Aldrin walked; cited in moon-landing skepticism due to a documented star-visibility contradiction between the Apollo 11 press conference and his own 1974 memoir."
-created: 2026-04-26
-updated: 2026-04-26
 name: Michael Collins
 aliases: []
 roles: [other]

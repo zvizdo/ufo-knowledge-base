@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2024 biography of Thomas Townsend Brown by Paul Schatzkin; the first comprehensive documented account of Brown's life, classified career, and experimental work; described as a vindication that points to a 'new paradigm of science proven experimentally and witnessed by the highest levels of American government.'"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RTEWLSTyUic.md]
 title: "The Man Who Mastered Gravity"
 authors: [Paul Schatzkin]

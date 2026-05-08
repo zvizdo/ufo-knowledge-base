@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The hypothesis that the human eye (and body generally) emits measurable electromagnetic signals—specifically ELF-band brain waves propagated through the optic nerve—providing a physical substrate for phenomena like the sense of being stared at (scopesthesia). Colin Ross published experimental evidence in a peer-reviewed electrical engineering journal using a floating electrode in front of the eye."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md, raw/youtube-transcripts/wT5-hXWIkzM.md]
 tags: [extramission, human-energy-field, elf-waves, consciousness, scopesthesia, bioelectromagnetics, colin-ross, sheldrake]
 ---

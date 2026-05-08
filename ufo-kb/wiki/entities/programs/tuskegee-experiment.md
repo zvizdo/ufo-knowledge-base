@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Public Health Service syphilis study (1932–1972) that withheld treatment from Black male subjects; cited in UAP/MK-Ultra discussions as a documented precedent for government deception and medical experimentation on US citizens."
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 name: Tuskegee Experiment
 aliases: [Tuskegee Syphilis Study, USPHS Syphilis Study]

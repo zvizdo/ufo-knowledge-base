@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Peruvian government ministry that has acted in consistent bad faith toward the Nazca mummy case: conflated wooden figurines with real bodies, raided press conferences, made 7 attempts to seize mummies from University of Ika"
-created: 2026-04-26
-updated: 2026-04-26
 name: Peruvian Ministry of Culture
 aliases: [Ministry of Culture Peru]
 type: gov-agency

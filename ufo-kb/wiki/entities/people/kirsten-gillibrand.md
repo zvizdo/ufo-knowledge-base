@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [us-senate, senate-armed-services-committee]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/D2tKCFmJjks.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/D2tKCFmJjks.md]
 summary: "US Senator (D-NY) who championed the UAP Disclosure Act of 2023 and UAP provisions in successive NDAAs through her Senate Armed Services Committee seat; employed Kirk McConnell as senior defense staffer who drove the legislative UAP work."
 tags: [senate, uap-legislation, ndaa, disclosure, uap-disclosure-act, new-york]

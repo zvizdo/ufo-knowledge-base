@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "November 1977 CE3 abduction of two USAF security officers at Ellsworth AFB's November 5 Minuteman II silo; ~5 hours missing time; large sphere UAP; small and tall Grays sighted; catatonic partner; OSI debrief with Rick Doty."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/73YBwFvcmF8.md, raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: "1977 Ellsworth AFB Mario Woods Abduction"
 date: "1977-11-05 (week of November 18)"

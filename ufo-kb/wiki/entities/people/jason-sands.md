@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Whistleblower claiming perimeter-security duty for a UAP program; described seeing a blue alien being at Nellis Testing Range and warned that NHI 'want their stuff back and will kill everyone in the program.'"
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md]
 name: Jason Sands
 aliases: [Sands]

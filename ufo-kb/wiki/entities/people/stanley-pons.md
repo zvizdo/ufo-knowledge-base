@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American electrochemist who with Martin Fleischmann announced cold fusion at the University of Utah in 1989; became a symbol of suppressed or anomalous energy research"
-created: 2026-04-27
-updated: 2026-04-27
 name: Stanley Pons
 aliases: []
 roles: [researcher]

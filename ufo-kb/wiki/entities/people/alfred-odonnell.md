@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Senior EG&G manager who in 2001 disclosed to journalist George Knapp that EG&G had recovered a flying saucer in New Mexico and had possession of a live being with humanlike features."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/TNtlzEnl8rA.md]
 name: Alfred O'Donnell
 aliases: [Alfred ODonnell]

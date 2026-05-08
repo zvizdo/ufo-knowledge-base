@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Journalist for The Progressive magazine who reconstructed the Teller-Ulam H-bomb design by assembling publicly available but previously treated-as-classified fragments; case study in dangerous physics hiding in plain sight."
-created: 2026-04-27
-updated: 2026-04-27
 name: Howard Morland
 aliases: []
 roles: [journalist, researcher]

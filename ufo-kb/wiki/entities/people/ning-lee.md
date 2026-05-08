@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chinese-American University of Alabama Huntsville physicist who claimed measurable weight reduction above spinning superconductors; left UAH to form AC Gravity LLC with physics chair Larry Smalley; won a DOD contract and went dark; Nick Cook personally interviewed her in 2003, one year before her disappearance; died 2021 after a 2014 car accident."
-created: 2026-04-25
-updated: 2026-04-26
 name: Ning Lee
 aliases: []
 roles: [researcher, official]

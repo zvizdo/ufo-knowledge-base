@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1969 lecture by atmospheric physicist James McDonald systematically dismantling the Condon Committee report and arguing that the ETH is the least unsatisfactory hypothesis for the accumulated body of multi-witness UAP observations."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md]
 title: Science in Default
 authors: [James McDonald]

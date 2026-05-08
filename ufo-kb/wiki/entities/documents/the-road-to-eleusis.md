@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1978 interdisciplinary book by R. Gordon Wasson, Albert Hofmann, and Carl Ruck arguing that the Eleusinian Mystery drink (kykeon) contained an ergot-based psychedelic compound."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/I9VyyV4-3Js.md]
 title: "The Road to Eleusis: Unveiling the Secret of the Mysteries"
 authors: [R. Gordon Wasson, Albert Hofmann, Carl Ruck]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American mythologist and comparative religion scholar; author of The Hero with a Thousand Faces; cited in UAP/consciousness discourse for his framework of universal mythos as maps to real transpersonal experience."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md]
 name: Joseph Campbell
 aliases: [Campbell]

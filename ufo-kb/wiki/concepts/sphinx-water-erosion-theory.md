@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The geological argument that the Sphinx's body erosion was caused by heavy rainfall over long periods, implying construction during a wetter climate predating dynastic Egypt; Carlson sets a minimum of 20,000–30,000 years from independent limestone weathering research."
-created: 2026-04-26
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/92XrddiKjHY.md, raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/R7oyZGW99os.md]
 tags: [sphinx, water-erosion, predynastic, robert-schoch, john-anthony-west, randall-carlson, archaeology, geology]
 ---

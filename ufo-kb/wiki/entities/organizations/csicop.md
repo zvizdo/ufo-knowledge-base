@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/james-randi.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Organization co-founded by James Randi, Carl Sagan, Martin Gardner, and Paul Kurtz in 1976 to apply scientific scrutiny to paranormal claims; published Skeptical Inquirer; central institution of organized skepticism; a persistent institutional force against taking UAP and parapsychology claims seriously."
 tags: [skepticism, organization, james-randi, carl-sagan, parapsychology, debunking, ufo]

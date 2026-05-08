@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Brackish water in the [[osiris-shaft|Osiris Shaft]] at Giza that does not match the chemistry of Nile groundwater; evidence of a separate ancient water system beneath the plateau and key to the waterproofed-shafts argument."
 tags: ["pyramids", "hydrology"]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Weapon systems delivering effect via electromagnetic energy (microwave, laser, particle beam) rather than kinetic mass. Central to the Havana-syndrome attribution debate, the voice-of-god / microwave-hearing claims, and a recurring frame for explaining anomalous physiological signatures of certain UAP encounters."
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [microwave, laser, particle-beam, havana-syndrome, voice-of-god, physiological-effects]
 ---

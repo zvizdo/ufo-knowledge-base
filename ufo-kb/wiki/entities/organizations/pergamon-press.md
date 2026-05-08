@@ -7,8 +7,6 @@ parent_org: maxwell-communication-corporation
 country: UK
 active_period: 1948–1991
 tags: [scientific-publishing, robert-maxwell, intelligence-conduit, cold-war]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

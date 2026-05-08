@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/neil-armstrong.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Civilian UAP research organization; connected in hearsay accounts to Neil Armstrong — who allegedly discussed creating a new UFO research group with Stanton Friedman but declined public involvement due to stigma; possibly the organization that resulted from that conversation."
 tags: [ufo-research, civilian, neil-armstrong, friedman, kentucky, regional-organization]

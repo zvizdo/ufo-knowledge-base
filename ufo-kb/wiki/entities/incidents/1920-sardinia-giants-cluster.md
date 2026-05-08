@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Cluster of alleged giant skeletal discoveries in Sardinia, Italy, documented by Tim Alberino through elderly eyewitness interviews; associated with the nuragic culture and its tombs of the giants."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [sardinia, giants, nuragic, canaanites, tombs-of-giants, skeletal-remains, suppression]
 name: Sardinian Giant Evidence Cluster

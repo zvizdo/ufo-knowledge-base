@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "President of the American Statistical Association and top-5 statistician; analyzed Stargate Program data and found P-values 'off the chart' — more statistically replicable than most psychology research — concluding the remote viewing effect was real."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Jessica Utts
 aliases: []

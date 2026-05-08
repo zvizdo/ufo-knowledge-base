@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Editor of the Saturday Review and peace activist; served as back-channel intermediary between JFK and Khrushchev; connected to JFK's alleged plan to share UAP knowledge with the Soviets as a unifying device."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Norman Cousins
 aliases: [Cousins]
@@ -10,7 +8,6 @@ roles: [journalist, diplomat, activist]
 affiliations: [Saturday Review, Vatican (informal channel)]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/09KP8XVf5nY.md
-updated: 2026-04-26
 tags: [jfk, khrushchev, back-channel, nuclear-test-ban, disclosure-politics, nuclear-disarmament]
 ---
 

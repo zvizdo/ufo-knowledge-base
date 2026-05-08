@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Hancock's novel whose entire plot was received as a creative gift during five Ayahuasca sessions in Brazil in 2006 — involving two women 24,000 years apart who are quantum-entangled in a battle against a demonic force traveling through time"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md]
 title: Entangled
 authors: [Graham Hancock]

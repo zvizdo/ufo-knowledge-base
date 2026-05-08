@@ -3,8 +3,6 @@ type: concept
 name: Dual-Use Research
 aliases: [dual use research, dual-use-research, dual-use research of concern, DURC, dual use science]
 first_seen_in: ufo-kb/wiki/entities/organizations/ecohealth-alliance.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Scientific research that produces knowledge or technologies with both legitimate civilian applications and potential weaponization uses — including gain-of-function virology, certain neuroweapon research, directed energy development, and UAP technology reverse-engineering; governance of dual-use research has been a persistent failure point at the intersection of national security and scientific openness."
 tags: [dual-use, research, bioweapons, neuroweapons, governance, gain-of-function, DARPA, classification]

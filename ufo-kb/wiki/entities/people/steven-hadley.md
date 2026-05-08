@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "National Security Advisor under George W. Bush; described by Eric Davis as the clearing house for all UAP-related presidential briefings; participated in NSC Three-Body Problem disclosure exercise per Hal Puthoff."
-created: 2026-04-26
-updated: 2026-04-26
 name: Steven Hadley
 aliases: [Hadley]
 roles: [official]

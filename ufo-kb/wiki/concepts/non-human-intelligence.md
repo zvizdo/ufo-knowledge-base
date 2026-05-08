@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Formal term adopted by Congress and AARO for entities of unknown origin that may not be human — encompassing extraterrestrial, interdimensional, ultraterrestrial, and future-human hypotheses without prejudging which is correct; Lue Elizondo and David Grusch use it as the neutral bureaucratic framing."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [nhi, disclosure, uap, extraterrestrial, terminology, grusch, elizondo]
 ---
 

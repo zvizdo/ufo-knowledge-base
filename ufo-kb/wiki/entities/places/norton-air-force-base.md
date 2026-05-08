@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former US Air Force base in San Bernardino, California; site where officer Paul Charlton processed and showed Allan Sandler the Holloman AFB landing footage, which was subsequently confiscated by men in suits."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: Norton Air Force Base
 aliases: [Norton AFB]

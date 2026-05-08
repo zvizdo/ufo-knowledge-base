@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Yale neurosurgeon funded by CIA and multiple military branches; developed remote-controlled brain electrode implants; published Towards a Psycho-Civilized Society advocating brain implants for the entire population; photographed experiments controlling the behavior of a 16-year-old girl and bulls via remote transmitter."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Jose Delgado
 aliases: [José Manuel Rodriguez Delgado]

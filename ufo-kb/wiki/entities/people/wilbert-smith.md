@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Canadian radio engineer and Department of Transport official who ran Project Magnet (Canada's official UAP study); his 1950 meeting with Robert Sarbacher produced one of the earliest documented official confirmations that the US was studying non-human craft at the highest classification level."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/nTiFs8LudUo.md]
 name: Wilbert B. Smith
 aliases: [Wilbert Smith, W.B. Smith]

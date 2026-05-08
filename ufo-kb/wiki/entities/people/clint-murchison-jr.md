@@ -6,8 +6,6 @@ roles: [other]
 affiliations: [murchison-oil, dallas-cowboys]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/jfk-assassination-context.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [texas-oil, dallas-cowboys, jfk-assassination-context]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Navy Commander who held top-secret clearance for most of his career and privately admitted, according to multiple researchers, that the beings recovered at Roswell were time-traveling future humans — not extraterrestrials."
-created: 2026-04-26
-updated: 2026-04-26
 name: George Hoover
 aliases: []
 roles: [official, military-personnel]

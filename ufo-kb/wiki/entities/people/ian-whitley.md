@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Space psychologist working on high-performance readiness for astronauts and fighter pilots; researching synesthesia retention in infants as a possible mechanism for preserving latent psi abilities."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h3u8EkGI8OQ.md]
 name: Ian Whitley
 aliases: [Dr. Ia Whitley]

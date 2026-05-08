@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Psychiatrist and researcher who conducted the first modern human DMT trials at the University of New Mexico in the 1990s; author of DMT: The Spirit Molecule; co-developed the DMTX extended-state protocol with Andrew Gallimore."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 name: Rick Strassman
 aliases: []

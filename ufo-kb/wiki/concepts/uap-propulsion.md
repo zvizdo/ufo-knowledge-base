@@ -3,8 +3,6 @@ type: concept
 name: UAP Propulsion
 aliases: [UAP propulsion systems, NHI propulsion, anomalous propulsion]
 summary: "The class of propulsion mechanisms hypothesized to explain UAP flight characteristics — including instantaneous acceleration, right-angle turns, trans-medium operation, and apparent inertia-free maneuvering — that are inconsistent with known aerodynamic or rocket propulsion."
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 tags: [propulsion, physics, uap, electrogravitics, gravity-manipulation, inertial-mass-reduction]
 ---

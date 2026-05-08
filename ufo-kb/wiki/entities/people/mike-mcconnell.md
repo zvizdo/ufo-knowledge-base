@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Admiral and Director of the NSA; alleged to have placed Dan Burish on special projects at S4/Area 51 as an informal godfather; may be 'Mike Mlelen' referenced by John Lear as the MJ-12 member who arranged Bob Lazar's S4 access."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Mike McConnell
 aliases: [Admiral Mike McConnell, J. Michael McConnell]

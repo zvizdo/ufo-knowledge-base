@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Air Force investigation into unexplained green fireballs appearing over US nuclear sites in the late 1940s–early 1950s; led by meteorite expert Lincoln LaPaz who concluded they were not a known natural phenomenon."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 name: Project Twinkle
 aliases: []

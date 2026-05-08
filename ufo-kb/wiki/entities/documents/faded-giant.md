@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Book co-authored by Robert Salas and James Klotz (2005) documenting the 1967 UFO-nuclear incidents at Malmstrom AFB, including primary source documents obtained via FOIA and testimony from multiple witnesses."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 title: Faded Giant
 authors: [robert-salas, James Klotz]

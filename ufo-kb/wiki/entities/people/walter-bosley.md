@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Independent researcher and former counter-intelligence officer who has investigated the Nenza hypothesis — that the 1890s US airship wave was produced by a secret terrestrial organization with advanced technology derived from 1890s physics, not non-human intelligence."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md]
 name: Walter Bosley
 aliases: []

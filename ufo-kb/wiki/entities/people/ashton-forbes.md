@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Independent UAP researcher known for investigating the MH370 disappearance through the lens of UAP orbs; promotes exotic physics disclosure including free energy while wrestling with weaponization risks."
-created: 2026-04-25
-updated: 2026-04-25
 name: Ashton Forbes
 aliases: []
 roles: [researcher, journalist]

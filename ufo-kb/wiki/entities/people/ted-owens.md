@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Self-described 'PK Man' who claimed psychokinetic powers granted by two mantid entities he called 'Twitter and Tweeter'; wrote letters predicting the Challenger disaster before it happened; also allegedly caused deaths aboard airline flights."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: Ted Owens
 aliases: [PK Man]

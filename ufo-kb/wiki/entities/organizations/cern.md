@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "European Organization for Nuclear Research; world's largest particle accelerator complex near Geneva; alleged in UFO discourse to have produced portal phenomena, with unnamed physicists claiming to have witnessed beings entering/exiting portals."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 name: CERN
 aliases: [European Organization for Nuclear Research, Conseil Européen pour la Recherche Nucléaire]

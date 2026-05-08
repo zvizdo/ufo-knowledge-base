@@ -8,8 +8,6 @@ parent_org: bayer (post-2018)
 country: USA
 active_period: 1901–2018 (as independent entity)
 tags: [agent-orange, dioxin, roundup, glyphosate, gmo, vietnam-war, big-pharma, scientific-engineering-institute, bayer, cia-connection, rumsfeld, uap-adjacent, biowarfare-parallel]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "American agrochemical company; supplied Agent Orange (dioxin-contaminated defoliant) for the Vietnam War; developed Roundup (glyphosate); in 1985 acquired the CIA's Scientific Engineering Institute via Donald Rumsfeld; acquired by Bayer in 2018 — connecting Nazi pharma, CIA behavioral research, and environmental toxin production."
 ---

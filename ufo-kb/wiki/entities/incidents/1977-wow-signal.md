@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "A strong narrowband radio signal detected on August 15, 1977 by astronomer Jerry Ehman at the Big Ear radio telescope (Ohio State University). It matched the expected profile of an extraterrestrial transmission but was never repeated despite extensive monitoring."
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 name: Wow! Signal
 aliases: ["Wow signal", "6EQUJ5"]

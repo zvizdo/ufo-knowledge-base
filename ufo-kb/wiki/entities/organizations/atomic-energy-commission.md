@@ -8,8 +8,6 @@ parent_org: US Federal Government
 country: USA
 active_period: "1946–1974"
 tags: [aec, nuclear, doe, egng, mcmahon-secrecy-act, classification, uap-secrecy]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "US civilian agency established by the Atomic Energy Act of 1946 (McMahon Act) to control nuclear weapons development; prime contractor was EG&G; succeeded in 1974 by the Department of Energy; the classification regime it established is the legal hook David Grusch and Bob Maguire identify as governing UAP material secrecy."
 ---

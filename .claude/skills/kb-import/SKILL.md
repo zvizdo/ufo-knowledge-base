@@ -81,7 +81,7 @@ Every import produces a source-summary page — a first-class node in the graph.
    ```
    If `actual < target`, densify before proceeding. **Entity/concept list sections (`## Entities Mentioned`, flat `[[wikilink]]` grids) don't count** — density must come from claim bullets in substantive H2 sections (firsthand testimony, named anecdotes, technical claims, quotes with context). Light/off-domain imports are exempt — cap at ~50 lines. Calibration sources for the divisor live in import-guide.md § LARGE sources.
 5. Create `{KB_ROOT}/wiki/<procedure-name>/<source-slug>.md` with:
-   - Frontmatter: `type: source-summary`, `created: YYYY-MM-DD`, `sources: [raw/.../original.ext]`, plus any procedure-specific fields (e.g. `video_id`, `title`, `host`, `guest`, `published`, `url`, `duration_minutes`, `channel` for youtube-transcripts; `title`, `authors`, `published` for books/articles). **The procedure file in `imports/` is authoritative** — if it lists fields, all of them are required, not optional.
+   - Frontmatter: `type: source-summary`, `sources: [raw/.../original.ext]`, plus any procedure-specific fields (e.g. `video_id`, `title`, `host`, `guest`, `published`, `url`, `duration_minutes`, `channel` for youtube-transcripts; `title`, `authors`, `published` for books/articles). **The procedure file in `imports/` is authoritative** — if it lists fields, all of them are required, not optional.
    - Body: structured summary of the source's content, claims, and arguments.
    - **Forward `[[wikilinks]]`** to every entity and concept that will be created or updated in Step 5.
 6. Follow the import procedure's summary guidance for what to emphasize.
@@ -236,7 +236,6 @@ Every wiki page follows this structure:
 ---
 type: entity | concept | synthesis | source-summary
 summary: "One-line description of what this page covers"
-created: YYYY-MM-DD
 sources: [raw/path/to/source1.ext, raw/path/to/source2.ext]
 tags: [domain-specific tags]
 [domain-specific frontmatter — see CONSTITUTION per folder]

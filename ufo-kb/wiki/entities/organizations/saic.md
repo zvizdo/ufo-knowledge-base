@@ -8,8 +8,6 @@ country: USA
 active_period: "1969–present (rebranded as Leidos in 2013)"
 tags: [defense-contractor, consciousness-research, stargate, psionics, crane, ffrdc-adjacent, classified-programs]
 sources: [raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/yAvD5UTziTo.md]
-created: 2026-04-26
-updated: 2026-04-27
 ---
 
 # SAIC (Science Applications International Corporation)

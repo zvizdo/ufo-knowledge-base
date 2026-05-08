@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British engineer who ran the Avrocar project — a 1952 joint CIA/British Aircraft saucer program that was later taken over by Wright-Patterson."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: John Frost
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Doyen of Jane's Defence Weekly; publicly stated that the B2 Spirit stealth bomber's performance data does not add up given the power of its engines, invoked Thomas Townsend Brown's capacitor work as the likely explanation, then dropped the story citing the Tower of London — a veiled acknowledgment of classification."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Bill Gunston
 aliases: []

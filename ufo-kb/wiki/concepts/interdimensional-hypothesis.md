@@ -3,8 +3,6 @@ type: concept
 name: Interdimensional Hypothesis
 aliases: [IDH, multidimensional model, coexisting-entities model]
 tags: [jacques-vallee, interdimensional, phenomenology, uap-ontology, consciousness, nhi, garry-nolan, basal-ganglia]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Interdimensional Hypothesis

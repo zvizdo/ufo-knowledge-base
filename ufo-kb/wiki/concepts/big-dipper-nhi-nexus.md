@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Recurring appearance of the Big Dipper (Ursa Major) as a symbol, direction, or entity-origin across ancient Egyptian ritual, Daoist practice, Ptolemy, Thule Society belief, modern UFO incidents, contactee claims, and US military/space program iconography — suggesting a persistent cultural or possibly literal link between the constellation and NHI."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 tags: [big-dipper, ursa-major, nhi, contactee, nasa, space-force, ritual, ancient-egypt, guardians, bledsoe]
 ---

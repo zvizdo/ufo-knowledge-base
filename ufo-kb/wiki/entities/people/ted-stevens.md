@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [us-senate, us-army-air-forces]
 firsthand_claims: ["Encountered Foo Fighters as a US Army Air Forces fighter pilot over occupied Germany in WWII"]
 first_seen_in: raw/youtube-transcripts/1f16VvXaSSE.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md]
 summary: "US Senator from Alaska (1968–2009); WWII pilot who personally witnessed Foo Fighters over occupied Germany; cited by Lue Elizondo as one of the founding sponsors of AAWSAP alongside Harry Reid and Daniel Inouye."
 tags: [aawsap, foo-fighters, us-senate, wwii-pilot]

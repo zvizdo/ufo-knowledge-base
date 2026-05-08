@@ -6,8 +6,6 @@ date: 1989
 type_field: article
 classification: samizdat-circulated
 tags: [mk-ultra, abduction-phenomena, mind-control, cannon-thesis, primary-document]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

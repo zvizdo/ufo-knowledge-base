@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "City in Texas; Whitley Strieber's childhood home and the location of Southwest Research Institute (which analyzed his implant) and Randolph Air Force Base. Multiple UAP-adjacent experiences in Strieber's life are anchored to San Antonio."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: San Antonio, Texas
 aliases: [San Antonio]

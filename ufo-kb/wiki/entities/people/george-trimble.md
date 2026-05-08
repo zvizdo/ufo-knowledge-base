@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "VP of Martin Corporation who ran their anti-gravity division (RIAS) in the 1950s and predicted beating gravity could be done in the time it took to build the first atom bomb; when Nick Cook sought an interview in the 1990s, Trimble refused in a state of evident fear — telling the Lockheed PR intermediary he would never speak to Cook 'now or ever.'"
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: George Trimble
 aliases: []

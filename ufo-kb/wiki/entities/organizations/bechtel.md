@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Bechtel Corporation — a private US infrastructure and defense contractor alleged by Lue Elizondo to have connections to Monsanto in a UAP-adjacent biological specimen storage network. Bechtel operates extensively in nuclear, energy, and classified defense construction, giving it plausible access to black-budget programs."
-created: 2026-04-27
-updated: 2026-04-27
 name: Bechtel Corporation
 aliases: [Bechtel, Bechtel Group]
 type: private-co

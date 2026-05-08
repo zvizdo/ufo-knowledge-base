@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Single-source report by Shellenberger of a high-definition helicopter video showing an orb emerging from the ocean ~20 miles off Kuwait's coast, joined by a second orb."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: Kuwait Orb Sighting (helicopter video)
 date: unknown

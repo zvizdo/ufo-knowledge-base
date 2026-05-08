@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "OSS wartime operation targeting Nazi advanced technology in northern Italy, including the retrieval and transfer of the 1933 Magenta disc to US custody."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Project McGregor
 aliases: []

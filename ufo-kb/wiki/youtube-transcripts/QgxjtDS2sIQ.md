@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 video_id: QgxjtDS2sIQ
 title: "\"I Spent 3 Years With Tall White Aliens At Area 51\" — UFO Whistleblower Charles Hall"
 channel: American Alchemy

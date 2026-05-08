@@ -7,8 +7,6 @@ parent_org:
 country: USA
 active_period: 2015–present
 tags: [youtube-channel, adventure-content, civilian-uap-content, mainstream-crossover]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

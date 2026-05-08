@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Canadian inventor whose DOD-funded anti-gravity experiments — overseen by Colonel John Alexander — produced anomalous results (objects reportedly flew across rooms off-camera) but could not be replicated under strict laboratory conditions; the question of whether the effects were from his equipment or from Hutchinson's own psychokinetic influence was left unresolved."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: John Hutchinson
 aliases: []

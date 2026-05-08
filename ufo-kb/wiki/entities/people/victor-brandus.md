@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Wright Field technical representative who witnessed Thomas Townsend Brown's gravitator experiments in Los Angeles and reported being frightened by what appeared to be a flying saucer."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Victor Brandus
 aliases: []

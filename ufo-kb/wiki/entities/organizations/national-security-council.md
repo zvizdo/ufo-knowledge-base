@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/jake-sullivan.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Executive body created by the National Security Act of 1947 to advise the President on national security and foreign policy; chaired by the President; includes VP, SecState, SecDef, and Joint Chiefs; the National Security Advisor leads its staff; the NSC staff is the executive branch node through which UAP briefings and disclosure decisions would flow."
 tags: [nsc, executive-branch, national-security, president, policy, truman]

@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Gary McKinnon interview on American Alchemy: his 2001 NASA/DoD hack, the non-terrestrial officers spreadsheet, Building 8 UAP imagery, space-based manufacturing hypothesis, Bifield-Brown experiments, Verichip implant incident, extradition battle, and connections to Manned Orbiting Laboratory and Ben Rich."
-created: 2026-04-25
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md]
 video_id: 2ttdlCa5ZCI
 tags: [gary-mckinnon, nasa, non-terrestrial-officers, secret-space-program, bifield-brown, johnson-space-center, office-of-naval-intelligence, extradition, verichip, american-alchemy, manned-orbiting-laboratory, ben-rich, donna-hare, harold-malmgren, thane-heins, thomas-townsend-brown]

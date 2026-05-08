@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The structural inadequacy of current whistleblower protections for UAP insiders — existing protections (including the Gaetz/Burlison amendment) are insufficient to give potential disclosers confidence against criminal prosecution or retaliation."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/KGD1nuM4MR8.md]
 tags: [whistleblower, protection, uap-disclosure, congress, fear-reprisals, gaetz-amendment]
 ---

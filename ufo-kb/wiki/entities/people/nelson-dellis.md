@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Six-time US Memory Champion and physicist-trained memory coach; introduced Chris Ramsay to remote viewing after being recruited for associative remote viewing (ARV) by a hedge fund."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h3u8EkGI8OQ.md]
 name: Nelson Dellis
 aliases: []

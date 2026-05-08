@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "October 1978 disappearance of Australian pilot Frederick Valentich over Bass Strait after he reported a large, fast craft above his Cessna; never found; radio contact cut off mid-description."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: 1978 Valentich Disappearance
 date: 1978-10

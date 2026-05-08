@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "July 26, 2023 House Oversight Subcommittee on National Security hearing featuring Ryan Graves, David Fravor, and David Grusch; the most widely watched congressional UAP hearing in history; historic for bipartisan cooperation and Grusch's crash-retrieval testimony."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/6WC4o2yY9Ws.md]
 name: 2023 Congressional UAP Hearing
 date: 2023-07-26

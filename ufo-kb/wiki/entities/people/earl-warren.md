@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [us-supreme-court]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/C4rSj5Aum7w.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [warren-commission, jfk-assassination, supreme-court]
 ---

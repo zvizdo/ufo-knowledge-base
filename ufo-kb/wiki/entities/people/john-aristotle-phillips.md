@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Princeton junior (~1977) who designed a functional atomic weapon as a junior thesis supervised by Freeman Dyson; Dyson confirmed the design would work; page 20 was removed and the thesis reportedly does not appear in the Princeton Library."
-created: 2026-04-27
-updated: 2026-04-27
 name: John Aristotle Phillips
 aliases: ["The A-Bomb Kid"]
 roles: [researcher]

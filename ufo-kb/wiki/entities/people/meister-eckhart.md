@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Medieval Dominican mystic and theologian (c. 1260–1328) whose teachings on the dissolution of the self as the precondition for encountering God are cited in the KB's consciousness cluster as a precursor to modern non-ordinary-state frameworks."
-created: 2026-05-05
-updated: 2026-05-05
 name: Meister Eckhart
 aliases: [Eckhart von Hochheim]
 roles: [theologian, mystic, philosopher]

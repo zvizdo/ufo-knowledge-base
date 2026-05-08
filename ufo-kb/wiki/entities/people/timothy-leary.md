@@ -6,7 +6,6 @@ affiliations: [Harvard University]
 firsthand_claims: []
 first_seen_in: C4rSj5Aum7w
 tags: [psychedelics, lsd, mkultra, consciousness, mary-meyer]
-updated: 2026-04-26
 ---
 
 # Timothy Leary

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Russian physicist whose rotating high-temperature superconductor experiments in the 1990s claimed measurable gravity-shielding effects; his father was reportedly a Soviet intelligence agent tasked with retrieving Viktor Schauberger's engineering files at the end of WWII."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md]
 name: Eugene Podkletnov
 aliases: [Yevgeny Podkletnov, Podkletnov]

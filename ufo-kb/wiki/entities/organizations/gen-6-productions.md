@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Film production company co-founded by Tim Alberino and Steve Quail, based in Montana; produced the True Legends documentary series on biblical giants, Nephilim, and ancient mysteries."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [gen-6-productions, true-legends, giants, nephilim, documentary, tim-alberino, steve-quail]
 name: Gen 6 Productions

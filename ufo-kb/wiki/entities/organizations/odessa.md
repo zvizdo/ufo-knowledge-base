@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nazi SS continuation network ('Order of Former SS Officers'); informally called 'The Spider'; organized escape routes (rat lines) for SS officers post-WWII; absorbed into CIA intelligence apparatus via Reinhard Gehlen; inspired James Bond mythology."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: ODESSA
 aliases: [Organisation der ehemaligen SS-Angehörigen, The Spider, Order of Former SS Officers]

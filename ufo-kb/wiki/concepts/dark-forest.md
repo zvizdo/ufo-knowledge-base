@@ -3,8 +3,6 @@ type: concept
 name: Dark Forest Hypothesis
 aliases: [Dark Forest Hypothesis, dark-forest, dark forest, Dark Forest theory, Liu Cixin dark forest, dark forest solution]
 first_seen_in: ufo-kb/wiki/entities/people/enrico-fermi.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Liu Cixin's solution to the Fermi Paradox: the universe is a dark forest in which every civilization is a hunter that must destroy any other civilization it discovers before being destroyed — explaining cosmic silence by universal preemptive predation rather than civilizational rarity."
 tags: [fermi-paradox, astrobiology, civilization, seti, predation, cosmology, liu-cixin]

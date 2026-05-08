@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Major U.S. science and technology research institute (Columbus, Ohio) that was contracted to analyze UFO reports for the USAF in the late 1940s–early 1950s, producing 'Project Stork' / 'Project Bear' analyses and the notorious Pentacle Memo."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/SZBI85yvV5A.md]
 name: Battelle Memorial Institute
 aliases: [Battelle, battel-memorial-institute]

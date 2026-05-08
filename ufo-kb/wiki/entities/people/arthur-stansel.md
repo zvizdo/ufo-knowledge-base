@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "WWII veteran and blast-effects engineer who claims to have been covertly transported to a crash site near Kingman, Arizona in 1953, where he observed a 30-ft metallic disc and humanoid bodies."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Jpf0ZGY87c0.md]
 name: Arthur Stansel
 aliases: [Stansel]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Richard Dolan's two-volume historical analysis of the UAP cover-up from 1941 through the modern era, drawing on FOIA documents, declassified records, and insider testimony; considered the most rigorously sourced historical treatment of the subject."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 title: "UFOs and the National Security State"
 authors: [richard-dolan]

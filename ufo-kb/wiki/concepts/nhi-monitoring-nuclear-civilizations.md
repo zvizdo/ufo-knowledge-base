@@ -3,8 +3,6 @@ type: concept
 name: NHI Monitoring Nuclear Civilizations
 aliases: [NHI monitoring nuclear civilizations, nhi-monitoring-nuclear-civilizations, NHI nuclear monitoring hypothesis, nuclear watchdog hypothesis]
 first_seen_in: ufo-kb/wiki/entities/people/garry-nolan.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The hypothesis that non-human intelligences specifically monitor and respond to nuclear weapons and nuclear energy — evidenced by the Malmstrom AFB ICBM shutdown incidents, UAP patterns at nuclear facilities globally, and the recurring theme in alleged NHI communications of concern about human nuclear weapons; associated with [[ufo-nukes-connection]] and researcher Robert Hastings."
 tags: [nhi, nuclear, monitoring, ufo-nukes, malmstrom, icbm, UAP-pattern, garry-nolan]

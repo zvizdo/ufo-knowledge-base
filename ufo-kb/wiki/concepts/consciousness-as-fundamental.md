@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The philosophical and scientific position that consciousness is not produced by matter but is foundational to reality — advanced by Penrose/Hameroff, Donald Hoffman, John Wheeler's 'it from bit', and the CIA's remote-viewing program results; central to the NHI-consciousness link."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [consciousness, quantum-mind, panpsychism, wheeler, penrose, hoffman, uap]
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2025 documentary by Dan Farah featuring former DNIs, CIA directors, and senators affirming UAP crash retrieval and back-engineering programs are real; frames the situation as a US-China arms race requiring amnesty for disclosure."
-created: 2026-04-26
-updated: 2026-04-26
 title: The Age of Disclosure
 authors: [Dan Farah]
 date: 2025

@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Jesse Michaels interviews Alex Jones over tequila and rock-painting in LA: Bohemian Grove firsthand account (Cremation of Care, 2000), Bilderberg infiltrations, July 2001 9/11 prediction on air, QAnon identification as disinfo, consciousness-as-antenna endorsement, quantum observer effect, simulation theory, speciation thesis, and the alchemy of elite control."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/KhmUixSXxDo.md]
 video_id: KhmUixSXxDo
 title: "Alex Jones Getting Drunk & Painting Rocks [INTERVIEW]"

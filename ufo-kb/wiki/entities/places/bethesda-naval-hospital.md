@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Military medical facility in Maryland where James Forrestal died on May 22, 1949; later the site of JFK's official autopsy — a convergence that multiple researchers treat as significant."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Bethesda Naval Hospital
 aliases: [National Naval Medical Center Bethesda, Walter Reed National Military Medical Center]

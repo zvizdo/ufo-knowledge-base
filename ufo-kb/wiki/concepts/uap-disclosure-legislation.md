@@ -3,8 +3,6 @@ type: concept
 name: UAP Disclosure Legislation
 aliases: [UAP disclosure legislation, uap-disclosure-legislation, UAP legislation, UAP congressional law, NDAA UAP provisions, UAP disclosure act]
 first_seen_in: ufo-kb/wiki/entities/organizations/new-paradigm-institute.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The body of US Congressional legislation addressing UAP — including NDAA UAP provisions (2020-present), the UAPTF mandate, the UAP Disclosure Act, and whistleblower protection language — representing the legislative framework through which UAP oversight, reporting, and potential disclosure are being pursued."
 tags: [legislation, congress, uap, disclosure, NDAA, whistleblower, UAP-task-force, oversight]

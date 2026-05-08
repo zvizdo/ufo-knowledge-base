@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The structural mechanism by which UAP investigation data is shielded from FOIA requests: by routing programs through private aerospace contractors, all findings become proprietary and exempt from disclosure."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 tags: [foia, bigelow-aerospace, aatip, aawsap, private-sector, secrecy, classified, uap-programs]
 ---

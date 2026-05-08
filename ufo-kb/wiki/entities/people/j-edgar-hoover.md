@@ -3,8 +3,6 @@ type: entity
 entity-type: people
 name: J. Edgar Hoover
 summary: "Director of the FBI from 1924 until his death in 1972; oversaw FBI investigation of early UFO reports and signed a 1947 memo to Associate Director Clyde Tolson expressing frustration at being excluded from recovered UFO material."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [official, fbi, roswell]
 aliases: []
 roles: [other]

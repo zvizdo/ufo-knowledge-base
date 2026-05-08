@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alex Jones's media platform; reaches millions daily despite bans from most mainstream platforms; primary vehicle for populist anti-establishment and conspiracy commentary since the mid-1990s."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KhmUixSXxDo.md]
 name: Infowars
 aliases: [InfoWars, Prison Planet, Alex Jones Show]

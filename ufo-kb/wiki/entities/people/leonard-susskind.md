@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: [stanford-university, stanford-institute-for-theoretical-physics]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/string-theory-context.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [physics, string-theory, holographic-principle, black-hole-information, stanford]
 ---

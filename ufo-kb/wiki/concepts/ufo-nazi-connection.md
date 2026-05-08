@@ -3,8 +3,6 @@ type: concept
 name: UFO-Nazi Connection
 aliases: [UFO-Nazi connection, ufo-nazi-connection, Nazi UFO, Nazi flying saucers, Haunebu, Vril craft, German flying discs]
 first_seen_in: ufo-kb/wiki/entities/people/heinrich-himmler.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The claim that Nazi Germany developed advanced disc-shaped aircraft with exotic propulsion in the 1930s–1940s; foundational to the UAP conspiracy tradition though lacking documentary evidence; connects to claims about post-war technology transfer via Operation Paperclip and Antarctic Nazi bases."
 tags: [nazi, wwii, flying-saucers, haunebu, vril-craft, german-technology, paperclip, antarctica]

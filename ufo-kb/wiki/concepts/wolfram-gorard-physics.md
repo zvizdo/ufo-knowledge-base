@@ -3,8 +3,6 @@ type: concept
 name: Wolfram-Gorard Physics
 aliases: [Wolfram Model, Gorard Model, hypergraph physics, rulial space]
 first_seen_in: raw/youtube-transcripts/LpLFWdsIU7M.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 summary: "A candidate theory of everything in which pure hypergraph rewriting rules generate (1) a causal graph that recovers general relativity and (2) a branchial graph that recovers quantum mechanics — with observers defined as Nupendix completion procedures on the branchial structure. Presented by Matthew Pines as the most compelling physics framework for understanding NHI propulsion, consciousness-based non-locality, and UAP capabilities."
 tags: [physics, theory-of-everything, hypergraph, general-relativity, quantum-mechanics, consciousness, nhi-physics, jonathan-gorard, wolfram]

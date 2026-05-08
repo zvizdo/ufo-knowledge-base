@@ -6,8 +6,6 @@ roles: []
 affiliations: [lockheed]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/lockheed.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Lockheed Martin's advanced development programs division; founded 1943 by Kelly Johnson in Burbank, California; produced the U-2 spy plane, SR-71 Blackbird, F-117 stealth fighter, and B-2 bomber; the archetype of classified defense technology development and a frequent UAP reverse-engineering claim target."
 tags: [lockheed, advanced-programs, classified, stealth, black-programs, uap-contractors]

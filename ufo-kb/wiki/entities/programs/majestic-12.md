@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged elite military-science-government committee governing US UFO policy; referenced by Harald Malmgren as a real operational structure under the name 'the majestic.'"
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/areO7Mej44E.md, raw/youtube-transcripts/nTiFs8LudUo.md, raw/youtube-transcripts/q7Czo77qhHA.md, raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Majestic 12
 aliases: [MJ-12, Majestic, MJ12, the majestic, the guardians, MAGIC, Majority Joint Intelligence Committee, MAJIC]

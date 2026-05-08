@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis that the Apollo lunar landings (1969-1972) were partially or wholly staged; supported by a cluster of documentary anomalies, physical impossibility arguments, and suspicious deaths — with the confirmed faked Gemini Collins photo as the anchor of documented NASA deception."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C_Na1tI5qpw.md]
 tags: [nasa, apollo, moon-landing, gus-grissom, bart-sibrel, van-allen, radiation, conspiracy, deception]
 ---

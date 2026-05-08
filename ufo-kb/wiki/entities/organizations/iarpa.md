@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Intelligence Community Advanced Research Projects Agency — the DARPA equivalent for the intelligence community; asked Bob Maguire's Hume Center team to explore CRISPR-Cas9 DNA encoding for intelligence data storage (~2013–14)."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md]
 name: IARPA
 aliases: [Intelligence Advanced Research Projects Activity]

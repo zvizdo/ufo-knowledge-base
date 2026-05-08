@@ -3,8 +3,6 @@ type: entity
 entity-type: organizations
 name: National Reconnaissance Office
 summary: "Classified US intelligence agency responsible for designing, building, launching, and operating spy satellites; its existence was not publicly acknowledged until 1992."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [gov-agency, intelligence, classified]
 aliases: []
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Harvard-trained neuroscientist who conducted controlled research documenting 90%+ hit rates in autistic children's telepathic trials; medical license subsequently revoked."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/ABOP8ZJsyIk.md]
 name: Diane Powell
 aliases: [Dr. Diane Powell]

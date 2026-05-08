@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "UAPGerb's structural model of how UAP legacy programs are organised: a five-tier pyramid with an unknown apex, six intelligence-agency administrators, FFRDC intermediaries, prime contractors, and a limestone casing of program-protection agencies."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 tags: [legacy-programs, ffrdc, org-chart, uapgerb, disclosure, classification]
 ---

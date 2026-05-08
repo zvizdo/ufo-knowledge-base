@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Drill expert brought in by Brandon Fugel's team to investigate the buried anomalous object under the Mesa at Skinwalker Ranch."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 name: Aaron Blunt
 aliases: []

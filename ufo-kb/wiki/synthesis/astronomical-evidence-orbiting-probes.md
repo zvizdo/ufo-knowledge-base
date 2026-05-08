@@ -2,8 +2,6 @@
 type: synthesis
 synthesis-type: pattern
 summary: "Astronomical observations — Villarroel's transient star disappearances, pre-Sputnik orbital objects, retrograde satellites, and the Wow! signal — form a coherent pattern consistent with Bracewell-type autonomous probes operating in Earth orbit. This is the space-observation layer of the UAP phenomenon, suppressed by the same institutional mechanisms that operate on Earth-based sightings."
-created: 2026-04-25
-updated: 2026-04-27
 derived-from: [beatriz-villarroel, vasco, pre-sputnik-uap-transients, astronomical-data-suppression, bracewell-probe-hypothesis, long-delay-echoes, 1977-wow-signal, ronald-bracewell, 1961-vallee-retrograde-orbit, astronomical-data-suppression]
 tags: [astronomy, probes, orbital, villarroel, bracewell, synthesis, uap-from-space]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Bill Lear's aerospace company, listed in the 1971 Australian JIO memo as a US anti-gravity program participant; Lear's offices were adjacent to Thomas Townsend Brown's Santa Monica lab."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Lear Corporation
 aliases: [Lear Inc., Lear Jet]

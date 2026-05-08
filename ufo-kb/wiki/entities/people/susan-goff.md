@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Booz Allen Hamilton consultant whose LinkedIn confirms a lead role in the firm's psychological operations consulting practice for the DoD; cited as a primary source in the Wall Street Journal's 2024 pro-debunking UFO article without disclosure of her psyops background."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h0hAit-KH9A.md]
 name: Susan Goff
 aliases: []

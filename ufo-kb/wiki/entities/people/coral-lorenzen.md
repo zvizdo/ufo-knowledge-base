@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO journalist and researcher considered highly credible in the UFO community; wrote contemporaneous articles about the Holloman AFB landing case in the early 1960s, including accounts from anonymous military officials and a pilot."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: Coral Lorenzen
 aliases: [Carral Lorenzen]

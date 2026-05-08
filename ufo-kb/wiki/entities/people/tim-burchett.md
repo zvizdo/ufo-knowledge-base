@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Tennessee congressman and leading UAP transparency advocate; identified five specific deep-ocean areas where USOs regularly emerge, implying possible underwater non-human installations or portals."
-created: 2026-04-26
-updated: 2026-04-26
 name: Tim Burchett
 aliases: [Timothy Paul Burchett]
 roles: [official]

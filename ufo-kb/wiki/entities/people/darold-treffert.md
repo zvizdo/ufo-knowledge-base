@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Psychiatrist and leading expert on savant syndrome; consulted on Rain Man and ran the Wisconsin Medical Society's savant research center."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 name: Darold Treffert
 aliases: []

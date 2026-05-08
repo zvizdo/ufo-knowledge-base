@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: [vasco]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/incidents/1952-nine-transients.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Media manager for the VASCO (Vanishing & Appearing Sources during a Century of Observations) citizen-science astronomical project; credited with identifying the connection between the dates of the 1952 VASCO transient point-source clusters (July 19 and 27) and the 1952 Washington D.C. UFO flyover events."
 tags: [vasco, astronomy, researcher, 1952-dc-flyover, transients, citizen-science]

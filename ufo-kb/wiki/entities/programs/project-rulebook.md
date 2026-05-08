@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged classified Air Force project identified by Jacques Vallée via open-source research; mentioned cryptically in fyX8V1XXmQM as evidence of a real secret program; no further public details provided."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
 name: Project Rulebook
 aliases: []

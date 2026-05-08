@@ -2,8 +2,6 @@
 type: synthesis
 synthesis-type: cluster
 summary: "Kevin Knuth (UAlbany physicist, ex-NASA Ames) anchors the most credentialed academic UAP science cluster in this KB: peer-reviewed performance analyses of JAL 1628 and Nimitz, the SCU nuclear pre-construction study, the Catalina Island field mission, and the Art's Parts bismuth-Biefeld-Brown connection. This cluster demonstrates that the standard 'no evidence' framing is false — hard physics analysis already exists in the peer-reviewed record."
-created: 2026-04-26
-updated: 2026-04-27
 derived-from: [kevin-knuth, matthew-shostakus, scientific-coalition-for-uap-studies, a-tear-in-the-sky, u-albany-project-x, arts-parts, 1986-jal-1628, 1977-skylab-ufo, 1966-gemini-11-ufo, biefeld-brown-effect, ufo-nuclear-nexus, charles-buhler, exodus-propulsion-technologies]
 tags: [kevin-knuth, academic-uap, peer-reviewed, nimitz, jal-1628, nuclear-nexus, biefeld-brown, arts-parts, nasa-whistleblower, synthesis]
 ---

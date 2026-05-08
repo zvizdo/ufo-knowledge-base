@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Early 20th-century American writer who catalogued anomalous phenomena rejected by mainstream science; his 1919 book The Book of the Damned opens with 'I think we are property' — arguably the first systematic formulation of the NHI-as-controller thesis."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: Charles Fort
 aliases: [Charles Hoy Fort]

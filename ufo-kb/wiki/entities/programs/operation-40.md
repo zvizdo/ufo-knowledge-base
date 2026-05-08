@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Operation 40 — CIA covert paramilitary unit established in 1960 under the Eisenhower administration to infiltrate and destabilize Cuba; later alleged by researchers including Danny Sheehan to be the operational core of the team that assassinated JFK."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Operation 40
 aliases: [Op 40]

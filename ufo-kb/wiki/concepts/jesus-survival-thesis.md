@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The claims-thesis that Jesus did not die on the cross but survived via a staged or sedative-assisted near-death, possibly generating a bloodline (Merovingian) and connecting to the mystery-school tradition through the Last Supper ritual."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/I9VyyV4-3Js.md]
 tags: [jesus, crucifixion, mystery-schools, grail, merovingian, shroud-of-turin, esoteric, brian-muraresku, randall-carlson]
 ---

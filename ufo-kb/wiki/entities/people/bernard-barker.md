@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Cuban-American CIA operative and one of the five Watergate burglars arrested at the DNC offices in June 1972. Connected to the Bay of Pigs operation and the broader CIA covert operations network. His role in Watergate connects CIA operations to Nixon's domestic political crimes."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Bernard Leon Barker
 aliases: [Macho Barker]

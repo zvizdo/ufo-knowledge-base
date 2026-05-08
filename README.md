@@ -1,4 +1,4 @@
-# ufo-knowledge-base
+# UFO/UAP Knowledge Base
 
 A connected wiki of the UFO/UAP discourse. **2,258 pages, ~29,000 connections, growing.**
 
@@ -48,13 +48,13 @@ This repo ships with three Claude Code skills that together let an LLM walk the 
    ```
 3. Build the search index:
    ```bash
-   cd ufo-knowledge-base
+   cd ufo-kb
    qmd update --collections ufo-kb
    qmd embed
    ```
 4. Open the project in Claude Code:
    ```bash
-   cd ufo-knowledge-base
+   cd ufo-kb
    claude
    ```
 5. Ask a question. Claude auto-loads the right skill:
@@ -69,10 +69,68 @@ The query skill returns answers as **traced paths** — `[[A]] → [[B]] → [[C
 
 Two skills handle ingestion and maintenance:
 
-- `/kb-import` — drop a new YouTube transcript, article, book excerpt, or document into `ufo-kb/raw/<type>/`, then invoke this skill. It pulls graph context, creates/updates pages with alias-aware deduplication, predicts non-obvious connections via graph algorithms (Jaccard / Adamic-Adar / common-neighbors), auto-applies safe back-links, runs the audit at the boundary, and syncs the search index.
+- `/kb-import` — stage a new YouTube transcript, article, book excerpt, or document **outside** `ufo-kb/` (use `transcripts/` for YouTube — see below — or any path you control for other source types), then invoke `/kb-import <path>`. The skill moves the raw file into the correct `ufo-kb/raw/<type>/` subdirectory itself; you don't place it there manually. From there it pulls graph context, creates/updates pages with alias-aware deduplication, predicts non-obvious connections via graph algorithms (Jaccard / Adamic-Adar / common-neighbors), auto-applies safe back-links, runs the audit at the boundary, and syncs the search index.
 - `/kb-maintain` — audit pass over the whole graph. Surfaces orphans, duplicates, dangling links, broken synthesis, hub-split candidates. Two safe auto-fix categories (synthesis back-links + exact-alias dangling rewrites) apply with `--apply`; everything else is flagged for human triage with concrete evidence.
 
 Both skills enforce the rules in `ufo-kb/CONSTITUTION.md` — the spec the wiki is built against. Edits must satisfy it before sync.
+
+### Import a YouTube video
+
+`scripts/youtube_import.py` is the canonical entry point for adding a new YouTube transcript. It downloads captions, cleans them, prefills metadata frontmatter from `yt-dlp`, and stages the file in `transcripts/` (gitignored) for `/kb-import` to consume.
+
+**One-time setup:**
+
+```bash
+pip install -r requirements.txt          # installs yt-dlp + qmd
+```
+
+**Single video:**
+
+```bash
+python scripts/youtube_import.py fetch https://www.youtube.com/watch?v=<id>
+# or just the bare ID:
+python scripts/youtube_import.py fetch <id>
+# IDs starting with `-` need the argparse sentinel:
+python scripts/youtube_import.py fetch -- -0g3lLGxNfc
+```
+
+The helper:
+- Refuses if the video ID is in `ufo-kb/imports/off-topic-skipped.md`.
+- Refuses if the file already exists in `transcripts/`, `ufo-kb/raw/youtube-transcripts/`, or `ufo-kb/wiki/youtube-transcripts/` (use `--force` to overwrite).
+- Tries manually-uploaded English captions first, falls back to auto-generated.
+- Writes `transcripts/<id>.md` with `video_id`, `title`, `channel`, `published`, `url`, `duration_minutes` prefilled — `/kb-import` should copy these verbatim rather than re-deriving from the transcript body.
+
+Then in Claude Code:
+
+```
+/kb-import transcripts/<id>.md - YouTube Transcript
+```
+
+**Many videos at once:**
+
+```bash
+# From a YouTube playlist URL:
+python scripts/youtube_import.py fetch --batch "https://www.youtube.com/playlist?list=..."
+
+# From a text file (one URL/ID per line; blank lines + `#`-comments skipped):
+python scripts/youtube_import.py fetch --batch my-queue.txt
+```
+
+After staging, run `/kb-import` for each transcript. The helper has a built-in batch driver:
+
+```bash
+python scripts/youtube_import.py run-imports
+```
+
+This invokes `/kb-import` on every file in `transcripts/`, runs `/kb-maintain` periodically, and **reuses one Claude session** across all calls (via `--session-id` + `--resume`) so the model context — skill prompts, graph state, prior import work — is cached across files instead of being reloaded each time. Failures retry up to 3×; progress is checkpointed in `import_log.json` so you can interrupt and resume. Use `--reset` to wipe and start over, `--retry-failed` to re-attempt previously-failed files, or `--new-session` to force a fresh Claude session.
+
+**Cleanup utility:**
+
+```bash
+python scripts/youtube_import.py clean <transcripts/file.md>
+```
+
+Collapses any VTT-residue blank lines in an already-staged file. Most users won't need this — `fetch` produces cleaned output.
 
 ## Structure
 
@@ -94,7 +152,8 @@ ufo-knowledge-base/
 │   ├── kb-query/          ← graph walker for question-answering
 │   ├── kb-maintain/       ← audit + auto-fix
 │   └── kb-evolve/         ← schema/rule changes (rare)
-└── scripts/               ← bulk_import.py, clean_transcript.py
+├── scripts/               ← youtube_import.py (fetch + batch + run-imports + clean)
+└── requirements.txt       ← yt-dlp, qmd
 ```
 
 ## Design principles

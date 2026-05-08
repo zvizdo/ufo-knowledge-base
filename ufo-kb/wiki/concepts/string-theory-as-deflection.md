@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: string theory was funded and institutionally promoted by the US government not because it was believed to be correct, but to absorb and misdirect physics talent away from the anti-gravity/electrogravitics direction — the same direction that UAP propulsion research would require."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 tags: [string-theory, physics-lockdown, anti-gravity, classified-science, government-funding, claims-thesis, eric-weinstein]
 ---

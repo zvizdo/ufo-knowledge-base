@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Hungarian-American nuclear physicist; 'father of the hydrogen bomb'; worked at Los Alamos during the Manhattan Project; associated with classified weapons programs that overlap with UAP material research."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/p0S0BfoZy0w.md]
 name: Edward Teller
 aliases: [Teller]

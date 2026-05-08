@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Mexican theoretical physicist who in 1994 derived the Alcubierre warp drive metric — a general-relativistic solution allowing faster-than-light travel via spacetime contraction/expansion; his paper has been studied by NASA researchers including Sonny White."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/6WC4o2yY9Ws.md]
 name: Miguel Alcubierre
 aliases: [Alcubierre]

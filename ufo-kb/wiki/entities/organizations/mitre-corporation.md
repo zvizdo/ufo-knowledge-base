@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Government-owned, contractor-operated FFRDC (Federally Funded Research and Development Center); identified by UAPGerb as a key intermediary in the UAP legacy program pyramid between intelligence-agency administrators and prime defense contractors."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: MITRE Corporation
 aliases: [MITER, MITRE]

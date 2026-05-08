@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Thesis that our sun has a dead stellar companion orbiting on a ~25,000-year cycle; perihelion every ~12,500 years triggers solar mass ejections that cause global civilizational resets."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/A_LsUSxTm7A.md]
 tags: [binary-star, solar-system, catastrophism, pioneer-probes, nasa-suppression, great-year, civilizational-cycles]
 ---

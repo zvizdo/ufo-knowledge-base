@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British cosmologist (1952–2020); proposed the 'Barrow scale' of civilization advancement (measuring inward, toward quantum scales, rather than outward toward stellar scales). In UAP discourse, his anti-Kardashev model of postbiological civilizations is used by Andrew Gallimore to explain why advanced NHI may be imperceptible."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: John David Barrow
 aliases: []

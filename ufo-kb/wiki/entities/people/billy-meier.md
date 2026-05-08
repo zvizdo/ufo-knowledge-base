@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Swiss UFO photographer whose real name was Eduard Meyer; claimed by Jorjani (citing research in 'Closer Encounters') to have been a field intelligence operative in the Middle East and post-war Nazi network operative before his Swiss UFO career began."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/Rjr3Yq-dMUE.md]
 name: Billy Meier
 aliases: [Eduard Meier, Edward Meyer, Eduard Albert Meier]

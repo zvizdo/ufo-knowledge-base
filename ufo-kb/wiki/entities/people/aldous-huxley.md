@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British author and psychonaut whose Doors of Perception (1954) developed the brain-as-filter transmission theory of consciousness and who predicted a 21st-century psychedelic religion; died in 1963 requesting a large LSD dose on his deathbed."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/I9VyyV4-3Js.md, raw/youtube-transcripts/KhmUixSXxDo.md]
 name: Aldous Huxley
 aliases: []

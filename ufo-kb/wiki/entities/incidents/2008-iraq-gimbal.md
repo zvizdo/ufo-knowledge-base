@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2008 thermal video from a US Marine LAV-25 crew near Anbar province, Iraq (~100 miles from Syrian border), showing an object rising from the desert floor and hovering; visually compared to the Gimbal video by Merrick von Rennenkampff as morphological corroboration."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md]
 name: 2008 Iraq Gimbal Video
 date: 2008

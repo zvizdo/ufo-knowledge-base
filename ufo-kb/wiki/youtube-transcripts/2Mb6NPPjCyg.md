@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Martin Shkreli interviewed by Jesse Michaels on American Alchemy; primarily off-domain (pharma pricing, prison, AI), but contains a sustained thread on UAP-religion convergence, simulation theory, Alan Turing and parapsychology, bioelectric morphogenetics, SETI, LaMDA consciousness, and the Flexner Report suppression of electromagnetic medicine."
-created: 2026-04-25
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/2Mb6NPPjCyg.md]
 video_id: 2Mb6NPPjCyg
 title: "Martin Shkreli on Life in Prison, Pharma, UFO's"

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "MIT electrical engineer and physicist; uncle of Donald Trump; reviewed Nikola Tesla's papers after Tesla's death in 1943 for US intelligence; his assessment is the subject of significant controversy and speculation."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/q7Czo77qhHA.md]
 name: John Trump
 aliases: [John G. Trump, Dr. John Trump]

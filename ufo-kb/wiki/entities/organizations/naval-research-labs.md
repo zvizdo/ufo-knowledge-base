@@ -3,8 +3,6 @@ type: entity
 entity-type: organization
 name: Naval Research Laboratory
 aliases: [NRL, US Naval Research Lab, Naval Research Labs]
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 tags: [government, military, research, uap-adjacent]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Southern Peruvian high plateau region; site of the Nazca Lines (c. 500 BCE – 500 CE), Paracas culture, and the 2015 discovery of the tridactyl mummies in a cave by local huaquero Leandro Gravedigger."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md]
 name: Nazca, Peru
 aliases: [Nazca region, Nazca plateau]

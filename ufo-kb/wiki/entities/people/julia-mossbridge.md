@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Researcher and author who studies love as a central variable in psychic and anomalous cognition, cited in the Telepathy Tapes context as establishing that emotional attunement underlies psi abilities."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 name: Julia Mossbridge
 aliases: []

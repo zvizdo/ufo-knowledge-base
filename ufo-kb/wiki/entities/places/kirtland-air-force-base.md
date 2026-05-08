@@ -6,7 +6,6 @@ country: USA
 coordinates: "35.05°N 106.61°W"
 type: base
 tags: [nuclear, uap, new-mexico, sandia, manzano-base]
-updated: 2026-04-26
 ---
 
 # Kirtland Air Force Base

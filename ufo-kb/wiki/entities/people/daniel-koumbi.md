@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Physicist at the Niels Bohr Institute who obtained and analyzed the JAL Flight 1628 military radar data, finding accelerations of 9,000–11,000 Gs and a top speed of ~250,000 mph for the UAP."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Daniel Koumbi
 aliases: []

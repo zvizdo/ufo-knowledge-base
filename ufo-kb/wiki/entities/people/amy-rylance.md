@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Australian abductee who was observed being taken by her companion Petra through a window, then found at a petrol station 790 km away after an estimated 5–7 days on a craft; described her companion on the craft as physiologically indistinguishable from a human male."
-created: 2026-04-26
-updated: 2026-04-26
 name: Amy Rylance
 aliases: []
 roles: [witness, contactee]

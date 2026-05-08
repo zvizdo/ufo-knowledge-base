@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Junior neurosurgeon at Hospital Regional Varginha who performed the surgical procedure on the live alien being in January 1996 and filmed it; died 2018; the video he made is missing and worth $1M (James Fox offer)."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UkKwa4jU0fc.md]
 name: Marcos Vinicius
 aliases: [Mox Venus, Marcus Vinesus, Marcos Venus, Vinesis]

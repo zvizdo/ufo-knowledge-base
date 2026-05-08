@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "China policy strategist and Hudson Institute fellow; author of The 100-Year Marathon; appeared on Jesse Michaels' podcast discussing US-China competition, with light UAP context around CCP UFO interest."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/ePdH01pphbk.md]
 name: Michael Pillsbury
 aliases: []

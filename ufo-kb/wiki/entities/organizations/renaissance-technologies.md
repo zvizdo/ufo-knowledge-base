@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Quantitative hedge fund founded by mathematician Jim Simons; relevant to UAP discourse because Eric Weinstein attempted to instantiate a UAP theoretical physics program there, and because Jim Simons also founded the Simons Foundation whose president David Spergel led the NASA 2022 UAP review panel."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/xnxasfyHtfo.md]
 name: Renaissance Technologies
 aliases: [RenTech]

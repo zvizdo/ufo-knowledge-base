@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Legendary semiconductor architect (Apple A4–A7 chips, AMD Zen architecture, Tesla Autopilot silicon) who proposed that human biology exhibits architectural parallels with semiconductor design — cited in DNA-consciousness discussions."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KRDE1i3LDuU.md]
 name: Jim Keller
 aliases: [James Keller]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "May 22, 1949: First US Secretary of Defense James Forrestal died after falling from a 16th-floor window at Bethesda Naval Hospital; officially ruled suicide, but Dolan and others are convinced it was murder — the duty corpsman went AWOL on the final night, and the 'suicide method' is physically implausible."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: "1949 Forrestal Death at Bethesda"
 date: "1949-05-22"

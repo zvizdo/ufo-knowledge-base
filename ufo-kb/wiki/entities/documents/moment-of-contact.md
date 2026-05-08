@@ -6,8 +6,6 @@ date: 2022
 type: documentary
 classification: public
 tags: [varginha, brazil, documentary, james-fox, moment-of-contact, crash-retrieval]
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UkKwa4jU0fc.md]
 summary: "Two-part documentary series by James Fox investigating the 1996 Varginha UFO incident; assembled the most complete chain of eyewitness testimony for the case over 15 years of investigation."
 ---

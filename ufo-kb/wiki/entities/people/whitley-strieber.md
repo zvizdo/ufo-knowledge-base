@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Author of Communion (1987); 40-year experiencer with documented implant, childhood conditioning at Randolph AFB, ongoing 3 AM NHI contact; originator of key NHI-motivation and open-door theses."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/73YBwFvcmF8.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/HxQN2tkQHs8.md, raw/youtube-transcripts/Qe8br8yYEDM.md]
 name: Whitley Strieber
 aliases: []

@@ -7,8 +7,6 @@ witnesses: [carlos-de-souza, italo-venturelli, marcos-vinicius, marcos-charez, e
 craft_type: tic-tac (cylindrical metallic, school-bus sized)
 corroboration: multi-witness
 tags: [varginha, brazil, crash-retrieval, nhi-biologics, memory-metal, men-in-black, alien-bacteria, american-alchemy]
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UkKwa4jU0fc.md, raw/youtube-transcripts/hBrfe4hFuM0.md]
 summary: "Brazil's most thoroughly documented UAP crash-and-recovery incident: tic-tac craft crashed January 1996; alien beings recovered by Brazilian military (with covert US involvement); one being treated alive at a hospital; one military officer died from alien bacterial infection."
 ---

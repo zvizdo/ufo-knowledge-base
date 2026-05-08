@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "FAA chief of accidents and investigations in 1986; secretly preserved the 45-minute JAL Flight 1628 radar data set after CIA and Reagan's scientific team collected the official copy; made the data public upon retirement ~20 years later."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: John Callahan
 aliases: []

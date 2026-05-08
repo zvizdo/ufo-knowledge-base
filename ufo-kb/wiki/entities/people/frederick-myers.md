@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British classicist and poet who co-founded the Society for Psychical Research in 1882; author of Human Personality and Its Survival of Bodily Death."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 name: Frederick Myers
 aliases: [Frederic W.H. Myers, F.W.H. Myers]

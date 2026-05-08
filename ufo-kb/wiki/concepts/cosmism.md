@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The tradition — documented in both the Russian and American space programs — that early rocket pioneers were motivated by esoteric NHI-belief frameworks; the founding epistemology of the space age is not secular materialism but contact-oriented cosmology."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 tags: [cosmism, space-program, nhi, occult-aerospace, tsiolkovsky, parsons, consciousness-protocols, patches, sponsors, nasa, soviet]
 ---

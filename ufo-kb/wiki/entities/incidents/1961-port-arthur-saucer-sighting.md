@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1961 multi-witness sighting of three white/silver flying saucers over De Queen Elementary School in Port Arthur, Texas; witnessed by Mario Woods (age 5-6), his mother, his sister, and the entire school population."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/73YBwFvcmF8.md]
 name: "1961 Port Arthur Saucer Sighting"
 date: "1961 (school year)"

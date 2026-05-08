@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The contested claims-thesis about whether the rotation observed in the 2015 Gimbal UAP video is a genuine physical phenomenon or an optical/digital camera artifact; the most technically contested UAP evidence dispute in the modern era."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md]
 tags: [gimbal, rotation, artifact, de-rotation, flir, mick-west, marik-von-rennenkampff, infrared, claims-thesis]
 synthesis-type: contradiction

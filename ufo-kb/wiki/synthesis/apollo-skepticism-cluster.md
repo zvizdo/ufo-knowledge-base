@@ -2,8 +2,6 @@
 type: synthesis
 synthesis-type: cluster
 summary: "Synthesis of the Apollo moon-landing skepticism cluster introduced via the Rogan/American Alchemy episode: confirmed NASA deception (Gemini Collins photo), the Grissom murder hypothesis, physical impossibility arguments, and the broader pattern of NASA opacity that parallels UAP suppression."
-created: 2026-04-26
-updated: 2026-04-26
 derived-from: [moon-landing-hoax, gus-grissom, bart-sibrel, charlie-duke, michael-collins, neil-armstrong, 1967-apollo-1-fire, joe-rogan, dan-farah, jfk-assassination-ufo]
 tags: [apollo, nasa, moon-landing, deception, grissom, skepticism, uap-nasa-nexus]
 ---

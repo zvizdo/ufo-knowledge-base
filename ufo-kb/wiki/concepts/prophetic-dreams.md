@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Precognitive or veridical dreams — experiences in which dream content corresponds to real events not yet known to the dreamer; documented across intelligence, military, and UAP-adjacent witnesses."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/ATJwqp5twAg.md]
 tags: [precognition, consciousness, dreaming, remote-viewing, nhi-contact, psi]
 ---

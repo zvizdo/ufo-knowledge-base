@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The AFOSI disinformation operation (c. 1980–1984) that deliberately drove Albuquerque electronics businessman Paul Benowitz to psychiatric hospitalization after he filmed anomalous craft near Kirtland AFB — the most documented intelligence operation against a civilian UFO researcher."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/WBTqsbwJyqU.md, raw/youtube-transcripts/73YBwFvcmF8.md, raw/youtube-transcripts/GQlWf54K_7Y.md]
 tags: [benowitz, afosi, kirtland-afb, disinformation, rick-doty, bill-moore, psyop, intelligence-manipulation, 1980s]
 name: 1980 Benowitz Affair

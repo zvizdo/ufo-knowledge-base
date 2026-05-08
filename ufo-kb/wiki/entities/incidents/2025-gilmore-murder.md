@@ -7,8 +7,6 @@ witnesses: [neighbor who called 911]
 craft_type: N/A
 corroboration: firsthand
 tags: [murder, carl-gilmore, lano, caltech, vera-rubin-observatory, scientists-targeting-pattern]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 summary: "Caltech/JPL astronomer Carl Gilmore was shot and killed on his remote Lano, CA property porch on February 16, 2026 by a neighbor (Freddy Snyder) who had been arrested on his property two months earlier and released; no established motive."
 ---

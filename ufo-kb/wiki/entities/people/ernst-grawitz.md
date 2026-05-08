@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [nazi-germany, ss]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/tech-artifacts/die-glocke.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "SS-Obergruppenführer and chief physician of the SS and German Red Cross; authorized SS medical experimentation on concentration camp prisoners; named in Igor Witkowski/Nick Cook accounts of Die Glocke as possibly overseeing human subjects testing in the device's test chamber."
 tags: [ss, nazi, medical-experimentation, die-glocke, human-subjects, war-crimes, grawitz]

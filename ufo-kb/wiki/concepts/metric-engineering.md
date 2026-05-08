@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Hal Puthoff's framework for treating gravity, inertia, and the speed of light as locally engineerable properties of spacetime metric — the theoretical scaffold through which alleged UAP-class propulsion would be tractable rather than impossible. Closely related to the polarizable vacuum model."
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [physics, propulsion, polarizable-vacuum, hal-puthoff, alcubierre, claims-thesis]
 ---

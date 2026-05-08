@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Alleged classified US space program involving military vessels operating in interplanetary space; revealed by Gary McKinnon who claimed to have hacked into US military networks and seen crew manifests for 'non-terrestrial officers' and ship-to-ship transfers not referencing Earth ships."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [secret-space-program, gary-mckinnon, non-terrestrial-officers, space, disclosure]
 ---
 

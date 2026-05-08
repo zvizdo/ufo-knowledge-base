@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Clark Clifford: Army chief of staff under Truman who was briefed by Lansdale and Willoughby on the Yamashita gold discovery and brought the matter to Truman; later Secretary of Defense under LBJ; quintessential postwar 'wise man.'"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Clark Clifford
 aliases: [Clark McAdams Clifford]

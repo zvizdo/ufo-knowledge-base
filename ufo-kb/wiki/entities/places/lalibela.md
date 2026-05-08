@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Medieval Ethiopian rock-hewn church complex associated with a prince who was exiled in Crusader Jerusalem — Hancock argues the Templars helped install him on the Ethiopian throne after learning about the Ark of the Covenant, and the church ceilings bear Templar crosses"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md]
 name: Lalibela
 aliases: [Roha]

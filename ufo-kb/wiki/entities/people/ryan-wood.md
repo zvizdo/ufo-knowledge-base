@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO researcher and curator of the Majestic Documents collection (with his late father Dr. Bob Wood); conducted extensive forensic analysis on physical copies of Majestic-related documents."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Ryan Wood
 aliases: []

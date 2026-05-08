@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Deep shaft tomb on the Khafre causeway at Giza containing a water-surrounded sarcophagus — matches Herodotus's 5th-century BC description"
-created: 2026-04-26
-updated: 2026-04-26
 name: Osiris Shaft
 aliases: [Osiris Tomb, Shaft of Osiris]
 region: Giza Plateau, Lower Egypt

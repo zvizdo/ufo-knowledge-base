@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USDA / DHS animal-disease research facility off Long Island, New York; central to Lyme disease biowarfare-origin hypothesis; contested classified history"
-created: 2026-05-02
-updated: 2026-05-02
 name: Plum Island
 aliases: [plum-island-animal-disease-center, paddc]
 region: Long Island Sound, New York

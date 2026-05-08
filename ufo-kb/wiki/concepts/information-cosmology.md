@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The synthesis of information theory, thermodynamics, and quantum physics proposing that matter, energy, and information are three states of the same thing — leading to a computational-universe thesis with direct implications for UAP and simulation theory."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 tags: [simulation, information-theory, quantum-physics, dark-matter, wheeler, landauer, zuse, vopson, american-alchemy]
 ---

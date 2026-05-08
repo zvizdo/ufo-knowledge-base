@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "In-house Army counter-intelligence unit that existed only in institutional memory, all records wiped; alleged to have produced a July 1947 field report describing Roswell retrieval operations conducted by an AFSWP Special Engineering Detachment under Col. Housebrook."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Interplanetary Phenomenon Unit
 aliases: [IPU]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Annual private conference of ~130 Western political, financial, and media elites; characterized by conspiracy researchers as a shadow policy-setting body; Alex Jones infiltrated meetings on multiple occasions."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KhmUixSXxDo.md]
 name: Bilderberg Group
 aliases: [Bilderberg Conference, Bilderberg Meeting]

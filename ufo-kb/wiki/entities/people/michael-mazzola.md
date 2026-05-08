@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Documentary filmmaker and author covering the Nazca tridactyl mummies; producing 'This Is Not a Hoax' documentary and authored the book Catastrophic Disclosure"
-created: 2026-04-26
-updated: 2026-04-26
 name: Michael Mazzola
 aliases: []
 roles: [researcher, journalist]

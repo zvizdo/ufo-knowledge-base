@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Russian/Soviet rocket scientist; founder of theoretical rocketry; father of the Russian space program; explicitly believed in non-human intelligence and wrote about NHI — making him the NHI-cosmism foundation of the entire Russian space tradition."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 name: Konstantin Tsiolkovsky
 aliases: [Konstantin Eduardovich Tsiolkovsky, Tsiolkovsky]

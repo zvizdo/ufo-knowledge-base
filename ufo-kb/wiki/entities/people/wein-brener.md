@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army colonel in the Foreign Technology Division who allegedly made a deathbed statement that dead extraterrestrials are housed at a Utah facility; also connected to the 1971 Holloman AFB filming project."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/nTiFs8LudUo.md]
 name: Wein Brener
 aliases: [Weinbrener, Wine Brener, Colonel Brener]

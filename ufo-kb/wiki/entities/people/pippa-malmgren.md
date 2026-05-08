@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Economist and former White House official; daughter of Harold Malmgren; relayed her father's firsthand UAP claims including deathbed disclosures and formulated the 'no onramp' heuristic for identifying reverse-engineered technology."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Pippa Malmgren
 aliases: [Dr. Pippa Malmgren, Philippa Malmgren]

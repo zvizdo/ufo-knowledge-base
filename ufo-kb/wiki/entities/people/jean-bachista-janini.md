@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Senior pathologist and forensic doctor in Varginha (~90 years old); analyzed the tissue samples from Marcos Charez's autopsy; submitted authenticated document in 2025 stating the bacteria may be alien or genetically engineered."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UkKwa4jU0fc.md]
 name: Jean Bachista Janini
 aliases: [Dr. Janini, Dotoini, Dotojinini]

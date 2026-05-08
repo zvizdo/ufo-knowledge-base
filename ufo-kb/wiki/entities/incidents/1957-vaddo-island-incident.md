@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1957 encounter on Väddö Island, Sweden: two carpenters witnessed a UFO hover in front of their car, killing the engine; found a tungsten-carbide metallic piece on the road afterward — still hot despite cold conditions; physical artifact preserved by AFU."
-created: 2026-04-26
-updated: 2026-04-26
 name: 1957 Väddö Island Incident
 date: "1957"
 location: Väddö Island, northeast of Stockholm, Sweden

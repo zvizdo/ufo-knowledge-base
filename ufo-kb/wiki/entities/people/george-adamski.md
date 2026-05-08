@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Polish-American 1950s contactee who claimed contact with Venusians, Martians, and Saturnians; described their utopian society as unified state/religion/science — Jorjani reads this as a portrait of ultimate totalitarianism."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/Rjr3Yq-dMUE.md]
 name: George Adamski
 aliases: []

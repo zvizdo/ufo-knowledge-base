@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Large internal cavity above the Grand Gallery detected by the [[scan-pyramids-project|ScanPyramids]] muon tomography project in 2017; Biondi argues it is the Grand Gallery itself misidentified, not a separate undiscovered chamber."
 tags: ["pyramids", "scan-pyramids", "muon"]

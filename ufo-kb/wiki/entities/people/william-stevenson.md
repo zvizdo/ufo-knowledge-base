@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "MI6's top spy in WWII, codenamed 'Intrepid'; Churchill's super-spy; the inspiration for James Bond; coordinated the 1945 Taom mission that parachuted Thomas Townsend Brown into Nazi Germany to retrieve exotic propulsion technology."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RTEWLSTyUic.md]
 name: William Stevenson
 aliases: [Intrepid, Sir William Stevenson]

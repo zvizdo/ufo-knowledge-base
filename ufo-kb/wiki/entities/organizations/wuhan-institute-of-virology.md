@@ -7,8 +7,6 @@ parent_org: chinese-academy-of-sciences
 country: China
 active_period: 1956–present
 tags: [bsl-4, coronavirus-research, gain-of-function, covid-origin]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

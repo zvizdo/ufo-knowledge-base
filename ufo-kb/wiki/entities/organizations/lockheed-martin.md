@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Major US defense contractor; held crash retrieval materials since before the 1989 CIA shutdown; Glenn Gaffney blocked Bigelow Aerospace/BASS/EarthTech from accessing this material during the AAWSAP era."
-created: 2026-04-26
-updated: 2026-04-26
 name: Lockheed Martin
 aliases: [Lockheed, LM, Skunk Works, Lockheed Skunk Works]
 type: private-co

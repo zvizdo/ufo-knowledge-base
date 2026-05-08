@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Military police officer who was driving with Marcos Charez when the alien being was captured in Varginha in January 1996; has been in hiding since the incident."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UkKwa4jU0fc.md]
 name: Eric Lopes
 aliases: []

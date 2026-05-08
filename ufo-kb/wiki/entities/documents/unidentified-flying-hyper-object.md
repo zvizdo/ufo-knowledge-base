@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Jim Madden's book applying ancient Greek philosophy (Plato, Aristotle, Nietzsche, Heidegger) to the UFO/UAP phenomenon — argues Plato's cave is the correct framework for understanding systematic human perceptual imprisonment and the epistemological conditions for genuine disclosure."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KRDE1i3LDuU.md]
 title: Unidentified Flying Hyper Object
 authors: [Jim Madden]

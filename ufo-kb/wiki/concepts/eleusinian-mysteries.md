@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Annual initiation ceremonies held in ancient Greece at Eleusis for the cult of Demeter and Persephone; participants reportedly had profound consciousness-altering experiences; Gordon Wasson, Albert Hofmann, and Carl Ruck argued the kykeon drink was psychedelic; cited in UAP contexts as evidence of ancient NHI contact via altered states."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [mystery-schools, ancient-greece, psychedelics, kykeon, demeter, consciousness, nhi-contact]
 ---
 

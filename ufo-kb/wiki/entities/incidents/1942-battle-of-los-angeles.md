@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "February 1942 incident in which a UFO traversed the California coast under sustained anti-aircraft fire with no apparent effect; one of the earliest documented US military engagements with a UAP."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: 1942 Battle of Los Angeles
 date: 1942-02-25

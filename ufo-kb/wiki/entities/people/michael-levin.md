@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Tufts University biologist discovering that individual biological cells have clear goals and intentions — challenging the standard view that intentionality is only a high-level emergent property of brains."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/wT5-hXWIkzM.md, raw/youtube-transcripts/2Mb6NPPjCyg.md]
 name: Michael Levin
 aliases: [Mike Levin]

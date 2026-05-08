@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF crew commander alongside Robert Salas at Oscar Flight on March 24, 1967; corroborated the missile shutdowns during UFO activity; retired as full Colonel."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Fred Maywald
 aliases: [Fred Milo (misheard in transcript)]

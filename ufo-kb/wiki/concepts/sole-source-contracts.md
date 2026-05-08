@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Black program contracting mechanism: instead of competitive bidding (RFP/BAA), the government directly selects a trusted contractor and channels money through pass-through companies; keeps program specifications out of competitive visibility."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/LnAiNChnuEQ.md]
 tags: [contracting, black-programs, sole-source, pass-through, classification, sap, irad]
 ---

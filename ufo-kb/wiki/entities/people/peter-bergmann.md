@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Theoretical physicist and former Einstein collaborator who attended the 1957 UNC Chapel Hill gravity conference alongside Feynman, Wheeler, and DeWitt."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Peter Bergmann
 aliases: [Peter Gabriel Bergmann]

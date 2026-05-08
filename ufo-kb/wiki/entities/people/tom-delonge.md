@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Blink-182 co-founder who pivoted to UAP advocacy, co-founding To The Stars Academy of Arts and Science in 2017. His organization was the vehicle for releasing the three Pentagon UAP videos that triggered the modern disclosure wave."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/Y26iMB0r-f8.md]
 name: Tom DeLonge
 aliases: [Thomas Matthew DeLonge]

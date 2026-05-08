@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The practice of perceiving distant or shielded locations, objects, or events through apparent extrasensory means. Formalized as Coordinate Remote Viewing (CRV) by Ingo Swann and validated at SRI by Russell Targ and Hal Puthoff. The US government funded remote viewing research and operations for over two decades under the Stargate Program."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/iQOibpIDx-4.md]
 tags: [remote-viewing, stargate, cia, sri, psi, parapsychology, crv, ingo-swann]
 ---

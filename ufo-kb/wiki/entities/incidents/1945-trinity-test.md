@@ -6,7 +6,6 @@ witnesses: []
 craft_type: ""
 corroboration: instrumented
 tags: [nuclear, trinity, first-nuclear-detonation, ufo-nuclear-nexus]
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
 ---
 

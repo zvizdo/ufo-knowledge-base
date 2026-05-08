@@ -3,8 +3,6 @@ type: concept
 name: Cultural Transmission of UFO Narrative
 aliases: [cultural transmission of UFO narrative, cultural-transmission-of-ufo-narrative, UFO cultural transmission, soft disclosure through culture, UAP entertainment transmission, UFO mythology transmission]
 first_seen_in: ufo-kb/wiki/entities/people/rod-serling.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The process by which UAP/UFO themes, imagery, and narrative frameworks have been propagated through mainstream entertainment, science fiction, and documentary culture — shaping public expectations, belief structures, and interpretive frameworks before any formal disclosure; associated with the controlled-disclosure hypothesis and with figures like Rod Serling, Gene Roddenberry, and Steven Spielberg."
 tags: [cultural-transmission, soft-disclosure, entertainment, media, ufo, narrative, consciousness, propaganda]

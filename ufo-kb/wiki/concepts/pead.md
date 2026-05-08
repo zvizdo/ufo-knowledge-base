@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Presidential Emergency Action Documents — classified executive orders issued directly by the president; used to create waived SAPs free from congressional oversight; mechanism for the most tightly held UAP programs."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/LnAiNChnuEQ.md]
 tags: [classification, president, executive-order, sap, congressional-oversight, ufo-secrecy]
 ---

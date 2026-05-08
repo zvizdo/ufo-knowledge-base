@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Oklahoma City-based UFO research organization; Greg Rogers (Cape Canaveral saucer witness) is on its board; Ty Roberts (Total Disclosure) is also associated; publishes and promotes first-hand UAP witness accounts."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/TNtlzEnl8rA.md]
 name: International UFO Bureau
 aliases: []

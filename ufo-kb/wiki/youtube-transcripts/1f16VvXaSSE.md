@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Lue Elizondo documentary-format episode of American Alchemy; covers AAWSAP/AATIP, multiple alien group hypothesis, UAP propulsion physics, nuclear nexus, the 1952 Washington D.C. flyover, and a dense set of Elizondo firsthand claims (Cuban-Exile father, astral-projection over a CIA detainee, VA implant handled under microscope, green orbs at his Wyoming home, sulfur at Skinwalker, meeting Edward Teller as a child, working alongside David Grusch in a SCIF)."
-created: 2026-04-25
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md]
 video_id: 1f16VvXaSSE
 title: "Multiple Alien Groups May Be Visiting Earth! (Lue Elizondo Documentary)"

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Host of Project Unity YouTube channel; UFO/UAP researcher and journalist focused on secret science, ancient archaeology, and whistleblower testimony; appeared in this episode connecting Epstein to classified physics and shadow governance."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md]
 name: Jay Anderson
 aliases: []

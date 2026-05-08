@@ -7,8 +7,6 @@ witnesses: [beatriz-villarroel, enrique-solano]
 craft_type: "anomalous transient point sources (pre-Sputnik sky)"
 corroboration: instrumented
 sources: [raw/youtube-transcripts/lbGE3EC6StE.md]
-created: 2026-05-03
-updated: 2026-05-03
 tags: [vasco, palomar, pre-sputnik, transients, 1952-dc-flyover, astronomical-anomaly, vanishing-stars]
 summary: "VASCO project finding: nine point-source transients appearing and vanishing in a small region of Mount Palomar plate imagery on July 19 and July 27, 1952 — both dates of the 1952 Washington D.C. UFO flyover. Pre-Sputnik (no satellites or space debris possible)."
 ---

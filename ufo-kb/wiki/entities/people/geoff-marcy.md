@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Astronomer and exoplanet pioneer cancelled in a 2015 sexual harassment scandal; collaborated with Beatriz Villarroel on the VASCO nine-transients discovery paper; the National Academy of Sciences ejected him the same week the paper was accepted."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/lbGE3EC6StE.md]
 name: Geoff Marcy
 aliases: [Geoffrey Marcy, Jeff Marcy]

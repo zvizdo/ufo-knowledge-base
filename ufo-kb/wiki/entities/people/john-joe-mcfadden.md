@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "University of Surrey quantum biologist who proposes that the conscious experience of the brain IS its electromagnetic field — providing a physical substrate for non-local consciousness and the Sun's potential consciousness."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wT5-hXWIkzM.md]
 name: John Joe McFadden
 aliases: [Johnjoe McFadden]

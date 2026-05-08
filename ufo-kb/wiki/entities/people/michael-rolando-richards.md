@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "African-American sculptor whose most famous work depicted himself impaled by airplanes as a martyr; awarded studio space in the Twin Towers; stayed the night of September 10, 2001, and was killed on 9/11 — a striking case of apparent self-referential precognition."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/hXYdkcv5TtY.md]
 name: Michael Rolando Richards
 aliases: []

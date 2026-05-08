@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "EG&G (Edgerton, Germeshausen and Grier) — a private defense contractor that served as the operational backbone of US nuclear testing, was the prime contractor at Cape Canaveral and Area 51, and whose fingerprints appear at every major node of the UFO secrecy infrastructure from the Manhattan Project through the 2000s."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/TNtlzEnl8rA.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: EG&G
 aliases: [EGNG, Edgerton Germeshausen and Grier, EG&G Special Projects, EG&G Technical Services]

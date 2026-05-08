@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Dr. Benjamin Simon — Boston psychiatrist who conducted hypnotic regression sessions with Betty and Barney Hill in 1963–1964, producing the foundational documentation of their 1961 abduction experience. Simon was initially skeptical of the abduction interpretation."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Benjamin Simon
 aliases: []

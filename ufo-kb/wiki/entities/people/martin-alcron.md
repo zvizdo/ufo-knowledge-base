@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Vice president of the University of Ika (Peru); documented at least 7 government attempts to seize the Nazca mummies and serves as a key institutional defender of the ongoing research."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md]
 name: Martin Alcron
 aliases: []

@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/ufo-nuclear-nexus.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 summary: "Small town in Fukushima Prefecture, Japan, located near a civilian nuclear reactor; has a mountain UFO museum and residents report geomagnetic anomalies; cited in KB as evidence that the UAP-nuclear correlation is global and not a coordinated US operation."
 tags: [japan, fukushima, ufo-museum, nuclear, geomagnetic-anomalies]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Summer 1996 sighting by Dennis Asberg of a large disc-shaped UAP hovering over a Swedish nuclear military installation at ~3:30 AM; 14–15 seconds duration; estimated 600–700 m diameter; near a plutonium-handling facility."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aGqFOxuYRT0.md]
 name: 1996 Dennis Asberg Sighting
 date: 1996 (early summer)

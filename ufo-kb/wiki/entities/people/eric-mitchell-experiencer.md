@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Self-described 'super experiencer' and friend of Steve Coburn; appeared in an American Alchemy episode (iPxbILOMQ08 context); Coburn's implant scan detected hits in his neck/back and arm; was two weeks away from meeting Roger Leir before Leir died."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/iPxbILOMQ08.md]
 name: Eric Mitchell (Experiencer)
 aliases: [Eric Mitchell]

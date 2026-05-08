@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The suite of hypotheses about why endogenous DMT — produced in mammalian brains at serotonin/dopamine-level concentrations — exists and what it does: proposed roles include neuroprotection during oxygen deprivation, death-transit conduit, dreaming substrate, and baseline NHI channel."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 tags: [dmt, endogenous-dmt, sigma-1-receptor, pineal-gland, death, neuroprotection, neuroscience, rick-strassman, andrew-gallimore, inmt, darkness-retreat]
 ---

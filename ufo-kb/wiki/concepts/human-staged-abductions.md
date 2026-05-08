@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Greer's central claim that all alien abduction events are covert human black-program operations — personnel made to look like aliens, deploying man-made electrogravitic craft — not genuine NHI encounters."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/areO7Mej44E.md]
 tags: [abduction, human-staged, greer, mk-ultra, covert-ops, black-programs, ce-5, john-mack, bud-hopkins, betty-hill]
 ---

@@ -2,8 +2,6 @@
 type: entity
 entity-type: documents
 summary: "Academic text by MIT historian Georgio de Santillana and Frankfurt's Hertha von Dechend establishing that knowledge of precession was embedded in world mythology millennia before Hipparchus; foundational for the 'mythology as encoded knowledge' framework."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md]
 title: Hamlet's Mill
 authors: [giorgio-de-santillana, hertha-von-dechend]

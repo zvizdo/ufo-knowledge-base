@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The re-framing of UAP abduction reproductive procedures as a future-human genetic banking program: future Homo sapiens, facing reproductive collapse from sperm-count decline, collect viable gametes from ancestral humans in the past."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Y26iMB0r-f8.md]
 tags: [future-humans, abduction, gamete-extraction, genetics, reproductive-crisis, intertemporal-breeding, michael-p-masters]
 ---

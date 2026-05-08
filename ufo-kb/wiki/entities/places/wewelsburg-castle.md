@@ -7,8 +7,6 @@ region: North Rhine-Westphalia
 country: Germany
 type_place: installation
 tags: [nazi, ss, himmler, occult, wewelsburg, stub]
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 summary: "SS castle in Westphalia redesignated by Himmler as the ceremonial and ideological center of the SS order. Site of occult rituals, the 'Grail' room, and the Black Sun floor mosaic. Connected to the SS-Ahnenerbe research program and alleged esoteric Nazi technology research."
 ---

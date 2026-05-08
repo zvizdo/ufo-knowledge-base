@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ingo Swann's autobiographical account of his most classified remote-viewing sessions, culminating in his experiences remote-viewing the Moon and concluding it is a hollow alien spacecraft with active NHI presence."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/EzPmG_7WhXc.md]
 title: Penetration
 authors: [Ingo Swann]

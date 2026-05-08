@@ -3,8 +3,6 @@ type: concept
 name: UAP Technology Commercialization
 aliases: [UAP technology commercialization, uap-tech-commercialization, UAP material commercialization]
 first_seen_in: ufo-kb/wiki/entities/organizations/vivex-biotechnologies.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Hypothesis and claimed pattern: recovered UAP materials and derived technologies have been quietly commercialized through private companies — particularly in biomedical and materials science sectors — shielded from disclosure by classification and plausible cover stories; Vivex Biotechnologies is the most concrete alleged KB example."
 tags: [commercialization, recovered-material, technology-transfer, vivex, classified, biomedical, reverse-engineering]

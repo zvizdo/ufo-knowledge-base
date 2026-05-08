@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army Brigadier General kidnapped by the Red Brigades in Italy in 1981; located via remote viewing by Joe McMoneagle as a Stargate Program operational tasking."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/RofQnByLwOo.md]
 name: James Dozier
 aliases: [James Lee Dozier]

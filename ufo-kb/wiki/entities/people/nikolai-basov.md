@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: [lebedev-physical-institute, soviet-academy-of-sciences]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/jMCavr3dVP0.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [physics, lasers, soviet-science, nobel-prize, directed-energy]
 ---

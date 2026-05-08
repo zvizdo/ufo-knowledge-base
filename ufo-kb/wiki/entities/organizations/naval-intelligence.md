@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The oldest US intelligence service, operating as a fully autonomous entity that withheld UAP debris recovery information even from personnel with presidential-level clearance."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: US Naval Intelligence
 aliases: [ONI, Office of Naval Intelligence, Naval Intelligence]

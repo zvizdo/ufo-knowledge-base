@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Lue Elizondo's hypothesis that systematic UAP surveillance of military assets represents intelligence collection and adversary preparation — mapping U.S. defense systems in advance of a future conflict — rather than passive observation or benign curiosity."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [uap, military, elizondo, threat-assessment, adversary, reconnaissance, national-security]
 ---
 

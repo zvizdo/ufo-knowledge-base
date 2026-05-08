@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Hypothesis that NHI appearances are deliberate, designed anomalies intended to break human prior models and force perceptive/cognitive transformation — a teaching or signaling function rather than random observation or hostile intervention."
-created: 2026-05-02
-updated: 2026-05-02
 tags: [nhi, disclosure, consciousness, teaching, galactic-federation, signaling]
 ---
 

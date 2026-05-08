@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Jason Reza Jorjani's term for the predicted-but-suppressed scientific revolution in parasychology; William James forecast it in the 1870s-1890s; its failure to materialize is attributed to deliberate institutional suppression of threatening social implications."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/EzPmG_7WhXc.md]
 tags: [parasychology, consciousness, suppression, william-james, bergson, spectral-revolution, telepathy, psychical-research]
 ---

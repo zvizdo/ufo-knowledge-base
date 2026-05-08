@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Extremely Low Frequency electromagnetic weapons / influence systems; alleged CIA/military program area for which Andrija Puharich was reportedly recruited"
-created: 2026-05-02
-updated: 2026-05-02
 name: ELF weapons
 aliases: [elf-weapon-systems, extremely-low-frequency-weapons]
 tags: [elf, mind-control, mk-ultra-adjacent, cia, andrija-puharich, bob-beck, non-lethal-weapons]

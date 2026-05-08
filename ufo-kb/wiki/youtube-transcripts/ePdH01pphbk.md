@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Jesse Michaels interviews Michael Pillsbury and Josh Rogin on China's 100-year strategy to displace the US, CCP influence operations, and — buried in the framing — David Grusch's NHI cold war claim that China and Russia are competing with the US to reverse-engineer recovered non-human technology."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/ePdH01pphbk.md]
 video_id: ePdH01pphbk
 title: "The Purchase of America (ft. Michael Pillsbury & Josh Rogin)"

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US government designation 'Anomalous Health Incidents' (AHI) for over 1,000 US officials and family members experiencing directional sound, cognitive impairment, and vestibular disruption across multiple countries since ~2016; linked by investigators to Russian directed-energy attacks."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Havana Syndrome / Anomalous Health Incidents
 aliases: [AHI, Anomalous Health Incidents, Havana Syndrome, havana-syndrome]

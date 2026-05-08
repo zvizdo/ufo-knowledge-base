@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "WWII US intelligence agency and CIA predecessor that ran Project McGregor — the covert Allied operation to retrieve the 1933 Magenta non-human craft from fascist Italy."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Office of Strategic Services
 aliases: [OSS]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UAP/object category: objects detected transiting Earth's outer defense detection layer (DSP satellites/NORAD); classified as highly sensitive by NORAD; referenced in a Wikileaks email between Bob Fish and John Podesta."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: Fast Walkers
 aliases: [fast walker]

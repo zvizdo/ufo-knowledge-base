@@ -6,8 +6,6 @@ roles: []
 affiliations: [cia, nato, italian-government]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/programs/operation-northwoods.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "NATO-CIA covert stay-behind program operating across Western Europe (1956–1990); created secret paramilitary networks to resist Soviet occupation; revealed in Italy in 1990 by PM Andreotti; implicated in false-flag terrorism (the 'Strategy of Tension') in Italy, Germany, and Belgium."
 tags: [cia, nato, cold-war, italy, false-flag, strategy-of-tension, paramilitary, stay-behind]

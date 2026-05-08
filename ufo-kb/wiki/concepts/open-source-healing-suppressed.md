@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis that open-source, non-patentable healing methods (breathwork, cold exposure, frequency medicine) are actively suppressed by the FDA/AMA system — and that this suppression pattern is structurally identical to the institutional marginalization of UAP knowledge."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/_CBtd8Om-hU.md, raw/youtube-transcripts/q7Czo77qhHA.md]
 tags: [suppression, big-pharma, ama, fda, flexner, open-source, breathwork, rife, uap-parallel, institutional-capture]
 synthesis-type: pattern

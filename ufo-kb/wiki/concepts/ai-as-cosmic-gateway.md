@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis that artificial general intelligence (AGI) is the primary gateway to cosmos-scale technological capability; combined with quantum computing and back-engineering programs, AGI may allow humans to crack alien propulsion, produce superintelligence approaching God-level omniscience, and ultimately explain why biological intelligence exists at all."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/LpLFWdsIU7M.md, raw/youtube-transcripts/RNjC1vLcxKo.md]
 tags: [ai, agi, quantum-computing, god, consciousness, back-engineering, cosmic-gateway, singularity]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "New England contactee with multi-generational encounters; grays froze her family while Nordics communicated religious/theological messages including claims to have introduced Christ."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: Betty Andreasson
 aliases: [Betty Luca, Betty Ann Andreasson]

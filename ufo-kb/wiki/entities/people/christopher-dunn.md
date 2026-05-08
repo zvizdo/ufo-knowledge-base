@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British-American engineer who proposes that the Great Pyramid of Giza was a power generator using advanced acoustic technology — not a tomb; his theory cited by Mario Woods as 'absolutely correct.'"
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/73YBwFvcmF8.md, raw/youtube-transcripts/NvQXmtcwHA8.md, raw/youtube-transcripts/aGqFOxuYRT0.md, raw/youtube-transcripts/zrmG2jBckgk.md]
 name: Christopher Dunn
 aliases: []

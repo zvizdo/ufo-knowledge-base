@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA Associate Deputy Director for Operations; Miami Station Chief on November 22, 1963; ran Southeast Asia assassination programs; appears across multiple Sheehan investigations including Iran-Contra; allegedly facilitated plutonium shipments to Israel."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
 name: Theodore Shackley
 aliases: [Ted Shackley, Shackley, the "Blond Ghost"]

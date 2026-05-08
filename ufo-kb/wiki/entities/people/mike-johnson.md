@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [us-congress, republican-party]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/controlled-disclosure.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "US Representative from Louisiana (R-LA-4); 56th Speaker of the House (2023–present); cited in KB as the congressional leadership target through whom Lockheed lobbying succeeded in stripping eminent domain and independent review panel provisions from the UAP Disclosure Act."
 tags: [congress, speaker, uap-legislation, lockheed, disclosure]

@@ -6,7 +6,6 @@ parent_org: National Security Council
 country: USA
 active_period: "1955–1964"
 tags: [nsc, covert-operations, cia, eisenhower, kennedy]
-updated: 2026-04-26
 ---
 
 # 5412 Committee

@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/tech-artifacts/b2-stealth-bomber.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Canadian mathematician who worked on B-2 stealth bomber aerodynamics and allegedly confirmed that esoteric/occult mathematical principles were used in the aircraft's design — connecting the most advanced classified US aerospace program to the same mathematical traditions associated with anti-gravity research."
 tags: [mathematics, b2-stealth, aerospace, esoteric-mathematics, canada, classified]

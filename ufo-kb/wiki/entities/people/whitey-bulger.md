@@ -4,8 +4,6 @@ entity-type: people
 name: Whitey Bulger
 aliases: [James "Whitey" Bulger]
 summary: "Boston Irish mob boss and FBI informant who volunteered as an MK-Ultra test subject at Atlanta Federal Penitentiary in 1957; later became one of America's most wanted fugitives. His MK-Ultra participation connects organized crime to CIA behavioral research."
-created: 2026-04-25
-updated: 2026-04-25
 roles: [other]
 affiliations: []
 tags: [mk-ultra, cia, organized-crime, fbi-informant]

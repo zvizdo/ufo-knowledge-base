@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Recent US government UAP whistleblower who encountered the 'Immaculate Constellation' document within the government; described trans-medium objects as 'made to purpose' — designed for specific functional use cases."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aGqFOxuYRT0.md]
 name: Matthew Brown (whistleblower)
 aliases: [Matthew Brown UAP]

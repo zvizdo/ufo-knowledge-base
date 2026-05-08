@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "LBJ's top aide; was on Air Force One when JFK was shot; witnessed LBJ locking himself in the bathroom saying 'they're going to kill us all' — despite having been briefed the night before at Clint Murchison's ranch that the assassination was coming."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
 name: Jack Valenti
 aliases: []

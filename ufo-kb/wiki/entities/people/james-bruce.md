@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Scottish explorer (1730–1794) who traveled to Ethiopia and discovered the source of the Blue Nile (1770). Author of Travels to Discover the Source of the Nile (1790). In UAP/ancient mysteries discourse, cited in connection with his documentation of the Ark of the Covenant's presence in Axum and Meroitic inscriptions."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md]
 name: James Bruce
 aliases: [Bruce of Kinnaird]

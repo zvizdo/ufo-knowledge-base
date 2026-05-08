@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US intelligence official who created the organisational structure under which AARO operates; was also a board director of Battelle Memorial Institute (later scrubbed from LinkedIn) and connected to the Carlyle Group — suggesting AARO was structured for suppression."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Ronald Moltrie
 aliases: []

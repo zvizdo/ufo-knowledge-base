@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Documentary filmmaker who co-produced 'UFOs: Past, Present and Future' with Bob Emenegger; claims to have personally seen footage of the Holloman AFB landing at Norton Air Force Base, shown to him by officer Paul Charlton."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: Allan Sandler
 aliases: [Alen Sandler, Alan Sandler]

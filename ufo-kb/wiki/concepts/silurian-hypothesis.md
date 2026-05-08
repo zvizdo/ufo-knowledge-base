@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Hypothesis that 'NHI' may be an ancient terrestrial civilization that arose millions of years before humans; physical evidence would be obliterated by plate tectonics and environmental change; explored by Haseltine in 'The Shadow of Time'."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 tags: [nhi-origin, ancient-civilization, lost-civilization, uap-hypotheses, earth-history]
 ---

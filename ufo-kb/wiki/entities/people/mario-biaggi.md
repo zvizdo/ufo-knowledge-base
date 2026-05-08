@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [us-house-of-representatives]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/jay-rockefeller.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Congressman from New York (1969–1988); decorated NYPD officer; served on House committees with defense/oversight jurisdiction; cited alongside Jay Rockefeller, Richard Shelby, and Ron Wyden as a congressional figure who sought information about UAP programs through committee oversight channels."
 tags: [congressman, new-york, house-representative, oversight, nypd, disclosure-politics, 1970s, 1980s]

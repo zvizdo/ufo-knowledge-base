@@ -2,8 +2,6 @@
 type: entity
 stub: true
 summary: "Son of Fred Steckling (George Adamski associate); custodian of the George Adamski Foundation; reportedly has read Adamski's private diaries but has not shared their contents."
-created: 2026-04-27
-updated: 2026-04-27
 name: Glen Steckling
 aliases: []
 roles: [researcher, other]

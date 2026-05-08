@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Raytheon Technologies (RTX): major US defense contractor; Eric Hecker's employer when he worked at the South Pole; contractor with access to classified defense programs and potential overlap with UAP-adjacent classified work."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Raytheon Technologies
 aliases: [Raytheon, RTX, Raytheon Company]

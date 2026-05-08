@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Jeffrey Epstein's ranch in New Mexico, purchased in 1993 with the stated intent to be near retired Los Alamos physicists; located near Los Alamos National Laboratory by design."
-created: 2026-04-27
-updated: 2026-04-27
 name: Zoro Ranch
 aliases: ["Victoria's Secret Ranch", "Zorro Ranch"]
 region: New Mexico

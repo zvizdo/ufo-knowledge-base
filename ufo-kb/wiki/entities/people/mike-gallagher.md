@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Republican Representative (WI-8); had a brief 20–25 minute call with Eric Davis about UAP; Davis's senior staff conducted a 30-minute follow-up interview; no invitation to testify was issued."
-created: 2026-04-26
-updated: 2026-04-26
 name: Mike Gallagher
 aliases: [Representative Gallagher, Rep. Gallagher]
 roles: [official]

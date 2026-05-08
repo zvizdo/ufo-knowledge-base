@@ -3,8 +3,6 @@ type: entity
 entity-type: incidents
 name: 2017 NYT UAP Story
 summary: "December 16, 2017 New York Times article by Helene Cooper, Ralph Blumenthal, and Leslie Kean that publicly revealed the existence of the AATIP program, released declassified cockpit videos, and effectively ended the mainstream-media stigma around UAP reporting — catalyzing the modern disclosure era."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [incident, media, disclosure, aatip]
 date: 2017-12-16
 ---

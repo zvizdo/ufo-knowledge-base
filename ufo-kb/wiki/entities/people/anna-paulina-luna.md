@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Congresswoman (R-FL) who publicly cited the Book of Enoch in the context of UAP/alien disclosure during a Joe Rogan appearance, suggesting antediluvian interdimensional beings as an explanatory framework."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [congress, disclosure, book-of-enoch, florida, uap-politics, anna-paulina-luna]
 name: Anna Paulina Luna

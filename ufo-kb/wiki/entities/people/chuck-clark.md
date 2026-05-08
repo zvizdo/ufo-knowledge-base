@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Self-described military watchdog and amateur astronomer; wrote the Area 51/S4 guide handbook; had property seized by FBI with sealed warrant; possesses degraded VHS footage of orange disc-shaped UAP from ~1995 that James Fox has chased for 26 years."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: Chuck Clark
 aliases: []

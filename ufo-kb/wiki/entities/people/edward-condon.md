@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Physicist who headed the 1966–1968 University of Colorado UFO study (Condon Commission); former Manhattan Project #2 scientist; lost security clearance in the 1950s under McCarthy-era scrutiny before being appointed to lead the study."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/TH10mD9hQas.md, raw/youtube-transcripts/kRO5jOa06Qw.md]
 name: Edward Condon
 aliases: [E.U. Condon]

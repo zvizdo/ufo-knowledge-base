@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA pilot, son of aviation pioneer Bill Lear, and the man who introduced Bob Lazar to journalist George Knapp in 1989; argued by Jesse Michaels to have been a deliberate CIA conduit for leaking Lazar's story as a disinformation wrapper protecting classified exotic propulsion programs."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RTEWLSTyUic.md, raw/youtube-transcripts/WBTqsbwJyqU.md]
 name: John Lear
 aliases: []

@@ -7,8 +7,6 @@ witnesses: [Susan McCasland]
 craft_type: N/A
 corroboration: multi-witness
 tags: [missing-person, neil-mccasland, albuquerque, sandia-mountains, afrl, sapoc, uap-disclosure, scientists-targeting-pattern]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 summary: "Retired USAF General Neil McCasland — former AFRL commander and SAPOC executive secretary — vanished from his Albuquerque home on February 27, 2026, 8 days after Trump's UAP disclosure announcement; no sightings despite FBI, Air Force OSI, helicopters, drones, and 700+ homes canvased."
 ---

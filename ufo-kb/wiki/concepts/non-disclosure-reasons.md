@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Karl Nell's six-reason taxonomy for why governments do not disclose UAP information — the most comprehensive structural account of non-disclosure in the KB, from a figure with direct UAP Task Force access."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aa9Xx5wI8Rw.md]
 tags: [non-disclosure, government-secrecy, karl-nell, uap-task-force, disclosure-narratives, institutional-behavior]
 ---

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Mystery Schools — ancient and esoteric initiatory traditions (Eleusinian Mysteries, Pythagorean brotherhoods, Rosicrucians, Freemasons, Hermetic orders) that allegedly preserved suppressed knowledge of pre-Flood civilizations, sacred geometry, and NHI contact across millennia."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/I9VyyV4-3Js.md, raw/youtube-transcripts/KRDE1i3LDuU.md, raw/youtube-transcripts/_CBtd8Om-hU.md]
 tags: [occult, secret-societies, ancient-knowledge, initiation, freemasonry, hermeticism, egypt, mars]
 ---

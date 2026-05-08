@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "FDA-approved human RFID implant chip manufactured by a subsidiary of Applied Digital Solutions (corporate chain traces to Raytheon); Gary McKinnon's 2006 heel wound matches VeriChip's double-needle injection pattern exactly."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md]
 name: VeriChip
 aliases: [PositiveID, Digital Angel (corporate parent)]

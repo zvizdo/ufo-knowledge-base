@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Cognitive scientist at UC Irvine whose consciousness model posits that spacetime is a perceptual interface constructed by networks of 'conscious agents' implemented in decorated permutations — connected to amplituhedron physics; targeted by Bob Maguire for a hypergraph mapping."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Donald Hoffman
 aliases: []

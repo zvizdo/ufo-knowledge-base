@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Psychologist and hypnotherapist associated with APRO who conducted hypnotic regression sessions with abductees including Myrna Hansen; witnessed Paul Benowitz's paranoid deterioration firsthand."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/WBTqsbwJyqU.md]
 name: Leo Sprinkle
 aliases: []

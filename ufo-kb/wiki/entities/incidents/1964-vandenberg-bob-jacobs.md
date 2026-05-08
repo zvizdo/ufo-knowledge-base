@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1964 incident at Vandenberg Air Force Base in which USAF officer Bob Jacobs filmed a saucer-shaped UAP disabling a test missile with beams; film confiscated; Jacobs threatened; eventually corroborated by his superior Major Mansman; Lue Elizondo claims to have seen the film."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/KGD1nuM4MR8.md, raw/youtube-transcripts/fzvwBBSmWYA.md]
 name: 1964 Vandenberg UAP Incident
 date: 1964

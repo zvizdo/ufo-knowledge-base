@@ -2,8 +2,6 @@
 type: entity
 entity-type: people
 summary: "Belgian engineer and Egyptologist who established the Orion Correlation Theory — the three Giza pyramids mirror Orion's Belt at ~10,500 BC; long-time collaborator of Graham Hancock."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/dfPfPB601hw.md]
 name: Robert Bauval
 aliases: [Robert Bval]

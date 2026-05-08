@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Temple of Set: Occult organization founded by Michael Aquino in 1975 after leaving the Church of Satan; focuses on the Egyptian deity Set as a model of individual self-deification; Aquino conducted a ceremony at Wewelsburg Castle."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Temple of Set
 aliases: [ToS]

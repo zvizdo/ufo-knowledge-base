@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Department of Energy national laboratory on Long Island, New York; operates one of America's largest particle accelerators; described as the 'US equivalent of CERN'; a UFO crash at adjacent South Haven is claimed in UFO discourse."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 name: Brookhaven National Laboratory
 aliases: [Brookhaven, BNL]

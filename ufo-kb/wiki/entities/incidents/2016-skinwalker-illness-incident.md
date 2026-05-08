@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "October 14 2016 incident at Skinwalker Ranch in which a group of 11 including a former Hells Angel security professional was paralyzed and hospitalized with no diagnostic explanation after ascending the Mesa."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 name: 2016 Skinwalker Ranch Illness Incident
 date: 2016-10-14

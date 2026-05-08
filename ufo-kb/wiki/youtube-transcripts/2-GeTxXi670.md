@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 summary: "Greg Malazzi discusses his documentary Mind Traveler about Andrija Puharich — CIA-connected scientist who channeled The Nine in 1952, invented brain-signal transmission devices, ran Space Kids psionic program, and may have been a double agent. Rich detail on Roundtable Foundation, Intellect Corp, Uri Geller experiments, JFK connections, and Puharich's suspicious 1995 death."
 video_id: "2-GeTxXi670"
 title: "This CIA Scientist Led Alien Contact Ceremonies for Elites"

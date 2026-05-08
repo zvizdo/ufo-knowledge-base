@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "First official USAF UFO investigation project (1947–1949); produced the 'Estimate of the Situation' concluding UFOs were extraterrestrial, which was suppressed by General Hoyt Vandenberg. Succeeded by Project Grudge."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Project Sign
 aliases: [Project Saucer, Sign]

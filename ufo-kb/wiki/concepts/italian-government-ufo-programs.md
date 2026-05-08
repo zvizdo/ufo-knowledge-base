@@ -3,8 +3,6 @@ type: concept
 name: Italian Government UFO Programs
 aliases: [Italian government UFO programs, italian-government-ufo-programs, Italian UAP programs, Italy classified UAP]
 first_seen_in: ufo-kb/wiki/entities/programs/rs-33.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The documented and alleged history of Italian government engagement with UAP/UFO phenomena, spanning from the 1933 Magenta crash recovery under Mussolini through the RS-33 committee, Italian military UAP observations, and the possible OSS retrieval of the 1933 craft in 1945; Italy has the earliest alleged government UAP recovery in the KB."
 tags: [italy, government-uap, rs-33, magenta-crash, mussolini, gabinetto-rs33, oss, foreign-government]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Thomas Townsend Brown's observation that the Sun and Moon's positions produced minor but measurable effects on his gravitator — implying a form of gravitational radiation from the solar system that affects local electromagnetic measurements; his electrometers showed anomalous patterns correlating with the sidereal calendar."
-created: 2026-04-27
-updated: 2026-04-27
 tags: [thomas-townsend-brown, electrogravitics, gravity, sidereal, anomalous-physics, gravitational-constant, biefeld-brown-effect]
 ---
 

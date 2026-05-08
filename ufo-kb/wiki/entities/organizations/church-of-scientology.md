@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Religious organization founded by L. Ron Hubbard. Appears in UAP discourse primarily through the Scientology connections of key Stargate Program participants (Ingo Swann, Pat Price, Hal Puthoff) and through Hubbard's own claimed contacts with 'alien entities.'"
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 name: Church of Scientology
 aliases: [Scientology, CoS]

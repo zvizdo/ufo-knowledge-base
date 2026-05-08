@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former NSA Director of Research and ODNI CTO; neuroscientist with 70+ patents; co-author of 'The New Science of UFOs'; active Havana syndrome investigator with firsthand access to classified UAP cases."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Eric Haseltine
 aliases: []

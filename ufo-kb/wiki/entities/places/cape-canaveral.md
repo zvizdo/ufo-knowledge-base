@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Cape Canaveral Air Force Station, Florida — America's primary space launch complex and a high-secrecy military installation where EG&G served as prime contractor, hosting contractor tenants including Lockheed, Martin Marietta, Boeing, and Raytheon, and where in 1992 a USAF flight surgeon witnessed a reverse-engineered saucer craft via CCTV feed."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/TNtlzEnl8rA.md]
 name: Cape Canaveral
 aliases: [Cape Canaveral Air Force Station, CCAFS, Cape Canaveral AFS, Cape Canaveral Space Force Station, Banana River Naval Air Station, Eastern Launch Range, Joint Long Range Proving Ground]

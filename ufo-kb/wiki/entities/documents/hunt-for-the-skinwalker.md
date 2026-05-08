@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2005 book by George Knapp and Colm Kelleher documenting the Sherman family's anomalous experiences and NIDS investigations at Skinwalker Ranch in the 1990s–2000s."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 title: Hunt for the Skinwalker
 authors: [George Knapp, Colm Kelleher]

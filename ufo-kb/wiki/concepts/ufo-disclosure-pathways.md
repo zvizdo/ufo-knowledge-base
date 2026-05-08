@@ -2,8 +2,6 @@
 type: concept
 name: UFO Disclosure Pathways
 summary: "Analytical framework mapping the distinct institutional routes by which UAP truth could credibly reach the public: legislative, executive, whistleblower, leaked documents, scientific confirmation, and foreign government disclosure."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [framework, disclosure, policy]
 ---
 

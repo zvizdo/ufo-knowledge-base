@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The claimed operational doctrine that certain humans ('psionic assets') can mentally interface with, control, or summon non-human craft through direct consciousness-to-craft connection; including the systematic government identification and training of such individuals."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/RNjC1vLcxKo.md, raw/youtube-transcripts/y_8IKKcTntQ.md]
 tags: [psionics, remote-viewing, uap-interface, consciousness-technology, psionic-assets, crash-retrieval, double-blind, jordan-skywatcher, sky-watchers]
 ---

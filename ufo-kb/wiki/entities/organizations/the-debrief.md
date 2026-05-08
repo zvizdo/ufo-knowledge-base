@@ -8,8 +8,6 @@ type_org: media
 country: US
 active_period: 2020–present
 tags: [media, uap-journalism, david-grusch, leslie-kean, disclosure, investigative-journalism]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # The Debrief

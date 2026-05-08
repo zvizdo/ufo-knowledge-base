@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chemist and women's rights advocate; wife of Donald Hornig (presidential science advisor to JFK/LBJ); worked on the Manhattan Project at Los Alamos; her line 'They don't teach typing at Harvard' appears verbatim in the 2023 Oppenheimer film."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Lilli Hornig
 aliases: [Lilli S. Hornig]

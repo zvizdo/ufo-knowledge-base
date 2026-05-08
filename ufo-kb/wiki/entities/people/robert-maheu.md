@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "FBI agent turned CIA contractor turned Howard Hughes's personal fixer. The institutional linchpin connecting the CIA, organized crime, and the Hughes aerospace empire. Key node in the Castro assassination plot network."
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 name: Robert Maheu
 aliases: [Robert Aime Maheu]

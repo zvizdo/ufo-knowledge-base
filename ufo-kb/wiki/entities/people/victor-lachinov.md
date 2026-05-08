@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Russian Academy of Sciences physicist whose published arXiv paper endorsed the Pais effect as a viable mechanism for room-temperature superconductivity via a bipolaron mechanism — providing the only peer-level scientific validation Salvatore Pais has received."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md]
 name: Victor Lachinov
 aliases: [Victor Lagno, Dr. Victor Lachinov]

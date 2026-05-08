@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Vienna-born engineer; head of the Department of Special Studies at Wright-Patterson AFB; alleged direct subordinate of Henry Kissinger in the flying saucer program; left almost no public record despite his name endowing a facility at the University of New Mexico."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Jpf0ZGY87c0.md]
 name: Eric Wang
 aliases: [Dr. Eric H. Wang, Eric H. Wang, Wang]

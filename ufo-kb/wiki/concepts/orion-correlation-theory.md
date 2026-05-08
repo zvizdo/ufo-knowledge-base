@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Robert Bauval's thesis that the three Giza pyramids mirror the three stars of Orion's Belt; precession backdates this sky-ground correspondence to ~10,500 BC (Zep Tepi)."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/dfPfPB601hw.md]
 tags: [egypt, pyramids, orion, precession, ancient-astronomy, giza, bauval, hancock, zep-tepi]
 ---

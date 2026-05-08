@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "December 9, 1965 crash of an unknown acorn-shaped object near Kecksburg, Pennsylvania; heavily investigated by Stan Gordon; Dolan is confident it was not a Soviet satellite and was likely a genuine craft."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/IWui5cBkwoE.md]
 name: "1965 Kecksburg Crash"
 date: "1965-12-09"

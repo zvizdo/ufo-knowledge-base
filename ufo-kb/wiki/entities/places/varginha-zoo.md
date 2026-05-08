@@ -8,8 +8,6 @@ country: Brazil
 coordinates: null
 type_field: landmark
 tags: [varginha, ufo, nhi, animal-deaths, 1996, brazil, post-contact-contamination]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "Municipal zoo in Varginha, Brazil, where several animals died of unknown causes the same week as the January 1996 Varginha UFO incident — possibly from biological exposure to the recovered entities."
 ---

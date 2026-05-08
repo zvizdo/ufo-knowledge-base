@@ -1,8 +1,6 @@
 ---
 type: index
 summary: "Category index for tech-artifacts — alleged or confirmed alien technology, recovered materials, implants, propulsion patents, and classified weapons systems in ufo-kb."
-created: 2026-04-27
-updated: 2026-04-27
 tags: [tech-artifacts, index, recovered-materials, metamaterials, reverse-engineering]
 name: Tech Artifacts
 category: other

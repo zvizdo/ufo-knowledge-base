@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Diana Pasulka's 2019 book on the convergence between UAP belief and religious experience; proposes that 1947 (Roswell) was a paradigm shift — the same ancient encounter phenomenon repackaged in the technological idiom of the era."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/I9VyyV4-3Js.md, raw/youtube-transcripts/QgxjtDS2sIQ.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 title: "American Cosmic: UFOs, Religion, Technology"
 authors: [Diana Pasulka]

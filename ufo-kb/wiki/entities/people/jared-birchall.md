@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [neuralink, musk-family-office]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/LpLFWdsIU7M.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 summary: "Elon Musk's personal fixer and handler; Mormon elder; sits on Neuralink board, manages Musk's family office, all Bitcoin and crypto transactions, and private security company — structurally analogous to the 'Mormon Mafia' (Frank Gay et al.) that controlled Howard Hughes's affairs and ran CIA operations in the 1960s-70s."
 tags: [elon-musk, neuralink, mormon-intelligence-nexus, intelligence-connections, tech-ufo-nexus]

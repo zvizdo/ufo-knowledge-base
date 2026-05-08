@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Australia's preeminent UAP researcher; close friend of Ross Coulthart; knew Harry Turner personally and documented Turner's JIO work."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Bill Chalker
 aliases: []

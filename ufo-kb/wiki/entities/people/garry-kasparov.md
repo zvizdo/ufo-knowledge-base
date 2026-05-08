@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "13th World Chess Champion (1985–2000); publicly demanded Kirsan Ilyumzhinov's removal as FIDE president after Ilyumzhinov disclosed his alien encounter, calling him 'mentally unstable' and unfit to lead chess."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 name: Garri Kimovich Kasparov
 aliases: [Garry Kasparov, Gary Kasparov, Kasparov]

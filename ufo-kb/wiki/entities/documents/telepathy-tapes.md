@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Feature-length documentary by Ky Dickens investigating controlled experiments in which non-verbal autistic children demonstrate apparent telepathic abilities at 90%+ accuracy rates."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/KGD1nuM4MR8.md]
 title: Telepathy Tapes
 authors: [Ky Dickens]

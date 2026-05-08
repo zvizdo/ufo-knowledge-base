@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Defense Advanced Research Projects Agency — US DoD agency funding high-risk, high-reward military technology research; founded 1958; appears in ufo-kb as a potential conduit for distributing recovered NHI technologies into the U.S. private sector, per the Corso/Trudeau thesis articulated by John Blitch."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/yAvD5UTziTo.md]
 name: DARPA
 aliases: [Defense Advanced Research Projects Agency, ARPA]

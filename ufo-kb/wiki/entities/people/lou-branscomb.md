@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Donald Menzel's PhD student at Harvard; gave Edward Condon his security clearance back in 1966, directly enabling Condon's appointment to lead the Condon Commission that killed Project Blue Book."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/lbGE3EC6StE.md]
 name: Lou Branscomb
 aliases: [Louis Branscomb, Lew Branscomb]

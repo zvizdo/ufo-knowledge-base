@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "AFU volunteer digitizer; sole individual responsible for digitizing the world's largest UFO archive at the Archives for the Unexplained in Sweden."
-created: 2026-04-26
-updated: 2026-04-26
 name: Leif Östrand
 aliases: [Leif Ostrand, Leif Austr]
 roles: [researcher, other]

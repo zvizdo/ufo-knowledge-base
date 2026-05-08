@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Jane's Defence Weekly journalist and Cook's key collaborator; described as 'the Sherlock Holmes of the black world' for piecing together clues about classified aircraft programs, most notably building strong circumstantial evidence for the existence of the classified Aurora Mach-5 hypersonic aircraft."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Bill Sweetman
 aliases: []

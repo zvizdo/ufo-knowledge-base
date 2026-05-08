@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The hypothesis that NHI entities require human consciousness/belief to collapse the quantum wave function in their favor and fully enter shared human reality — grounded in Von Neumann's quantum mechanics interpretation."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABOP8ZJsyIk.md]
 tags: [von-neumann, wave-function, consciousness, nhi-manifestation, quantum-mechanics, disclosure-suppression]
 ---

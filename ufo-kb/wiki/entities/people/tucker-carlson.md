@@ -6,8 +6,6 @@ roles: [host, other]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/catherine-austin-fitts.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "American political commentator and television host; former Fox News primetime anchor; prominent interviewer of UAP-disclosure figures including David Grusch; his mainstream platform has amplified UAP disclosure topics to audiences outside the research community."
 tags: [media, television, uap-disclosure, fox-news, political-commentary, mainstream-amplifier]

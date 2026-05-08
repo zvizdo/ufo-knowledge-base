@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Czech-born Israeli-American self-taught inventor and consciousness researcher who helped invent Israel's first rocket, consulted with the CIA's Gateway Process, worked closely with Stargate-era researchers, and authored 'Stalking the Wild Pendulum'; died 1979 in the AA Flight 191 crash."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Itzhak Bentov
 aliases: [Itzak Bentov]

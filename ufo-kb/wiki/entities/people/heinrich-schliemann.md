@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "German businessman who proved Troy was real by taking Homer literally — the model for intuition-driven archaeology"
-created: 2026-04-26
-updated: 2026-04-26
 name: Heinrich Schliemann
 aliases: [Heinreich von Schliemann]
 roles: [researcher]

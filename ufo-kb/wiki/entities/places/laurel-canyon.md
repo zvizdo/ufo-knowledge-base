@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/places/lookout-mountain-laboratory.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Hillside community in Los Angeles, California; center of the 1960s–70s rock music counterculture (Doors, Byrds, Buffalo Springfield, Crosby Stills Nash); home to the Lookout Mountain classified film laboratory; subject of Dave McGowan's research arguing the community was disproportionately populated by children of military/intelligence families."
 tags: [los-angeles, california, counterculture, music, 1960s, lookout-mountain, intelligence, cointelpro]

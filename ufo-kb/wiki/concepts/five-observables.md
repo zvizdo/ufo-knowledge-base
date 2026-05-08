@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The DoD/Pentagon's documented set of five observable properties consistently reported across multiple UAP sightings — codified from optical, radar, and infrared detections — forming the empirical basis for UAP reverse-engineering programs."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/qAou_h1POWs.md]
 tags: [five-observables, dod, pentagon, uap-properties, empirical-baseline, reverse-engineering]
 ---

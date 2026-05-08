@@ -7,8 +7,6 @@ date: 2020
 type_doc: documentary-film
 classification: public
 tags: [james-fox, documentary, ufo-disclosure, project-blue-book, battelle, robertson-panel, harry-reid, 1994-zimbabwe-school, fife-symington]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # The Phenomenon (Fox Documentary)

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Theoretical physicist and science communicator (Arizona State University); received $250,000 in funding from Jeffrey Epstein; publicly expressed confusion about why Epstein knew his work and was connected to his graduate program."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 name: Lawrence Krauss
 aliases: []

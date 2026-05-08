@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Lockheed security guard positioned directly behind Robert F. Kennedy at the moment of his shooting on June 5, 1968; identified by multiple researchers as the probable actual gunman in a theory that positions Sirhan Sirhan as an MK-Ultra-programmed decoy."
-created: 2026-05-05
-updated: 2026-05-05
 name: Eugene Thane Caesar
 aliases: [Thane Eugene Cesar, Thane Cesar]
 roles: [security guard]

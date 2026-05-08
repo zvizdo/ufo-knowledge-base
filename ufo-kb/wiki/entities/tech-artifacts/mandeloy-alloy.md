@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Family of nickel-based superalloys co-invented by Monica Resza and Dallas Hardwick at Rockwell Science Center (1990s); developed under AFRL contracts; enabled the first US oxygen-rich rocket engine to replace Russia's RD-180; sits in a contested lineage with Nitinol and alleged Roswell-derived exotic metallurgy."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Mandeloy Alloy
 aliases: [Mandaloy, Mandeloy 100, Mandeloy 200]

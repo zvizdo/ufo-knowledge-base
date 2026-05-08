@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: [harvard-university]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/consciousness-as-technology.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "American historian (1898–1968) at Harvard; known for 'The Anatomy of Revolution' (1938); cited in KB for a 1968 Harvard lecture attended by Danny Sheehan, in which Brinton argued humanity is evolving into a next species whose defining characteristic will be consciousness-based capacities."
 tags: [harvard, history, revolution, consciousness-evolution, sheehan]

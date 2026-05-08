@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "TRW Inc. — original principal contractor for US crash retrieval programs from the early 1960s; operated for ~29 years before being replaced; one FFRDC is a spin-off of TRW."
-created: 2026-04-26
-updated: 2026-04-26
 name: TRW
 aliases: [TRW Inc., Thompson Ramo Wooldridge]
 type: private-co

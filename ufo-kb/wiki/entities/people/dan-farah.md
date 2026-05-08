@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Filmmaker who produced The Age of Disclosure documentary (2025), featuring senior intelligence officials endorsing the reality of UAP crash retrieval and back-engineering programs."
-created: 2026-04-26
-updated: 2026-04-26
 name: Dan Farah
 aliases: []
 roles: [researcher, journalist]

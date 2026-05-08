@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "President of MIT and senior WWII science adviser; reportedly briefed on recovered UAP technology at Wright Air Field in 1950 — documented in a letter to Robert Sarbacher that became a key link in the Stanton Friedman chain."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Carl Compton
 aliases: [Karl Taylor Compton, K.T. Compton, Compton]

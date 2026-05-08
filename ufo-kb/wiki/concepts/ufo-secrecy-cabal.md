@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: A well-organized, well-funded, transnational group (Salas's 'UFO secrecy cabal') systematically suppresses evidence of non-human intelligence and recovered craft; operates across governments and uses institutional cover stories, NDAs, and media influence."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/LpLFWdsIU7M.md]
 tags: [cover-up, disclosure-narratives, nda, institutional-suppression, cabal]
 ---

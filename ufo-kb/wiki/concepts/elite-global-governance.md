@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Elite Global Governance: the thesis that a transnational elite coordinates global policy through nested institutional structures (Bohemian Grove, Bilderberg, WEF, etc.); adjacent to UFO discourse via the 'breakaway civilization' and 'secrecy cabal' framing."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KhmUixSXxDo.md]
 tags: [elite-networks, bohemian-grove, bilderberg, wef, breakaway-civilization, ufo-secrecy-cabal, alex-jones, global-governance]
 ---

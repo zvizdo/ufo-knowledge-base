@@ -3,8 +3,6 @@ type: concept
 name: NHI Contact Protocols
 aliases: [NHI contact protocols, NHI communication protocols, contact protocols]
 first_seen_in: ufo-kb/wiki/concepts/eleusinian-mysteries.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Proposed frameworks for communicating or establishing contact with non-human intelligence; ranges from technical approaches (SETI-style electromagnetic signaling) to consciousness-based protocols (CE-5 meditation, remote viewing), with the Eleusinian mysteries cited as a possible historical template for structured human-NHI interface."
 tags: [nhi-contact, ce5, seti, communication, protocols, eleusinian-mysteries]

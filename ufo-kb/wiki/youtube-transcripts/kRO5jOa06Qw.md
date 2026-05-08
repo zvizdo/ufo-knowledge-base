@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "David Grusch's most wide-ranging public conversation — personal background, Congressional hearing aftermath, biologics testimony, nuclear-UFO nexus, anti-gravity history, and theoretical frameworks for NHI propulsion and origin."
-created: 2026-04-27
-updated: 2026-04-27
 video_id: kRO5jOa06Qw
 title: "David Grusch Breaks Silence: Inside Secret UFO Programs"
 channel: American Alchemy

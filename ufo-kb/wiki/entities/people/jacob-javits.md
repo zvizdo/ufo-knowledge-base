@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "U.S. Senator from New York (1957–1981), Republican. Appears in UAP/deep-state discourse in connection with MK-Ultra funding and the network of senators who provided political cover for or were connected to CIA mind-control programs."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Jacob Koppel Javits
 aliases: []

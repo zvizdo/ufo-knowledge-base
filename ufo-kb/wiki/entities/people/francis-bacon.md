@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Sir Francis Bacon: 16th–17th century philosopher and statesman cited by Jason Reza Jorjani as having used Shakespeare as a vehicle for esoteric writing; recurring figure in discussions of elite secret knowledge traditions."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: Francis Bacon
 aliases: [Sir Francis Bacon, Lord Verulam, Viscount St Alban]

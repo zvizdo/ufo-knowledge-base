@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Lawrence F. O'Brien Jr. — Chairman of the Democratic National Committee at the time of the Watergate break-in (June 1972). His DNC office was the target of the burglary. In UAP/deep-state discourse, theories suggest the burglars were seeking O'Brien's files on Howard Hughes (and potentially UAP-related intelligence)."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Larry O'Brien
 aliases: [Lawrence F. O'Brien, Lawrence Francis O'Brien Jr.]
@@ -10,7 +8,6 @@ roles: [official]
 affiliations: [Democratic National Committee, Kennedy administration, Johnson administration, Howard Hughes Organization]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/C4rSj5Aum7w.md
-updated: 2026-04-26
 tags: [watergate, dnc, nixon, cia, deep-state, howard-hughes, s-force]
 ---
 

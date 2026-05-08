@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "North American Aerospace Defense Command — bi-national US/Canada command responsible for aerospace warning, aerospace control, and maritime warning. Tracks all airborne objects over North America, including UAP, through its network of radar installations."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: NORAD
 aliases: [North American Aerospace Defense Command]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British historian (1889–1975); author of A Study of History (12 volumes); his meta-historical framework of civilizational rise, stagnation, and divergence inspired Richard Dolan's coinage of 'breakaway civilization.'"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Arnold Toynbee
 aliases: [Arnold J. Toynbee]

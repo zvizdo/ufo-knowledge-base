@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Air Force base in New Mexico, site of an alleged UAP landing in the early 1960s involving beings with Egyptian-style headgear; footage reportedly processed at Norton AFB and confiscated by men in suits."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: Holloman Air Force Base
 aliases: [Holloman AFB, Hallman AFB]

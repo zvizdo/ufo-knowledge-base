@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Prince Hans-Adam II of Liechtenstein; close friend of Lawrence Rockefeller who assembled a group of Roswell witnesses at Rockefeller's behest in the 1970s–80s; the experience reportedly convinced Rockefeller the UAP phenomenon was real."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Hans-Adam II
 aliases: [Prince Hans-Adam II, Hans-Adam II of Liechtenstein]

@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Ancient ocean that covered the Giza region in deep prehistory; its hydrothermal vent activity deposited the iron ore and rare-earth-bearing veins central to the pyramid-as-chemical-manufacturing thesis."
 tags: ["geology", "pyramids", "drum-thesis"]

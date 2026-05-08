@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Multi-national academic project using muon tomography and other non-invasive methods to map the interior of Egyptian pyramids; discovered the 'Big Void' above the Grand Gallery in the Great Pyramid (2017)"
-created: 2026-04-27
-updated: 2026-04-27
 name: ScanPyramids Project
 aliases: [Scan Pyramids]
 type: research-group

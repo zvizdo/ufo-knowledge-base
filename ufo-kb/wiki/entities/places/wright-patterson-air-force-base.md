@@ -6,8 +6,6 @@ roles: []
 affiliations: [us-air-force]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/incidents/1947-aztec.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Air Force base near Dayton, Ohio; home of the Air Force Research Laboratory and Air Force Materiel Command; the hub of USAF aerospace R&D and, in UAP claims, the most frequently cited location for storage of recovered UAP materials and bodies."
 tags: [air-force, ohio, uap-storage, hangar-18, blue-book, foreign-technology, crash-retrieval]

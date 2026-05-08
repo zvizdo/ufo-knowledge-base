@@ -3,8 +3,6 @@ type: concept
 name: Intermittent Reinforcement
 aliases: [intermittent reinforcement, variable ratio reinforcement, operant conditioning]
 first_seen_in: ufo-kb/wiki/concepts/control-system-hypothesis.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Operant conditioning phenomenon: rewards delivered on unpredictable schedules (not every response) produce stronger, more persistent behavior than fixed-ratio reinforcement; used by Vallée as the psychological mechanism in the control system hypothesis — NHI provide intermittent, ambiguous contact to maximize behavioral conditioning of humanity."
 tags: [psychology, operant-conditioning, skinner, vallee, control-system, reinforcement-schedule]

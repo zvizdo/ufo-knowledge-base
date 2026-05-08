@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/farooq-el-baz.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Northeastern African nation and site of one of antiquity's most sophisticated civilizations; in the KB, Egypt is relevant as the origin of sacred geometric traditions, mystery school lineages, the Giza plateau (Great Pyramid, Sphinx), and the cultural background of Farouk El-Baz — whose selection of Apollo lunar landing sites carries esoteric resonance."
 tags: [egypt, giza, pyramid, sphinx, sacred-geometry, esoteric, mystery-schools, farooq-el-baz, ancient-civilization]

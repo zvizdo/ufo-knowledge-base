@@ -3,8 +3,6 @@ type: entity
 entity-type: organizations
 name: Institute for Defense Analyses
 summary: "Federally funded research and development center (FFRDC) chartered to advise the Office of the Secretary of Defense and other national security agencies on complex technical and policy questions."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [research-group, dod, physics]
 aliases: []
 ---

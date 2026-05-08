@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Peer-reviewed paper by Steven Bruell and Beatriz Villarroel showing statistically significant correlation between nuclear bomb tests and pre-Sputnik Palomar transient appearances; accepted at Scientific Reports."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 title: Nuclear Test Correlation with Pre-Sputnik Palomar Transients
 authors: [steven-bruell, beatriz-villarroel]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Think tank founded by John Peterson — who appeared on many DoD Secretary of Defense shortlists — that in ~1998 convened a mini-conference simulating 'what it would be like in a world where extraterrestrials are openly acknowledged as living among us.'"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Arlington Institute
 aliases: []

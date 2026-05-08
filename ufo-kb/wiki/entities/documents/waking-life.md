@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2001 Richard Linklater animated/live film exploring consciousness, free will, and existential philosophy; includes a monologue by Alex Jones on human liberty and populist anti-corporatism that Jesse Michaels describes as Jones's authentic philosophical core."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/KhmUixSXxDo.md]
 name: Waking Life
 title: "Waking Life"

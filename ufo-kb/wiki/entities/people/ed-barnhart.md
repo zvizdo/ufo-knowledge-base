@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Archaeologist and mentor to Luke Caverns; accepts that global flood myths may reflect a real ancestral memory"
-created: 2026-04-26
-updated: 2026-04-26
 name: Ed Barnhart
 aliases: [Dr. Barnhart]
 roles: [researcher]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army remote viewer (Stargate/Gondola Wish programs); reportedly won the Legion of Merit for 200+ intelligence-collection successes via remote viewing; cited as evidence that the government's remote viewing program produced genuine intelligence value."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/nTiFs8LudUo.md]
 name: Joseph McMoneagle
 aliases: ["Remote Viewer #001"]

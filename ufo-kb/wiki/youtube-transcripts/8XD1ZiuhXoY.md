@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy episode with neuroscientist Andrew Gallimore exploring DMT as a technology for accessing non-human intelligences, the DMTX extended-state protocol, and the convergence of psychedelic phenomenology with UAP/NHI discourse."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 video_id: 8XD1ZiuhXoY
 title: "DMT Opens The Alien Realm!"

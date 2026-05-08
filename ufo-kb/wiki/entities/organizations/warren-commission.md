@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The President's Commission on the Assassination of President Kennedy (1963–1964), chaired by Chief Justice Earl Warren; concluded Oswald acted alone. Criticized by subsequent researchers for structural conflicts of interest, evidence suppression, and the participation of Allen Dulles."
-created: 2026-05-05
-updated: 2026-05-05
 name: Warren Commission
 aliases: [President's Commission on the Assassination of President Kennedy]
 type_detail: government-commission

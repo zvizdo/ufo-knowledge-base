@@ -7,8 +7,6 @@ roles: [entrepreneur, executive]
 affiliations: [SpaceX, Tesla, X, xAI, DOGE]
 firsthand_claims: []
 tags: [musk, spacex, starlink, uap-adjacent, disclosure-politics, silicon-valley]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Elon Musk

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The hypothesis that the UAP/paranormal phenomenon is a conscious, reactive intelligence that selectively shows itself, communicates through cryptographic or electronic disturbances, and responds to direct engagement."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md, raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/I9VyyV4-3Js.md]
 tags: [skinwalker-ranch, consciousness, nhi, trickster, interactive-phenomenon, cryptographic, reactive]
 ---

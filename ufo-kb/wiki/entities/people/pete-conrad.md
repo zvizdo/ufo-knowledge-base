@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Apollo 12 commander (3rd human on the Moon); Gemini 11 commander during the 1966 mission that included a power-drain UFO encounter and the contested 'strange object' lithograph."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Pete Conrad
 aliases: [Charles Conrad Jr.]

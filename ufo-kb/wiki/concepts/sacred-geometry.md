@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The study of geometric and mathematical patterns held to underlie nature, cosmology, and ancient sacred architecture — the claim that pre-modern civilizations encoded cosmological knowledge in the proportions and layouts of their monuments."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [ancient-history, geometry, mathematics, pyramid, mystery-schools, consciousness, sacred-architecture]
 ---
 

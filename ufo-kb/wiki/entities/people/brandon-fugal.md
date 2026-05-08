@@ -3,8 +3,6 @@ type: entity
 name: Brandon Fugal
 aliases: []
 summary: "Utah real estate developer who purchased Skinwalker Ranch from Robert Bigelow in 2016 for approximately $4M; opened the ranch to scientific investigation and filming; primary on-site interviewee in the History Channel *Secret of Skinwalker Ranch* series."
-created: 2026-05-05
-updated: 2026-05-05
 roles: [researcher, other]
 affiliations: [Skinwalker Ranch]
 firsthand_claims:

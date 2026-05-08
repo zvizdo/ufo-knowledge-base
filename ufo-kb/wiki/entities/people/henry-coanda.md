@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Romanian engineer who patented a lenticular aerodyne saucer design in 1936 and later consulted on the Avrocar project at Wright-Patterson via Operation Paperclip."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Henry Coanda
 aliases: [Henri Coandă]

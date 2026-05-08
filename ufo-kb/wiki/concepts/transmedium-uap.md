@@ -2,8 +2,6 @@
 type: concept
 stub: true
 summary: "UAP behavior involving seamless transition between air and water, or emergence from/entry into bodies of water — documented across Scandinavian ghost rockets, 1946 Swedish lake incidents, Hessdalen, and multiple global sighting clusters."
-created: 2026-04-27
-updated: 2026-04-27
 tags: [transmedium, uap-water, ghost-rockets, hessdalen, phenomenology]
 ---
 

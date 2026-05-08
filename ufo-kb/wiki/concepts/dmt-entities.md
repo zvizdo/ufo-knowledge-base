@@ -3,8 +3,6 @@ type: concept
 name: DMT Entities
 aliases: [DMT entities, dmt-entities, DMT beings, machine elves, DMT aliens, tryptamine entities]
 first_seen_in: ufo-kb/wiki/entities/people/jace-callaway.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Non-human entities consistently reported by subjects during high-dose DMT experiences; described as autonomous, communicative, often described as mechanical, insectoid, or translucent; their objective existence, origin, and relationship to UAP entity reports is debated; Rick Strassman's clinical study (1994) systematized the taxonomy."
 tags: [dmt, entities, consciousness, psychedelics, rick-strassman, nhi, contact, machine-elves]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Lawrence Rockefeller's ranch in the Tetons, Wyoming; site of Greer's September 1993 meeting with Rockefeller; the Clintons vacationed here; donated surrounding land to the US government as Grand Teton National Park."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/areO7Mej44E.md]
 name: JY Ranch
 aliases: [Rockefeller Ranch, Rockefeller Tetons Ranch]

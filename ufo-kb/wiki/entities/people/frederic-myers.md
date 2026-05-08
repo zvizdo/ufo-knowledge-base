@@ -6,8 +6,6 @@ roles: [researcher, poet, author]
 affiliations: [society-for-psychical-research]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/edmund-gurney.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "British psychical researcher (1843–1901); co-founder of the Society for Psychical Research; coined the term 'telepathy'; authored 'Human Personality and Its Survival of Bodily Death' (1903), a foundational text in parapsychology."
 tags: [spr, parapsychology, telepathy, consciousness, 19th-century, survival-research]

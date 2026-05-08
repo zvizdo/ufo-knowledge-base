@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 video_id: V00WcEiKRAY
 title: "\"I Located A UFO Base In Arizona!\" (Ft. Ross Coulthart)"
 channel: American Alchemy

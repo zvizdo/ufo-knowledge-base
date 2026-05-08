@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "CIA strategy of releasing a small, controlled portion of damaging information to create the impression of transparency while concealing the larger truth; explicitly acknowledged as a CIA operational term; applied to the MK Ultra document disclosure (7 surviving boxes out of 15,000 pages) and analogized to other partial-disclosure events."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 tags: [cia, disclosure, cover-up, mk-ultra, disinformation, limited-hangout, uap-disclosure]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Lt. Colonel (ret.), U.S. Army Delta Force / Green Beret, DARPA Program Manager for Tactical Mobile Robotics and a classified bio-camouflage SAP; cognitive psychology doctorate; self-disclosed alien abductee with two core experiences (1995 missing-time bike ride, praying-mantis terror encounter); advocates that abductions are the primary reason for UFO secrecy."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/yAvD5UTziTo.md]
 name: John Blitch
 aliases: [Colonel Blitch, LTC Blitch, Lt. Colonel Blitch]

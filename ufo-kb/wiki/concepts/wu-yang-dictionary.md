@@ -3,8 +3,6 @@ type: concept
 name: Wu-Yang Dictionary
 aliases: [Wu-Yang correspondence, fiber bundle gauge theory correspondence]
 summary: "A 1975 mathematical correspondence between gauge field theories in physics (Yang-Mills, general relativity) and the differential geometry of fiber bundles, co-authored by Chen-Ning Yang and James Simons; demonstrates that the Standard Model's gauge fields are identical in structure to geometric connections on fiber bundles."
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 tags: [physics, yang-mills, gauge-theory, differential-geometry, fiber-bundles, standard-model, jim-simons]
 ---

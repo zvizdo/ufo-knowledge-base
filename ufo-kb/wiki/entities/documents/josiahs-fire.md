@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Book documenting the case of Josiah, an autistic child with apparent extraordinary abilities including possible telepathic communication; co-authored by Josiah's mother and Max Davis."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 title: "Josiah's Fire: Autism Stole His Words, God Gave Him a Voice"
 authors: [Tahni Cullen, Joe Cullen, Max Davis]

@@ -9,8 +9,6 @@ first_seen_in: raw/youtube-transcripts/zjpvfDFc4fg.md
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 tags: [skunkworks, lockheed, consciousness, levitation, uap-insider, secret-machines]
 summary: "Director of Lockheed's Revolutionary Projects Organization at Skunk Works; invited religious studies scholar Jeffrey Kripal to brief engineers on levitation; advised Tom DeLonge's Secret Machines project."
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Charles Chase

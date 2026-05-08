@@ -7,8 +7,6 @@ witnesses: [hiking companions]
 craft_type: N/A
 corroboration: multi-witness
 tags: [missing-person, monica-resza, angeles-national-forest, mandeloy, scientists-targeting-pattern]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 summary: "NASA/AF materials scientist and Mandeloy co-inventor Monica Resza disappeared June 22, 2025 on a Mount Waterman hiking trail; 30 feet behind companions when last seen; no remains found after 150+ days of organized search and civilian volunteer expeditions."
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Large-scale astronomical survey observatory in Chile; produces 1,000+ all-sky images nightly covering the entire southern hemisphere; all imagery passes through a Pentagon filter before reaching scientists; Carl Gilmore's final project; expected to detect 50 interstellar objects during its run."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Vera Rubin Observatory
 aliases: [Rubin Observatory, LSST]

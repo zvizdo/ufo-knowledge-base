@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Steven Greer's organization; hosted the 2001 National Press Club event where ~20 military and government witnesses testified on UAP; controversial for Greer's CE-5 claims and his insistence that all UAP are non-threatening."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/areO7Mej44E.md]
 name: Disclosure Project
 aliases: [CSETI]

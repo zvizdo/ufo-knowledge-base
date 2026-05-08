@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Phoenix, Arizona council woman who publicly called for investigation of the 1997 Phoenix Lights; the only elected official willing to take the sightings seriously; was ridiculed by mainstream press."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hBrfe4hFuM0.md]
 name: Emma Barwood
 aliases: [Francis Emma Barwood]

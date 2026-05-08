@@ -7,8 +7,6 @@ roles: [official]
 affiliations: [US Senate (WV), Senate Intelligence Committee]
 firsthand_claims: []
 tags: [rockefeller, senate, intelligence-committee, disclosure-politics]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Jay Rockefeller

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Retired USAF missile targeting technician stationed at Malmstrom AFB and later Fe Warren AFB; provided Robert Hastings with back-channel sources for the 2010 Fe Warren ICBM outage and described the UAP as an aircraft-carrier-scale cigar-shaped craft."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fzvwBBSmWYA.md]
 name: John Mills
 aliases: []

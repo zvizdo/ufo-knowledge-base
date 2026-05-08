@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Historical and documented accounts of Christian saints (and counterparts in other traditions) exhibiting levitation or physical flight, treated by some scholars as warranting historical status rather than metaphor."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/ATJwqp5twAg.md]
 tags: [levitation, saints, consciousness, paranormal, religion, uap-adjacent]
 ---

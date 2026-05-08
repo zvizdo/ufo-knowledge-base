@@ -6,7 +6,6 @@ country: Mars
 coordinates: "40.75°N 9.46°W"
 type: region
 tags: [mars, ancient-civilization, face-on-mars, pyramid-structures]
-updated: 2026-04-26
 ---
 
 # Cydonia

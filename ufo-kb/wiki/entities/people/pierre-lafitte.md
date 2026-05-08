@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Man with ~20 documented aliases; one alias was 'Hydell'—identical to Lee Harvey Oswald's alias 'Alex Hydell'; worked at the Reilly Coffee Company in New Orleans in the same period as Oswald (1960–63); alleged by Colin Ross to have pushed Frank Olson from the Statler Hotel window in 1953."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Pierre Lafitte
 aliases: [one alias: Hydell]

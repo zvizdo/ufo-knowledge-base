@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "New Zealand journalist who was on the 1978 Kaikoura aircraft when UAPs were observed; son Ben Fogarty was a senior cameraman at 60 Minutes (Australia) where Ross Coulthart worked."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Quentin Fogarty
 aliases: []

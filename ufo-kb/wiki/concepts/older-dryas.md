@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "A catastrophic climatic period ~14,500 years ago (older than the Younger Dryas), characterized by a massive atmospheric carbon spike and rapid temperature rise; Matt Lroy argues it paired with the Younger Dryas to bracket the end of the Ice Age via binary-star perihelion events."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/A_LsUSxTm7A.md]
 tags: [older-dryas, catastrophism, climate, ice-age, solar, cme, binary-star, carbon-spike]
 ---

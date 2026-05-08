@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Electrokinetic phenomenon described by Thomas Townsend Brown in the 1920s–1950s: an asymmetric capacitor under high voltage produces thrust in the direction of the positive electrode; alleged propulsion basis for some UAP and for the B-2 bomber's flight characteristics."
-created: 2026-04-26
-updated: 2026-04-27
 aliases: [bifield-brown-effect]
 tags: [thomas-townsend-brown, electrogravitics, propulsion, anti-gravity, arts-parts, bismuth, b2-stealth-bomber, exodus-propulsion, qed]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Prominent UFO researcher active in the 1980s–90s; longtime friend and advocate for John Ford; strongly believed both the 1989 Long Island crash retrieval was real and that Ford was framed."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Elaine Douglas
 aliases: []

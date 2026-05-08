@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Directed microwave technology that beams sound directly into a person's skull via thermoelastic effects in the inner ear endolymph; modulated with voice it produces apparent disembodied speech; relevant to Havana syndrome mechanism and NHI communication speculation."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Voice of God Technology / Microwave Hearing Effect
 aliases: [Microwave Auditory Effect, Frey Effect, Voice of God Weapon]

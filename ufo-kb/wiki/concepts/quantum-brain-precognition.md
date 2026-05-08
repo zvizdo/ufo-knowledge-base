@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Eric Wargo's thesis that the brain is a hybrid classical/quantum system capable of temporal non-locality — sending information from a future knowledge state backward in time, producing precognition, intuition, and anomalous remote viewing results."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/hXYdkcv5TtY.md]
 tags: [quantum-brain, precognition, retrocausality, temporal-non-locality, eric-wargo, remote-viewing, intuition, penrose, hameroff, consciousness]
 ---

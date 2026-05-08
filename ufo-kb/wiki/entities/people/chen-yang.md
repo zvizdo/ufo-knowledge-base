@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chinese-American theoretical physicist who co-authored the Yang-Mills gauge theory (1954) and co-developed the Wu-Yang dictionary with Jim Simons — described by Eric Weinstein as 'the world's greatest living theoretical physicist' — working at SUNY Stony Brook while adjacent to the RIAS advanced-physics network."
-created: 2026-05-05
-updated: 2026-05-05
 name: Chen-Ning Yang
 aliases: [C.N. Yang, Frank Yang, Yang Chen-Ning]
 roles: [physicist, professor]

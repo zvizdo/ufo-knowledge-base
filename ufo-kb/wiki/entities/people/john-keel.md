@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American journalist and researcher who investigated Mothman, Men in Black, and UFO phenomena; argued against the extraterrestrial hypothesis, framing UAP as ultraterrestrial manifestations of a 'superspectrum' of energy that interfaces with human consciousness."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: John Keel
 aliases: [John A. Keel]

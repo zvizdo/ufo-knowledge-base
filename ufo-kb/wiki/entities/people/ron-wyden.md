@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [us-senate]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/jay-rockefeller.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Senator from Oregon (1996–present); senior member of the Senate Select Committee on Intelligence; known for aggressive oversight and transparency advocacy including NSA surveillance; cited alongside Jay Rockefeller, Richard Shelby, and Mario Biaggi as a congressional figure using intelligence committee positions to seek information about UAP programs."
 tags: [senator, oregon, senate-intelligence-committee, oversight, surveillance, transparency, disclosure-politics]

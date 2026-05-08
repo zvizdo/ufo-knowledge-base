@@ -7,8 +7,6 @@ parent_org: Premiere Networks (iHeartMedia)
 country: USA
 active_period: 1984–present
 tags: [radio, ufo-media, art-bell, george-noory, paranormal, late-night-radio]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "Overnight radio talk show; primary mass-media platform for UFO disclosure claims from the 1990s onward; launched or amplified the careers of many major UAP researchers and whistleblowers."
 ---

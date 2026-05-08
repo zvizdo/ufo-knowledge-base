@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nazi-era German computer scientist who built the world's first modern programmable computer before Turing and first proposed we live in a 'Calculating Space' (Rechnender Raum) — a computational universe detectable through nuclear detonations."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: Konrad Zuse
 aliases: []

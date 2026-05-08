@@ -2,8 +2,6 @@
 type: synthesis
 synthesis-type: cluster
 summary: "Maps the physical evidence landscape for the Nazca tridactyl mummies claim — the most materially substantial NHI biologics case in this KB. Organizes the multi-team forensic record, the implant findings, the GLI3 genetic anomaly, the Grusch congressional confirmation, and the Colossal Biosciences genomic test as a stratified evidence framework."
-created: 2026-04-26
-updated: 2026-04-26
 derived-from: [nazca-tridactyl-mummies, 2015-nazca-mummy-discovery, osmium-cadmium-implants, tridactyl-global-pattern, nazca-mummies-real-claim, colossal-biosciences, enari-institute, university-of-ika, elena-hardy, david-grusch, government-suppression-ufo]
 tags: [nazca-mummies, physical-evidence, nhi-biologics, osmium, gli3, colossal-biosciences, grusch, peru, synthesis, tridactyl]
 ---

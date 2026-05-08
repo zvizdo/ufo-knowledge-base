@@ -7,8 +7,6 @@ region: North Atlantic
 country: international
 type_place: region
 tags: [bermuda-triangle, disappearances, anomalous-zone, stub]
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 summary: "A loosely defined region of the North Atlantic between Miami, Bermuda, and Puerto Rico associated with anomalous disappearances of aircraft and ships. The 1945 Flight 19 disappearance is its most cited incident. Mainstream explanations range from navigational error to methane hydrate releases; UAP researchers cite it as a possible anomalous energy zone."
 ---

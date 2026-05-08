@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: [oto, golden-dawn, a-a-thelema]
 firsthand_claims: ["Authored the Hymn to Pan and the foundational ritual texts of Thelema", "Established the OTO Agape Lodge in Pasadena under Jack Parsons in the 1930s–40s"]
 first_seen_in: raw/youtube-transcripts/zjpvfDFc4fg.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 summary: "British occultist (1875–1947); founder of Thelema; head of the OTO during the 1930s–40s; via the OTO Agape Lodge in Pasadena and his correspondence with Jack Parsons, became the direct organizational link between modern ceremonial magic and the founding of American rocketry — with continuing relevance to the occult-aerospace-connection thesis."
 tags: [occult, thelema, oto, golden-dawn, sex-magic, ceremonial-magic, occult-aerospace, hymn-to-pan]

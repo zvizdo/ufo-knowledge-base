@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Atmospheric physicist at the University of Arizona who became the most rigorous scientific proponent of the extraterrestrial hypothesis before his death in 1971; his critique of the Condon Committee, 'Science in Default,' is a foundational document of serious UFO research."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: James McDonald
 aliases: [James E. McDonald]

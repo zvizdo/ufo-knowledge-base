@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis that UFO encounters are phenomenologically identical to religious conversion experiences, and that UFO belief is on a trajectory to formalize as religion — potentially converging with simulation theory into a neo-Gnostic framework."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Mb6NPPjCyg.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/I9VyyV4-3Js.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/wT5-hXWIkzM.md]
 tags: [ufo-religion, gnosis, simulation-theory, conversion-experience, phenomenology, claims-theses, disclosure-narratives]
 ---

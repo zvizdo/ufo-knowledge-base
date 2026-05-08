@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF Lt. Colonel and base operations/UFO officer at Malmstrom AFB in 1967; investigated the Belt, Montana UFO landing and wrote detailed reports to Air Force HQ and the Condon Commission — then denied all knowledge in a Condon interview."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Lewis Chase
 aliases: [Lewis D. Chase]

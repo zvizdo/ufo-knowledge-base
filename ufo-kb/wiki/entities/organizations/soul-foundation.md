@@ -3,8 +3,6 @@ type: entity
 name: Soul Foundation
 aliases: [SOUL Foundation]
 summary: "Organization associated with Helen McCall that produced a UAP/financial-stability white paper arguing that UAP disclosure is an untracked systemic risk to global financial markets; referenced in the Matthew Pines interview context."
-created: 2026-05-05
-updated: 2026-05-05
 type_detail: research-group
 country: US
 tags: [uap-disclosure, finance, systemic-risk, helen-mccall, disclosure-economics]

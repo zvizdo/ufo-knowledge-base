@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Host of Infowars; prominent conspiracy commentator who infiltrated Bohemian Grove (2000) and Bilderberg; predicted 9/11 in July 2001; frames himself as René Girard scapegoat of the anti-establishment populist movement."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KhmUixSXxDo.md, raw/youtube-transcripts/RofQnByLwOo.md]
 name: Alex Jones
 aliases: [Alexander Emric Jones]

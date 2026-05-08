@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Harvard-trained psychiatrist, student and heir of John Mack's anomalous-experience practice, who worked for years with Chris Bledsoe to recover suppressed memories; based in South Carolina; now deceased."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bM18PJY6_Zc.md]
 name: Michael O'Connell
 aliases: [Dr. Michael O'Connell]

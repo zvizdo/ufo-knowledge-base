@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The middle pyramid at Giza Plateau, attributed to pharaoh Khafre; center of the Biondi/Beyond Protocol substructure discovery — eight cylindrical spiral structures descending ~1 km below its base"
-created: 2026-04-27
-updated: 2026-04-27
 name: Khafre Pyramid
 aliases: [Pyramid of Khafre, Second Pyramid of Giza, Pyramid of Chephren]
 region: Giza, Lower Egypt

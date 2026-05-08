@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "January 1977: Danny Sheehan, working as special counsel to the Congressional Research Service UFO study commissioned by President Carter, viewed classified Project Blue Book microfiche photos showing a ~40-ft saucer crashed in a snow-covered embankment surrounded by Air Force personnel, with unknown symbols around the dome base."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
 name: 1977 Sheehan Blue Book Photo Viewing
 date: January 1977

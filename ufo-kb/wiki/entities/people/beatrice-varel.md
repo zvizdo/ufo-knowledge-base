@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CONFIRMED ALIAS: This page is Beatriz Villarroel — see [[beatriz-villarroel]]. Swedish-Spanish astrophysicist at Stockholm University; VASCO PI; also Dennis Asberg's key BSA collaborator."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aGqFOxuYRT0.md, raw/youtube-transcripts/iPxbILOMQ08.md, raw/youtube-transcripts/lbGE3EC6StE.md]
 name: Beatrice Varel
 aliases: [Beatatrice, Beatrice Voriel]

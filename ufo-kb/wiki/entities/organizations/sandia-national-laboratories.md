@@ -6,7 +6,6 @@ parent_org: Department of Energy
 country: USA
 active_period: "1949–present"
 tags: [nuclear, weapons, security, kirtland]
-updated: 2026-04-26
 ---
 
 # Sandia National Laboratories

@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Period preceding pharaonic Egypt (~10000–3000 BCE); in alternative-archaeology readings of Giza, the era when the deepest substructures were constructed by an advanced population during the [[saharan-humid-period|Saharan Humid Period]]."
 tags: ["egypt", "alternative-archaeology", "pre-dynastic"]

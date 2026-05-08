@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Framework for analyzing UAP as an aviation safety and national security hazard: near-miss incidents, under-reporting driven by career stigma, cognitive loading of military pilots, and systemic failure to treat unknowns as airspace hazards."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/6WC4o2yY9Ws.md]
 tags: [aviation-safety, uap, military-pilots, commercial-pilots, stigma, hazrep, cognitive-load, near-miss]
 ---

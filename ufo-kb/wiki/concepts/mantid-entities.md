@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Non-human intelligences that appear in the form of giant praying mantises; reported in abduction accounts, remote viewing sessions, and close encounter testimony; associated with psychic power transmission, soul harvesting, and the trickster archetype."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md]
 tags: [mantid, nhi, abduction, trickster, soul-harvesting, shapeshifting, ted-owens]
 ---

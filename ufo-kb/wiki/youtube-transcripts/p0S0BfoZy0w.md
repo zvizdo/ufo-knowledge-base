@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Jesse Michels interviews Dr. John Brandenburg — plasma physicist, Mars researcher, and GEM theory author — covering the Martian nuclear war thesis, Cydonia anomalies, the Paleo-Ocean, Roswell, UFO cover-up confirmation, and gravity-electromagnetism unification experiments."
-created: 2026-04-27
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/p0S0BfoZy0w.md]
 video_id: p0S0BfoZy0w
 tags: [mars, nuclear-war, cydonia, roswell, john-brandenberg, gem-theory, gravity-modification, ufo-cover-up, anti-gravity, paul-benowitz, edward-teller, carl-sagan]

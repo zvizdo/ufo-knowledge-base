@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Federally Funded Research and Development Center (FFRDC) that supports the NRO; has a campus in Colorado Springs where NRO has a tenant organization; Eric Davis was flown there to brief David Grusch and Jay Stratton's UAP Task Force team."
-created: 2026-04-26
-updated: 2026-04-26
 name: Aerospace Corporation
 aliases: [Aerospace Corp, The Aerospace Corporation]
 type: research-group

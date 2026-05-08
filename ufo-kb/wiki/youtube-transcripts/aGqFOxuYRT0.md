@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 video_id: aGqFOxuYRT0
 title: "There's A UFO On The Seafloor! — Treasure Hunter Dennis Asberg"
 channel: American Alchemy

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "DMT researcher exploring whether subjects in adjacent Faraday cages can telepathically share imagery during DMT states — a proposed test of whether DMT-state communication is electromagnetic or genuinely non-local."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 name: Anton Bilton
 aliases: []

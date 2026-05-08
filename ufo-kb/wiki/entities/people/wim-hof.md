@@ -13,8 +13,6 @@ firsthand_claims:
   - Would expose himself to COVID-19 and defeat it via breathing; considers current fear response driven by bad-faith institutional framing
 first_seen_in: raw/youtube-transcripts/_CBtd8Om-hU.md
 tags: [breathwork, cold-exposure, autonomic-nervous-system, dna, consciousness, corona-radiata, suppressed-healing, open-source, immunity]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/_CBtd8Om-hU.md]
 summary: "Dutch extreme athlete (born 1959) holding 26 world records in cold exposure endurance; developer of the Wim Hof Method combining breathwork and cold exposure; demonstrated willful control of the autonomic nervous system in lab conditions — previously considered impossible — and showed immune response activation within minutes via breathwork."
 ---

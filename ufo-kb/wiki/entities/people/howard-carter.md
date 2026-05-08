@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British archaeologist who discovered Tutankhamun's tomb in 1922–23; survived the 'curse' longer than his colleagues"
-created: 2026-04-26
-updated: 2026-04-26
 name: Howard Carter
 aliases: []
 roles: [researcher]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Swedish civilian UFO investigation organization; one of the oldest and most established in Europe; Dennis Asberg emailed them in 1996 after his UAP sighting but received no reply."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aGqFOxuYRT0.md]
 name: UFO Sweden
 aliases: [UFO-Sverige]

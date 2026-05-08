@@ -10,7 +10,6 @@ firsthand_claims:
 first_seen_in: knuth-academic-uap-science-cluster
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/QgxjtDS2sIQ.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/dnnpyNuPdXs.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 tags: [metamaterials, uap-science, biology, immunology, stanford, brain-neurodensity, consciousness, anomalous-cognition, uap-health-effects, radiation-exposure]
-updated: 2026-04-27
 ---
 
 # Garry Nolan

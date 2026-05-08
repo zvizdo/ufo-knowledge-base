@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Air Force Office of Special Investigations — USAF counterintelligence branch; appears consistently in UFO-nuclear incident aftermath to administer non-disclosure agreements to witnesses."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Air Force Office of Special Investigations
 aliases: [AFOSI, OSI]

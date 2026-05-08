@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Rear Admiral, former head of NOAA (National Oceanic and Atmospheric Administration); actively researching underwater UAP anomalies (USOsunidentified submerged objects); one of the few senior officials connecting the naval underwater domain to UAP phenomena."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/6WC4o2yY9Ws.md]
 name: Tim Gallaudet
 aliases: [Rear Admiral Tim Gallaudet]

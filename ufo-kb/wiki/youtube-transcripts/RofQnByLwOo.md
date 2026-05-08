@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=RofQnByLwOo
 duration_minutes: ~60
 tags: [precognition, quantum-biology, remote-viewing, stargate-program, quantum-brain-precognition, microtubules, consciousness, retrocausality, eric-wargo]
 sources: [raw/youtube-transcripts/RofQnByLwOo.md]
-created: 2026-04-26
-updated: 2026-04-26
 ---
 
 # Your Brain Is A Quantum Time Machine (ft. Eric Wargo)

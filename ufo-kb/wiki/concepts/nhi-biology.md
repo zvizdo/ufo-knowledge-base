@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The study of or speculation about the physical biology, physiology, and evolutionary origin of non-human intelligences — drawing on crash-retrieval testimony, abduction accounts, and comparative biology to characterize entities whose existence is not confirmed by mainstream science."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [nhi, biology, crash-retrieval, abduction, grey-aliens, physiology, reverse-engineering]
 ---
 

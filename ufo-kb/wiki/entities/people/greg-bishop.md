@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Author of Project Beta (2005), the definitive account of the Rick Doty / Paul Benowitz disinformation operation; UAP researcher and radio host."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/73YBwFvcmF8.md, raw/youtube-transcripts/WBTqsbwJyqU.md]
 name: Greg Bishop
 aliases: []

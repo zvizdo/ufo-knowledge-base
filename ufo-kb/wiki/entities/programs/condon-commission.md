@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "University of Colorado UFO study (1966–1968), funded by the Air Force and headed by physicist Edward Condon; produced a null-result report used to terminate Project Blue Book; widely considered a pre-determined whitewash."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Condon Commission
 aliases: [University of Colorado UFO Study, Colorado Project]

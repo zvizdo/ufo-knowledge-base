@@ -3,8 +3,6 @@ type: entity
 entity-type: people
 name: Robert Schoch
 summary: "Boston University geologist who dated the Sphinx to at least 10,000 BC based on water erosion patterns, implying a much older Egyptian civilization than mainstream archaeology accepts; a significant figure in ancient mysteries discourse adjacent to UAP."
-created: 2026-04-25
-updated: 2026-04-26
 roles: [researcher]
 affiliations: [Boston University]
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/A_LsUSxTm7A.md, raw/youtube-transcripts/SZBI85yvV5A.md]

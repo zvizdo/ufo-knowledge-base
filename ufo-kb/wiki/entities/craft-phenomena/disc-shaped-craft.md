@@ -6,8 +6,6 @@ aliases: [flying saucer, saucer-shaped UAP, disc UAP]
 category: craft
 first_reported: "1947"
 tags: [disc, flying-saucer, craft-type, stub]
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 summary: "The classic 'flying saucer' form — a disc or lenticular craft shape reported in UAP encounters since 1947. Kenneth Arnold's June 1947 sighting established the archetype; subsequent witness descriptions of disc-shaped craft dominate early UAP phenomenology. The disc shape appears in alleged recovered craft descriptions (Roswell), contactee accounts (Udo Wartena), and Nazi advanced-aircraft hypotheses."
 ---

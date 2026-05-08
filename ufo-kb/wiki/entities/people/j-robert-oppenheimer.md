@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Director of the Manhattan Project's Los Alamos Laboratory; stripped of security clearance in 1954 in a contested proceedings that many historians view as politically motivated. Appears in UFO discourse as a potential architect of early UAP classification and recovery programs."
-created: 2026-04-25
-updated: 2026-04-25
 first_seen_in: raw/youtube-transcripts/5udx_SDdL3Y.md
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/kRO5jOa06Qw.md]
 name: J. Robert Oppenheimer

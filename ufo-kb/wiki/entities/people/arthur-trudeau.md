@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army General who supervised the Army's Foreign Technology Division during the 1958–1962 'golden age of Army R&D'; Philip Corso's direct superior during the period when Roswell and other recovered materials were allegedly distributed to private industry for reverse engineering."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/nTiFs8LudUo.md]
 name: Arthur Trudeau
 aliases: [General Trudeau, Gen. Trudeau]

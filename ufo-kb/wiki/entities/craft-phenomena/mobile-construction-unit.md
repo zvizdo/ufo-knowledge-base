@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Large burger-shaped underwater craft described in the 4chan whistleblower 2023 account — functioning as autonomous ocean-floor factories that manufacture smaller UAPs to exact specification and deploy them globally."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h3u8EkGI8OQ.md]
 name: Mobile Construction Unit
 aliases: [MCU, underwater UAP factory, ocean-floor craft]

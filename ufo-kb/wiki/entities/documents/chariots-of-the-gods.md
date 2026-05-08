@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1968 book by Erich von Däniken; popularized the ancient astronaut hypothesis by arguing that ancient monuments (Nazca lines, pyramids, megalithic structures) were built with extraterrestrial assistance or serve as landing strips and signals for alien craft."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md]
 title: "Chariots of the Gods? Unsolved Mysteries of the Past"
 authors: [erich-von-daniken]

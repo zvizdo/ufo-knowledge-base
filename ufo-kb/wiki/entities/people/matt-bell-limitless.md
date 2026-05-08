@@ -3,8 +3,6 @@ type: entity
 subtype: person
 name: Matt Bell
 summary: "Host of the Limitless podcast; financing a robotic investigation of the Queen's Chamber northern shaft in the Great Pyramid — the unexplored counterpart to the Gantenbrink southern shaft where the 1993 'door' was found"
-created: 2026-05-03
-updated: 2026-05-03
 aliases: [Matt Bell, Limitless podcast host]
 roles: [researcher, host]
 firsthand_claims: []

@@ -7,8 +7,6 @@ witnesses: []
 craft_type: N/A
 corroboration: multi-witness
 tags: [gec-marconi, sdi, star-wars, scientists-targeting-pattern, cold-war, british-defense, classified-science]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 summary: "Between 1982 and 1990, 25 engineers and computer scientists working for GEC-Marconi on Britain's most classified SDI-related defense projects died under bizarre circumstances, many ruled as suicides or accidents; no one was ever charged, the files were classified, and the cases remain officially unsolved."
 ---

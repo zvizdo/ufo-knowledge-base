@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Target-controlled intravenous infusion of DMT that sustains stable breakthrough states for 30–90+ minutes; co-developed by Andrew Gallimore and Rick Strassman in 2015 and first successfully implemented in humans by Chris Timmermann at Imperial College London."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 name: DMTX Protocol
 aliases: [DMTX, Extended-State DMT, DMT-X, endoDMTX, eDMTX]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1971 classified memo by Australian JIO nuclear division chief Harry Turner concluding that US anti-gravity and UFO programs went far deeper than Project Blue Book, naming Oppenheimer, Teller, Dyson, and major aerospace contractors as participants."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 title: 1971 Australian JIO Memo on US Anti-Gravity and UFO Programs
 authors: [Harry Turner]

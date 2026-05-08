@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "FDR's Vice President (1941–1945); early funder of Andrija Puharich's Roundtable Foundation; reputed interest in occult/esoteric currents"
-created: 2026-05-02
-updated: 2026-05-02
 name: Henry A. Wallace
 aliases: [henry-wallace, henry-agard-wallace]
 roles: [official]

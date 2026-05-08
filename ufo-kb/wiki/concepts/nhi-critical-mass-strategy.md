@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Thesis that NHI beings are deliberately selecting increasing numbers of contactees across all demographics and social strata — including heads of state, world champions, farmers, pilots — to build a critical mass of human witnesses whose collective testimony will eventually shift human consciousness toward acceptance of the non-human presence."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 tags: [nhi-strategy, contactee, critical-mass, disclosure, consciousness, ilyumzhinov, claims-theses]
 ---

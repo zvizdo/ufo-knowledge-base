@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Religious studies professor at UNC Wilmington; author examining convergence between Catholic mystical experience descriptions and alien contact accounts; linked apparitional/divine encounter phenomenology to the UAP field; identified cosmism as the founding epistemology of both the US and Russian space programs."
-created: 2026-04-25
-updated: 2026-04-27
 
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/I9VyyV4-3Js.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 name: Diana Pasulka

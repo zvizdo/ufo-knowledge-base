@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Bob Maguire — CIA/NSA/NRO mathematician and Hawkeye 360 founder — on UAP propulsion physics, Salvatore Pais patents, Carl Sagan's classified clearance, Chris Bledsoe's orb encounters, the Obama Camp David napkin, and a possible mapping between consciousness (Hoffman's decorated permutations) and physics (Wolfram's hypergraphs)."
-created: 2026-04-25
-updated: 2026-04-25
 video_id: 2Xxmguz0GEQ
 title: "CIA Contractor: \"Obama Received An Alien Prophecy\""
 channel: American Alchemy

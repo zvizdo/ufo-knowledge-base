@@ -3,8 +3,6 @@ type: concept
 name: NHI Origin Hypotheses
 aliases: [NHI origin hypotheses, origin of NHI, where do they come from, nhi origins]
 first_seen_in: ufo-kb/wiki/concepts/von-neumann-probe.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The set of competing hypotheses for the origin and nature of non-human intelligence: extraterrestrial (from other star systems), ultraterrestrial/cryptoterrestrial (indigenous to Earth), interdimensional (from adjacent dimensions), temporal (future humans/post-humans), and paraphysical (consciousness-substrate entities)."
 tags: [nhi-origin, extraterrestrial, ultraterrestrial, interdimensional, future-humans, cryptoterrestrial]

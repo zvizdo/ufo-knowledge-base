@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2015 discovery by huaquero Leandro of a cave containing 200+ tridactyl mummy bodies near Nazca, Peru; bodies covered in diatomaceous earth; carbon-dated 700–18,800 years ago"
-created: 2026-04-26
-updated: 2026-04-26
 name: 2015 Nazca Mummy Discovery
 date: "2015"
 location: Nazca region, Peru

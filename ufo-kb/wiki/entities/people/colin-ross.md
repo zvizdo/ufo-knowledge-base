@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Canadian-American psychiatrist and MK Ultra scholar; author of CIA Doctors; read all 15,000 pages of surviving MK Ultra documents at CIA headquarters; specialist in dissociative identity disorder; also conducts experimental research into human ocular extramission."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Colin Ross
 aliases: [Dr. Colin A. Ross]

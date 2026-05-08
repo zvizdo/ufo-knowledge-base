@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "43rd US President; Harry Reid attempted (and failed) to use political muscle to get SAP elevation for AAWSAP during his term; Davis argues the correct channel was directly through Bush or his NSA Steven Hadley."
-created: 2026-04-26
-updated: 2026-04-26
 name: George W. Bush
 aliases: [Bush 43, Bush Jr., GWB]
 roles: [official]

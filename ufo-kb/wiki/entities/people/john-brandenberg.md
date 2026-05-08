@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "John Brandenburg — plasma physicist, weapons researcher, Mars anomalies researcher; author of Death on Mars and Cosmic Awakening; discovered Martian paleo-ocean; argues Xenon-129 and Argon-40 isotopic evidence proves ancient thermonuclear holocaust on Mars; developed GEM gravity-electromagnetism unification theory; patented a water-based space thruster flown by Momentus Space."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/p0S0BfoZy0w.md]
 name: John Brandenburg
 aliases: [Dr. John Brandenburg, J.E. Brandenburg]

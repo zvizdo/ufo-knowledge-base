@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF Lt. Colonel who authored the official Halt Memo to the UK Ministry of Defence documenting the 1980 Rendlesham Forest incident, including beam activity over the nuclear weapon storage area at RAF Bentwaters."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fzvwBBSmWYA.md]
 name: Charles Halt
 aliases: [Lt. Col. Halt]

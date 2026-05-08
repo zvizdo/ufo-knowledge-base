@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Parapsychologist at Princeton's PEAR lab; spent 10+ years studying random event generators (REGs) and human intention effects on quantum-random outputs; author of The Selection Effect; proposes TMS as a potential psi amplifier."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/eQIMantuasQ.md]
 name: Herb Metz
 aliases: []

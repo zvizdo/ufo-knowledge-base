@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Legendary astronomer who launched Project Ozma in 1961 — the first organized search for extraterrestrial radio signals — and formulated the Drake Equation estimating the number of communicating civilizations in the galaxy."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 name: Frank Drake
 aliases: []

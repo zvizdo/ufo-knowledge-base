@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former US Navy F/A-18 Super Hornet pilot (VFA-11 Red Rippers); primary witness to the 2014–2015 East Coast UAP incidents; founder of Americans for Safe Aerospace; testified before Congress in 2023 alongside David Fravor and David Grusch."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/6WC4o2yY9Ws.md]
 name: Ryan Graves
 aliases: [Ryan Fobs Graves]

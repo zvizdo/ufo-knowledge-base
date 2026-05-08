@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Harvard astrophysicist and prominent UFO debunker who privately admitted to JFK that he held the deepest CIA, NSA, and Navy clearances across the board — suggesting his public skepticism was cover."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Don Menzel
 aliases: [Donald Menzel]

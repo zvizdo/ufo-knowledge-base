@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "President of the Russian Federation (2000–2008, 2012–present); debriefed Kirsan Ilyumzhinov on the 1997 alien encounter, asked substantive questions, and closed with 'why did you decide to speak about it?' — implying it was true but possibly inadvisable to publicize."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 name: Vladimir Vladimirovich Putin
 aliases: [Putin, Vladimir Putin]

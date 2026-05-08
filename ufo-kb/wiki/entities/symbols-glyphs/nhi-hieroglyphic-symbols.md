@@ -6,8 +6,6 @@ type_field: symbol
 first_observed: "1947 (photographic record); 1977 (traced from Blue Book photos by Sheehan); 2014 (on gauntlet device, NSWC Crane)"
 tags: [hieroglyphics, symbols, nhi, offworld-technology, dmt, source-code, blue-book, consciousness]
 sources: [raw/youtube-transcripts/Sct30Qijfv8.md]
-created: 2026-04-26
-updated: 2026-04-26
 ---
 
 # NHI Hieroglyphic Symbols

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army Green Beret (18B Special Forces Weapons Sergeant) who in March 2014 was taken underground at Naval Surface Warfare Center Crane and shown a room labeled 'Off-World Technology Division' containing two anomalous artifacts: a levitating orb and a hieroglyphic-displaying gauntlet device."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/yAvD5UTziTo.md]
 name: Randy Anderson
 aliases: [Randy M. Anderson]

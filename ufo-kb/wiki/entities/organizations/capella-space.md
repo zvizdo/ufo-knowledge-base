@@ -7,8 +7,6 @@ parent_org:
 country: USA
 active_period: 2016–present
 tags: [synthetic-aperture-radar, satellite-imagery, dual-use, defense-contractor]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

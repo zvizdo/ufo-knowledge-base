@@ -9,8 +9,6 @@ first_seen_in: raw/youtube-transcripts/zjpvfDFc4fg.md
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 tags: [cosmism, russia, philosophy, resurrection, space-exploration, transhumanism, nhi-adjacent]
 summary: "Late 19th-century Russian philosopher and librarian whose 'cosmism' framework held that humanity's Christian task was to literally resurrect all the dead through technology, then colonize space — directly inspiring Tsiolkovsky's rocketry."
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Nikolai Fyodorov

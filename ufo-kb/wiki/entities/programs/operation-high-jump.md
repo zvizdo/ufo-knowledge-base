@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1946–47 US Navy Antarctic expedition commanded by Admiral Byrd; subject of long-running speculation about anomalous encounters with unknown craft in Antarctica and alleged Nazi UAP connections."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Operation High Jump
 aliases: [Task Force 68]

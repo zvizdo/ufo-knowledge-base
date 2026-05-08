@@ -8,8 +8,6 @@ affiliations: [Imperial Japanese Army, Unit 731]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/q7Czo77qhHA.md
 tags: [unit-731, biological-warfare, war-crimes, immunity-deal, manchuria, japan, cold-war, human-experimentation, us-cover-up]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "Japanese Imperial Army general who commanded Unit 731 — the WWII biological warfare program that conducted systematic human experimentation on prisoners in Manchuria; was conspicuously absent from the Tokyo War Crimes Tribunal; received US immunity in exchange for handing over biological warfare research data."
 ---

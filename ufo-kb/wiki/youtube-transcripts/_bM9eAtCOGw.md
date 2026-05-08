@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=_bM9eAtCOGw
 duration_minutes: ~60
 tags: [galileo-project, oumuamua, academic-uap-science, fermi-paradox, light-sail, harvard, scientific-disclosure]
 sources: [raw/youtube-transcripts/_bM9eAtCOGw.md]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Harvard is Studying UFOs (Ft. Avi Loeb)

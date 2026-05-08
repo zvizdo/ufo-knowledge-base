@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Aviation journalist (Jane's Defence Weekly editor) and author of The Hunt for Zero Point (2001); spent years investigating classified anti-gravity programs from 1956 aerospace boom to Nazi Kammler-Stab programs, Townsend Brown's electrogravitics, and the classified Aurora and ASTRA aircraft; personally interviewed Ben Rich, Ning Lee, George Muellner, and Boyd Bushman; witnessed 'ASTRA' on a Skunk Works org chart."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/mOWwdIuyaQA.md]
 name: Nick Cook
 aliases: []

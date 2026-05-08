@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA operations officer and Havana syndrome victim; appeared on CBS 60 Minutes alleging the CIA betrayed him by denying his injuries; one of the most prominent named AHI victims."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Mark Polymeropoulos
 aliases: []

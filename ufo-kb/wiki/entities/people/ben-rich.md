@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Director of Lockheed Skunk Works 1975–1991; coined 'UFOs are unfunded opportunities'; gave Nick Cook an ESP/all-points-in-space-time answer when asked about taking ET home; deathbed claim 'We already have the means to travel among the stars'; succeeded Kelly Johnson; contemplated burying stealth technology entirely."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Ben Rich
 aliases: []

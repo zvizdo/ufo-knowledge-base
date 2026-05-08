@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Jesse Michaels interviews father Barry Michaels and godfather Phil Stutz on psychology, Jungian shadow work, Rudolph Steiner's anthroposophy, consciousness, retrocausality, and the origins of Jesse's interest in fringe science."
-created: 2026-04-26
-updated: 2026-05-04
 sources: [raw/youtube-transcripts/AVJEXCTAJUc.md]
 video_id: AVJEXCTAJUc
 title: "Why Jonah Hill Made A Documentary About My Family"

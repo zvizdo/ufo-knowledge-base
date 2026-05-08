@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nuclear scientist at Lawrence Berkeley National Laboratory; lead author of the landmark 2007 paper proposing cosmic impacts at the Younger Dryas boundary, co-founding the peer-reviewed form of the YDIH."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JGE1NIGhBzw.md]
 name: Richard Firestone
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Soviet nuclear physicist; designer of the first Soviet hydrogen bomb and the Tokamak fusion reactor; independently reached conclusions about gravity and zero-point energy similar to Hal Puthoff and John Brandenburg; moral voice against the Soviet nuclear state."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/p0S0BfoZy0w.md]
 name: Andrei Sakharov
 aliases: [Андрей Сахаров, Sakurov]

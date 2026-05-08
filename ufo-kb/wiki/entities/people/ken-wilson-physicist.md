@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nobel Prize-winning physicist (CERN early years) who developed renormalization and the concept that at high-energy levels near critical points, new universal behavior emerges — invoked in simulation theory as evidence that high-energy events reveal deeper ontological layers of reality."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 name: Ken Wilson
 aliases: [Kenneth Wilson, Kenneth G. Wilson]

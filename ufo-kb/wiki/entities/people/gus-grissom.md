@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "NASA astronaut, one of Mercury Seven, slated to be first man on the Moon; died in the Apollo 1 fire (January 27, 1967) after publicly protesting capsule defects with a lemon-on-coat-hanger stunt and reporting CIA presence on the launch pad the night before his death."
-created: 2026-04-26
-updated: 2026-04-26
 name: Gus Grissom
 aliases: [Virgil Ivan Grissom, Virgil Grissom]
 roles: [other, whistleblower]

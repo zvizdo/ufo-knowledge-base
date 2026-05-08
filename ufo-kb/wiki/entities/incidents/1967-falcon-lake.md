@@ -7,8 +7,6 @@ affiliations: []
 date: 1967-05-20
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/nhi-radiation-effects.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "May 20, 1967 UAP encounter near Falcon Lake, Manitoba, Canada; witness Stefan Michalak suffered grid-pattern burns matching reported craft exhaust ports, acute radiation syndrome symptoms, and ongoing health effects; investigated by RCMP, Canadian Department of National Defence, and the Condon Committee; one of the most medically documented UAP injuries cases."
 tags: [canada, radiation, burns, 1967, manitoba, condon-committee, investigated]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Hub for specific, discrete, recurring assertions in the UAP/UFO discourse — each claim gets its own page aggregating who makes it, who disputes it, and what evidence exists. Distinct from recurring-claims (categories); claims-theses are specific propositions."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 tags: [meta, claims, theses, framework]
 ---

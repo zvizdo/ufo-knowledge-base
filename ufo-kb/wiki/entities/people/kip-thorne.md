@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nobel Prize-winning theoretical physicist (gravitational waves, Caltech); visited Epstein island; specializes in general relativity, wormholes, and time travel — the precise physics domains Epstein was allegedly funding."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md]
 name: Kip Thorne
 aliases: []

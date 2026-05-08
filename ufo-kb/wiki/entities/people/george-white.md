@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Head of Operation Midnight Climax; former Federal Bureau of Narcotics (FBN) officer who later became head of the DEA; quoted by Colin Ross as having said 'Where else could a good American boy rape, murder, and kill with impunity?' in describing his role running CIA safe houses for non-consensual LSD experiments."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: George White
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former Obama-era DoD official who became a prominent UAP analyst and commentator for The Hill; argues select UAP videos represent genuine anomalies based on a synthesis of historical case files, expert opinion, and institutional acknowledgment."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: Marik von Rennenkampff
 aliases: [Merrick, von Rennenkampff]

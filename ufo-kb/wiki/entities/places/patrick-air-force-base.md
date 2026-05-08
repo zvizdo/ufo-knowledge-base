@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Patrick Air Force Base, Florida — headquarters of the 45th Space Wing and the primary duty station of Dr. Greg Rogers during his 1989–~1994 tenure as chief of aerospace medicine; collocated with Cape Canaveral Air Force Station on Florida's Space Coast."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/TNtlzEnl8rA.md]
 name: Patrick Air Force Base
 aliases: [Patrick AFB, Patrick Space Force Base]

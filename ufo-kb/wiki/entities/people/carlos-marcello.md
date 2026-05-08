@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Boss of the New Orleans crime family; one of the most powerful organized crime figures in mid-20th century America. Appears in JFK assassination theories as a potential conspirator with motive and means. Node in the CIA-mob network that intersects with UAP secrecy infrastructure."
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 name: Carlos Marcello
 aliases: [Calogero Minacore, The Little Man]

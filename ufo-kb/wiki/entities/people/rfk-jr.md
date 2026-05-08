@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Robert F. Kennedy Jr. — lawyer, environmental activist, 2024 presidential candidate, MAHA (Make America Healthy Again) movement leader. In the UAP/conspiracy context: publicly questioned the lone-gunman verdict in his father's assassination (RFK 1968), allied with Brigham Buhler on healthcare reform, and represents a political figure at the intersection of vaccine skepticism, deep-state distrust, and the UAP-adjacent suppressed-medicine cluster."
-created: 2026-04-27
-updated: 2026-04-27
 name: Robert F. Kennedy Jr.
 aliases: [RFK Jr., Bobby Kennedy Jr., rfk-jr]
 roles: [activist, lawyer, politician]

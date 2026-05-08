@@ -3,8 +3,6 @@ type: entity
 entity-type: programs
 name: Montauk Project
 summary: "Alleged classified experiments at Camp Hero, Montauk, New York, purportedly involving time travel, teleportation, and psychic mind-control research; widely considered conspiratorial with no verified documentary evidence."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [program, alleged, time-travel, mind-control]
 aliases: []
 status: alleged

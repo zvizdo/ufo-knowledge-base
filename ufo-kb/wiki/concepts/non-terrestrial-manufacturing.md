@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The claim that recovered UAP materials or craft components were not manufactured on Earth using any known human industrial process — a core assertion in crash-retrieval testimony and reverse-engineering programs."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [crash-retrieval, reverse-engineering, uap-materials, nhi, grusch, secrecy]
 ---
 

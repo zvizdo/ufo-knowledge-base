@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Colloquial name for the white, oblong UAP recorded by USS Nimitz F/A-18 pilots in November 2004 off the coast of San Diego; the FLIR1 video became the first Pentagon-acknowledged UAP footage."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/6WC4o2yY9Ws.md]
 name: Tic-Tac
 aliases: [FLIR1, Nimitz UAP]

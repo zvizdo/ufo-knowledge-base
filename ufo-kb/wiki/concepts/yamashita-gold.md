@@ -3,8 +3,6 @@ type: concept
 name: Yamashita Gold
 aliases: [Yamashita gold, yamashita-gold, Yamashita's gold, Golden Lily, Japanese war loot, Operation Golden Lily]
 first_seen_in: ufo-kb/wiki/entities/people/robert-anderson.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Alleged hoard of gold and valuables looted by Imperial Japan across Asia during WWII, transported to the Philippines, and allegedly buried by General Tomoyuki Yamashita; recovered and allegedly used to fund post-war US intelligence operations and covert black budgets; a key element in theories about the origins of the off-books financial system for classified programs."
 tags: [yamashita, gold, japan, wwii, philippines, black-budget, covert-finance, cold-war, looting]

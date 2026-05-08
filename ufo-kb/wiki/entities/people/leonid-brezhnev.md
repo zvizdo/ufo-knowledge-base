@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "General Secretary of the Soviet Union (1964–1982); shown a UFO-related folder by President Nixon in a private post-meeting session — after which all Soviet moon program funding was halted. Witnessed by KGB Chairman Andropov."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 name: Leonid Ilyich Brezhnev
 aliases: [Brezhnev, Brev, Leonid Brezhnev]

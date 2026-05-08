@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Primary witness of the 1973 Pascagoula abduction; his hidden-recording credibility test by police and decades of consistent testimony make this one of the most evidentially solid abduction cases."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Charles Hixon
 aliases: [Calvin Hixon, Charles Hickson]

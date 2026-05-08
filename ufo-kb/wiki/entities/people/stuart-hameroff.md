@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Anesthesiologist and consciousness researcher; collaborator with Roger Penrose on Orchestrated Objective Reduction (Orch OR); proposes microtubules inside neurons as the site of quantum consciousness."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/hXYdkcv5TtY.md]
 name: Stuart Hameroff
 aliases: [Steuart Hameroff]

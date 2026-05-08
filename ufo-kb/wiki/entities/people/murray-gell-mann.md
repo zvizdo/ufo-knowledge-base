@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nobel Prize-winning physicist (quarks, 1969); founder of the Santa Fe Institute; transcript renders name as 'Marie Gellman' — almost certainly Murray Gell-Mann; alleged Epstein island visitor."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md]
 name: Murray Gell-Mann
 aliases: [Marie Gellman (transcript error)]

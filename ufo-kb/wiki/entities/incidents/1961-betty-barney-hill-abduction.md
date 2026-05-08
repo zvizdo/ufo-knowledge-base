@@ -8,8 +8,6 @@ witnesses: [betty-hill, barney-hill]
 craft_type: disc
 corroboration: multi-witness
 tags: [abduction, betty-hill, barney-hill, new-hampshire, star-map, cd-jackson, grey-aliens, zeta-reticuli]
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/areO7Mej44E.md]
 summary: "The September 19–20, 1961 UFO encounter and alleged abduction of Betty and Barney Hill on Route 3 in New Hampshire — the first widely publicized alien abduction case in the US; notable for Betty's star map, its rapid absorption into psywar circles (CD Jackson), and its foundational role in abduction phenomenology."
 ---

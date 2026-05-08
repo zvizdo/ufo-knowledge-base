@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Self-published memoir by Dan Sherman documenting his alleged service as an NSA 'intuitive communicator' under Project Preserve Destiny; the only book-length firsthand account of a government-run NHI telepathic communication program."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Rfmy5oW_r9c.md]
 title: Above Black
 authors: [Dan Sherman]

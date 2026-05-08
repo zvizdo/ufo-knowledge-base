@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Recurring pattern of elite/occult ritual practice within secret societies — Bohemian Grove, Skull & Bones, mystery schools — and its relevance to understanding hidden power structures in UAP-adjacent discourse."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KhmUixSXxDo.md]
 tags: [secret-societies, occult, ritual, bohemian-grove, moloch, mystery-schools, elite, pagan]
 ---

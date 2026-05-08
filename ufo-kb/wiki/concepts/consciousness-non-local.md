@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Consciousness is not produced by or confined to an individual brain; it is a shared or field-like phenomenon that individual minds participate in but do not generate — explaining telepathy, remote viewing, and NHI communication as features of the medium rather than anomalies."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/2Mb6NPPjCyg.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/ATJwqp5twAg.md, raw/youtube-transcripts/KRDE1i3LDuU.md, raw/youtube-transcripts/LpLFWdsIU7M.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/wT5-hXWIkzM.md]
 tags: [consciousness, non-local, telepathy, remote-viewing, uap, nhi, quantum-consciousness, field-theory]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Director of Lockheed Skunk Works after Ben Rich; collaborated with Tom DeLonge on the Secret Machines book series; represents the aerospace-consciousness nexus that Cook documented — Skunk Works leadership willing to engage Kabbalah/consciousness framing alongside classified aerospace."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Robert Weiss
 aliases: []

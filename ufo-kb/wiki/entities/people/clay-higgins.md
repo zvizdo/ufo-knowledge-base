@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Congressman (R-LA) who questioned Michael Shellenberger during the 2024 UAP hearing, attempting to trick him into revealing source details (gender, agency)."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: Clay Higgins
 aliases: [Congressman Higgins]

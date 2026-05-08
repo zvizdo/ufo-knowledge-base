@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "NASA Mercury program astronaut who held the record for most time in orbit before Apollo; wrote in his book that Wernher von Braun told him his Nazi Germany team had worked on and flown UFO-type craft."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1f16VvXaSSE.md]
 name: Gordon Cooper
 aliases: [Leroy Gordon Cooper Jr.]

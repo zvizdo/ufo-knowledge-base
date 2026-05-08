@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Reservoir dam near Newell, South Dakota, approximately 8.5 miles from the November 5 ICBM silo; where Mario Woods's truck was found after ~5 hours of missing time following the 1977 Ellsworth abduction."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/73YBwFvcmF8.md]
 name: New Lake Reservoir Dam
 aliases: [New Lake Reservoir, Newell Lake Dam]

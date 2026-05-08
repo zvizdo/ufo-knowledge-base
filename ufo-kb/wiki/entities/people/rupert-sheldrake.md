@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British biologist and researcher into anomalous phenomena — morphic resonance, telepathy, extended mind — who advocates for scientific freedom of inquiry against materialist orthodoxy."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/KRDE1i3LDuU.md, raw/youtube-transcripts/UrHLTFvdEZk.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/dfPfPB601hw.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/wT5-hXWIkzM.md]
 name: Rupert Sheldrake
 aliases: []

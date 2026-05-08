@@ -3,8 +3,6 @@ type: concept
 name: Abduction Research
 aliases: [UFO abduction research, alien abduction studies, abductee research]
 summary: "The academic and clinical study of individuals reporting alien abduction experiences; primary methodologies include hypnotic regression, structured interviews, and physiological examination; key figures include John Mack, Budd Hopkins, David Jacobs, and Leo Sprinkle."
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 tags: [abduction, close-encounter, hypnotic-regression, john-mack, budd-hopkins, missing-time, experiencer]
 ---

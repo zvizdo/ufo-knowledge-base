@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "French explorer of ancient Incan lost cities; head of the Enari Institute; spearheaded scientific investigation of Nazca tridactyl mummies since 2016 after meeting huaquero Leandro"
-created: 2026-04-26
-updated: 2026-04-26
 name: Thierry Jamin
 aliases: [Theory Yamin, Thierry Yamin]
 roles: [researcher, explorer]

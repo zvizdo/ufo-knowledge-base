@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Researcher associated with the Telepathy Tapes project, which documents apparent telepathic and psionic abilities in non-verbal autistic children; cited as evidence that psionic capacity is real and has an intrinsic ethical dimension."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md]
 name: Kai Dickens
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Independent researcher who built an extensive documented case for the existence of deep underground military bases (DUMBs) from declassified construction records, patents, and government documents."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Richard Sauder
 aliases: []

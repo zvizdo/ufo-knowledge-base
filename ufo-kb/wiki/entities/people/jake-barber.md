@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former tier-one Air Force retrieval specialist turned whistleblower; describes helicopter retrieval of two non-human craft, psionic consciousness-lock experience with an octagonal craft, and — after defecting from legacy programs — disclosed P3 psionic asset program details, Russia/China gentleman's agreement on downed craft, and founded Sky Watchers."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/SZBI85yvV5A.md, raw/youtube-transcripts/dnnpyNuPdXs.md, raw/youtube-transcripts/nTiFs8LudUo.md, raw/youtube-transcripts/yAvD5UTziTo.md, raw/youtube-transcripts/y_8IKKcTntQ.md]
 name: Jake Barber
 aliases: [Barber]

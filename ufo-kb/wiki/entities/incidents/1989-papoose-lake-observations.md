@@ -7,8 +7,6 @@ witnesses: [bob-lazar, gene-huff, john-lear]
 craft_type: disc
 corroboration: multi-witness
 tags: [bob-lazar, papoose-lake, area-51, s4, civilian-observation, disc-craft]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

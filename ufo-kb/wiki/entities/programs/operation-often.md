@@ -7,8 +7,6 @@ parent_org: cia
 period: "1970s"
 status: alleged
 tags: [cia, occult, mk-ultra, paranormal, stub]
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 summary: "Alleged CIA program running concurrently with MK Ultra that investigated occult practitioners, demonology, and paranormal phenomena for potential intelligence applications. Said to have employed astrologers, witches, and Satanist consultants. Disputed — not confirmed by FOIA releases to the same degree as MK Ultra."
 ---

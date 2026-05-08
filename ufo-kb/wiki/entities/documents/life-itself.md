@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Francis Crick's 1981 book proposing directed panspermia: that life on Earth was seeded by bacteria deliberately engineered and launched by a dying advanced civilization from another star system"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md]
 title: Life Itself
 authors: [Francis Crick]

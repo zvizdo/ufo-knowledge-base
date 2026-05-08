@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Oxford philosopher who formalized the simulation argument — if posthuman civilizations can run ancestor simulations, we are almost certainly in one — giving simulation theory its first rigorous academic credibility."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 name: Nick Bostrom
 aliases: [Bostrom]

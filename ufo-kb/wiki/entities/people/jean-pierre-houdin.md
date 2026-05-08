@@ -6,8 +6,6 @@ roles: ["researcher"]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/youtube-transcripts/NvqxmTCwHA8.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "French architect known for the internal-ramp construction hypothesis for the Great Pyramid."
 tags: ["pyramids", "alternative-archaeology"]

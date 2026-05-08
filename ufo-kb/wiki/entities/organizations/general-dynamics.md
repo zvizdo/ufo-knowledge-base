@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/aerojet-rocketdyne.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Major US defense contractor; produces nuclear submarines (Virginia and Columbia class), F-16/F-111 aircraft history, Abrams tank, Gulfstream jets; relevant to KB as one of the major defense industrial complex contractors cited in the context of classified program development."
 tags: [defense-contractor, submarine, aircraft, nuclear, military-industrial-complex, classified]

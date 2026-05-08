@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "September 1947 internal Air Force memo by General Nathan Twining concluding that UAP are real, not imaginary, and listing their consistent characteristics including metallic construction, high maneuverability, and evasiveness when approached."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 title: Twining Memo
 authors: [Nathan Twining]

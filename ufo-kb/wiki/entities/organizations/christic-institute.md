@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Danny Sheehan's Washington D.C.-based public interest law center; prosecuted the Iran-Contra complaint naming 29 individuals including Theodore Shackley; the institutional vehicle for his national security litigation."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
 name: Christic Institute
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Robert Schoch's thesis that massive solar CME events create atmospheric plasma discharges generating extreme heat and geometric light patterns; explains vitrified stone sites globally and the content of ancient 'art' at Nazca, Easter Island, and elsewhere."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/A_LsUSxTm7A.md]
 tags: [plasma-discharge, robert-schoch, cme, solar, ancient-art, nazca, rongo-rongo, vitrification, catastrophism]
 ---

@@ -4,8 +4,6 @@ subtype: recurring-claims
 name: Space Kids
 aliases: [Puharich's Space Kids, Psychic Children Program]
 summary: "Andrija Puharich's mid-1970s program gathering approximately a dozen psychic children and teenagers at his Ossining, NY compound; involved channeling, hypnosis, ELF frequency experiments, and contact with 'The Nine'; compared by filmmaker Greg Malazzi to Stranger Things; several participants have since disappeared."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/2-GeTxXi670.md]
 tags: [andrija-puharich, psychic-children, channeling, mk-ultra, elf-waves, the-nine, gate-program, montauk]
 ---

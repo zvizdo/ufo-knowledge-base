@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "August 1994 UAP encounter at the Nellis Air Force Base testing range, Nevada; publicly documented video shows object flying past the 'schoolhouse' training area; USAF Master Sergeant Jason Sanss (67th Intelligence Group) describes a face-to-face interaction with a non-human-appearing entity; covered in James Fox's 'The Program.'"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: 1994 Nellis Range UAP Encounter
 date: 1994-08

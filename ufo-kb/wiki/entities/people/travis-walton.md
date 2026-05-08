@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Arizona logger abducted by a UFO in 1975; one of the best-documented abduction cases, involving six corroborating witnesses and a polygraph."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/iPxbILOMQ08.md]
 name: Travis Walton
 aliases: []

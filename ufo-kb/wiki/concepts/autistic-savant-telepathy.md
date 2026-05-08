@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Non-verbal autistic individuals — particularly children — demonstrate measurable, controlled telepathic abilities at statistically significant rates, suggesting autism may involve access to non-local information channels inaccessible to neurotypical individuals."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 tags: [telepathy, autism, savant-abilities, consciousness, non-local-consciousness, controlled-experiments, neurodiversity]
 ---

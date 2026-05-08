@@ -3,8 +3,6 @@ type: entity
 entity-type: organizations
 name: National Security Agency
 summary: "US signals intelligence agency responsible for global communications interception and cryptanalysis; has acknowledged holding UAP-related documents, some released under FOIA with heavy redactions."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Rfmy5oW_r9c.md, raw/youtube-transcripts/jMCavr3dVP0.md]
 tags: [gov-agency, intelligence, sigint, project-preserve-destiny, intuitive-communicator]
 aliases: []

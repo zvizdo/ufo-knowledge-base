@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Island off the Southern California coast; UAP hotspot with historical USO activity; site of the 2021 U Albany Project X field observation mission documented in A Tear in the Sky."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Catalina Island
 aliases: [Santa Catalina Island]

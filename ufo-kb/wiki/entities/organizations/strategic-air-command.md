@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF Strategic Air Command — the Cold War nuclear deterrence force that operated Minuteman ICBM fields, including those at Malmstrom AFB where UFO-related missile shutdowns occurred in 1967."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Strategic Air Command
 aliases: [SAC]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The most commonly reported humanoid entity type in abduction literature — small, grey-skinned, large-headed, large dark eyes, thin limbs; associated with Greys, Small Greys, Zeta Reticulans; described by Betty/Barney Hill, Whitley Strieber, Travis Walton, and thousands of other accounts across cultures."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [entities, greys, abduction, zeta-reticuli, small-greys, nhi, humanoid]
 ---
 

@@ -6,8 +6,6 @@ roles: []
 affiliations: [usaf, roswell-army-air-field]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/incidents/1947-san-agustin-crash.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Army Air Forces unit that dropped the atomic bombs on Hiroshima and Nagasaki in 1945; based at Roswell Army Air Field, New Mexico, in 1947; the only nuclear-capable bomber unit in the world at the time of the Roswell incidents; their presence at Roswell and the San Agustín crash site has been cited as significant context for why recovered materials were treated with extreme security."
 tags: [509th, bomb-group, roswell, nuclear, atomic-bomb, hiroshima, nagasaki, 1947, air-force]

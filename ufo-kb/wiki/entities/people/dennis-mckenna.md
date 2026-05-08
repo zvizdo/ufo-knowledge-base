@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ethnopharmacologist and brother of Terence McKenna; coined the phrase 'nature is drenched in DMT'; collaborator on the 1976 Experiment at La Chorrera that produced the McKenna brothers' tryptamine-consciousness theory."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 name: Dennis McKenna
 aliases: []

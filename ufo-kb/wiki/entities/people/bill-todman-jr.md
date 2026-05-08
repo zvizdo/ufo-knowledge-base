@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Warner Brothers executive and son of TV producer Bill Todman Sr.; had a direct close encounter with a hovering UAP in the Grand Tetons, put his hand on the craft, and told Sydney Sheldon, who fictionalized the account in 'The Doomsday Conspiracy.'"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Bill Todman Jr.
 aliases: [Bill Todman Junior]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American immunologist who directed the National Institute of Allergy and Infectious Diseases (NIAID) 1984–2022; central figure in U.S. pandemic response and the COVID-19 origins controversy through his role in the NIH funding chain for EcoHealth Alliance's coronavirus research."
-created: 2026-05-05
-updated: 2026-05-05
 name: Anthony Fauci
 aliases: [Anthony Stephen Fauci]
 roles: [scientist, government official, director]

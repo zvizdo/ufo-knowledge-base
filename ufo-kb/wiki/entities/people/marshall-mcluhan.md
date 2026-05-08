@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Canadian media theorist (1911–1980) whose aphorism 'every media extension of man is an amputation' is invoked in UAP/consciousness contexts as a framework for understanding how technology simultaneously enables and forecloses perception."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KRDE1i3LDuU.md]
 name: Marshall McLuhan
 aliases: [Herbert Marshall McLuhan]

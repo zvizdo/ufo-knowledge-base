@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The hypothesis that one or more technologically sophisticated civilizations existed before the conventional start of recorded history (~3100 BC), leaving physical but mostly unrecognized traces"
-created: 2026-04-26
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/92XrddiKjHY.md, raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/zrmG2jBckgk.md, raw/youtube-transcripts/R7oyZGW99os.md]
 tags: [atlantis, younger-dryas, lost-civilization, ancient-history, graham-hancock, plato, flood-myths, archaeology]
 ---

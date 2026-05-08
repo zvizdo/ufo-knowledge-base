@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Classified US Air Force military space station program (approved 1965, cancelled June 1969); selected 17 military astronauts, used modified Gemini capsules, and spent $1.56B before cancellation — cited in UAP discourse as precedent and possible cover for deeper black-budget spaceflight."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md]
 name: Manned Orbiting Laboratory
 aliases: [MOL, MOL Program]

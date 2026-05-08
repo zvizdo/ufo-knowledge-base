@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "French virologist and Nobel laureate (HIV genome); controversial late-career work on DNA water teleportation and aqueous nanostructures was interpreted as evidence for scalar/electromagnetic information transfer in biological systems."
-created: 2026-04-25
-updated: 2026-04-25
 name: Luc Montagnier
 aliases: [Luke Montagnier, Luc Antoine Montagnier]
 roles: [researcher]

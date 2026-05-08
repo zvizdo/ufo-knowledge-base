@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Multi-night UFO flap in Brewster, New York (mid-1980s, likely 1985–1986) involving six silent white lights in triangular formation hovering at treetop level; covered by local newspapers and television; witnessed by hundreds including young Charles Buhler."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/mOWwdIuyaQA.md]
 name: 1985–1986 Brewster, NY UFO Flap
 date: "1985–1986"

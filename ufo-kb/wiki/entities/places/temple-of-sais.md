@@ -4,8 +4,6 @@ entity-type: places
 name: Temple of Sais
 aliases: [Temple of Neith at Sais, Temple of Sa]
 summary: "Ancient Egyptian temple in the Nile Delta whose priests told Solon the story of Atlantis; repository of historical records destroyed within 500–1,000 years of antiquity; key node in the Atlantis transmission chain."
-created: 2026-04-26
-updated: 2026-04-26
 region: Nile Delta
 country: Egypt
 type: incident-site

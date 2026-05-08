@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British neuroscientist and author based in Japan; leading theorist of DMT as a technology for accessing non-human intelligences; co-developed the DMTX extended-state protocol with Rick Strassman."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 name: Andrew Gallimore
 aliases: []

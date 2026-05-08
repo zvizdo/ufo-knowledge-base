@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Physicist, mathematician, and creator of Mathematica and the Wolfram Language. His Wolfram Physics Project proposes that the universe emerges from a simple computational rule applied to a hypergraph. Referenced in this KB in contexts where consciousness, computation, and exotic physics intersect."
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 name: Stephen Wolfram
 aliases: []

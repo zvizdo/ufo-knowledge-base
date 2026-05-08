@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American podiatric surgeon (1934–2014) who performed over 17 surgical removals of alleged extraterrestrial implants from patients; removed objects were analyzed at multiple labs and reported to have anomalous isotopic ratios and RF signal emission."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/hBrfe4hFuM0.md, raw/youtube-transcripts/iPxbILOMQ08.md]
 name: Roger Leir
 aliases: [Dr. Roger Leir, Roger Lear (transcript phonetic)]

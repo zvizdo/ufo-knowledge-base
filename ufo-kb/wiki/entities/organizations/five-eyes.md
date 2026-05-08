@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The intelligence-sharing alliance between the United States, United Kingdom, Canada, Australia, and New Zealand — the world's most comprehensive multilateral SIGINT partnership, underpinning programs like ECHELON and relevant to UAP secrecy through shared classified reporting channels."
-created: 2026-05-05
-updated: 2026-05-05
 name: Five Eyes
 aliases: [FVEY, 5 Eyes]
 type_detail: intelligence-alliance

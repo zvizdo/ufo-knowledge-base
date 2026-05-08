@@ -3,8 +3,6 @@ type: entity
 name: David Huggins
 aliases: [Dave Huggins]
 summary: "Contactee and outsider artist who paints detailed scenes of his alleged lifelong encounters with alien beings; claimed ongoing relationship with a grey female entity 'Crescent'; his work is the subject of the documentary 'Love and Saucers' (2017); cited by Roger Caillois as evidence of alien mimicry of human social bonds."
-created: 2026-05-05
-updated: 2026-05-05
 roles: [witness, contactee]
 affiliations: []
 firsthand_claims:

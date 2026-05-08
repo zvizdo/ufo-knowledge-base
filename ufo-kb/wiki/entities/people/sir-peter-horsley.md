@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British RAF wing commander and personal aide to Queen Elizabeth II who was approached in the 1950s by mysterious Nordic beings ('Miss Markham and Mr. Janis') asking him to help disarm the UK's nuclear arsenal; 20 years later he controlled it."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: Sir Peter Horsley
 aliases: [Peter Horsley]

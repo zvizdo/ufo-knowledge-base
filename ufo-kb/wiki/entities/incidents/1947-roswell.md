@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "July 1947 crash of one or more unidentified craft near Roswell, New Mexico; this source adds a specific claim of a surviving non-human entity who disclosed the directed-energy anti-UAP concept to US officials."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/p0S0BfoZy0w.md]
 name: 1947 Roswell Crash
 date: 1947-07

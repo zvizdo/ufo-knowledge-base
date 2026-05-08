@@ -3,8 +3,6 @@ type: concept
 name: Non-Lethal Weapons
 aliases: [non-lethal weapons, non-lethal weaponry, NLW, less-lethal weapons, directed energy weapons]
 first_seen_in: ufo-kb/wiki/concepts/elf-weapons.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Weapons designed to incapacitate, disorient, or influence targets without causing death; includes directed energy weapons (microwave, laser, acoustic), ELF electromagnetic systems, and chemical incapacitants; the KB context connects NLW research to ELF mind-influence weapons and to Havana Syndrome-type injury mechanisms."
 tags: [weapons, directed-energy, elf, microwave, acoustic, havana-syndrome]

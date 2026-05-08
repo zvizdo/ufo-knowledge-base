@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Laser physicist and parapsychology researcher who co-founded the Stanford Research Institute (SRI) remote viewing program with Hal Puthoff. Co-author of the key peer-reviewed remote viewing papers and a central figure in the Stargate Program's scientific legitimacy."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md]
 name: Russell Targ
 aliases: []

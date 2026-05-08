@@ -6,8 +6,6 @@ aliases: [Behold a Pale Horse book, BAPH]
 authors: [bill-cooper]
 date: 1991
 first_seen_in: raw/youtube-transcripts/bVhSPH2A5Vw.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "1991 book by Milton 'Bill' Cooper compiling UFO whistleblower claims, government conspiracy documents (including alleged MJ-12 briefings), and anti-New World Order material; became one of the most widely distributed conspiracy texts of the 1990s and a gateway document for UAP disclosure community."
 tags: [bill-cooper, mj12, ufo-secrecy, conspiracy-text, gateway-document, 1990s]

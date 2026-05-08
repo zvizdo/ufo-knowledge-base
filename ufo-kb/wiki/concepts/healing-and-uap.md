@@ -3,8 +3,6 @@ type: concept
 name: Healing and UAP
 aliases: [healing and UAP, healing-and-uap, UAP healing effects, UAP physical healing, UFO healing, contact healing]
 first_seen_in: ufo-kb/wiki/entities/incidents/2007-bledsoe-cape-fear.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Reports of physical healing following close UAP encounters or contact experiences — including resolution of chronic illnesses, cancer remissions, and accelerated wound healing; documented across multiple independent witness accounts and studied by researchers including [[john-mack]] and [[garry-nolan]]."
 tags: [healing, uap, contact, physical-effects, chris-bledsoe, nhi, experiencer, radiation]

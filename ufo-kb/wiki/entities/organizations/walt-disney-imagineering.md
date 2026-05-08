@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/eric-haseltine.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Walt Disney Company's creative engineering arm responsible for designing and building Disney theme parks; in the KB, relevant as the organization where Eric Haseltine served as Executive Vice President before his NSA director role — and where Haseltine developed a Q-switched Nd:YAG laser system that created plasma voxels in free air, directly relevant to UAP orb phenomena."
 tags: [disney, imagineering, haseltine, plasma, laser, technology, entertainment, nsa]

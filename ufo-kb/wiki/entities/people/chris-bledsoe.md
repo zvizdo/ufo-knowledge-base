@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "North Carolina contactee; foundational 4-hour missing-time event Jan 8, 2007 (Cape Fear River, Crohn's disease healed); 2012 Easter encounter with the Lady; Camp David napkin confirmed firsthand from Tim Taylor; Dragon Control / NRO context; Zanesville Ohio metal recovered with Taylor; intuitive input for Vivex Biotechnologies."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 name: Chris Bledsoe
 aliases: []

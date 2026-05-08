@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Russian biophysicist who applied scalar wave / vector-potential technology to DNA healing; Nobel Prize nomination retracted; died under reportedly mysterious circumstances; work continues at linguisticwavegenetics.com."
-created: 2026-04-25
-updated: 2026-04-25
 name: Peter Gariaev
 aliases: [Pyotr Gariaev, Peter Gary]
 roles: [researcher]

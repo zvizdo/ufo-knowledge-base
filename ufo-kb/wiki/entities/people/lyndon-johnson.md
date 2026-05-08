@@ -3,8 +3,6 @@ type: entity
 name: Lyndon Baines Johnson
 aliases: [LBJ, Lyndon Johnson]
 summary: "36th US President (1963–1969); witnessed by Jack Valenti to have locked himself in Air Force One bathroom saying 'they're going to kill us all' after JFK's assassination — despite having reportedly been briefed the night before at Clint Murchison's ranch that the assassination was coming."
-created: 2026-05-05
-updated: 2026-05-05
 roles: [official]
 affiliations: [Democratic Party, US Senate, White House]
 firsthand_claims: []

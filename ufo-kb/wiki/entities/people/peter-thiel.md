@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "PayPal co-founder and venture capitalist who has argued that advanced propulsion technology (FTL or warp drive) acts as a societal forcing function, driving civilizations toward either totalitarian control or pure altruism — implying a binary outcome that maps to 'children of light' vs 'children of darkness' NHI factions."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md]
 name: Peter Thiel
 aliases: []

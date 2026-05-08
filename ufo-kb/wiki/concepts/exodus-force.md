@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The anomalous directional electrostatic thrust characterized by Exodus Propulsion Technologies — measurable in hard vacuum, DC-powered, direction-reversible, and persistent after power-off; proposed to be a third-order QED effect distinct from both Coulomb's law and the ionic wind artifact."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/mOWwdIuyaQA.md]
 tags: [electrogravitics, propulsion, exodus-propulsion, biefeld-brown-effect, qed, vacuum-thrust, new-force]
 ---

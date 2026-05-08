@@ -4,8 +4,6 @@ entity-type: places
 name: Easter Island
 aliases: [Rapa Nui, Isla de Pascua]
 summary: "Remote Pacific island famous for Moai statues; site of the Rongo Rongo undeciphered script, which Robert Schoch interprets as recordings of plasma discharge sky patterns from ancient CME events."
-created: 2026-04-26
-updated: 2026-04-26
 region: Polynesia
 country: Chile (territory)
 coordinates: "27.1°S, 109.3°W"

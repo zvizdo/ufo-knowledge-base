@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "James McCord — CIA security officer; Watergate burglar; one of five men caught breaking into DNC headquarters in June 1972; linked by Danny Sheehan to the S-Force / Operation 40 network that also allegedly carried out JFK assassination."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: James McCord
 aliases: [James W. McCord Jr.]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Air Force classified study (~1958–1959) on the feasibility and psychological impact of detonating a nuclear weapon on the Moon as a show of force against the Soviets; Carl Sagan was a consultant, establishing his classified access."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md]
 name: Project A-119
 aliases: [A Study of Lunar Research Flights]

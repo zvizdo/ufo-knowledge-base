@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The recurring credibility-framework observation that military personnel who report close-encounter UAP events frequently develop PTSD-spectrum symptomatology consistent with combat trauma — a signal that whatever was witnessed was processed by the nervous system as a genuine, severe threat event."
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [credibility-frameworks, military-witnesses, ptsd, trauma, embodied-evidence]
 ---

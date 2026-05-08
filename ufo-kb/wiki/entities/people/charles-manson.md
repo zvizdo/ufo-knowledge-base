@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Convicted cult leader whose Family committed the 1969 Tate-LaBianca murders; journalist Tom O'Neill presents evidence he was an MK-Ultra behavioral-modification subject whose transformation from petty criminal to charismatic cult leader occurred inside the CIA's operational orbit."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/UrHLTFvdEZk.md, raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: Charles Manson
 aliases: [Charles Milles Manson]

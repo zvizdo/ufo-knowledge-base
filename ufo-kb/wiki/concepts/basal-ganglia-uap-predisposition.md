@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Gary Nolan's thesis that individuals with higher neural density in the caudate-putamen (basal ganglia) region are neurologically predisposed to UAP/paranormal perception before any encounter occurs."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/dzTZbSNsKV8.md]
 tags: [gary-nolan, neuroscience, basal-ganglia, caudate-nucleus, putamen, uap-predisposition, consciousness, skinwalker-ranch]
 ---

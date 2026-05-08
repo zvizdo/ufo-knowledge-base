@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Clinton White House Chief of Staff, Hillary Clinton 2016 campaign chair; one of the most senior US political figures to publicly express deep interest in UFO/UAP disclosure; often cited alongside Dick Cheney and George W. Bush as a political figure with possible insider knowledge."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: John Podesta
 aliases: []

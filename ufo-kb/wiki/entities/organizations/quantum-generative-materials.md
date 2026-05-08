@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Quantum computing startup founded by Deep Prasad; raised $15M; mission is to reverse-engineer UAP material properties by simulating exotic metamaterials using the many-body Schrödinger equation on quantum hardware."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/qAou_h1POWs.md]
 name: Quantum Generative Materials
 aliases: []

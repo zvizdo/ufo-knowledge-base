@@ -8,8 +8,6 @@ published: "2025"
 url: "https://www.youtube.com/watch?v=bM18PJY6_Zc"
 duration_minutes: ~120
 tags: [chris-bledsoe, tim-taylor, thomas-townsend-brown, nasa, contactee, divine-feminine, prophecy, zanesville, vivex-biotechnologies, healing, nassau-group, faraday-cage, cape-fear, orbs, psionic-assets, nro, ufo-metal, memory-suppression]
-created: 2026-04-27
-updated: 2026-05-04
 video_id: bM18PJY6_Zc
 sources: [raw/youtube-transcripts/bM18PJY6_Zc.md]
 ---

@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/patty-hearst.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Religious organization founded by Jim Jones that culminated in the 1978 Jonestown mass murder-suicide of 918 members in Guyana; connected in researcher accounts to CIA mind control experimentation, intelligence community penetration, and the same social milieu as the SLA kidnapping of Patty Hearst."
 tags: [cult, jim-jones, jonestown, mk-ultra, cia, mind-control, guyana, 1978]

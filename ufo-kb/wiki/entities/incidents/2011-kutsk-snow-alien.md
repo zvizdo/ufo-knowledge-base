@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "March 2011 video of apparent alien body found in Siberian snow near Irkutsk Oblast; 12M YouTube views; two teens (ages 18–19) confessed to hoaxing with breadcrumbs, plasticine, and chicken skin; Jesse Michaels skeptical of confession given morphological similarity to Nazca J-types and proximity to nuclear UFO sighting"
-created: 2026-04-26
-updated: 2026-04-26
 name: 2011 Kutsk Snow Alien
 date: "2011-03"
 location: Irkutsk Oblast, Siberia, Russia

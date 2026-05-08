@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [new-mexico-state-legislature, us-congress]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/u7g5Sn1DJF4.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 summary: "Republican US Congressman for New Mexico who, after being briefed by state rep Jay Andrew Kissner on 1994–1995 firsthand legacy-program testimony, launched a major GAO audit and investigation into Roswell records — only to find that the US Air Force had lost or destroyed all relevant files."
 tags: [disclosure, roswell, congress, gao-audit, new-mexico, legacy-programs, records-destruction]

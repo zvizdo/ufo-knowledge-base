@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "R.A. Schwaller de Lubicz: French occultist and Egyptologist who first proposed the sphinx water erosion hypothesis; the intellectual forerunner of John Anthony West's and Robert Schoch's geological argument for a far older Sphinx."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JGE1NIGhBzw.md]
 name: R.A. Schwaller de Lubicz
 aliases: [R.A. Schwaller de Lubicz, Schwaller de Lubicz, René Adolphe Schwaller de Lubicz]

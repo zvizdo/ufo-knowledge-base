@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Mission patches from classified US space missions (Space Force/Space Command era) bearing Roman gods and first-century Latin text — understood by insiders as dedications to 'the sponsors' (NHI); physical evidence that the cosmism tradition is alive in the contemporary space program."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 tags: [space-program-patches, nasa, space-force, cosmism, nhi, sponsors, latin, greco-roman, occult-aerospace, hermetic-tradition]
 ---

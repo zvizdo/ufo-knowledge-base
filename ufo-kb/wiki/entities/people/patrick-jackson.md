@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Texas-based sphere researcher who classifies metallic UAP orbs into 'type one' and 'type two' categories and proposes they constitute a global alien defense system for Earth."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Patrick Jackson
 aliases: []

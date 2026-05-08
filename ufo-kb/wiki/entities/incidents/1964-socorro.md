@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "April 24, 1964 landing case in Socorro, New Mexico; police officer Lonnie Zamora witnessed an egg-shaped craft and two beings; physical evidence documented in Project Blue Book files; caused Dr. Hynek to reverse his view on Close Encounters of the Third Kind."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: 1964 Socorro Landing
 date: 1964-04-24

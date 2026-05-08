@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "18th-dynasty pharaoh; father of Akhenaten; his feud with the Amen priesthood set the stage for the Amarna revolution"
-created: 2026-04-26
-updated: 2026-04-26
 name: Amenhotep III
 aliases: [Amenophis III]
 roles: [other]

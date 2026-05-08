@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged landing of three disc-shaped craft at Holloman AFB, New Mexico, in the early 1960s (~1964–65); one craft landed, beings with Egyptian-style headgear met with military officers; footage was filmed, briefly shown at Norton AFB, then confiscated by men in suits."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md, raw/youtube-transcripts/hBrfe4hFuM0.md]
 name: Holloman AFB Landing
 date: ~1964-65

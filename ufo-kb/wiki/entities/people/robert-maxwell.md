@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British media tycoon, triple intelligence agent (MI6/KGB/Mossad), and father of Ghislaine Maxwell; controlled Pergamon Press scientific journals, allegedly suppressing propulsion/electrogravitics breakthroughs."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: Robert Maxwell
 aliases: [Ian Robert Maxwell, Ján Ludvík Hyman Binyamin Hoch]

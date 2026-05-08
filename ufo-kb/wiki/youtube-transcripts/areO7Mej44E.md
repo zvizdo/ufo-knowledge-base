@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 summary: "Steven Greer on the global UFO secrecy structure (MAGIC/Majestic 12), gravity control history, human-staged abductions, JFK/Nixon assassination-UFO links, CE-5 protocols, free energy suppression, and the path to disclosure."
 video_id: areO7Mej44E
 title: "UFO Secrets Are Held By A Global Cabal (Ft. Steven Greer)"

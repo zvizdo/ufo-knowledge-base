@@ -6,8 +6,6 @@ roles: [researcher, other]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/andrew-gallimore.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Podcast host and writer; hosts Third Eye Drops, a podcast exploring consciousness, psychedelics, neuroscience, and contemplative practice; his interview with Andrew Gallimore in the Third Eye Drops context is referenced in the KB's documentation of Gallimore's DMT research and entity contact claims."
 tags: [podcast, consciousness, psychedelics, dmt, contemplative, third-eye-drops, gallimore]

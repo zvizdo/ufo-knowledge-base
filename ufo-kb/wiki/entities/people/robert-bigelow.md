@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Aerospace entrepreneur and UAP researcher; founder of NIDS (National Institute for Discovery Science); much of AATIP's early investigative activity occurred at his facilities, including Skinwalker Ranch."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/iPxbILOMQ08.md]
 name: Robert Bigelow
 aliases: [Bigelow]

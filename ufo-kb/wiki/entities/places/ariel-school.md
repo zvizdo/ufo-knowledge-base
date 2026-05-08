@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Primary school in Ruwa, Zimbabwe where 62 children reported a close encounter with a landed craft and non-human beings on September 16, 1994 — one of the most witnessed and most rigorously investigated close encounter cases in the UAP record."
-created: 2026-05-05
-updated: 2026-05-05
 name: Ariel School
 aliases: [Ariel Primary School]
 region: Mashonaland East

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Socorro, New Mexico police officer who witnessed a landed craft and two beings on April 24, 1964 — a case that caused Dr. J. Allen Hynek to reverse his skepticism on Close Encounters of the Third Kind."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: Lonnie Zamora
 aliases: [Lon Zamora]

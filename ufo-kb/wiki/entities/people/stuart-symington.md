@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Senator (D-MO) and first Secretary of the Air Force (1947–1950); described as Forrestal's primary enemy; rode with Forrestal in the limousine after Forrestal's farewell ceremony — the encounter after which Forrestal sat silently repeating 'You are a loyal fellow.'"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Stuart Symington
 aliases: []

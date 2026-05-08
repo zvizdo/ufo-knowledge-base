@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: real governmental power is exercised not through elected office but through blackmail and compromising leverage on officials; Epstein's network is the paradigm case; Vatican/City of London/Knights of Malta are the apex custodians."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md]
 tags: [blackmail, shadow-governance, epstein, power-structures, ufo-secrecy-cabal, cover-up]
 ---

@@ -8,8 +8,6 @@ witnesses: []
 craft_type: interstellar-object
 corroboration: instrumented
 summary: "First detected interstellar object passing through the solar system; exhibited anomalous acceleration without a cometary tail and a flat pancake shape inconsistent with any known natural body; Avi Loeb proposed it may be an artificial lightsail."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/_bM9eAtCOGw.md]
 tags: [oumuamua, interstellar, lightsail, avi-loeb, galileo-project, pan-starrs, anomalous-object]
 ---

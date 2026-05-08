@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "739-page AIAA technical anthology (2009) co-edited by Eric W. Davis and Mark Millis; the definitive academic survey of exotic propulsion concepts including warp drives, vacuum energy, and inertial modification. Salvatore Pais brought his personal copy to his first in-person interview and calls it a landmark work."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md]
 title: Frontiers of Propulsion Science
 authors: [Eric W. Davis, Mark Millis]

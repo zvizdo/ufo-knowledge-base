@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Leading UFO researcher of the 1980s who admitted at the 1989 MUFON Symposium to having worked with Air Force intelligence officers in the disinformation operation against Paul Bennewitz."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Bill Moore
 aliases: [William Moore]

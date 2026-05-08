@@ -4,8 +4,6 @@ subtype: organization
 name: Intellect
 aliases: [Intellect Corporation, Intellecton]
 summary: "Andrija Puharich's covert research company operating in the 1960s in the Elmsford, NY area; almost no public records exist; produced the TD-100 thought-transmission device and conducted classified experiments with Jose Delgado on brain implants and remote transmission of thoughts; believed to be a CIA front."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/2-GeTxXi670.md]
 tags: [andrija-puharich, mind-control, cia, brain-implants, td-100, jose-delgado, mk-ultra, thought-transmission]
 ---

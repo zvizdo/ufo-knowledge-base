@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "David Ferrie: CIA-adjacent pilot; alopecia sufferer with fake red wig; white supremacist; part of Guy Banister's Camp Street operation and Jim Garrison's JFK investigation; died under suspicious circumstances during the Garrison investigation."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: David Ferrie
 aliases: [David William Ferrie]

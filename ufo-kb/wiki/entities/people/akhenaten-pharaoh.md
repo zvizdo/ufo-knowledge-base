@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Pharaoh Amenhotep IV; first monotheist in recorded history; closed Egypt's temples; depicted with elongated skulls during the Amarna period"
-created: 2026-04-26
-updated: 2026-04-26
 name: Akhenaten
 aliases: [Amenhotep IV, Akhenaton]
 roles: [other]

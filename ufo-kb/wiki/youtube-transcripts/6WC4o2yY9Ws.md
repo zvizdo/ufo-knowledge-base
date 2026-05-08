@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Ryan Graves describes routine East Coast UAP sightings by his F-18 squadron (2014–2015), introduces the cube-in-sphere morphology, reveals 4-object formation in the GOFAST video, and discusses aviation safety, the congressional UAP hearing, and private-sector UAP detection."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/6WC4o2yY9Ws.md]
 video_id: 6WC4o2yY9Ws
 title: "US Fighter Pilots Witness UFO (ft. Ryan Graves)"

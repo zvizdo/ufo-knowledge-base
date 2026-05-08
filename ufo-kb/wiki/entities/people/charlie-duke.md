@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Apollo 16 astronaut (10th person to walk on the Moon); at age 90, appeared on the Danny Jones podcast to debate moon-landing skeptic Bart Sibrel, insisting he walked on the moon and pointing to 200 lb of returned moon rocks as proof."
-created: 2026-04-26
-updated: 2026-04-26
 name: Charlie Duke
 aliases: [Charles Moss Duke Jr.]
 roles: [other]

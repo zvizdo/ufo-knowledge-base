@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The US developed a directed energy weapon — based on nuclear-induced X-ray pulse — capable of downing UAPs, with a lineage running from the 1962 Bluegill shootdown through Edward Teller's Project Excalibur to Reagan's SDI."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 tags: [directed-energy, x-ray-emp, sdi, uap-weapon, nuclear, roswell-survivor]
 ---

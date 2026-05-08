@@ -2,8 +2,6 @@
 type: synthesis
 synthesis-type: cross-cluster
 summary: "Two separate research clusters — the Lost Civilization Hypothesis (Graham Hancock, Randall Carlson, ancient sites) and the Nazca Mummies cluster (tridactyl remains, forensic analysis, NHI biologics) — converge on the same underlying thesis: anatomically and technologically anomalous physical evidence from pre-modern contexts that defies conventional human origin explanations."
-created: 2026-04-26
-updated: 2026-04-27
 derived-from: [lost-civilization-hypothesis, ancient-astronaut-hypothesis, nazca-tridactyl-mummies, tridactyl-global-pattern, graham-hancock, chariots-of-the-gods, subterranean-civilizations, nazca-peru, nhi-biologics, hxqn2tkqhs8]
 tags: [synthesis, lost-civilization, nazca-mummies, ancient-astronaut, physical-evidence, nhi, pre-history]
 ---

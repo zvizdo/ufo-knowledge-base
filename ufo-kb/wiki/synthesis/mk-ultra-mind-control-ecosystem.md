@@ -3,8 +3,6 @@ type: synthesis
 synthesis-type: cluster
 title: MK Ultra Mind Control Ecosystem
 summary: "The CIA's behavioral modification programs — MK Ultra, MK Naomi, Artichoke — form a dense network connecting Fort Detrick, the False Memory Syndrome Foundation, the RFK assassination, the Betty Hill abduction, and Andrija Puharich's consciousness research. The same institutional infrastructure that tortured test subjects appears in UAP discourse as the mechanism behind witness programming, abduction memories, and political assassinations."
-created: 2026-04-26
-updated: 2026-05-02
 derived-from: [mk-ultra, mk-naomi, fort-detrick, false-memory-syndrome-foundation, jolly-west, andrija-puharich, 1968-rfk-assassination, 1961-betty-barney-hill-abduction, timothy-mcveigh, candy-jones, sirhan-sirhan, frank-olson, colin-ross, robert-heath, intellect, roundtable-foundation, elf-weapons, elf-waves, beardsley-graham, henry-a-wallace, bob-beck, mind-traveler-documentary]
 tags: [mk-ultra, cia, mind-control, synthesis, black-budget, consciousness, uap-adjacent]
 ---

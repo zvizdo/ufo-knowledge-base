@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Town in Lombardy, Italy where a non-human disc craft crashed in June 1933 — the earliest well-documented government-confirmed UAP recovery event in the historical record."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Magenta, Italy
 aliases: [Magenta crash site, 1933 Magenta crash, Magenta Italy]

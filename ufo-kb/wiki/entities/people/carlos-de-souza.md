@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Brazilian ultralight pilot and geography teacher; witnessed the Varginha UFO crash in January 1996, handled memory-metal debris, was threatened at gunpoint by Brazilian Army, and encountered Men in Black within minutes."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UkKwa4jU0fc.md]
 name: Carlos de Souza
 aliases: [Kahus, Galus, Carlos Dosoza, Carlos Doza]

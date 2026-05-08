@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Internal memo written by Howard Cross of Battelle Memorial Institute, found by Jacques Vallée in Project Blue Book files; reveals a parallel real UFO investigation focused on nuclear-adjacent hotspots, operating separately from Blue Book's public-facing role."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 title: Pentacle Memo
 authors: [howard-cross]

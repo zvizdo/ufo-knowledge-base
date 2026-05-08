@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Polish author and researcher who specializes in German secret weapons; told Nick Cook the story of Die Glocke and brought him to the Wenceslaus mine site in Poland (Walenberg/Wenceslaus) where the test rig's hexagonal concrete structure remains visible — the primary source who introduced Die Glocke into the public UFO discourse."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Igor Witkowski
 aliases: [Eagle Witkowski, Eagl Pikowski]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Fred Chrisman: OSS veteran; supervisor of the 1947 Maury Island UFO incident; connected to Clay Shaw and Jim Garrison's JFK investigation; possibly one of the 'hobos' arrested at Dealey Plaza on November 22, 1963."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Fred Chrisman
 aliases: [Frederick Lee Crisman]

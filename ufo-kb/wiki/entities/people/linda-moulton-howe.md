@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American journalist and filmmaker specializing in cattle mutilations and UAP phenomena; was investigating mutilations in the South Dakota / Northwest region in 1977, the same year and area as the Mario Woods Ellsworth incident."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/73YBwFvcmF8.md]
 name: Linda Moulton Howe
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Mycologist and author of Entangled Life (2020); Rupert Sheldrake's son; whose work on fungal intelligence and networks raises directed-panspermia questions and connects to the Terence McKenna mushroom-consciousness tradition."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wT5-hXWIkzM.md]
 name: Merlin Sheldrake
 aliases: []

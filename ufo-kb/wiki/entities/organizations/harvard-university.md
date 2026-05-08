@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/crane-brinton.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Private research university in Cambridge, Massachusetts; oldest university in the US (1636); appears in KB through figures including Crane Brinton, John Mack (UAP abduction researcher), and the Epstein network's penetration of Harvard's endowment and research programs."
 tags: [university, cambridge, massachusetts, research, john-mack, crane-brinton, epstein]

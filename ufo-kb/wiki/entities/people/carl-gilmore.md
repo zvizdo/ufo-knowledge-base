@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Caltech/JPL astronomer; discovered the Leahy stellar stream; pioneered exoplanet atmosphere detection techniques central to the biosignature search; recently began working on the Vera Rubin Observatory; shot and killed at his remote Lano, CA property on February 16, 2026."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Carl Gilmore
 aliases: [Carl Johan Gilmore, Carl Grilmare, Carl Gilmar]

@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Matthew Pines and Jesse Michaels cover UFO physics (Wolfram/Gorard hypergraph models), Harold Malmgren's two personal UAP briefings (Lawrence Gise 1963 / Richard Bissell), the Jim Simons classified-physics nexus (Stony Brook → Brookhaven → NASA UAP chair), the Mormon Church–intelligence–tech pipeline (Jared Birchall / Bumblehive / Howard Hughes), the Eisenhower genetic-collection treaty reportedly ending, a senior DoD SAP manager's 'game recognized game / triangle: AI, quantum, Grusch stuff,' and a polygraph question asking about 'loyalty to any non-human faction.'"
-created: 2026-04-26
-updated: 2026-05-04
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 video_id: LpLFWdsIU7M
 title: "UFO Physics & Disclosure Under Trump (ft. Matthew Pines)"

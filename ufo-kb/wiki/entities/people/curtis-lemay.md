@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Air Force general and head of Strategic Air Command; Cold War hawk who pressed for first-strike options during the Cuban Missile Crisis; reportedly held deep UAP knowledge and prevented its disclosure."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: Curtis LeMay
 aliases: [Curtis Emerson LeMay, LeMay]

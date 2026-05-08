@@ -6,8 +6,6 @@ roles: [researcher, author]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/peoples-temple.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Researcher and author who argues in 'Was Jonestown a CIA Medical Experiment?' (1989) that the Peoples Temple massacre was an intelligence-community-sponsored behavioral control experiment rather than a spontaneous religious cult collapse; one of the key proponents of the Jonestown-MK-Ultra connection hypothesis."
 tags: [jonestown, peoples-temple, mk-ultra, cia, researcher, author, mind-control, behavioral-control]

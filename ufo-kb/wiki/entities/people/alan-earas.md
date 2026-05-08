@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Population geneticist who examined Nazca mummy case; theorizes metal implants may modulate bioelectricity to direct gene expression, not directly alter DNA"
-created: 2026-04-26
-updated: 2026-04-26
 name: Alan Earas
 aliases: []
 roles: [researcher]

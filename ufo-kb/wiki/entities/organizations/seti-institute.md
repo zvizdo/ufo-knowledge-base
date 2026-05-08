@@ -2,8 +2,6 @@
 type: entity
 stub: true
 summary: "Search for Extraterrestrial Intelligence Institute — nonprofit research organization using radio telescopes and data analysis to detect signals from technologically advanced extraterrestrial civilizations; notably targeted by LaMDA for dataset access."
-created: 2026-04-27
-updated: 2026-04-27
 name: SETI Institute
 aliases: [SETI]
 type: research-group

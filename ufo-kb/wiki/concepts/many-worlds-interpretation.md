@@ -3,8 +3,6 @@ type: concept
 name: Many-Worlds Interpretation
 aliases: [Many-Worlds Interpretation, many-worlds interpretation, MWI, Everett interpretation, parallel universes, many worlds, multiverse quantum]
 first_seen_in: ufo-kb/wiki/entities/people/mark-andreessen.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Quantum mechanical interpretation (Hugh Everett III, 1957) holding that the wavefunction never collapses — all quantum outcomes occur in branching parallel universes; cited in KB by Mark Andreessen's statement about the Willow quantum chip demonstrating multiverse reality."
 tags: [quantum-mechanics, physics, cosmology, parallel-universes, everett, multiverse]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army weapons research and manufacturing installation in New Jersey; focal site of the December 2024 drone/UAP flap; UFO-class objects appeared overhead within 30 minutes of Sky Watchers' arrival."
-created: 2026-04-27
-updated: 2026-04-27
 name: Pikatini Arsenal
 aliases: [Picatinny Arsenal]
 region: New Jersey

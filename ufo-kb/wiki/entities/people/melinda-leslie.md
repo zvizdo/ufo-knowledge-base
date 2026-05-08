@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Sedona-area UAP researcher with military-grade night-vision goggles; accompanied Ross Coulthart at Secret Mountain at 1:30 AM when they observed the golden orb escorted by Blackhawk helicopters."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Melinda Leslie
 aliases: []

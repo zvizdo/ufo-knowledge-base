@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/scalar-waves.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Researcher associated with publications on extended electrodynamics and scalar wave physics; cited in the KB alongside an anonymous Navy scientist as evidence that scalar-wave physics may have classified applications relevant to UAP propulsion; specific institutional affiliation not documented in KB sources."
 tags: [scalar-waves, extended-electrodynamics, uap-propulsion, physics]

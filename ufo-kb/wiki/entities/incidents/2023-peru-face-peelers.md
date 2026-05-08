@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2023 summer incursion events in the Alto Nanai region of Peru where armoured figures on hoverboards attacked indigenous villages, including an attempted face-removal of a 15-year-old girl."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [peru, amazon, hoverboard, advanced-tech, face-peelers, indigenous, kidnapping, paramilitary]
 name: 2023 Peru Face Peeler Incursions

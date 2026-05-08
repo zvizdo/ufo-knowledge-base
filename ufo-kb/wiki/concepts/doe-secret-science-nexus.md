@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Framework asserting that the Department of Energy — via its nuclear-site management, 'born secret' Atomic Energy Act authority, and contractor relationships with Lockheed/Northrop — is the primary institutional locus of the US government's most classified exotic physics research."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/SZBI85yvV5A.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 tags: [doe, darpa, nuclear, secret-science, atomic-energy-act, exotic-propulsion, classification]
 ---

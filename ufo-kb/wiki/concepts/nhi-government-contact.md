@@ -3,8 +3,6 @@ type: concept
 name: NHI-Government Contact
 aliases: [government-NHI contact, NHI contact, alien contact program]
 summary: "The KB concept class for claims that US (and other) government representatives have had direct, formal, or informal contact with non-human intelligence — including alleged meetings, treaties, communications, and ongoing liaison arrangements. Distinct from UAP sightings: these claims involve direct interaction with NHI as agents."
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 tags: [nhi, government-contact, treaty, eisenhower, majestic-12, contactee-program, disclosure]
 ---

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Tick-borne bacterial illness caused by Borrelia burgdorferi; in the KB's context, cited in connection with Plum Island Animal Disease Center — through the hypothesis that Lyme disease may have originated from or been released by biological research conducted on the island, which is geographically proximate to Old Lyme, Connecticut."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [disease, biowarfare, plum-island, tick-borne, new-york, bioweapon-hypothesis]
 ---
 

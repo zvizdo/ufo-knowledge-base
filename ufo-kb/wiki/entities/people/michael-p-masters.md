@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Biological anthropologist at Montana Tech and author of the Extratemporalis model — the theoretical framework proposing that UAP/NHI phenomena are explained by future Homo sapiens who have mastered time travel."
-created: 2026-04-26
-updated: 2026-04-26
 name: Michael P. Masters
 aliases: [Mike Masters, Dr. Masters, Dr. Michael P. Masters]
 roles: [researcher, author]

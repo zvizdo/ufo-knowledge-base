@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA physicist who chaired the 1952 Robertson Panel that mandated Project Blue Book to debunk and explain away UFO sightings, while himself being deeply embedded in US atomic weapons programs."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/KGD1nuM4MR8.md]
 name: H.P. Robertson
 aliases: [Howard Percy Robertson, Howard Percy Robertson]

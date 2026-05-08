@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO researcher and presenter who has conducted deep analysis of the Dan Burish / J-Rod case; associated with the Night Shift channel (with Clint and Xander Jones)."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Brian Jackson
 aliases: []

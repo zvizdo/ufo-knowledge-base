@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Martin Corporation (pre-Lockheed merger) physicist who ran their anti-gravity division; contracted by Wright Air Field to work on gravity; present at the 1957 UNC Chapel Hill gravity conference; reported that Townsend Brown possessed a bismuth isotope with anti-gravity properties; subsequently went dark and published nothing further on gravity."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/kRO5jOa06Qw.md]
 name: Lewis Whitten
 aliases: [Louis Witten, L. Witten]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Harvard-trained economist (under Ken Rogoff); economist for the US intelligence community; authored the Bitcoin Policy Institute white paper 'The Case for Bitcoin as a Central Bank Reserve Asset.'"
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md]
 name: Matthew Ferranti
 aliases: [Ferranti]

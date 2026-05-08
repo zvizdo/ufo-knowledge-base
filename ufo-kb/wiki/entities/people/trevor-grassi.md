@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Independent researcher who tipped Filippo Biondi on shaft locations between the Khafre pyramid and Sphinx; independently identified a 'corridor of rooms' connecting surface to underground tunnel network"
-created: 2026-04-27
-updated: 2026-04-27
 name: Trevor Grassi
 aliases: []
 roles: [researcher]

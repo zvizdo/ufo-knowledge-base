@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Timothy Good's 1987 book surveying the worldwide government UFO cover-up; considered a canonical work; the book that catalyzed Richard Dolan's entry into UFO research."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 title: "Above Top Secret: The Worldwide UFO Cover-Up"
 authors: [timothy-good]

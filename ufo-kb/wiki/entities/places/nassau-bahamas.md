@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nassau, Bahamas; recurring meeting location for Thomas Townsend Brown and Robert Sarbacher; operational hub for the Caroline Group; base of operations for MI6 spy William Stevenson; connected to the Nassau Group (time-travel program) that Tim Taylor claimed to be part of."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RTEWLSTyUic.md, raw/youtube-transcripts/bM18PJY6_Zc.md]
 name: Nassau, Bahamas
 aliases: [Nassau]

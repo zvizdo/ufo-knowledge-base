@@ -3,8 +3,6 @@ type: concept
 name: Holotropic Breathwork
 aliases: [holotropic breathwork, holotropic-breathwork, Holotropic Breathwork, transpersonal breathwork, Grof breathwork]
 first_seen_in: ufo-kb/wiki/entities/people/wim-hof.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Therapeutic and consciousness-expanding practice developed by psychiatrist Stanislav Grof and Christina Grof in the 1970s as a legal alternative to LSD psychotherapy; uses accelerated breathing, music, and bodywork to induce non-ordinary states; produces experiences described as similar to psychedelic sessions including entity contacts and past-life memories."
 tags: [breathwork, consciousness, stanislav-grof, transpersonal, lsd-alternative, non-ordinary-states]

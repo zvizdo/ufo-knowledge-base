@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Italian Earth-observation satellite constellation providing SAR data used by Filippo Biondi's Beyond Protocol for Giza substructure imaging"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/NvQXmtcwHA8.md]
 name: Cosmos SkyMed
 aliases: [COSMO-SkyMed, Cosmos Sky-Med]

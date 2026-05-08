@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Mysterious figure who embedded himself in the Manson Family; disclosed on his deathbed that he was an undercover government informant who was present at the Tate crime scene after the murders and died regretting he hadn't prevented them."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: Reeve Whitson
 aliases: []

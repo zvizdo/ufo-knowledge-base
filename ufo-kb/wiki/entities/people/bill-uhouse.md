@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged US military witness who claimed Area 51 auxiliary sites housed an ET vehicle simulator (built from the 1953 Kingman crash) and a living recovered extraterrestrial entity called 'J-Rod'; interviewed in mid-2000s before his death."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Bill Uhouse
 aliases: []

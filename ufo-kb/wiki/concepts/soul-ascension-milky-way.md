@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Globally shared afterlife itinerary: the soul leaps to Orion's Belt at death, then journeys the Milky Way through trials before judgment. Found independently across Americas, Egypt, and other cultures — Hancock argues this requires a common ancestral source."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md]
 tags: [afterlife, soul, orion, milky-way, mythology, ancient-egypt, mesoamerica, graham-hancock, precession, cosmology]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "New Mexico abductee whose hypnotic regression, conducted with Paul Benowitz's involvement, produced detailed accounts of an underground base facility — a key source for the Dulce underground-base mythology."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/WBTqsbwJyqU.md]
 name: Myrna Hansen
 aliases: []

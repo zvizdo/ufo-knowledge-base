@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Air Force Research Laboratory at Wright-Patterson Air Force Base; a $2.2B science and technology portfolio covering advanced materials, directed energy, space systems, and exotic propulsion; commanded by Neil McCasland 2011–2013; alleged Roswell debris study site."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Air Force Research Laboratory
 aliases: [AFRL, Air Force Research Lab]

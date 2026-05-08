@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Investigative journalist at KLAS-TV Las Vegas who first broke Bob Lazar's story in 1989 and has been a central figure in UAP journalism for four decades. Co-author with Jeremy Corbell; investigated Skinwalker Ranch extensively."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/fzvwBBSmWYA.md]
 name: George Knapp
 aliases: []

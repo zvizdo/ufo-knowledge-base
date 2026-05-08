@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Kevin Knuth's primary research partner at U Albany; first author of the A Tear in the Sky scientific paper; developed a non-destructive neutron-activation isotope analysis technique for studying UAP debris."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Matthew Shostakus
 aliases: [Matthew Shostak (possible alternate spelling)]

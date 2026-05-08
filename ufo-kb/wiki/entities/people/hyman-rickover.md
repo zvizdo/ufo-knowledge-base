@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Head of the US Nuclear Navy in the late 1950s–early 1960s; told Thomas Townsend Brown 'we're already on it' when Brown presented his gravitational-effects research — implying the Navy had a classified anti-gravity program predating and parallel to Brown's public work."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/6WC4o2yY9Ws.md]
 name: Hyman Rickover
 aliases: [Hyman G. Rickover, Admiral Rickover]

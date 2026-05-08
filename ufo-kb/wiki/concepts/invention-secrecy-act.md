@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "U.S. law (35 U.S.C. §§ 181–188, 1951) authorizing the Patent and Trademark Office to impose secrecy orders on patent applications whose disclosure would harm national security — used in the UAP context as a mechanism for suppressing advanced-technology patents that may reveal classified propulsion or materials research."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [law, patents, secrecy, national-security, suppressed-technology, uap, invention]
 ---
 

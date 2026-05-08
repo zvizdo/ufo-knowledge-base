@@ -3,8 +3,6 @@ type: concept
 name: UFO Documents
 aliases: [ufo documents, UAP documents, UAP primary sources, UAP declassified records]
 first_seen_in: ufo-kb/wiki/documents/halt-memo.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Primary source documents relating to UAP/UFO phenomena: government memos, intelligence reports, congressional testimony transcripts, FOIA releases, and alleged leaked documents; the evidentiary foundation of UAP research; ranges from authenticated government records to disputed documents like MJ-12."
 tags: [primary-sources, documents, foia, declassified, government-records, mj12]

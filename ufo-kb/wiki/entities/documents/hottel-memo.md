@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1950 FBI memo authored by agent Guy Hottel forwarding an Air Force officer's account of three crashed flying saucers recovered in New Mexico, each with a three-person humanoid crew; most-read FOIA document on the FBI website."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/TH10mD9hQas.md]
 title: "Hottel Memo (Flying Saucers — Information Concerning)"
 authors: [guy-hottel]

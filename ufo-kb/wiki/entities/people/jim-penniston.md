@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF Sergeant and Rendlesham Forest witness who physically examined a UAP craft in 1980 and later recalled, via hypnosis, a contact experience in which beings identified themselves as humans from 8,000 years in the future seeking genetic material."
-created: 2026-04-26
-updated: 2026-04-26
 name: Jim Penniston
 aliases: [Sergeant Penniston, James Penniston]
 roles: [witness, military-personnel]

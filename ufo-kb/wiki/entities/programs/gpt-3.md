@@ -6,8 +6,6 @@ parent_org: openai
 period: "2020–2023 (superseded by GPT-3.5 / GPT-4)"
 status: declassified
 first_seen_in: ufo-kb/wiki/youtube-transcripts/RNjC1vLcxKo.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/RNjC1vLcxKo.md]
 summary: "OpenAI's third-generation large language model, released June 2020; 175-billion-parameter autoregressive transformer; broadly credited as the first LLM to make general-purpose conversational AI commercially viable; cited in KB as the second-opinion AI consulted by Jesse Michaels on Blake Lemoine's LaMDA conversations."
 tags: [ai, openai, llm, gpt, transformer, lambda-comparison, lemoine, ai-sentience-debate]

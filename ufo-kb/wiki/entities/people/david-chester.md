@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "MIT/UCLA theoretical physicist specializing in QED and general relativity; friend and collaborator of Jesse Michaels; independently assessed the Exodus Propulsion Technologies experiments and provided QED theory critique."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/mOWwdIuyaQA.md]
 name: David Chester
 aliases: []

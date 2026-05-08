@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Secretary of the Navy (1949–1953) who had a personal UFO sighting while flying with Admiral Arthur Radford from California to Hawaii (~1950), prompting him to order an independent Navy UFO investigation separate from the Air Force."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Dan Kimball
 aliases: [Dan Kimble, Secretary of the Navy Kimball]

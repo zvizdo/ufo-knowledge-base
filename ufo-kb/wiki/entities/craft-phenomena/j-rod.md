@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged living recovered extraterrestrial entity housed in a containment sphere 7–6 levels underground at S4; claimed to have been contacted and sampled by microbiologist Dan Burish."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: J-Rod
 aliases: []

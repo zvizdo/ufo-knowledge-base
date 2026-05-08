@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Research organization founded by French explorer Thierry Jamin; has led the systematic scientific investigation of the Nazca tridactyl mummies since 2016"
-created: 2026-04-26
-updated: 2026-04-26
 name: Enari Institute
 aliases: []
 type: research-group

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Gary McKinnon's most widely cited disclosure claim: a US Navy Excel spreadsheet titled 'Non-Terrestrial Officers' listing ~30-40 names, unknown ship names, and exotic chemical transfers (barium, strontium, molybdenum) found on a Navy network in 2001; hard drives seized by ONI at arrest."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/mOWwdIuyaQA.md]
 tags: [mckinnon, non-terrestrial, navy, secret-space-program, spreadsheet, bifield-brown, exotic-materials]
 ---

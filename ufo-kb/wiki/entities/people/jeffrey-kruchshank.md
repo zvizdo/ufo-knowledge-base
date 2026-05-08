@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Australian intelligence analyst who filed a mandatory declassification review targeting Bluegill Triple Prime footage and received a remarkable 'unable to locate' response from the Department of Energy."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Jeffrey Kruchshank
 aliases: []

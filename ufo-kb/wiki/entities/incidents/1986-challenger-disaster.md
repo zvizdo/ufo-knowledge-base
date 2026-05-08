@@ -7,8 +7,6 @@ witnesses: []
 craft_type: N/A
 corroboration: documented-historical-record
 summary: "The destruction of Space Shuttle Challenger 73 seconds after launch on January 28, 1986, killing all seven crew members — notable in the KB through Ted Owens's documented letters predicting the disaster before it occurred, as evidence cited by Jason Reza Jorjani for genuine anomalous precognitive capability."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [nasa, space-shuttle, 1986, ted-owens, precognition, anomalous-claims, jorjani]
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Jazz harpist, pianist, and spiritual music composer; widow of John Coltrane; grand-aunt of Flying Lotus; described as profoundly spiritually 'tapped in' — her music evokes ancient Egypt and cosmic connection."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JE1oM89dpBc.md]
 name: Alice Coltrane
 aliases: [Alice McLeod Coltrane, Swamini Turiyasangitananda]

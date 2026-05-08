@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chinese state university (not to be confused with the Wuhan Institute of Virology); secretly paid Harvard chemist Charles Lieber $50k/month for years before the COVID pandemic — while Lieber simultaneously held a US federal research position."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/ePdH01pphbk.md]
 name: Wuhan Institute of Technology
 aliases: [WIT]

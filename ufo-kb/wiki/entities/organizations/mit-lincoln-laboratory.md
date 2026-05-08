@@ -6,8 +6,6 @@ roles: []
 affiliations: [mit, department-of-defense, usaf]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/hume-center.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Federally funded research and development center operated by MIT for the US Department of Defense; specializes in radar systems, air defense, space surveillance, and signal processing; founded in 1951 to develop the SAGE air defense radar network; one of the primary cleared academic environments connecting MIT to the national security apparatus."
 tags: [mit, ffrdc, radar, air-defense, classified-research, sage, space-surveillance, cleared-academic]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Orthopedic surgeon and bioelectromagnetics researcher; author of The Body Electric; documented that salamander limb regeneration is electrically controlled via ion gradients; showed that electromagnetic charging of severed limbs in tadpoles and salamanders can regrow them or produce two-headed animals. Michael Levin at Tufts is continuing this work."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Robert Becker
 aliases: [Robert O. Becker]

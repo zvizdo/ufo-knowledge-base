@@ -3,8 +3,6 @@ type: concept
 name: Reverse Engineering Hypothesis
 aliases: [reverse engineering hypothesis, reverse-engineering-hypothesis, UAP reverse engineering]
 first_seen_in: ufo-kb/wiki/concepts/soft-disclosure-civilian-observation.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The hypothesis that the US and allied governments have recovered non-human technology and have been reverse-engineering it into classified aerospace applications; the upstream process that would explain advanced classified craft and physics knowledge held by defense contractors."
 tags: [reverse-engineering, crash-retrieval, classified-physics, defense-contractors, uap-technology]

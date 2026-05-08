@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Science fiction author and founder of Dianetics and Scientology. Associated with Jack Parsons's Thelemic occult circle in Pasadena (1945–46). His cosmology includes alien civilizations and mass soul-murder — placing him at the intersection of contactee history, occult aerospace, and intelligence community connections."
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 name: L. Ron Hubbard
 aliases: [Lafayette Ronald Hubbard, LRH]

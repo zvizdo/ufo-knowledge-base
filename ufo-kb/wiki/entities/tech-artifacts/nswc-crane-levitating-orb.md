@@ -6,8 +6,6 @@ custodian: Naval Surface Warfare Center Crane (Off-World Technology Division)
 provenance: Recovered from a crashed non-human craft (per cadre briefing to Randy Anderson, March 2014)
 tags: [recovered-artifact, crash-retrieval, levitation, consciousness-interface, nswc-crane, offworld-technology]
 sources: [raw/youtube-transcripts/Sct30Qijfv8.md]
-created: 2026-04-26
-updated: 2026-04-26
 ---
 
 # NSWC Crane Levitating Orb

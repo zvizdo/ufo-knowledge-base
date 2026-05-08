@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Air Force base in Ohio identified as the destination for the 1933 Magenta craft after Allied retrieval; home to 'Hangar 18' in UFO lore and a center for Operation Paperclip."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/CiQTBOQ1dTg.md]
 name: Wright-Patterson Air Force Base
 aliases: [Wright-Patterson, WPAFB, Hangar 18]

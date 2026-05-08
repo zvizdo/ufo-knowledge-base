@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: UFOs are unmanned autonomous drones — not piloted spacecraft — built to collect genetic material from Earth; first appeared within days of the first atomic explosion (Trinity 1945); have demonstrated capability to disable or destroy nuclear weapons."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JpLThEF2dTM.md]
 tags: [ufo, robot, autonomous-probe, genetic-collection, ufo-nuclear-nexus, nhi, recurring-claims]
 ---

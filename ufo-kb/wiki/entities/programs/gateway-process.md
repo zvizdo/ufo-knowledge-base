@@ -6,8 +6,6 @@ parent_org: Monroe Institute
 period: 1970s–present
 status: declassified
 tags: [consciousness, remote-viewing, monroe-institute, hemi-sync, cia, out-of-body, altered-states]
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 summary: "CIA-studied consciousness-expansion program developed at the Monroe Institute using binaural beats (Hemi-Sync) to induce altered states; the 1983 CIA analysis by Wayne McDonnell remains a primary document in consciousness-UAP research."
 ---

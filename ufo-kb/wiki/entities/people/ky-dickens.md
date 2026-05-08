@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Documentary filmmaker who created the Telepathy Tapes feature investigating autistic children's apparent telepathic abilities."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 name: Ky Dickens
 aliases: []

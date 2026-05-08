@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Robert Monroe's term for a form of energy allegedly harvested from human emotional experience and soul-states by non-human intelligences; Jorjani extends this to frame the afterlife itself as a control system in which Nordic overlords farm human souls for energy."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md]
 tags: [loosh, robert-monroe, soul-harvesting, afterlife, nordic-control-system, psychotronic]
 ---

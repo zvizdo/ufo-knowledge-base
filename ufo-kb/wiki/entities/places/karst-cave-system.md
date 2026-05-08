@@ -3,8 +3,6 @@ type: place
 name: Karst Cave System (Giza Plateau)
 subtype: geological-feature
 summary: "Natural underground cave and tunnel network below the Giza plateau formed by dissolution of limestone; documented source of hydrogen sulfide gas and independent aquifer; central to Jeffrey Drum's chemical manufacturing hypothesis as feedstock source"
-created: 2026-05-03
-updated: 2026-05-03
 aliases: [karst caves, Giza karst, Giza subsurface cave system]
 tags: [giza, geology, karst, chemical-manufacturing, jeffrey-drum, hydrogen-sulfide, underground]
 ---

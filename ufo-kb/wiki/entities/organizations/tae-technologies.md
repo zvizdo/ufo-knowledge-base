@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Private aneutronic fusion company (hydrogen-boron fuel approach); announced a $6 billion merger with Trump Media and Technology Group on December 18, 2025 — two days after Nuno Lorero's murder; pre-revenue and pre-product in its core mission."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: TAE Technologies
 aliases: [TAE, Tri Alpha Energy]

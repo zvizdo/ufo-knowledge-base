@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "John Blitch's hypothesis that the 1930s–1940s wave of UAP crashes was caused by early radar installations inadvertently interfering with craft operating invisibly — engineers cranking transmitter power to extend range unknowingly brought down NHI vehicles operating in the area."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/yAvD5UTziTo.md]
 tags: [radar, crash-retrieval, 1940s, blitch, cape-girardeau, magenta, roswell, wwii, technology-interference]
 ---

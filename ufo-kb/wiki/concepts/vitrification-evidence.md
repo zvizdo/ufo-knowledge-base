@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Physical evidence of ancient extreme-heat events: stone surfaces (particularly basalt and granite) melted to a glass-like state, requiring temperatures exceeding 2,000°C — interpreted as signatures of plasma discharge from CME events."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/A_LsUSxTm7A.md]
 tags: [vitrification, plasma-discharge, ancient-catastrophe, lake-van, basalt, physical-evidence, robert-schoch]
 ---

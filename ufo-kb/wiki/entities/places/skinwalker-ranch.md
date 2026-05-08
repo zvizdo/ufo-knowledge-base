@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "A 512-acre ranch in the Uintah Basin, Utah, notorious since the 1990s for reported UAP sightings, cattle mutilations, poltergeist activity, and anomalous phenomena; used as a field investigation site by AAWSAP."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 name: Skinwalker Ranch
 aliases: [Sherman Ranch, Blind Frog Ranch adjacent area]

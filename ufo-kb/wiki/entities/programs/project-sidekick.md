@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Classified S4 program focused on weaponizing the craft's three gravity-wave emitters as a directed-energy particle beam weapon; one of three programs Bob Lazar encountered briefing documents for at S4."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: Project Sidekick
 aliases: [Sidekick]

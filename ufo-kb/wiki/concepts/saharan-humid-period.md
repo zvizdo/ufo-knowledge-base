@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Climatological epoch (~8500–5300 BC) when the Sahara desert was well-watered and inhabitable; cited in alternative archaeology as the plausible construction window for the Giza pyramids"
-created: 2026-05-03
-updated: 2026-05-03
 tags: [ancient-egypt, giza, alternative-archaeology, paleoclimatology, lost-civilization-hypothesis, sahara]
 ---
 

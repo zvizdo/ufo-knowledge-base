@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Theoretical physicist who coined 'it from bit' and 'black hole'; Feynman's PhD advisor; coiner of the participatory universe; met personally by Bob Maguire at a Princeton retirement community; central to Eric Weinstein's 'secret science lineage' hypothesis."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 name: John Wheeler
 aliases: [John Archibald Wheeler, Wheeler]

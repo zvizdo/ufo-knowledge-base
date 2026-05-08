@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Brazilian farmer whose 1957 abduction case is the earliest documented sexual contact claim in UFO literature — he reported sexual intercourse with a female NHI being, used by Masters as evidence of reproductive compatibility between humans and UAP entities."
-created: 2026-04-26
-updated: 2026-04-26
 name: Antonio Villas Boas
 aliases: [Antonio Villas Bôas, Villas Boas]
 roles: [witness, contactee]

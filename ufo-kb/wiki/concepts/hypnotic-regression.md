@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The use of hypnosis to help subjects recover memories of alleged UAP encounters, abduction experiences, or past lives — both a primary data-collection methodology in abduction research and a contested evidentiary category due to the known susceptibility of hypnotic memory to confabulation."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [abduction, memory, hypnosis, john-mack, leo-sprinkle, varginha, methodology, credibility]
 ---
 

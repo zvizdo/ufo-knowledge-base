@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Japan's only recorded female Empress (~249 AD); ruled 76 years in peace; a shaman with reported mind-reading abilities; converted Japan from hunting/gathering to rice culture; remote viewed by Joe McMoneagle as part of a DOD-adjacent historical verification task."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JpLThEF2dTM.md]
 name: Himiko
 aliases: [Pimiko, Himiko Empress]

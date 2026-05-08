@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Author of 'Journeys Out of the Body'; founder of the Monroe Institute; hired by the DOD to train Joe McMoneagle and other Stargate personnel in controlled out-of-body experience techniques."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JpLThEF2dTM.md]
 name: Robert Monroe
 aliases: [Bob Monroe]

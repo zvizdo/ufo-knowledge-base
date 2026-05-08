@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Community on Long Island, New York, directly adjacent to Brookhaven National Laboratory; site of an alleged UFO crash witnessed by the local police chief and community residents, per UFO discourse."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md]
 name: South Haven
 aliases: []

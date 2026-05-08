@@ -4,8 +4,6 @@ entity-type: people
 name: Robert Harrington
 aliases: []
 summary: "Chief astronomer for the U.S. Navy who co-investigated Pioneer 10/11 anomalous data with Thomas Van Flandern; died of throat cancer shortly afterward under circumstances flagged as suspicious."
-created: 2026-04-26
-updated: 2026-04-26
 roles: [official, researcher]
 affiliations: [U.S. Navy, U.S. Naval Observatory]
 firsthand_claims:

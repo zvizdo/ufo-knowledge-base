@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Christopher Dunn's hypothesis that the Great Pyramid functioned as an acoustic resonance power-generation system, exciting the King's Chamber's Aswan granite at characteristic frequencies; compatible with Drum's chemical-manufacturing reading since both require the same underlying infrastructure."
 tags: ["pyramids", "alternative-archaeology", "dunn-thesis"]

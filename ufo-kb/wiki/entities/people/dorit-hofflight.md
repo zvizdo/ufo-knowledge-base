@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Harvard Observatory assistant to Donald Menzel in the early 1950s; documented in her memoirs how Menzel ordered the destruction of one-third of Harvard's photographic plates without astronomical curation."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 name: Dorit Hofflight
 aliases: [Dory Tofflight (transcript variant)]

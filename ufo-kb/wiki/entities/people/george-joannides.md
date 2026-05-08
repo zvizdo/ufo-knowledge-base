@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "George Joannides: CIA psychological warfare officer at JM/WAVE Miami station who ran the DRE student directorate psywar program linked to Oswald; lied to Congress about this role during JFK assassination investigations."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: George Joannides
 aliases: []

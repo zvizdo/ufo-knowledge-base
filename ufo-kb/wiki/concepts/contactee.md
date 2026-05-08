@@ -3,8 +3,6 @@ type: concept
 name: Contactee
 aliases: [contactee, contactees, space brothers, contact claims]
 first_seen_in: ufo-kb/wiki/concepts/nhi-as-information-source.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "1950s-era individuals who claimed ongoing voluntary contact with benevolent extraterrestrials ('Space Brothers'); distinct from abductees in claiming consensual, spiritually significant relationships; George Adamski is the canonical figure; the tradition continued through the New Age movement and CE-5 protocols."
 tags: [contactee, adamski, space-brothers, voluntary-contact, 1950s, new-age]

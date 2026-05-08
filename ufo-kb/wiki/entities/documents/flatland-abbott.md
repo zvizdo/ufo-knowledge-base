@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1884 mathematical novella by Edwin Abbott Abbott; depicts life in a two-dimensional world to illustrate how higher-dimensional beings would intersect with and appear mysterious to lower-dimensional inhabitants; used by Vallée as the geometric analogy for UAP hyperdimensional physics."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
 title: "Flatland: A Romance of Many Dimensions"
 authors: [Edwin Abbott Abbott]

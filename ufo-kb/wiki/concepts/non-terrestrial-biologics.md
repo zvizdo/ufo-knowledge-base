@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Michael Aquino's interpretation of the 'MJ' cryptonym in US Space Command: organic compounds from meteorites, not alien bodies. Offered to Peter Levenda at the AFIO Las Vegas event as an alternative explanation for MJ-12 document references; Levenda is 'in two minds' about whether this is genuine clarification or a cover story."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 tags: [mj-12, cryptonym, aquino, astrobiology, cover-story, majestic-12]
 ---

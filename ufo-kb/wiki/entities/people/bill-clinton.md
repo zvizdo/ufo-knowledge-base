@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [white-house, democratic-party]
 firsthand_claims: [clinton-uap-curiosity-public-statements]
 first_seen_in: raw/youtube-transcripts/areO7Mej44E.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [presidency, white-house, ufo-curiosity-presidential]
 ---

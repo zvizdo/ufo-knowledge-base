@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Defense contractor commissioned by SAC to investigate the 1967 Echo and Oscar Flight Minuteman guidance failures; their bench test confirmed the failure mode but could not explain how an external signal penetrated triple-shielded cables."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Boeing
 aliases: []

@@ -6,8 +6,6 @@ type_field: research-group
 parent_org: ~
 country: USA / Cuba
 active_period: 1961–present
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md]
 summary: "Hardcore militant Cuban-Exile paramilitary organization founded in 1961 with the explicit mission to invade Cuba and overthrow Castro; conducted CIA-adjacent rogue operations in the 1960s-70s; cited by Lue Elizondo as the milieu in which his Cuban-Exile father raised him — providing the family's intelligence-community connections."
 tags: [cuban-exiles, anti-castro, cia-adjacent, paramilitary, bay-of-pigs-aftermath]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Proposed in-situ archaeological research project by Biondi, Malanga, and Mei in collaboration with University of Ferrara to explore shafts on the Giza plateau and access the underground network below Khafre"
-created: 2026-04-27
-updated: 2026-04-27
 name: Khafre Research Project
 aliases: []
 parent_org: university-of-ferrara

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA domestic counterintelligence program (1967–1974) designed to infiltrate and neutralize the counterculture and Black militant movements; ran parallel to FBI COINTELPRO; the Manson murders functionally served its stated objectives."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: Operation CHAOS
 aliases: [Operation Chaos, CHAOS]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Navy admiral who commanded Operation High Jump (1946–47), a massive Antarctic expedition with 70 ships, 33 aircraft, and ~5,000 men; reportedly encountered UAPs firing on the expedition; briefed James Forrestal on UAP activity."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Admiral Byrd
 aliases: [Richard E. Byrd, Richard Byrd]

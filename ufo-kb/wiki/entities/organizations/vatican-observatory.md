@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The Catholic Church's official astronomical observatory, located at Castel Gandolfo outside Rome; run by Jesuit astronomers; site of Tim Taylor's religious conversion during Diana Pasulka's American Cosmic research trip; where ESA scientists recognized Taylor."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md]
 name: Vatican Observatory
 aliases: [Specola Vaticana, Castel Gandolfo Observatory]

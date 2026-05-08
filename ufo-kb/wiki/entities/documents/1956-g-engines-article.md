@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1956 Young Men's magazine article titled 'The G-Engines Are Coming' in which the heads of Bell Aircraft, Martin Corporation, and other aerospace firms publicly predicted imminent anti-gravity breakthroughs and claimed active research programs."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 title: "The G-Engines Are Coming"
 authors: []

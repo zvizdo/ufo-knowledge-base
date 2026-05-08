@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "General Charles Willoughby: MacArthur's G2 intelligence chief; flew with Edward Lansdale to brief President Truman on the Yamashita gold discovery; key node in the chain that led to formation of the Anderson Trust."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Charles Willoughby
 aliases: [General Charles Willoughby, Major General Charles A. Willoughby]

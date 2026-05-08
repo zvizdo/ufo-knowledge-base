@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "U.S. Army clerk typist assigned to Project Blue Book who, on his deathbed, told Danny Sheehan he witnessed his commanding officer conducting telepathic communication with an ET at S4. Possibly the same person as 'Albert Stein' named in an earlier Sheehan account."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Oscar Wolf
 aliases: ["Oscar Lane (Sheehan uncertain)", "Albert Stein (possible same person — name given in prior episode)"]

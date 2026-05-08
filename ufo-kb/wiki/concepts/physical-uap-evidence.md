@@ -3,8 +3,6 @@ type: concept
 name: Physical UAP Evidence
 aliases: [physical UAP evidence, physical-uap-evidence, physical UFO evidence, UAP material evidence, UAP physical traces]
 first_seen_in: ufo-kb/wiki/entities/incidents/1957-ubatuba-orb.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Physical material and trace evidence associated with UAP encounters — including recovered metallic fragments with anomalous isotope ratios, landing trace marks, biological effects on witnesses, and radiation signatures; the Ubatuba magnesium fragments are the best-analyzed example."
 tags: [physical-evidence, material, uap, isotope, landing-trace, radiation, ubatuba, metamaterials]

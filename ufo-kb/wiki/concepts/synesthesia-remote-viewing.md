@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The empirical observation that the original Stargate Program's six top-performing remote viewers all had synesthesia — a neurological coupling of senses — suggesting synesthesia as a possible prerequisite for or amplifier of psi ability."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h3u8EkGI8OQ.md]
 tags: [synesthesia, remote-viewing, stargate, psi, parapsychology, entropy, ganzfeld, consciousness, ian-whitley]
 ---

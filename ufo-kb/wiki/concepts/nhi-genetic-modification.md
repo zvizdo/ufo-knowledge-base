@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The recurring claim that non-human intelligences have deliberately altered human genetics — either across populations over long timeframes, or in targeted fetal interventions — to produce specific biological or perceptual capabilities useful to NHI or government programs."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Rfmy5oW_r9c.md]
 tags: [nhi-genetics, abduction, hybrid-program, intuitive-communicator, dan-sherman, fetal-modification, recurring-claims]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Independent catastrophism researcher who argues that a cosmic airburst or comet impact approximately 12,800 years ago (Younger Dryas boundary) reset human civilization — the 'Younger Dryas Impact Hypothesis'; also the foremost modern expositor of the ancient sacred number canon, geodetic monument encoding, and gematria."
-created: 2026-04-25
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/92XrddiKjHY.md, raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/A_LsUSxTm7A.md, raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/R7oyZGW99os.md]
 name: Randall Carlson
 aliases: []

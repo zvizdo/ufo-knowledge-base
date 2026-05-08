@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Watergate attorney for Howard Hunt; Howard Hunt told Caddy on his deathbed that JFK's assassination was 'about the alien presence' — one of the most direct attributed statements connecting JFK's death to UAP."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Douglas Caddy
 aliases: [Caddy]

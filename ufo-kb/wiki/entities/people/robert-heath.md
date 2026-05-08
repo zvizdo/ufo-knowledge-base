@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Tulane University psychiatrist who conducted CIA/military-funded brain electrode implant experiments in the 1950s–1970s, including a notorious 'cure homosexuality' experiment; a documented MK-Ultra subcontractor whose published work appeared in mainstream medical journals."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Robert Heath
 aliases: []

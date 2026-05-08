@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy episode with Brigham Buhler (Ways to Well): traces Rockefeller/Flexner medical monopoly, Unit 731 immunity deal, Bayer-Nazi ties, Monsanto-Agent Orange-Roundup chain, MK-Ultra's post-termination continuation (OARD → Scientific Engineering Institute → Monsanto), Detlev Bronk as MJ-12 alien-autopsy figure, Bob Lazar containers claim, Francis Crick directed panspermia, DNA biophotons, and the MAHA movement as parallel to UAP disclosure."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/q7Czo77qhHA.md]
 tags: [big-pharma, rockefeller, flexner-report, unit-731, bayer, monsanto, mk-ultra, oard, scientific-engineering-institute, detlev-bronk, majestic-12, bob-lazar, containers, directed-panspermia, dna-biophotons, maha, brigham-buhler, ways-to-well, gain-of-function, glyphosate, red-light-therapy, rife-machine, luc-montagnier, kary-mullis]
 channel: American Alchemy

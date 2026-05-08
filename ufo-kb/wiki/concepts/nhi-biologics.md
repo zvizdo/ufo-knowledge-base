@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Physical non-human biological remains — bodies, tissue, or skeletal material claimed to originate from NHI; the most materially concrete category of UAP evidence if authenticated."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/kRO5jOa06Qw.md]
 tags: [nhi, biologics, crash-retrieval, nazca-mummies, varginha, physical-evidence, disclosure]
 ---

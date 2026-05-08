@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Mathematician and researcher with the Qualia Research Institute; reported DMT entities performing the four-color theorem instantaneously — an operation requiring hours for a human mathematician — suggesting genuinely non-human cognition."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 name: Andres Gomez Emilsson
 aliases: [Andrés Gómez Emilsson]

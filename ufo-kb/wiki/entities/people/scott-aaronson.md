@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Quantum computing theorist at UT Austin, author of 'Quantum Computing Since Democritus'; holds that matter is continuous and infinitely divisible, in contrast to simulation-theory advocates who read the Planck length as the pixel-resolution of a discrete-substrate universe."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/2Mb6NPPjCyg.md]
 name: Scott Aaronson
 aliases: [Aaronson]

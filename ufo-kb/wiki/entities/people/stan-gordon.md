@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Pennsylvania UFO/paranormal researcher who conducted the most thorough investigation of the 1965 Kecksburg crash; Dolan regards his work as the best available evidence that Kecksburg involved something beyond a Soviet satellite."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Stan Gordon
 aliases: []

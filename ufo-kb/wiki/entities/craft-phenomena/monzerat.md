@@ -4,8 +4,6 @@ name: Monzerat
 aliases: [Monzerat, Monserrat (M-type)]
 category: entity
 first_seen_in: ufo-kb/wiki/youtube-transcripts/HxQN2tkQHs8.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md]
 summary: "One of the named M-type bodies in the Nazca tridactyl mummy collection; pregnant at time of death with a fetus that may itself be tridactyl. Monzerat is the central evidence in the falsification test for the surgical-mutilation debunk hypothesis."
 tags: [nazca-mummies, m-type, pregnant, fetus, tridactyl, falsification-test]

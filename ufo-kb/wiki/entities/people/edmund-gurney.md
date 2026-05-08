@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: [society-for-psychical-research]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/spectral-revolution.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "British psychical researcher (1847–1888); co-founder of the Society for Psychical Research; co-authored 'Phantasms of the Living' (1886), the first systematic statistical study of apparitions and telepathy; died 1888 under ambiguous circumstances."
 tags: [spr, parapsychology, telepathy, apparitions, phantasms, 19th-century]

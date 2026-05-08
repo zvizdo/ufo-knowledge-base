@@ -3,8 +3,6 @@ type: concept
 name: Soviet Microwave Weapons
 aliases: [Soviet microwave weapons, soviet-microwave-weapons, Soviet RF weapons, microwave beam weapons, directed energy microwave, Soviet directed energy weapons]
 first_seen_in: ufo-kb/wiki/entities/incidents/1971-salt-talks-unknowns.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Soviet-developed directed energy weapons using microwave/RF frequencies to induce biological effects — headaches, nausea, hearing effects, cognitive disruption, and cancer — documented through the Moscow embassy irradiation program (1950s–1970s) and cited as the historical precedent for Havana Syndrome."
 tags: [soviet, microwave, directed-energy, RF, biological-effects, moscow-embassy, havana-syndrome, cold-war]

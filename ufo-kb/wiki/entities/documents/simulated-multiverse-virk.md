@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Riz Virk's second book extending his simulation model to the multiverse — arguing that Everett's many-worlds branches are runs of a simulated timeline that the simulator prunes toward optimal outcomes."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 title: The Simulated Multiverse
 authors: [Riz Virk]

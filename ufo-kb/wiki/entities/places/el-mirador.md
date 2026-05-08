@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Massive pre-Classic Maya pyramid complex in the Guatemalan jungle; size comparable to the Great Pyramid; oldest known pyramids in the Maya world"
-created: 2026-04-26
-updated: 2026-04-26
 name: El Mirador
 aliases: [El Mirador Archaeological Site]
 region: Petén Department, northern Guatemala

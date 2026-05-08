@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/places/jy-ranch.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Major US financial institution; in the KB, primarily relevant as the institution chaired by David Rockefeller — the family member who opposed Laurance Rockefeller's UAP disclosure initiative and who, per Steven Greer's account, pressured Laurance against meeting with Greer at JY Ranch."
 tags: [rockefeller, david-rockefeller, finance, banking, disclosure-politics, jy-ranch]

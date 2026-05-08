@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Individual awareness and personal memory persist after physical death — a claim advanced by parapsychological research, ancient religious traditions, and NDE literature, and treated in this KB as a recurring empirical claim rather than a purely metaphysical one."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/I9VyyV4-3Js.md]
 tags: [consciousness, survival, death, reincarnation, nde, parapsychology, afterlife, claims-theses]
 ---

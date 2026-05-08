@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Hypothesis that a comet or asteroid impact/airburst ~12,900 years ago triggered the Younger Dryas cooling event, catastrophic flooding, and the collapse of Pleistocene megafauna — possibly ending a pre-Ice-Age civilization"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/92XrddiKjHY.md, raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/A_LsUSxTm7A.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/dfPfPB601hw.md]
 tags: [younger-dryas, comet-impact, flood-myths, pleistocene, climate-catastrophe, randall-carlson, graham-hancock, meltwater-pulse, cme, plasma-discharge, binary-star, taurid-meteor-stream, tunguska, bill-napier]
 ---

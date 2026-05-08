@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "FLIR thermal video from USS Theodore Roosevelt operations (2014–2015), showing a fast-moving object skimming the ocean surface; released publicly in 2020; the person who recorded it told Ryan Graves there were actually four objects in line-abreast formation — only one appears in the released footage."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/6WC4o2yY9Ws.md]
 name: GOFAST Video
 date: 2014-2015

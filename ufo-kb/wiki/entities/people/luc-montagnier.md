@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/dna-intelligence-encoding.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "French virologist; Nobel Prize in Physiology or Medicine 2008 for discovery of HIV; later controversial for experiments claiming DNA transmits structural information electromagnetically through water ('DNA teleportation'); cited in KB as evidence for non-material information transfer in biological systems."
 tags: [nobel-prize, hiv, dna-teleportation, water-memory, biology, france]

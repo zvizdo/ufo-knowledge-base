@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Peruvian huaquero (grave robber) who discovered the cave of tridactyl mummy bodies in 2015 near Nazca; runs paid shamanic tours; likely showing researchers the wrong cave location"
-created: 2026-04-26
-updated: 2026-04-26
 name: Leandro (huaquero)
 aliases: [Leandro]
 roles: [witness]

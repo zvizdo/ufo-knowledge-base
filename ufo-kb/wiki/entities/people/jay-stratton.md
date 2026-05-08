@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Defense intelligence official who ran the UAP Task Force; introduced Eric Davis to David Grusch; key connector between the AAWSAP-era research network and modern UAP disclosure."
-created: 2026-04-26
-updated: 2026-04-26
 name: Jay Stratton
 aliases: [Stratton]
 roles: [official, researcher]

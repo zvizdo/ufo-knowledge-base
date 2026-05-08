@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Beatriz Villarroel's argument that UAP science should begin with a concrete, falsifiable hypothesis (e.g., 'flying saucer') rather than the exclusion principle ('anything not identifiable'); concrete hypotheses enable designed experiments and defined failure modes."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/lbGE3EC6StE.md]
 tags: [scientific-method, uap-science, villarroel, falsifiability, exclusion-principle, flying-saucer]
 ---

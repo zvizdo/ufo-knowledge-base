@@ -3,8 +3,6 @@ type: concept
 name: DOE Human Genome Project
 aliases: [DOE Human Genome Project, DOE genome, Department of Energy Human Genome, doe-human-genome]
 first_seen_in: ufo-kb/wiki/concepts/doe-secret-science-nexus.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The Department of Energy's role in the Human Genome Project (1990–2003): DOE co-led the project alongside NIH, contributing computing infrastructure and funding; used in KB as evidence that DOE's mandate extends well beyond nuclear weapons into advanced biology and genetics, consistent with a broader portfolio that might include NHI biological research."
 tags: [doe, human-genome, biology, genetics, national-labs, computing]

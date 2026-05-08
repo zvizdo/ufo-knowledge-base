@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Collection of 200+ three-fingered, three-toed humanoid bodies found near Nazca, Peru in 2015; three body types (M-type hominid, J-type reptilian, S-type winged); covered in diatomaceous earth preserving organs; carbon-dated 700–18,800 years ago"
-created: 2026-04-26
-updated: 2026-04-26
 name: Nazca Tridactyl Mummies
 aliases: [Nazca mummies, tridactyls, Peruvian alien mummies, three-fingered mummies]
 category: entity

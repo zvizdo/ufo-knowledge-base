@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Stanford AI pioneer (co-founder of the field, creator of LISP) known in this KB for his 'Bureau of Simulation' thought experiment: an NPC who never does anything unpredicted by the simulation model will be replaced by a simulated copy — indistinguishable from the outside."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 name: John McCarthy
 aliases: [McCarthy, J. McCarthy, John McCarthy AI]

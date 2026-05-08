@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Princeton physicist and student of John Wheeler who formulated the Many-Worlds Interpretation of quantum mechanics — each collapse event branches into a new universe rather than selecting a single outcome — resolving the measurement problem by eliminating collapse entirely."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 name: Hugh Everett
 aliases: [Hugh Everett III]

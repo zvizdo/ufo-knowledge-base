@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The theoretical possibility of engineering traversable wormholes for interstellar or faster-than-light travel; Eric Davis published research concluding this should be achievable through metric engineering; related to the Alcubierre warp drive metric."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/xnxasfyHtfo.md]
 tags: [wormholes, metric-engineering, davis, alcubierre, propulsion, exotic-physics, faster-than-light]
 ---

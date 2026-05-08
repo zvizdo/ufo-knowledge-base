@@ -6,8 +6,6 @@ date: 1981-01-13
 type: memo
 classification: unclassified (released under FOIA)
 summary: "Official USAF memorandum from Lt. Col. Charles Halt to the UK Ministry of Defence documenting anomalous lights and a possible landed craft near RAF Woodbridge/Bentwaters in December 1980 — the primary institutional document confirming the Rendlesham Forest incident occurred."
-created: 2026-04-27
-updated: 2026-04-27
 tags: [rendlesham, rendlesham-forest, usaf, halt, bentwaters, woodbridge, ufo-documents, foia, official-document, uk-mod]
 ---
 

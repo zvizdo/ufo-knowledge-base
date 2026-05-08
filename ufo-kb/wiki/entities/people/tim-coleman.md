@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former BBC correspondent; James Fox's partner on 'Out of the Blue'; first told Fox about the Varginha Brazil case in the late 1990s when Fox refused to look into it; given a special thanks credit in 'Moment of Contact.'"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: Tim Coleman
 aliases: []

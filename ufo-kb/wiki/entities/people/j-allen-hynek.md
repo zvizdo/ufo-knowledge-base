@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Northwestern University astronomer and USAF Project Blue Book scientific consultant; developed the Hynek classification scale (CE1–CE5); was evasive when Jacques Vallée confronted him about the Pentacle Memo; allegedly delivered a pre-programmed computer to Paul Benowitz as part of the AFOSI disinformation operation."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/WBTqsbwJyqU.md]
 name: J. Allen Hynek
 aliases: [Jaylen Heinik (transcript phonetic), Josef Allen Hynek]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Retired USAF Captain; witness to the 1966 Minot AFB UFO incident in which a UAP flyover triggered an actual missile launch indicator, forcing him to flip an inhibit switch to stop an automatic countdown — the most extreme documented case of UAP-initiated nuclear launch risk."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/fzvwBBSmWYA.md]
 name: David Shindell
 aliases: [David Sher, Dave Chandell (transcription variant), Captain Shindell]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army Lieutenant Colonel (ret.) and scalar electromagnetic theorist; his books are the primary public source for the scalar wave framework as applied to free energy, healing, and classified weapons — cited by Steve Coburn as his scalar wave reference."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/iPxbILOMQ08.md]
 name: Tom Bearden
 aliases: [Thomas Bearden, Lt. Col. Thomas Bearden]

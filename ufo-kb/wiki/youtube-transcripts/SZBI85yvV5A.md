@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Jesse Michaels reflects on his Joe Rogan appearance; golfing in Austin with Young Jamie (Joe Rogan's producer) and golfer Viktor Hovland while discussing UFOs, ancient mysteries, and physics."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/SZBI85yvV5A.md]
 video_id: SZBI85yvV5A
 title: "My Joe Rogan Appearance: What I Learned (ft. Young Jamie & Viktor Hovland)"

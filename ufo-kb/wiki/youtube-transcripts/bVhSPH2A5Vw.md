@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Long-form James Fox career retrospective: Robertson Panel ridicule policy, parallel Blue Book program, Holloman AFB landing case (Alan Sandler/Paul Charlton footage chain), Chuck Clark Area 51 VHS, Nellis 1994, Varginha 1996, Roswell testimony chain, Buzz Aldrin stood-up/lied on air, Phoenix Lights, psychic experience, Project Stargate, Tehran 1976, Wilson Memo, Condon Commission McMahon Act link, Hoover memo, UFO-nukes nexus, Gary McKinnon non-terrestrial officers, Grusch/Leslie Kean NYT fight, disclosure trajectory."
-created: 2026-04-27
-updated: 2026-05-04
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 video_id: bVhSPH2A5Vw
 tags: [james-fox, documentary, disclosure, the-program, chuck-clark, holloman-afb, robertson-panel, gary-mckinnon, grusch, varginha, buzz-aldrin, ufo-nukes, wilson-memo, condon-commission, project-stargate]

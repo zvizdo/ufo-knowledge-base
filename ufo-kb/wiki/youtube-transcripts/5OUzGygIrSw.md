@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy interview with Dave Rossi — former construction worker who claims a blue-being contact experience prompted him to self-teach quantum physics and extended electrodynamics; now consults for private groups on exotic propulsion and communications."
-created: 2026-04-25
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/5OUzGygIrSw.md]
 video_id: 5OUzGygIrSw
 channel: American Alchemy

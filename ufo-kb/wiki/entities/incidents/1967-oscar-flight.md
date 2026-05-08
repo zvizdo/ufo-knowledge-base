@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "March 24, 1967: all 10 Minuteman I missiles in Oscar Flight at Malmstrom AFB go offline during a UFO encounter reported by topside security — the primary incident witnessed by Robert Salas."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: 1967 Oscar Flight UFO Incident
 date: 1967-03-24

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF Staff Sergeant; one of two primary witnesses to the 1980 Rendlesham Forest UAP landing; cited by Jake Barber as a foundational historical precedent for military-base UAP activity."
-created: 2026-04-27
-updated: 2026-04-27
 name: John Burroughs
 aliases: []
 roles: [witness, military]

@@ -3,8 +3,6 @@ type: concept
 name: General Relativity
 aliases: [general relativity, General Relativity, GR, Einstein field equations]
 first_seen_in: ufo-kb/wiki/concepts/wu-yang-dictionary.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Einstein's 1915 theory of gravitation: gravity as the curvature of spacetime produced by mass-energy; described by the Einstein field equations; its mathematical structure (curvature of a Riemannian manifold) maps directly onto the fiber bundle framework of gauge theories via the Wu-Yang dictionary."
 tags: [physics, einstein, gravity, spacetime, curvature, gauge-theory]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA Stargate Program remote viewer, RV instructor, and author; firsthand accounts of the 1987 USS Stark precognition session and Typhoon submarine corroboration; primary interviewee on consciousness as transmission."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/eQIMantuasQ.md]
 name: Paul Smith
 aliases: []

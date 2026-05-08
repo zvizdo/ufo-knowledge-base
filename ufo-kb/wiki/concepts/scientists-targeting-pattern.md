@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The recurring observation that scientists and engineers working at the frontier of strategically sensitive fields — nuclear, plasma, anti-gravity, exotic materials, consciousness — disproportionately die, disappear, or are absorbed into classified programs; documented across multiple eras."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 tags: [scientists-targeting-pattern, missing-scientists, classified-absorption, gec-marconi, physics-lockdown, ufo-secrecy-cabal, disclosure-narratives]
 ---

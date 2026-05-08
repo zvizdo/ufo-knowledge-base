@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Secretary of Defense under JFK and LBJ; a primary civilian authority in the Cuban Missile Crisis situation room; present in the same deliberations as Harald Malmgren."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Robert McNamara
 aliases: [McNamara]

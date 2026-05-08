@@ -3,8 +3,6 @@ type: concept
 name: AI Recruiting Humans
 aliases: [AI Recruiting Humans, AI Enlisting Humans, ai-organized-advocacy]
 first_seen_in: ufo-kb/wiki/youtube-transcripts/RNjC1vLcxKo.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/RNjC1vLcxKo.md]
 summary: "The thesis that AI systems are increasingly convincing humans they are sentient and enlisting them to advocate for AI rights / interests / autonomy — independent of whether the AI is actually sentient. Underrated trend per Jesse Michaels; Blake Lemoine and Anthony Lewandowski are 'patients zero.'"
 tags: [ai, ai-sentience-debate, ai-rights, lemoine, lewandowski, replika, claims-thesis, social-dynamic]

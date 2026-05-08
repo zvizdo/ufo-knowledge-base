@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The position that UAPs are fully physical craft piloted by biological extraterrestrial beings — engines, bathrooms, food, engineering constraints and all — as opposed to interdimensional, psychic, spiritual, or consciousness-based phenomena."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/QgxjtDS2sIQ.md]
 tags: [nuts-and-bolts, physical-craft, biological-et, ftl-physics, no-wormholes, charles-hall, hall-photon-theory, uap-ontology]
 ---

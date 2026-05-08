@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Brian Muraresku on The Immortality Key, Eleusinian Mysteries as psychedelic technology, early Christian mystery rituals, and NHI as historical continuity across cultural idioms"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/I9VyyV4-3Js.md]
 video_id: I9VyyV4-3Js
 title: '"Jesus Was In A Secret Occult Group!" — Top Researcher Brian Muraresku'

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The property of certain crystalline materials — notably quartz and granite — to generate electrical charge when mechanically stressed; cited in the KB in two contexts: megalithic site construction and Jeffrey Drum's thesis that ancient stone structures functioned as planetary-scale electrochemical terraforming infrastructure."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [physics, electricity, granite, quartz, megalithic, ancient-history, terraforming, pyramid]
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "WWII pin-up girl who, per her biographer-written account, was recruited as a CIA courier via an alternate personality created by a military intelligence psychiatrist; her alternate identity ran courier assignments to the Philippines and possibly Taiwan without her primary personality's knowledge."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Candy Jones
 aliases: []

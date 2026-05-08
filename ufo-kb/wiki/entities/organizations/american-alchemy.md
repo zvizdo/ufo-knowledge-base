@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Independent podcast hosted by Jesse Michaels covering UAP/UFO discourse, consciousness, and adjacent topics. The primary seed corpus for this knowledge base."
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 name: American Alchemy
 aliases: [American Alchemy podcast]

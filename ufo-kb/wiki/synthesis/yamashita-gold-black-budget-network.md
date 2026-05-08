@@ -3,8 +3,6 @@ type: synthesis
 synthesis-type: cluster
 title: Yamashita Gold and the Black Budget Network
 summary: "The recovered Yamashita gold from the Philippines — looted Asian treasure recovered by US intelligence after WWII — allegedly became the seed capital for a network of off-books trusts (Anderson Trust, Nugan Hand, BCCI) that funded covert programs. The network converges on the institutional actors (Stimson, Lovett, McCloy, Willoughby, Anderson) who also built the post-war UAP secrecy architecture."
-created: 2026-04-26
-updated: 2026-04-26
 derived-from: [anderson-trust-gold, clark-clifford, robert-lovett, henry-stimson, john-j-mccloy, charles-willoughby, tomoyuki-yamashita, danny-sheehan]
 tags: [yamashita-gold, black-budget, anderson-trust, synthesis, uap-funding, war-loot, off-books]
 ---

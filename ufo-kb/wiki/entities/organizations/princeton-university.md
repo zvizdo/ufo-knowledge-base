@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/solomon-lefschetz.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Private Ivy League research university in Princeton, New Jersey; home to the Institute for Advanced Study (adjacent campus); relevant to KB through its connections to John von Neumann, Hugh Everett, the PEAR lab (consciousness-matter interaction research), and Solomon Lefschetz."
 tags: [university, princeton, mathematics, physics, consciousness, von-neumann, everett, pear]

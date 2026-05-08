@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The claim that low-energy nuclear fusion reactions are possible at or near room temperature, notably using palladium and heavy water — contested, suppressed, but never definitively refuted"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zrmG2jBckgk.md]
 tags: [cold-fusion, lenr, pons, fleischmann, palladium, deuterium, over-unity, physics-suppression, italy, preparata]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chacoan outlier site in Colorado consisting of two natural stone pinnacles that frame the 18.6-year major lunar standstill — a deliberate astronomical observatory built by the ancestral Puebloan Chacoan people."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JGE1NIGhBzw.md]
 name: Chimney Rock (Colorado)
 aliases: [Chimney Rock National Monument]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Swedish underwater exploration company co-founded by Dennis Asberg and Peter Lindberg; primary investigating body for the Baltic Sea Anomaly since its discovery in June 2011."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aGqFOxuYRT0.md]
 name: Ocean X
 aliases: [OceanX, Ocean X Team]

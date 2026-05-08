@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF photographic technician who claims he was shown mosaic photos of a massive city on the dark side of the Moon at an NSA facility in the early 1960s; died in a hit-and-run just before the 2017 UAP disclosure wave."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: Karl Wolfe
 aliases: [Carl Wolf, Karl Wolf]

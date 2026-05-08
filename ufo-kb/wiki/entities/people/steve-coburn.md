@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Materials scientist, analytical chemist, and personal class-2 experiencer who collaborated with Roger Leir on alien implant analysis; independently analyzed removed implants using isotopic spectroscopy and electron microscopy, finding anomalous ratios and carbon nanotube structures."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/iPxbILOMQ08.md]
 name: Steve Coburn
 aliases: []

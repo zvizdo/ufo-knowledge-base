@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/greg-eghigian.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Major US research university in Pennsylvania; relevant to the KB through historian Greg Eghigian (UAP academic history) and Eric Walker (university president 1956-1970, alleged MJ-12 member) — making Penn State the institutional intersection of the only mainstream academic UAP historian and the most credentialed alleged government UAP program insider."
 tags: [university, pennsylvania, academia, greg-eghigian, eric-walker, history, research]

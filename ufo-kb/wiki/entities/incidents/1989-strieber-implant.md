@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Discovery and analysis of an anomalous object behind Whitley Strieber's ear, 1989. The object was found to be metallic with cilia-like structures and to emit a classified radio signal. Analyzed by Southwest Research Institute. Constantine Raudive identified as apparent inventor — who died ~15 years before the implant was placed."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: 1989 Strieber Implant Discovery
 date: "1989"

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Executive Director of the Bitcoin Policy Institute; national-security-trained analyst who frames Bitcoin, UAPs, and AI as co-emergent strategic phenomena reshaping geopolitical power in the 2020s."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/LpLFWdsIU7M.md]
 name: Matthew Pines
 aliases: [Pines]

@@ -8,8 +8,6 @@ country: USA
 coordinates: "39.4371° N, 77.4135° W"
 type_field: base
 tags: [biowarfare, cia, mk-ultra, mk-naomi, frank-olson, biological-weapons, army]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "US Army biological warfare research center in Frederick, Maryland; primary site of MK Naomi and the location where CIA officer Frank Olson worked before his death."
 ---

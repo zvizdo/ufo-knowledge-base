@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American actress and civil rights supporter targeted by the FBI's COINTELPRO 'image cheapening' operation; the FBI planted a false story claiming her pregnancy was fathered by a Black Panther, driving her to miscarriage and a decade of suicide attempts before her death in 1979. Cited as the paradigm case of weaponized stigma."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/iQOibpIDx-4.md]
 name: Jean Seberg
 aliases: []

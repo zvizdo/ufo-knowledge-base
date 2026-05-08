@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The collective consciousness framework of the gray NHI species — all individuals are networked together, every experience recorded, and class-2 experiencers are connected to it via brain implants that transmit sensory data in real time."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/iPxbILOMQ08.md]
 tags: [grays, hive-mind, implants, abduction, class-2, collective-consciousness, nhi-telepathic-communication, borg]
 ---

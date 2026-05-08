@@ -6,8 +6,6 @@ roles: [researcher, witness]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/abduction-research.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "American abstract expressionist painter who became one of the most prominent abduction researchers; developed the 'missing time' concept; documented thousands of abduction cases through hypnotic regression; founded the Intruders Foundation; authored 'Missing Time' (1981), 'Intruders' (1987), and 'Witnessed' (1996)."
 tags: [abduction-research, missing-time, hypnotic-regression, intruders-foundation]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "December 1978 multi-witness UAP encounter off the east coast of New Zealand's South Island: Argosy cargo aircraft crew and journalist passengers observed elliptical metallic disc-shaped objects at close range; Wellington radar simultaneously confirmed solid targets in matching positions; NZ government covered it up under US pressure."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: 1978 Kaikoura UFO Incident
 date: 1978-12

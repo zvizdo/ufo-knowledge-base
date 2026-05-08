@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Jack Martin: Alcoholic bishop in the American Orthodox Catholic Church intelligence front; Jim Garrison's primary informant who named David Ferrie to police immediately after the Kennedy assassination; survived the investigation."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Jack Martin
 aliases: [Edward Stewart Suggs]

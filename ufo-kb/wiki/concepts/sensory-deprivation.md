@@ -3,8 +3,6 @@ type: concept
 name: Sensory Deprivation
 aliases: [sensory deprivation, sensory-deprivation, isolation tank, float tank, perceptual isolation, REST]
 first_seen_in: ufo-kb/wiki/entities/people/patty-hearst.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Reduction or elimination of sensory input to induce altered states of consciousness; studied by John Lilly; weaponized in interrogation and coercion programs (MK-Ultra, Jonestown, SLA) to break down identity and increase suggestibility; also used therapeutically and in consciousness research."
 tags: [sensory-deprivation, isolation, mk-ultra, interrogation, consciousness, john-lilly, coercion]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Stand-up comedian and podcaster; co-host in the Epstein/aliens episode; provides commentary and comedic framing while engaging seriously with the shadow governance and UFO claims presented by Jay Anderson."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md]
 name: Kurt Metzger
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Salvatore Pais's proposed physical mechanism: controlled motion of electrically charged objects (solid to plasma) under accelerated vibration and/or spin, producing extreme electromagnetic energy densities that may enable room-temperature superconductivity, high-frequency gravitational wave generation, and Schwinger-limit black-hole propulsion."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/2Xxmguz0GEQ.md]
 tags: [propulsion, physics, pais-patents, schwinger-limit, superconductivity, harmonic-oscillator, heaviside, quantum-vacuum, vibration, spin]
 ---

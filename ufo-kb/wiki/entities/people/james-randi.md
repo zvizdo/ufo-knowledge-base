@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Canadian-American stage magician (The Amazing Randi) and prominent skeptic; founder of CSICOP and JREF; central figure in organized debunking of parapsychology and UFO claims"
-created: 2026-05-02
-updated: 2026-05-02
 name: James Randi
 aliases: [the-amazing-randi, randall-james-hamilton-zwinge]
 roles: [debunker]

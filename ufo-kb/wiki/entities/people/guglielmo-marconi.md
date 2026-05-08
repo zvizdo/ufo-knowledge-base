@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Italian inventor of radio; allegedly assigned by Mussolini to head a secret committee (RS-33) to study a recovered UFO craft from the 1933 Magenta crash — per his grandson's video interview."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/zrmG2jBckgk.md]
 name: Guglielmo Marconi
 aliases: []

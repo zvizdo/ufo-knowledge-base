@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Co-founder of the CIA; was in Czechoslovakia at the end of WWII with Allen Dulles and personally witnessed a German flying disc in a hangar — a story passed down to his grandson John Warner IV."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/areO7Mej44E.md]
 name: Paul Mellon
 aliases: []

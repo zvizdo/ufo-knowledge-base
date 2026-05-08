@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British-American theoretical physicist and mathematician known for Project Orion (nuclear pulse propulsion), the Dyson sphere concept, and his work at the Institute for Advanced Study. Appears in this KB in the context of exotic propulsion physics and the physics establishment's boundaries around unconventional ideas."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/xnxasfyHtfo.md]
 name: Freeman Dyson
 aliases: [Freeman John Dyson]

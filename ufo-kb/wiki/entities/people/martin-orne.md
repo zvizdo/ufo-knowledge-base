@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA-cleared MK Ultra psychiatrist whose project mandate in the archive explicitly states 'studying hypnotic and dissociative states'; co-founder of the False Memory Syndrome Foundation (1992) alongside Jolly West — which Colin Ross identifies as a cover operation to discredit multiple personality and suppress evidence of Manchurian Candidate programs leaking into public awareness."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Martin Orne
 aliases: []

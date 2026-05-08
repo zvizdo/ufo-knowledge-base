@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged NSA classified program (~1991–1994) that recruited 'intuitive communicators' — humans genetically pre-conditioned by aliens — to telepathically receive and relay alien transmissions, including real-time abduction monitoring data."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Rfmy5oW_r9c.md, raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Project Preserve Destiny
 aliases: [PPD, Project Preserve Destiny, Gray Project]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "JFK assassination researcher described by Dolan as knowing the assassination 'as well as any person alive'; present at the same conference as Dolan in the GQlWf54K_7Y interview; endorses the UFO motive for JFK's killing."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Philip Lavell
 aliases: [Paul Lavell]

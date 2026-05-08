@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Navy Admiral; Director of the Defense Intelligence Agency (DIA) and former director of J2 (Joint Chiefs intelligence) who oversaw all US military technical capabilities. Met physicist Eric Davis at EG&G Special Projects HQ in Las Vegas in 2002, expressing extreme frustration that a covert UFO reverse-engineering program was being hidden from him by a private contractor consortium."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/TNtlzEnl8rA.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 name: Thomas Wilson
 aliases: [Admiral Thomas Wilson, Vice Admiral Wilson, Adm. Wilson]

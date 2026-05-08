@@ -6,8 +6,6 @@ roles: [other]
 affiliations: [vatican, catholic-church]
 firsthand_claims: [vatican-ufo-encounter-1961-claim]
 first_seen_in: raw/youtube-transcripts/C4rSj5Aum7w.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [vatican, catholic-church, alleged-uap-witness, second-vatican-council]
 ---

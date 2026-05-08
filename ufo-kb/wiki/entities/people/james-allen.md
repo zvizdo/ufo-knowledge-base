@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Documentary filmmaker who produced a film on Mark McCandish's ARV / Flux Liner testimony; allegedly killed by scalar-induced cancer (heavy metal poisoning on autopsy) within approximately three weeks of diagnosis — implied by Michael Herrera as a targeted assassination."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/D2tKCFmJjks.md]
 name: James Allen
 aliases: []

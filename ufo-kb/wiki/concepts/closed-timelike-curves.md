@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Mathematically valid solutions of general relativity in which a worldline returns to its own past — the GR-permitted theoretical substrate of the time-travel-UAP and future-humans hypotheses. Includes Gödel's rotating universe, the Kerr black hole's interior, traversable wormholes, and the Tipler cylinder."
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [general-relativity, time-travel, ctcs, godel, kerr, wormholes, claims-thesis]
 ---

@@ -3,8 +3,6 @@ type: concept
 name: Schumann Resonance
 aliases: [Schumann resonance, Schumann resonances, Earth resonance frequency, 7.83 Hz]
 first_seen_in: ufo-kb/wiki/concepts/elf-waves.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Natural ELF electromagnetic resonances of the Earth-ionosphere cavity, primarily at 7.83 Hz and harmonics; proposed in 1952 by physicist W.O. Schumann; cited in KB in connection with ELF weapons research, consciousness research, and claims that human brainwave frequencies are entrained to Earth's electromagnetic field."
 tags: [elf, electromagnetic, earth-resonance, ionosphere, brainwaves, consciousness]

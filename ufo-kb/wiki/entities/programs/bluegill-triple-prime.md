@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "October 1962 high-altitude nuclear test within Operation Fishbowl/Dominic; the alleged site of a UAP shootdown by nuclear X-ray pulse, with recovered material held at Los Alamos."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Bluegill Triple Prime
 aliases: [Bluegill 3 Prime, Operation Fishbowl - Bluegill Triple Prime]

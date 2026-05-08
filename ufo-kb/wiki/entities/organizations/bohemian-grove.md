@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Exclusive Northern California retreat of American business and policy elite; hosts the annual Cremation of Care pagan ritual; infiltrated by Alex Jones in 2000 on video."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KhmUixSXxDo.md]
 name: Bohemian Grove
 aliases: [The Grove, Bohemian Club]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Scottish IT contractor who hacked 97 US military/NASA networks in 2001–2002 seeking UFO evidence; found a tic-tac UAP image at NASA JSC and a 'Non-Terrestrial Officers' spreadsheet; fought extradition for a decade."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/mOWwdIuyaQA.md]
 name: Gary McKinnon
 aliases: [Solo, the UFO hacker]

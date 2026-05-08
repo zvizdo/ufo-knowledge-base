@@ -7,8 +7,6 @@ type: private-co
 country: USA
 active_period: 1939–present
 tags: [northrop-grumman, defense-contractor, black-projects, uap-retrieval-programs, b2-stealth, electrogravitics]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Northrop Grumman

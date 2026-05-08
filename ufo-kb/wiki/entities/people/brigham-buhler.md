@@ -11,8 +11,6 @@ firsthand_claims:
   - Claims gain-of-function research is a euphemism for biowarfare — no such program has ever produced a cure for the pathogen it created
 first_seen_in: raw/youtube-transcripts/q7Czo77qhHA.md
 tags: [healthcare, ways-to-well, big-pharma, maha, functional-medicine, uap-adjacent, senate-testimony, gain-of-function]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "Healthcare entrepreneur and founder of Ways to Well (Austin, TX); former pharmaceutical/medical device sales; Senate witness on healthcare corporate capture; UFO enthusiast and friend of Jesse Michaels."
 ---

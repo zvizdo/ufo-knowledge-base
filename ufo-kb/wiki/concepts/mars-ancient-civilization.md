@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis that Mars harboured an advanced non-human civilisation before a cataclysmic destruction; that the ancient gods of Earth descended from Mars; and that mystery schools have sought to recover Martian knowledge as a primary objective."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/p0S0BfoZy0w.md]
 tags: [mars, sidonia, ancient-civilization, david-flynn, richard-hoagland, mystery-schools, rahab, asteroid-belt]
 ---

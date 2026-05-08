@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American OSS intelligence officer, journalist, and author who served as Allen Dulles's primary operative and romantic partner in Switzerland during WWII; her network connections appear in JFK assassination research linking Dulles's social circle to Lee Harvey Oswald's associates."
-created: 2026-05-05
-updated: 2026-05-05
 name: Mary Bancroft
 aliases: []
 roles: [intelligence officer, journalist, author]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Los Alamos National Laboratory administrative assistant who disappeared June 26, 2025 under circumstances suggesting a voluntary departure under financial stress, though unexplained details (factory-reset phone, badge discrepancy) leave the case unresolved."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Melissa Casillas
 aliases: []

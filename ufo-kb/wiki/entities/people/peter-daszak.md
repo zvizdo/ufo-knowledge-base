@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British zoologist and president of EcoHealth Alliance; central figure in the COVID-19 origins controversy through his organization's collaboration with the Wuhan Institute of Virology on coronavirus research and his 2017 DARPA grant application for enhanced coronavirus spike proteins — rejected by DARPA as too dangerous."
-created: 2026-05-05
-updated: 2026-05-05
 name: Peter Daszak
 aliases: []
 roles: [scientist, researcher, organization president]

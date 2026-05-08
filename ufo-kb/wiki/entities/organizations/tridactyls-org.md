@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Public online repository (tridactyls.org) maintained by ENARI Institute for CT scan DICOM files and research data on the Nazca tridactyl mummies; the primary open-access source for examining the physical evidence."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md]
 name: Tridactyls.org
 aliases: [tridactyls-org]

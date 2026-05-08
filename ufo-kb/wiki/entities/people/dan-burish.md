@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged microbiologist at S4 who claims to have repeatedly interfaced with a living recovered extraterrestrial entity called 'J-Rod', extracting blood and tissue samples inside a containment sphere 7–6 layers below the S4 complex."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Dan Burish
 aliases: [Dan Barish, Daniel Crain]

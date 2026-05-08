@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Real estate mogul and current owner of Skinwalker Ranch; funds ongoing open-science investigation of anomalous phenomena at the property with a team of hard-headed scientists."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 name: Brandon Fugel
 aliases: [Fugel]

@@ -6,8 +6,6 @@ roles: []
 affiliations: [us-department-of-defense, darpa]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/ron-pandolfi.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Elite independent scientific advisory group providing classified science and technology analysis to the US government since 1958; members are top-tier American physicists and mathematicians; advises DoD, DARPA, DOE, and intelligence community on advanced technical threats and capabilities."
 tags: [advisory, defense, science, classified, darpa, doe, physics, intelligence]

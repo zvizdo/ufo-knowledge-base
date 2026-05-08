@@ -3,8 +3,6 @@ type: concept
 name: Transhumanism
 aliases: [transhumanism, Transhumanism, trans-humanism, H+, posthumanism]
 first_seen_in: ufo-kb/wiki/entities/people/julian-huxley.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Intellectual movement holding that humanity can and should transcend its biological limitations through technology — enhanced cognition, radical life extension, and eventual mind uploading; coined by Julian Huxley (1957); relevant to UAP discourse as a framing for what advanced NHI may already have achieved."
 tags: [philosophy, technology, consciousness, posthuman, julian-huxley, nhi-evolution, singularity]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Retired video game programmer turned skeptical debunker; runs metabunk.org; most prominent public analyst of UAP video footage, arguing the best-known videos have conventional explanations."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/JE1oM89dpBc.md]
 name: Mick West
 aliases: []

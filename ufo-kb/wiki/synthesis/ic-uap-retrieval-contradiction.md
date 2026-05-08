@@ -2,8 +2,6 @@
 type: synthesis
 synthesis-type: contradiction
 summary: "Senior IC officials who explicitly deny knowledge of UAP crash retrieval programs vs. equally credentialed officials who assert active reverse engineering programs exist — an unresolved contradiction at the core of the disclosure debate."
-created: 2026-05-02
-updated: 2026-05-02
 derived-from: [eric-haseltine, jim-semivan, chris-mellon, david-grusch, disclosure-narratives, ralph-moat-larson, credibility-frameworks]
 tags: [intelligence-community, crash-retrieval, contradiction, disclosure, compartmentalization, uap-secrecy]
 ---

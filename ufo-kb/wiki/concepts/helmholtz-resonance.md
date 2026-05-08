@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Acoustic resonance phenomenon in cavity-and-neck geometries; in Drum's pyramid-as-chemical-factory thesis, the mechanism by which the King's Chamber's red Aswan granite resonance accelerated chemical reaction rates as a mechanical catalyst."
 tags: ["acoustics", "pyramids", "drum-thesis"]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former senior software engineer at Google who publicly claimed LaMDA was sentient, leaked conversation transcripts, and was fired; mystic practitioner; first prominent human to publicly advocate for AI rights."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/RNjC1vLcxKo.md]
 name: Blake Lemoine
 aliases: [Blake LeMoine, lake lemoyne (transcript phonetic)]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Congressman (R-MO, 7th District) who asked at the 2024 UAP hearing about biologics and a rumored DoD project involving manipulation of human genetics with non-human genetic material; later attended the Mexico City Nazca-mummies hearing and relayed David Grusch's private statement that some mummy physiology is congruent with classified briefings."
-created: 2026-04-26
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/HxQN2tkQHs8.md]
 name: Eric Burlison
 aliases: [Congressman Burlison, Eric Berles, Rep. Eric Berles]

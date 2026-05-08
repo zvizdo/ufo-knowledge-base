@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Mexican journalist and UFO researcher who spearheaded scientific investigation of the Nazca tridactyl mummies since 2016; suing Peruvian government for $300M defamation"
-created: 2026-04-26
-updated: 2026-04-26
 name: Jaime Maussan
 aliases: [Haime Maussan, Jaime Maussán]
 roles: [researcher, journalist]

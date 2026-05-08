@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The specific recovered nonhuman craft Bob Lazar was assigned to at S4; approximately 52–53 ft diameter, no seams or fasteners, pewter-silver in appearance close-up, optically cartoonish at distance; contains a gravity-wave reactor and three amplifier emitters."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: S4 Sport Model
 aliases: [sport model, the disc, Lazar's craft]

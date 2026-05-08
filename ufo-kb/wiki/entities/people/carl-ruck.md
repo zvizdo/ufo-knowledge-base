@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Classics professor at Boston University and co-author of The Road to Eleusis (1978); first scholar to formally argue that the Eleusinian kykeon contained a psychedelic ergot compound, and that Dionysus was a god of psychedelics not just wine."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/I9VyyV4-3Js.md]
 name: Carl Ruck
 aliases: []

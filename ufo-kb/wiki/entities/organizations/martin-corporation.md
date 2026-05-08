@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Pre-merger aerospace contractor (later part of Lockheed Martin) that ran a dedicated anti-gravity research division (RIAS) in the 1950s, named in the 1971 Australian JIO memo as part of US anti-gravity programs."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Martin Corporation
 aliases: [Glenn L. Martin Company, Martin-Marietta, RIAS (Research Institute for Advanced Study)]

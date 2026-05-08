@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The vacuum-state energy of a quantum field — non-zero by quantum-mechanical necessity. In UAP propulsion discourse, ZPE is invoked as a putative energy reservoir for advanced craft; in the polarizable-vacuum and metric-engineering literature it is the substrate whose modification produces gravitational and inertial effects."
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [physics, vacuum-energy, casimir-effect, polarizable-vacuum, propulsion, claims-thesis]
 ---

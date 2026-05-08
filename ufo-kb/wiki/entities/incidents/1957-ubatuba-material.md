@@ -7,8 +7,6 @@ affiliations: []
 date: 1957-09
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/d9tdJ2SkBKQ.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 summary: "Small fragments of unusually pure magnesium allegedly recovered from a UAP explosion over Ubatuba, Brazil in September 1957; analyzed by Brazilian laboratories and reportedly by Battelle Memorial Institute; isotopic ratios allegedly inconsistent with known terrestrial or industrial magnesium production; one of the most analytically-studied alleged UAP material cases."
 tags: [brazil, magnesium, isotopic-anomalies, crash-retrieval, 1957, battelle, garry-nolan]

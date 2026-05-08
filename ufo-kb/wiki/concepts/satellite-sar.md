@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Synthetic Aperture Radar from orbit; the detection method underlying Filippo Biondi's [[beyond-protocol|Beyond Protocol]] discovery of vertical tubular structures ~1 km deep beneath the Giza plateau."
 tags: ["physics", "remote-sensing", "sar"]

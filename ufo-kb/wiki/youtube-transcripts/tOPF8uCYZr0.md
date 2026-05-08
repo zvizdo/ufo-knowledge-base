@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Short-form American Alchemy overview episode presenting three anomalous facts about the Manson case, then interviewing Tom O'Neill at Spahn Ranch to argue Charles Manson was a CIA MK-Ultra behavioral-modification product used to destroy the counterculture."
-created: 2026-04-27
-updated: 2026-04-27
 video_id: tOPF8uCYZr0
 title: "Did the CIA Brainwash Charles Manson?"
 channel: American Alchemy

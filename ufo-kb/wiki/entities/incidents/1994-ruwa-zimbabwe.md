@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "September 1994 encounter at Ariel School, Ruwa, Zimbabwe — approximately 60-80 children witnessed craft land on school grounds and reported telepathic communication from non-human beings; investigated by John Mack."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h3u8EkGI8OQ.md]
 name: 1994 Ruwa Zimbabwe — Ariel School Encounter
 date: 1994-09-16

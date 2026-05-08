@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US non-profit civilian UAP research organization; conducted the 2019 statistical study showing UAPs appear at nuclear sites before construction is complete; home of the Catalina Island 'A Tear in the Sky' field mission led by Kevin Knuth."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Scientific Coalition for UAP Studies
 aliases: [SCU]

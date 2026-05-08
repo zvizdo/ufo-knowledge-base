@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "New Hampshire postal worker; with wife Betty Hill, subject of the 1961 abduction case; his pre-hypnosis 'original statements' about the entity face are cited as potentially distinct from the post-hypnosis accounts."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/fyX8V1XXmQM.md]
 name: Barney Hill
 aliases: [Barney, Hill]

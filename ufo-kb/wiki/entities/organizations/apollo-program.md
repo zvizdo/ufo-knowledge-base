@@ -6,8 +6,6 @@ roles: []
 affiliations: [nasa]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/farooq-el-baz.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "NASA lunar exploration program (1961–1972) that landed 12 astronauts on the Moon across six missions; context for UAP-related claims about astronaut encounters, anomalous lunar observations, and alleged suppressed data from the lunar surface."
 tags: [nasa, lunar, space-program, moon, astronauts, uap-suppression]

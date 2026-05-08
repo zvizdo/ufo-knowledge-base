@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Classification systems for UAP/UFO encounters: Hynek scale (CE1–CE5), Vallée classification, and the abductee/contactee/experiencer typology. Applied to incident pages and entity-encounter descriptions."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [CONSTITUTION.md, raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/6WC4o2yY9Ws.md]
 tags: [classification, hynek, vallee, typology, encounters, methodology]
 ---

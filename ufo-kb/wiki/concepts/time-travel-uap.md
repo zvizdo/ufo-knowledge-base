@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "UAP/NHI phenomena may involve time travel or deliberate manipulation of human timelines; Harald Malmgren believed his own life was connected to this, and Thomas Townsend Brown was obsessed with gravity-linked time travel."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/ATJwqp5twAg.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JE1oM89dpBc.md, raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/kRO5jOa06Qw.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 tags: [time-travel, timeline-manipulation, nhi, consciousness, uap-disclosure]
 ---

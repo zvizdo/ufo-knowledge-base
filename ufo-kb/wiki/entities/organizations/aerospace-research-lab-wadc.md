@@ -6,8 +6,6 @@ roles: []
 affiliations: [usaf, wright-patterson]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/programs/avrocar-project.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Air Force research laboratory at Wright-Patterson Air Development Center (WADC) that maintained theoretical physics research including Josh Goldberg's general relativity work; in the KB, cited as part of the Wright-Patterson anti-gravity research infrastructure of the late 1950s and 1960s, alongside sponsorship of the UNC Chapel Hill gravity conference."
 tags: [wright-patterson, usaf, wadc, anti-gravity, general-relativity, goldberg, physics, classified-research]

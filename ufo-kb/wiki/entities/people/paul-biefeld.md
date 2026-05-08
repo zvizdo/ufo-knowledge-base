@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ohio-based physicist who studied alongside Einstein in the 1920s; suggested using capacitors in Brown's experiments; co-namesake of the Biefeld-Brown effect; signed an affidavit confirming he met Brown and witnessed anomalous effects."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RTEWLSTyUic.md]
 name: Paul Biefeld
 aliases: [Paul Alfred Biefeld]

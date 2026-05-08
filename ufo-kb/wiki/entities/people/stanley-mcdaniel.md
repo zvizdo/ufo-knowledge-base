@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Philosopher and author of a 200-page analysis of NASA's failure to properly investigate Martian surface structures (Face on Mars, etc.); cited by Joseph McMoneagle in the context of Mars anomaly research."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/JpLThEF2dTM.md]
 name: Stanley McDaniel
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American astronomer who documented anomalous red shifts in interacting galaxy pairs, challenging the Big Bang's use of redshift as a universal distance indicator; his heretical findings inspired Beatriz Villarroel's early academic interest."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/lbGE3EC6StE.md]
 name: Halton Arp
 aliases: [Halton C. Arp, Haltonarp]

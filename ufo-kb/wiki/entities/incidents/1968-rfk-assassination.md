@@ -8,8 +8,6 @@ witnesses: []
 craft_type: null
 corroboration: multi-witness
 tags: [rfk, sirhan-sirhan, mk-ultra, mind-control, cia, danny-sheehan, kennedy, jolly-west]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "Assassination of Senator Robert F. Kennedy on June 5, 1968 at the Ambassador Hotel; Sirhan Sirhan was convicted but multiple researchers — including Danny Sheehan and RFK Jr. — argue he was an MK Ultra-programmed patsy and the actual shooter was Eugene Thane Caesar."
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Harvard-trained constitutional attorney; founder of the Christic Institute; special counsel to the Carter CRS UAP study; personally viewed classified Blue Book crash-retrieval photos in 1977; attorney to Elizondo, Mack, and Greer; argues the JFK assassination was a Nixon-organized 'S Force' operation."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/C4rSj5Aum7w.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Danny Sheehan
 aliases: [Daniel Sheehan, Daniel P. Sheehan, Sheehan]

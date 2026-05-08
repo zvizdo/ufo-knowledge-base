@@ -3,8 +3,6 @@ type: concept
 name: UFO as New Religion
 aliases: [ufo religiosity, new religiosity, ufo religion emergence]
 tags: [diana-pasulka, religion, media, mythology, belief, ufo-religion-convergence, new-religion, american-cosmic]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md]
 ---
 

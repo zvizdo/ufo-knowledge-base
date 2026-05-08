@@ -6,8 +6,6 @@ category: patent
 custodian: [us-navy, dod]
 provenance: declassified
 tags: [plasma, decoy, electronic-warfare, mundane-attribution, maskirovka]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

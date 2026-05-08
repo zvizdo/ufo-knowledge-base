@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ruth Forbes Payne Young: Forbes family heiress; wife of Arthur Young (Bell helicopter inventor / Nine seance attendee); best friend of Mary Douglas, who was Allen Dulles's mistress — placing her at the intersection of elite occult networks and CIA."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Ruth Forbes Payne Young
 aliases: [Ruth Forbes Young]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British nuclear test range in South Australia (1950s–1960s) where Harry Turner was supervising physicist; multiple archived UAP sightings recorded during the tests; Aboriginal populations and servicemen suffered radiation contamination kept secret for decades."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Maralinga
 aliases: [Maralinga range]

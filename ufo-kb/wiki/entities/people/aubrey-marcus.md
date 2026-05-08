@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Health and wellness entrepreneur, podcaster, and psychedelic explorer; appeared on Andrew Gallimore's podcast; reported experiencing a full DMT-equivalent state on day 4-5 of a darkness retreat."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 name: Aubrey Marcus
 aliases: []

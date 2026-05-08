@@ -6,8 +6,6 @@ roles: []
 affiliations: [us-senate]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/eric-olson.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Senate Select Committee (1975–76) chaired by Frank Church that investigated CIA, FBI, and NSA abuses; revealed COINTELPRO, MK-Ultra, assassination plots against foreign leaders, and mass warrantless surveillance; produced the legislative and oversight reforms that restructured US intelligence; surfaced the Frank Olson case."
 tags: [senate, cia, fbi, mk-ultra, cointelpro, assassination-plots, surveillance, oversight, 1975]

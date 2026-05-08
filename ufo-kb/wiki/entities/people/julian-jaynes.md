@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Yale psychologist; proposed that pre-1000 BC humans experienced divine voices as literal auditory hallucinations — the Bicameral Mind"
-created: 2026-04-26
-updated: 2026-04-26
 name: Julian Jaynes
 aliases: []
 roles: [researcher]

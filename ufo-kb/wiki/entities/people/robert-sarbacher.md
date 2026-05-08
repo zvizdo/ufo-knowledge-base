@@ -1,10 +1,7 @@
 ---
 type: entity
 summary: "Former head of Washington National Laboratories who stated on the record that UFO secrecy is classified two levels above the hydrogen bomb."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/RTEWLSTyUic.md]
-updated: 2026-04-27
 name: Robert Sarbacher
 aliases: []
 roles: [scientist, government scientific advisor]

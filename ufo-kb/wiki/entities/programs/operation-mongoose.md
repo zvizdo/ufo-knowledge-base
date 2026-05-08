@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Kennedy-era CIA covert operations program against Castro's Cuba; headquartered at a University of Miami hangar; operationally connected to the S Force assassination team that Nixon had created; the institutional bridge between the anti-Castro apparatus and the JFK assassination."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
 name: Operation Mongoose
 aliases: []

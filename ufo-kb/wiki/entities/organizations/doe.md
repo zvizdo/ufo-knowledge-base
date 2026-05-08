@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Department of Energy; successor to the Atomic Energy Commission (AEC). Custodian of the Atomic Energy Act classification framework that is cited as the primary legal mechanism for concealing UAP-related physics and recovered materials."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/ATJwqp5twAg.md]
 name: Department of Energy
 aliases: [DOE, Department of Energy, NNSA, Energy Department]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American actor and pilot; witnessed the 1997 Phoenix Lights while flying his personal aircraft with his son; described the object as so large he could have landed his airplane on it."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hBrfe4hFuM0.md]
 name: Kurt Russell
 aliases: []

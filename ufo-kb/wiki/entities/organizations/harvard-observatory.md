@@ -7,8 +7,6 @@ parent_org: harvard-university
 country: USA
 active_period: 1839–present
 tags: [astronomy, harvard, satellite-watching, operation-moonwatch, fred-whipple]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

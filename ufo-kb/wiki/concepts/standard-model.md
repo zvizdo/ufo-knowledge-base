@@ -3,8 +3,6 @@ type: concept
 name: Standard Model
 aliases: [Standard Model, standard model of particle physics, SM, particle physics standard model]
 first_seen_in: ufo-kb/wiki/concepts/wu-yang-dictionary.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The quantum field theory describing fundamental particles and three of the four forces (electromagnetic, weak, strong); a gauge theory based on SU(3)×SU(2)×U(1) symmetry groups; the framework the Wu-Yang dictionary unified with differential geometry, connecting particle physics to spacetime curvature mathematics."
 tags: [physics, particle-physics, gauge-theory, quantum-field-theory, yang-mills, qcd]

@@ -2,8 +2,6 @@
 type: incident
 name: 1979 Vela Incident
 summary: "The 1979 Vela Incident — an unidentified double-flash detected by a US satellite over the South Atlantic, widely attributed to an undeclared South African/Israeli nuclear test; labeled internally at DOE as the '747 Incident.'"
-created: 2026-05-03
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/ATJwqp5twAg.md]
 date: "1979-09-22"
 location: South Atlantic / Prince Edward Islands region

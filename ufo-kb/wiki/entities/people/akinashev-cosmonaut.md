@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Soviet cosmonaut (name uncertain, possibly 'Akinashev') whose spacecraft was approached and paced by a UAP during an early space station mission; drew a picture of the craft after the USSR confiscated photographs."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Akinashev
 aliases: ["uncertain spelling; Knuth approximated from memory"]

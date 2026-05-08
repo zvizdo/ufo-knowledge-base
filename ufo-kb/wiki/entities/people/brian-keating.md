@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American astrophysicist at UC San Diego; cosmologist known for BICEP telescope work on CMB polarization; host of 'Into the Impossible' podcast; appears in alternative-physics and UFO-adjacent discourse"
-created: 2026-04-27
-updated: 2026-04-27
 name: Brian Keating
 aliases: []
 roles: [researcher]

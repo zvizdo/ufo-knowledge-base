@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Graham Hancock's 1995 breakout book arguing for a sophisticated pre-Ice Age civilization destroyed in a global cataclysm — the work that defined the lost-civilization thesis for popular culture"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md]
 title: Fingerprints of the Gods
 authors: [Graham Hancock]

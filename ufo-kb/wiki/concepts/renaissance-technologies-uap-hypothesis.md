@@ -3,8 +3,6 @@ type: concept
 name: Renaissance Technologies UAP Hypothesis
 aliases: [RenTech UAP, Manhattan 3.0, Simons gravity program hypothesis]
 first_seen_in: raw/youtube-transcripts/xnxasfyHtfo.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [renaissance-technologies, jim-simons, uap-physics, physics-lockdown, chern-simons, brookhaven, stony-brook]
 ---

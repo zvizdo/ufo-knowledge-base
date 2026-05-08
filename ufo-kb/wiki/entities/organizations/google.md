@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US technology corporation; developer of LaMDA and other advanced AI systems; employer of AI whistleblower Blake Lemoine and AI-church founder Anthony Lewandowski."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/RNjC1vLcxKo.md]
 name: Google
 aliases: [Alphabet, Google LLC, Google DeepMind]

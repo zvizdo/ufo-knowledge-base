@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "World's largest private UFO archive, located in Sweden; founded 1973 by Claus Svahn; houses 22,000+ Swedish case files, original first-generation documents, radar data, photographs, and audio recordings across 16 rooms."
-created: 2026-04-26
-updated: 2026-04-26
 name: Archives for the Unexplained
 aliases: [AFU, Arkivet för det okända]
 type: research-group

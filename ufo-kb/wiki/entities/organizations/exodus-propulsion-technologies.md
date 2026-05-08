@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Florida-based startup co-founded by NASA electrostatics lead Charles Buhler and engineer Andrew Arjima to commercialize an anomalous electrostatic thrust effect ('Exodus force') with 2,000+ experimental validations in high vacuum."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/mOWwdIuyaQA.md]
 name: Exodus Propulsion Technologies
 aliases: [Exodus, exoduspropulsion.space]

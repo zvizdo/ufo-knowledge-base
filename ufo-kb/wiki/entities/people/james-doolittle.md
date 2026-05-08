@@ -6,8 +6,6 @@ roles: [official, researcher]
 affiliations: [usaaf, usaf, mit, shell-oil]
 firsthand_claims: [1946-swedish-ghost-rocket-investigation]
 first_seen_in: raw/youtube-transcripts/szbi85yvv5a.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [usaf-general, ghost-rockets, doolittle-raid, aeronautical-engineering]
 ---

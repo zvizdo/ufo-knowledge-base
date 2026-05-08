@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Vallee's 1969 breakthrough book demonstrating that medieval fairy/elf encounter phenomenology is identical to modern alien abduction reports — the foundational text for the interdimensional/folkloric hypothesis of UAP"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md, raw/youtube-transcripts/fyX8V1XXmQM.md]
 title: Passport to Magonia
 authors: [Jacques Vallee]

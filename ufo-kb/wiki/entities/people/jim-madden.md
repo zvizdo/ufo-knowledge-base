@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Professor of philosophy who applies Plato's cave allegory as the primary analytical framework for the UFO/UAP phenomenon — author of 'Unidentified Flying Hyper Object.'"
-created: 2026-04-26
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/KRDE1i3LDuU.md, raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Jim Madden
 aliases: [James Madden, Dr. Jim Madden, Dr. James Madden]

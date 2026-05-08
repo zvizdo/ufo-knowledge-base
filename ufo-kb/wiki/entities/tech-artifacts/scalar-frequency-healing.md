@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Undisclosed scalar/frequency healing device described by Michael Herrera as scanning the body with 886,000–1.2 million frequencies to identify and destroy pathogens, parasites, and disease states — including remotely via photograph; the same technology reportedly weaponizable to induce fast-growing cancers."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/D2tKCFmJjks.md]
 name: Scalar Frequency Healing Device
 aliases: [scalar healing, frequency healing device, scalar diagnostic]

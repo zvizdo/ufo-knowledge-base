@@ -6,8 +6,6 @@ category: patent
 custodian: John Brandenburg (original patent holder; now expired)
 provenance: Brandenburg patent → Momentus Space operational use (orbit)
 summary: "Space propulsion system invented by John Brandenburg that uses distilled water as propellant heated by microwaves; patented, flown successfully in orbit by Momentus Space on a space-tug mission."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/p0S0BfoZy0w.md]
 tags: [propulsion, space-tug, water-propellant, microwave, patent, in-space, flight-proven]
 ---

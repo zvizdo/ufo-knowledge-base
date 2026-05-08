@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The practice of assigning numerical values to letters in Hebrew and Greek alphabets, revealing that sacred texts encode the same family of numbers found in solar system geometry, precessional cycles, and ancient calendars."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/R7oyZGW99os.md]
 tags: [gematria, sacred-numbers, kabbalah, hebrew, greek, biblical-numerology, sacred-number-canon, randall-carlson]
 ---

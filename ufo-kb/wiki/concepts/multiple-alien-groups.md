@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis that more than one distinct non-human intelligence (NHI) group is present on or visiting Earth — inferred from diverse craft morphologies, behavioral patterns, and apparent agendas."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/Qe8br8yYEDM.md, raw/youtube-transcripts/QgxjtDS2sIQ.md, raw/youtube-transcripts/iPxbILOMQ08.md]
 tags: [nhi, multiple-species, craft-morphology, disclosure, elizondo]
 ---

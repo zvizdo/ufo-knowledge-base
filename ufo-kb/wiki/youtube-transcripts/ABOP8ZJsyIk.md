@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Whitley Strieber deep-dive interview on his abduction history, 1989 implant, NHI motivations, von Neumann consciousness thesis, blue dwarf phenomenon, Collins Elite persecution, and spiritual philosophy — American Alchemy"
-created: 2026-04-26
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/ABOP8ZJsyIk.md]
 video_id: ABOP8ZJsyIk
 title: "Aliens Live Among Us...I've Met Them! — Whitley Strieber Tells All"

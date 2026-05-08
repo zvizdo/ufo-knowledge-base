@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Research institute founded in 1973 by Apollo 14 astronaut Edgar Mitchell to study consciousness, psi phenomena, and the relationship between science and subjective experience; Rupert Sheldrake is a fellow."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wT5-hXWIkzM.md]
 name: Institute of Noetic Sciences
 aliases: [IONS]

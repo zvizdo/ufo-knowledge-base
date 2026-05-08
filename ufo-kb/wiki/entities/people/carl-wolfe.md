@@ -7,8 +7,6 @@ affiliations: [nasa]
 firsthand_claims:
   - Claims to have seen photographic evidence of artificial structures on the far side of the Moon while working as a NASA photo technician at Langley Research Center
 first_seen_in: ufo-kb/wiki/entities/organizations/nasa.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "NASA photo technician at Langley Research Center who claimed to have seen photographs of artificial structures on the lunar surface; died in an unexplained accident (bicycle collision with a tractor-trailer) before planned public testimony — cited as part of a pattern of NASA insiders with anomalous knowledge being silenced."
 tags: [nasa, moon, lunar-anomalies, whistleblower, langley, photo-analysis, suppressed-testimony]

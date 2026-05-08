@@ -6,8 +6,6 @@ roles: [researcher, other]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/rupert-sheldrake.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "American theologian (born 1940); founder of Creation Spirituality movement; expelled from Dominican Order by Cardinal Ratzinger; co-authored 'The Physics of Angels' with Rupert Sheldrake, which explores medieval angelology through the lens of modern physics and panpsychism — a framework Jesse Michaels connects to UAP phenomenology."
 tags: [theology, creation-spirituality, angels, sheldrake, ufo-religion-convergence, medieval-cosmology, panpsychism]

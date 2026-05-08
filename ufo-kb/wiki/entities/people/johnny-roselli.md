@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chicago mob figure and CIA asset recruited for the Castro assassination plots. Appeared before the Church Committee in 1975; murdered in 1976 before further testimony. Key node in the CIA-mob nexus that intersects with JFK assassination and UAP secrecy theories."
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 name: Johnny Roselli
 aliases: [Filippo Sacco, John Rawlston]

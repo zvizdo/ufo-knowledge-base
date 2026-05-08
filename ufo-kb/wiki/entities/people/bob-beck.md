@@ -8,8 +8,6 @@ affiliations: [CIA (connected)]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/2-GeTxXi670.md
 tags: [cia, andrija-puharich, elf-waves, space-kids, mind-control]
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/2-GeTxXi670.md]
 summary: "CIA-connected researcher who approached Andrija Puharich on behalf of the CIA to head an ELF weapons research department in the late 1970s; Puharich refused and threw him out; appears in the Mind Traveler documentary."
 ---

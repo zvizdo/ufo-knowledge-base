@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Named mountain near Sedona, Arizona alleged to conceal a deep underground military facility; site of documented UAP orb activity escorted by Blackhawk helicopters; publicly accessible land surrounding it is being patrolled by armed tier-one operators."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Secret Mountain (Sedona)
 aliases: [Secret Mountain, Secret Canyon]

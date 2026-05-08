@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=C_Na1tI5qpw
 duration_minutes: ~180
 sources: [raw/youtube-transcripts/C_Na1tI5qpw.md]
 tags: [joe-rogan, bob-lazar, david-grusch, moon-landing-hoax, graham-hancock, jfk, epstein, ai-consciousness, uap-disclosure, future-humans, apollo, younger-dryas]
-created: 2026-04-26
-updated: 2026-05-04
 ---
 
 # Joe Rogan: The Truth About Aliens (He Finally Says It)

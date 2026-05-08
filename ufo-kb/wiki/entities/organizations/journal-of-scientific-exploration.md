@@ -6,8 +6,6 @@ roles: []
 affiliations: [society-for-scientific-exploration]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/iPxbILOMQ08.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/iPxbILOMQ08.md]
 summary: "Peer-reviewed academic journal published by the Society for Scientific Exploration; covers anomalous phenomena including UAP, parapsychology, consciousness research, and other topics outside mainstream science; one of the few peer-reviewed venues for UAP-related research findings."
 tags: [journal, peer-review, parapsychology, uap, sse, anomalous-phenomena]

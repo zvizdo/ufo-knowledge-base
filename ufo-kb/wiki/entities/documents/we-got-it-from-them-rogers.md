@@ -8,8 +8,6 @@ type_field: book
 classification: public
 aliases: ["We Got It From Them (Greg Rogers)"]
 tags: [greg-rogers, cape-canaveral, 1992-cape-canaveral-saucer, ufo, military, ptsd, disclosure]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "2024 book by USAF flight surgeon Greg Rogers recounting his UFO testimony about the 1992 Cape Canaveral saucer incident, alongside military career stories; the title quotes the major who explained the craft's origin."
 ---

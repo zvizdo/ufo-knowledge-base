@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Actress and wife of Roman Polanski; murdered eight-and-a-half months pregnant on August 8, 1969, at the Tate-LaBianca house; the symbolic focal point of the Manson murders whose household represented liberal Hollywood's support for the counterculture."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: Sharon Tate
 aliases: []

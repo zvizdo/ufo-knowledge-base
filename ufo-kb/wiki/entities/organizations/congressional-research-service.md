@@ -3,8 +3,6 @@ type: entity
 entity-type: organizations
 name: Congressional Research Service
 summary: "Nonpartisan research arm of the US Congress; produces in-depth policy and legal analyses for members and committees, including reports on UAP legislation and the DoD's transparency obligations."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [gov-agency, congress, research]
 aliases: []
 ---

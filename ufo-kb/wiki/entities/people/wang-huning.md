@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CCP ideologist ranked 4th on the Politburo Standing Committee; visited the US in 1988, studied American vulnerabilities, and wrote 'America Against America'; key architect of Xi Jinping Thought, Chinese Dream, and Belt and Road Initiative."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/ePdH01pphbk.md]
 name: Wang Huning
 aliases: []

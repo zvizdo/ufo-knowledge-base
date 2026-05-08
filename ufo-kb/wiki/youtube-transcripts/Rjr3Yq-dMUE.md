@@ -10,8 +10,6 @@ published: ~2024
 url: https://www.youtube.com/watch?v=Rjr3Yq-dMUE
 duration_minutes: ~90
 summary: "Long-form visit to the Archives for the Unexplained (AFU) in Sweden with archivist and researcher Claus Svahn — covering 50+ years of Scandinavian UFO evidence, the 1946 ghost rockets, Hessdalen hotspot, radar+photo cases, Betty Hill's unreported crash, and a wide-ranging discussion of photo analysis, credibility, Billy Meier, Eric Walker, and George Adamski."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Rjr3Yq-dMUE.md]
 tags: [american-alchemy, sweden, afu, claus-svahn, ghost-rockets, hessdalen, transmedium, photo-analysis, eric-walker, billy-meier, george-adamski]
 ---

@@ -7,8 +7,6 @@ parent_org:
 country: USA
 active_period: 1851–present
 tags: [academic-research, evanston, illinois, j-allen-hynek]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

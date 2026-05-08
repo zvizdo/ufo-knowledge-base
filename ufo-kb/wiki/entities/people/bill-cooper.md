@@ -6,8 +6,6 @@ roles: [witness, researcher, contactee]
 affiliations: [us-navy]
 firsthand_claims: [naval-intelligence-uap-briefings-claim]
 first_seen_in: raw/youtube-transcripts/bVhSPH2A5Vw.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [behold-pale-horse, mj12, conspiracy-author, killed-2001]
 ---

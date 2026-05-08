@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "March 13, 1997 mass sighting over Arizona of a massive boomerang-shaped craft flying silently over populated areas; witnessed by Governor Fife Symington (who initially mocked then confirmed); covered by James Fox in 'The Phenomenon.'"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md, raw/youtube-transcripts/hBrfe4hFuM0.md]
 name: 1997 Phoenix Lights
 date: 1997-03-13

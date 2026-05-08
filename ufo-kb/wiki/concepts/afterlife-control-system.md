@@ -3,8 +3,6 @@ type: concept
 name: Afterlife Control System
 aliases: [afterlife control system, afterlife farm, Monroe afterlife model, loosh farm]
 first_seen_in: ufo-kb/wiki/concepts/loosh.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Robert Monroe's model of the afterlife as a managed agricultural system: souls cycle through incarnation to generate 'loosh' (emotional energy) for non-human entities, with the afterlife itself structured to maintain the cycle rather than provide genuine liberation; a radical extension of the loosh hypothesis."
 tags: [monroe, loosh, afterlife, soul-recycling, consciousness-harvest, nhi-control]

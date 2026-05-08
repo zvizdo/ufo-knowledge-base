@@ -3,8 +3,6 @@ type: concept
 name: Lyme Disease Biowarfare Thesis
 aliases: [Lyme disease biowarfare thesis, lyme-disease-biowarfare-thesis, Plum Island Lyme thesis, Lyme weaponization thesis]
 first_seen_in: ufo-kb/wiki/entities/places/plum-island.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The hypothesis that Lyme disease (first identified in Lyme, Connecticut, 1975) originated from tick-based biological weapons research at the nearby Plum Island Animal Disease Center; popularized by journalist Kris Newby's 'Bitten' (2019) and backed by a 2019 US House resolution directing investigation; unproven but formally investigated."
 tags: [biowarfare, plum-island, lyme-disease, ticks, bioweapons, kris-newby, erich-traub, cold-war]

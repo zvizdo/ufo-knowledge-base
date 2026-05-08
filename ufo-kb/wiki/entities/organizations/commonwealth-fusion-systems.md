@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "MIT spinout fusion company; one of the leading private fusion ventures; its reactor design relies on MIT plasma physics research that Nuno Lorero directed as PSFC deputy director; primary US competitor to TAE Technologies."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Commonwealth Fusion Systems
 aliases: [CFS]

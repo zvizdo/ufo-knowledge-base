@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The therapeutic use of red and near-infrared light to stimulate cellular mitochondrial function and tissue repair; referenced in the KB in the context of biological anomalies and alternative healing modalities adjacent to the UAP/consciousness research cluster."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [health, photobiomodulation, mitochondria, alternative-medicine, consciousness, biology]
 ---
 

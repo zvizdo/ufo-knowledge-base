@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Esoteric publishing organization originally named after Lucifer; publishes deeply occult/theosophical content; of UAP relevance because Jim Ryder (VP of Space Systems at Lockheed Martin) spoke at a Lucis Trust event about devas, mind-matter connections, and 'the Garment of God' — cited by Peter Levenda as evidence of an occult-aerospace bridge at the executive level."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Lucis Trust
 aliases: [Lucifer Publishing Company]

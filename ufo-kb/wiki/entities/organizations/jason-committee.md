@@ -3,8 +3,6 @@ type: entity
 name: JASON Advisory Group
 aliases: [JASON, JASONS]
 summary: "Elite independent advisory group of US scientists (primarily physicists) that has provided top-secret analysis to the DoD since 1960; contracted through MITRE Corporation; provides classified scientific assessments on defense-related questions including potentially UAP-related physics."
-created: 2026-05-05
-updated: 2026-05-05
 type_detail: research-group
 country: US
 tags: [science-advisory, dod, physics, classified, mitre, defense, elite-science]

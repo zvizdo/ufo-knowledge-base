@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "First US Secretary of Defense (1947–1949); reportedly fully briefed JFK on UFOs; died under suspicious circumstances at Bethesda Naval Hospital in 1949; widely cited as having been silenced due to his UAP knowledge."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: James Forrestal
 aliases: [James Vincent Forrestal, Forrestal]

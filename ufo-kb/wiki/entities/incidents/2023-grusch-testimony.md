@@ -7,8 +7,6 @@ location: Washington DC
 witnesses: [david-grusch, ryan-graves, david-fravor]
 corroboration: firsthand
 summary: "July 26, 2023 House Oversight Committee hearing featuring David Grusch, Ryan Graves, and David Fravor testifying publicly about UAP — the first Congressional hearing in which a credentialed intelligence officer (Grusch) testified under oath to the existence of non-human craft and biological retrieval programs."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [incident, congressional-hearing, grusch, disclosure, 2023]
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nazi German rocket scientist brought to the US under Operation Paperclip; led NASA's Apollo program; allegedly told Apollo astronaut Gordon Cooper that his team worked on and flew UFO craft in Nazi Germany."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 name: Wernher von Braun
 aliases: [Werner von Braun]

@@ -7,8 +7,6 @@ parent_org: ""
 country: USA
 active_period: "1949–present (dormant post-1970s)"
 summary: "Private research foundation established by businessman Roger Babson in 1949 to find ways to reduce or shield gravity; catalyzed serious academic anti-gravity research in the 1950s by funding essay prizes that attracted mainstream physicists."
-created: 2026-04-27
-updated: 2026-04-27
 tags: [anti-gravity, physics, 1950s, babson, gravity-research, electrogravitics, physics-history]
 ---
 

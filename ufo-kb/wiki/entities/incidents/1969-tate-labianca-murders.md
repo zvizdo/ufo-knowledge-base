@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The August 8–9, 1969 murders at Sharon Tate's Cielo Drive home ordered by Charles Manson; officially attributed to Manson's Helter Skelter race-war fantasy; Tom O'Neill presents evidence the murders served CIA Operation CHAOS by destroying the counterculture movement."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: 1969 Tate-LaBianca Murders
 date: 1969-08-08

@@ -3,8 +3,6 @@ type: concept
 name: Electromagnetic Anomalies at Skinwalker Ranch
 aliases: [electromagnetic anomalies Skinwalker Ranch, electromagnetic-anomalies-skinwalker, Skinwalker EM anomalies]
 first_seen_in: ufo-kb/wiki/entities/people/eric-barr.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The persistent, documented pattern of electromagnetic anomalies at Skinwalker Ranch — including equipment malfunctions, electronic failures, compass deviations, and instrument-triggering events — that constitute one of the ranch's most consistently reported and independently documented phenomena."
 tags: [skinwalker-ranch, electromagnetic, anomalies, instruments, equipment-failure, surveillance, eric-barr]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Biophysicist who, with physicist Harry Jabs, re-analyzed the Michelson-Morley experiment data and argued the null result was overstated — there was a small but real effect consistent with a physical ether."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 name: Beverly Rubik
 aliases: []

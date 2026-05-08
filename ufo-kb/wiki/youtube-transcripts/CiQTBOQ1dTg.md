@@ -10,8 +10,6 @@ published: ~2025–2026
 url: https://www.youtube.com/watch?v=CiQTBOQ1dTg
 duration_minutes: ~285
 tags: [giants, nephilim, book-of-enoch, watchers, mars, kandahar, sardinia, abduction, peru, face-peelers, ancient-mysteries, christianity, ufology, grey-aliens, hybridisation, milabs, spiritualism, mystery-airships, mystery-schools, rahab, christocentric-framework, david-jacobs, carla-turner, resolute-sentinel]
-created: 2026-04-26
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 ---
 

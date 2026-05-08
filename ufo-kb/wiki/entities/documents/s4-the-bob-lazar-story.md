@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Documentary film by Luigi Vendetti about Bob Lazar's S4 experience; produced over four years; includes CGI structural analysis proving the craft's impossibility under Earth-material constraints, satellite imagery, aerial photography, and the Edward Teller on-camera refusal tape."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 title: "S4: The Bob Lazar Story"
 authors: [Luigi Vendetti]

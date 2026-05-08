@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The hypothesis that the dominant NHI interacting with humanity originates not from outer space but from below the Earth's surface — underground oceans, deep geological formations, or artificial subterranean civilizations predating modern humanity."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [nhi, ultraterrestrial, underground, dulce, skinwalker, cryptoterrestrial, hypothesis]
 ---
 

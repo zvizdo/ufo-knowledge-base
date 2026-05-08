@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The ancient practice of encoding Earth's geodetic measurements into monumental architecture — including the Great Pyramid (polar radius at 1:43,200), Parthenon (one meridian arc-second at Athens), and Gothic cathedrals (local meridian cubits); also covers intentional placement at resonant coordinates."
-created: 2026-04-26
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/A_LsUSxTm7A.md, raw/youtube-transcripts/R7oyZGW99os.md]
 tags: [geodesy, sacred-geometry, ancient-civilizations, giza, monuments, earth-resonance, 30th-parallel, archaeoastronomy, great-pyramid, parthenon, gothic-cathedrals, randall-carlson]
 ---

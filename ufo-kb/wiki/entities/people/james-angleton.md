@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA Chief of Counterintelligence; Allen Dulles protégé; Knights of Malta; Skull and Bones; described as part of a multigenerational Vatican–intelligence nexus involved in UAP secrecy management."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: James Angleton
 aliases: [James Jesus Angleton, Angleton]

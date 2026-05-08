@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "October 8, 1981: Hannah McRoberts photographed a mountain on Vancouver Island and later discovered an accidental image of a classic dome-top flying saucer in the frame — one of the most visually compelling UFO photographs in the Scandinavian/international record."
-created: 2026-04-26
-updated: 2026-04-26
 name: 1981 McRoberts Vancouver Island Photo
 date: "1981-10-08"
 location: Vancouver Island, British Columbia, Canada

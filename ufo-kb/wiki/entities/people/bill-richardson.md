@@ -6,8 +6,6 @@ roles: [official, witness]
 affiliations: [doe, new-mexico]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/d9tdJ2SkBKQ.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 summary: "US Secretary of Energy (1998–2001) under Clinton; Governor of New Mexico (2003–2011); publicly stated belief in UAP/UFO reality and advocated for declassification; cited in KB in connection with Jeffrey Epstein's access to Los Alamos National Laboratory during Richardson's DOE tenure."
 tags: [doe, new-mexico, roswell, uap-disclosure, epstein, los-alamos]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Super-heavy element used as 'fuel' in the S4 reactor per Bob Lazar; identified at S4 in 1987–88 via atomic absorption spectroscopy and X-ray diffraction, 16 years before its first synthesis in 2003; now officially named Moscovium (element 115, Group 15)."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: Element 115
 aliases: [Moscovium, Ununpentium, Uup, element 115]

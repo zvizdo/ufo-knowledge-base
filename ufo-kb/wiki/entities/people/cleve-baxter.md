@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Polygraph expert and primary plants researcher; demonstrated apparent real-time electrodermal responses in plants to their environment and to human intent — cited by Puthoff as evidence for extended-EM consciousness field."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KGD1nuM4MR8.md]
 name: Cleve Baxter
 aliases: [Cleave Baxter]

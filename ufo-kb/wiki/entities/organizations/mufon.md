@@ -7,8 +7,6 @@ parent_org: ""
 country: USA
 active_period: 1969–present
 tags: [ufo-investigations, civilian-research, sighting-reports, john-lear, credibility]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "Largest civilian UFO investigation network in the US; maintains the world's largest public database of UFO sighting reports; historically the primary institutionalized non-government UFO research body."
 ---

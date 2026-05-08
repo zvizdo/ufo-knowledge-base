@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Remote viewer consulted by Dennis Asberg to assess the Baltic Sea Anomaly; participated alongside Joe McMoneagle; findings described BSA as constructed and possibly an energy source."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aGqFOxuYRT0.md]
 name: Angela Ford
 aliases: []

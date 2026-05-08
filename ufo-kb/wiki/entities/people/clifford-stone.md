@@ -6,8 +6,6 @@ roles: [whistleblower, veteran]
 affiliations: [us-army]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/incidents/2001-disclosure-project.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Retired US Army Sergeant; Disclosure Project witness; claims to have served in a classified military unit that responded to UFO crash sites to recover materials and sometimes non-human beings; testified publicly that the US government has catalogued 57 different extraterrestrial species; lived in Roswell, New Mexico."
 tags: [whistleblower, army, crash-retrieval, alien-species, roswell, disclosure-project, 57-species]

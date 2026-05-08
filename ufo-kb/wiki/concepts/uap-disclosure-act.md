@@ -3,8 +3,6 @@ type: concept
 name: UAP Disclosure Act
 aliases: [UAP Disclosure Act, UAPDA, UAP disclosure act]
 summary: "Pending US legislation that would mandate civilian congressional oversight of UAP programs and create a presidentially-appointed review board; lobbied against by Sean Kirkpatrick (former AARO director) before its vote."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h0hAit-KH9A.md]
 tags: [legislation, disclosure, civilian-oversight, aaro, kirkpatrick, congress]
 ---

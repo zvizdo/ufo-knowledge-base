@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Italian-American UFO investigative journalist and author; co-authored Trinity: The Best Kept Secret with Jacques Vallée about the 1945 San Antonio, NM crash; attended CE-5 events with Steven Greer including the Sedona event witnessed by Michael Herrera."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/fyX8V1XXmQM.md]
 name: Paola Harris
 aliases: [Paula Harris]

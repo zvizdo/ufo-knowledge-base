@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Materials scientist at Rockwell Science Center and Wright-Patterson AFRL Materials Directorate; co-inventor of the Mandeloy superalloy with Monica Resza; embedded at Wright-Patterson through 2012, overlapping with the McCasland command transition."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Dallas Hardwick
 aliases: []

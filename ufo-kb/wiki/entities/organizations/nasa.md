@@ -3,8 +3,6 @@ type: entity
 entity-type: organizations
 name: NASA
 summary: "US civilian space agency; publicly treats UAP as uncharacterized natural or man-made phenomena, but convened an independent UAP study group in 2022–2023 that recommended a data-driven scientific approach."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [gov-agency, space, uap-study]
 aliases: []
 ---

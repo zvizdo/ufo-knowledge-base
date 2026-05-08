@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ran the CIA psychic spy program (Stargate) during the period of the Rosemary Smith Africa session; tasked her with locating the downed TU-22 Soviet spy plane."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/RofQnByLwOo.md]
 name: Dale Graf
 aliases: []

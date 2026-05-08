@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Landmark along Highway 375 near Groom Lake, Nevada; used by Bob Lazar as the meeting point for friends to observe S4 craft test flights in 1989; became an iconic UFO pilgrimage site as a result."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: Black Mailbox
 aliases: [the black mailbox]

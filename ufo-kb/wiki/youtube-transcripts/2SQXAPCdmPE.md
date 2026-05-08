@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Danny Sheehan gives a comprehensive account linking the JFK assassination, Watergate, Iran-Contra, remote viewing, UAP crash retrievals, and contactee phenomena through a single continuity of covert power; adds controlled-disclosure thesis, Pat Price abilities, ONI mass mind-influence test, holotropic abductee training, and MK-Ultra won lawsuit"
-created: 2026-04-25
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
 video_id: 2SQXAPCdmPE
 title: "The Man Involved In Every American Conspiracy"

@@ -3,8 +3,6 @@ type: concept
 name: UAP Consciousness Link
 aliases: [UAP consciousness link, UAP consciousness connection, consciousness-responsive UAP]
 first_seen_in: ufo-kb/wiki/concepts/consciousness-as-fundamental.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The cluster of claims and evidence suggesting that UAP phenomena respond to or are mediated by observer consciousness state — including reports that UAP appear in response to meditation or intention, that witnesses report altered states during encounters, and that the phenomenon's characteristics (appearance, behavior) may be co-created by observer psychology."
 tags: [consciousness, uap, intention, observer-effect, vallée, control-system]

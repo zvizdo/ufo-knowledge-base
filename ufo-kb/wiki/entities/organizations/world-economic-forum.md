@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Swiss non-profit founded by Klaus Schwab; annual Davos conference venue; characterized by conspiracy researchers as the public arm of the Bilderberg Group and primary vehicle for the 'Great Reset' technocratic governance agenda."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KhmUixSXxDo.md]
 name: World Economic Forum
 aliases: [WEF, Davos Forum, Davos]

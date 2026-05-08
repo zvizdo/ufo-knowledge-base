@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Elite security consultant who protects heads of state and CEOs; appeared on American Alchemy discussing CIA conspiracies, government deception (AIDS/Fauci parallel to COVID), and who actually runs the US government."
-created: 2026-04-26
-updated: 2026-04-26
 name: Gavin de Becker
 aliases: []
 roles: [other]

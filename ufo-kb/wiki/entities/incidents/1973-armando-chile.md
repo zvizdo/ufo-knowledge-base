@@ -7,8 +7,6 @@ witnesses: [Corporal Armando (full name withheld)]
 craft_type: unknown
 corroboration: multi-witness (6 platoon members saw disappearance and reappearance)
 summary: "Chilean soldier disappeared from his 6-man platoon for 15 minutes; upon reappearing his wristwatch showed 5 days had elapsed, his beard had grown out, and he was disoriented — a documented missing-time case with physical corroboration."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Y26iMB0r-f8.md]
 tags: [chile, missing-time, time-dilation, military-witness, 1973, multi-witness]
 ---

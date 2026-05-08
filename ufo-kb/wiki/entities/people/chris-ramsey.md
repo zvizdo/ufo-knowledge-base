@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "World-class magician and host of the Area 52 YouTube channel; transitioned from magic/memory performance to UAP research via remote viewing; applies a magician's methodology — methods, misdirection, memory engineering — as a lens on the UFO phenomenon."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/335V-grwi8c.md, raw/youtube-transcripts/h3u8EkGI8OQ.md]
 name: Chris Ramsey
 aliases: [Chris Ramsay]

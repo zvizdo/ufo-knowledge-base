@@ -4,8 +4,6 @@ entity-type: places
 name: Lake Van
 aliases: [Lake Vaugh]
 summary: "Large lake in eastern Turkey surrounded by megalithic sites showing vitrification, machine-cut stone, and evidence of ancient catastrophic heat events; primary fieldwork site for Matt Lroy."
-created: 2026-04-26
-updated: 2026-04-26
 region: Eastern Anatolia
 country: Turkey
 type: region

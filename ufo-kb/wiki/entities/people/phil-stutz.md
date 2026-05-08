@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Psychotherapist; Jesse Michaels's godfather; subject of Jonah Hill's Netflix documentary 'Stutz'; follower of Rudolph Steiner's anthroposophy; developer of shadow-work 'Tools' framework."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/AVJEXCTAJUc.md]
 name: Phil Stutz
 aliases: []

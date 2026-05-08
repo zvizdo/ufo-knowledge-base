@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Science fiction novel by anti-gravity patron Agnew Bahnson written before his death in a plane crash; features a team of rogue Nazi scientists captured and moved to America who collaborate to build man-made flying saucers with anti-gravity, then stage a fake alien invasion to end Cold War tensions — an eerily on-the-nose narrative given Bahnson's real-world anti-gravity funding activities."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 title: The Stars Are Too High
 authors: [Agnew Bahnson]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The hypothesis that advanced extraterrestrial civilizations send AI-equipped technological probes through interstellar space rather than biological beings — making craft/hardware the most likely form of first contact, and interstellar debris fields a detectable archaeological record of civilization."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/_bM9eAtCOGw.md]
 tags: [interstellar-probe, ai-astronauts, lightsail, oumuamua, galileo-project, avi-loeb, first-contact, archaeological-trash]
 ---

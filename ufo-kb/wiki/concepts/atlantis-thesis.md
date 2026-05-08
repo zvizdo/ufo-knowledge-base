@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The claim that Plato's Atlantis tradition encodes real historical memory of a civilization destroyed at 9,600 BC — corroborated by its specific date, its alignment with meltwater pulse 1B, and its membership in ~200 global flood traditions."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/A_LsUSxTm7A.md, raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/dfPfPB601hw.md]
 tags: [atlantis, plato, flood-myths, graham-hancock, lost-civilization, meltwater, 9600-bc, younger-dryas, plutarch, temple-of-sais, matt-lroy]
 ---

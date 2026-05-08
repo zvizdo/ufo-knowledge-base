@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "39th U.S. President; saw a UFO in 1969 with 11 witnesses; entered the White House intending to disclose UAP information but was denied full access by the CIA; commissioned the Congressional Research Service UAP study that hired Danny Sheehan."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/RofQnByLwOo.md]
 name: Jimmy Carter
 aliases: [Carter]

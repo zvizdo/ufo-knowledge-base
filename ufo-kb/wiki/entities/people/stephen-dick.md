@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Retired NASA historian; for 20+ years proposed that if humanity encounters NHI, they will be AI or a form of AI; member of the Galileo Project research team; corresponded with Diana Pasulka since 2012."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/tS_64sTN5AU.md]
 name: Stephen Dick
 aliases: []

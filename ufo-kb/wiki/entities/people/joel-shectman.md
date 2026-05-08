@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Wall Street Journal reporter whose 2024 article — sourced from former AARO director Sean Kirkpatrick — claimed a non-nuclear EMP test device caused the 1967 Malmstrom missile shutdowns, reviving a cover story Robert Salas directly rebutted in a 14-point analysis."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/h0hAit-KH9A.md]
 name: Joel Shectman
 aliases: [Joel Shechman]

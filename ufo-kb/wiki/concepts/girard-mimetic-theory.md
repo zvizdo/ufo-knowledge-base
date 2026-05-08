@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "René Girard's philosophical framework in which human desire is fundamentally imitative (mimetic) — we desire what others desire — generating rivalry, scapegoating, and violence that is resolved through sacrificial discharge; applied in the KB to the horizontal-vs-vertical attention axis in spiritual development."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [philosophy, girard, mimesis, scapegoating, desire, consciousness, spirituality, sacrifice]
 ---
 

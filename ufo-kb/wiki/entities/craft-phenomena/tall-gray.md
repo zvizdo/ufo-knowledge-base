@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Taller variant of the Gray NHI entity type, reported as commanding or supervisory in relation to small Grays; features a pulsating chest device; observed by Mario Woods during the 1977 Ellsworth abduction."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/73YBwFvcmF8.md]
 name: Tall Gray
 aliases: [Tall Greys, Nordic Gray, Large Gray]

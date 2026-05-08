@@ -3,8 +3,6 @@ type: entity
 entity-type: places
 name: Kirtland Air Force Base
 summary: "USAF base in Albuquerque, New Mexico; hub for nuclear weapons research and storage, and the site of the Paul Benowitz AFOSI disinformation psyop in the early 1980s."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/WBTqsbwJyqU.md, raw/youtube-transcripts/wlsQIbpEKSM.md]
 tags: [base, new-mexico, afosi, benowitz-psyop, mccasland, afrl-space-vehicles, phillips-research-site]
 aliases: []

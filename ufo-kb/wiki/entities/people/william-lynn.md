@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Deputy Secretary of Defense under Obama; denied Harry Reid's request for SAP elevation of AAWSAP because Reid used political muscle (a letter) rather than proper channels."
-created: 2026-04-26
-updated: 2026-04-26
 name: William Lynn
 aliases: [William J. Lynn III, Lynn]
 roles: [official]

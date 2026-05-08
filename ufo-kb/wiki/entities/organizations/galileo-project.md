@@ -3,8 +3,6 @@ type: entity
 entity-type: organizations
 name: The Galileo Project
 summary: "Harvard-based scientific research initiative led by astrophysicist Avi Loeb, founded in 2021 to conduct systematic, instrument-based searches for evidence of extraterrestrial technological objects in Earth's vicinity."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/_bM9eAtCOGw.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 tags: [research-group, harvard, scientific-uap, sensor-array, ai-classification]
 aliases: []

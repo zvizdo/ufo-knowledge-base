@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2005 book by Greg Bishop documenting the Rick Doty / Paul Benowitz disinformation affair; the definitive account of a deliberate Air Force OSI psyop against a civilian UAP researcher."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/73YBwFvcmF8.md]
 title: Project Beta
 authors: [greg-bishop]

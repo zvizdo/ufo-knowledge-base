@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The fear — held by US officials — that China, Russia, or another power will unilaterally announce contact with non-human intelligence before the US, shifting global prestige and destabilizing the post-war geopolitical order."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/ePdH01pphbk.md]
 tags: [disclosure, china, russia, geopolitics, nhi-contact, cold-war-legacy, prestige, reverse-engineering]
 ---

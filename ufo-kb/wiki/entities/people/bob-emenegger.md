@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Documentary filmmaker who co-produced 'UFOs: Past, Present and Future' with Allan Sandler; told James Fox the Holloman AFB landing did happen and footage was nearly included in their film; deceased."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: Bob Emenegger
 aliases: [Bob Egger, Robert Emenegger]

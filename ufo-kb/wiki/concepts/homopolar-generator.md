@@ -3,8 +3,6 @@ type: concept
 name: Homopolar Generator
 aliases: [homopolar generator, Faraday disk, unipolar generator, homopolar motor]
 first_seen_in: raw/youtube-transcripts/iPxbILOMQ08.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/iPxbILOMQ08.md]
 summary: "Electromagnetic generator using a rotating conductive disk in a magnetic field to produce continuous DC current without commutation; Faraday's original 1831 electromagnetic machine; relevant to UAP propulsion theory as a model for how rotating conductive material in a magnetic field generates electromagnetic fields around a craft."
 tags: [electromagnetism, generator, faraday, uap-propulsion, electromagnetic-field, rotating-field]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Oldest UFO/anomalous phenomena research group in the world, based in Eureka, California; active since at least the 1940s; reportedly had intelligence connections in that era; original files collected by Claus Svahn and preserved at AFU."
-created: 2026-04-26
-updated: 2026-04-26
 name: Borderland Science Research Association
 aliases: [BSRA, Borderland Science Research Foundation]
 type: research-group

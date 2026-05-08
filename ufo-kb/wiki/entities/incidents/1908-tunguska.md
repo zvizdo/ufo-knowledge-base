@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "June 30, 1908 aerial explosion over Siberia that flattened 2,000 square miles of forest — almost certainly a Taurid meteor stream member, occurring at the June torid peak."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JGE1NIGhBzw.md]
 name: 1908 Tunguska Event
 date: "1908-06-30"

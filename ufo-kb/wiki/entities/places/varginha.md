@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "City in Minas Gerais, Brazil; site of the 1996 UFO crash and alien being sightings — Brazil's most thoroughly documented UFO incident; has a public UFO statue commemorating the event."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UkKwa4jU0fc.md]
 name: Varginha
 aliases: [Vajian, Vajim, Virginia (misspelling in transcript)]

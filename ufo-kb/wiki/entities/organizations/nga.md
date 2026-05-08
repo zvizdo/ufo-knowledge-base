@@ -6,8 +6,6 @@ roles: []
 affiliations: [us-government, ic]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/places/area-6.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US intelligence community agency responsible for geospatial intelligence (GEOINT) — imagery, maps, and analysis derived from satellite and aerial reconnaissance; manages classified satellite imagery archives that would contain any aerial or space-based UAP observations; one of the seventeen US intelligence agencies."
 tags: [nga, intelligence, satellite, imagery, geospatial, classified, reconnaissance]

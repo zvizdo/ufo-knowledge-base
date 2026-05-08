@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "MIT- and Stanford-educated computer scientist, video-game entrepreneur, and author of The Simulation Hypothesis — the KB's primary articulator of an RPG-based, life-affirming simulation model of reality; adviser to the Galileo Project."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 name: Riz Virk
 aliases: [Rizwan Virk, RZ Virk]

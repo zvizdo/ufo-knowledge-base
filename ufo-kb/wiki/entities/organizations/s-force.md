@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "15-man CIA-adjacent assassination team assembled by Santos Trafficante from anti-Castro Cuban exiles; originally commissioned to kill Castro/Guevara; re-activated by Allen Dulles against JFK in November 1963."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: S-Force
 aliases: ["Special Force", "S force"]

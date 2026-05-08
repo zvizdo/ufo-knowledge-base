@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Robert Lovett: Deputy Secretary of Defense and senior partner at Brown Brothers Harriman; wrote the original CIA founding memorandum; brought into the Anderson Trust by Secretary Stimson to manage recovered Yamashita gold."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Robert Lovett
 aliases: [Robert A. Lovett]

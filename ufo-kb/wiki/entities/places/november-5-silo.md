@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Minuteman II ICBM silo near Newell, South Dakota; site of the November 1977 Mario Woods CE3 abduction; a dual-prong above/below-ground alarm triggered the response that led to the encounter."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/73YBwFvcmF8.md]
 name: November 5 Missile Silo
 aliases: [Missile November 5, November 5]

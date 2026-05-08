@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Steven Ellison, hip-hop producer, filmmaker, and great-nephew of Alice Coltrane; claims a firsthand UAP sighting of a 'thing with three fingers and three toes'; prominent artistic voice in UAP discourse."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JE1oM89dpBc.md]
 name: Flying Lotus
 aliases: [Steven Ellison, Steve Ellison, FlyLo]

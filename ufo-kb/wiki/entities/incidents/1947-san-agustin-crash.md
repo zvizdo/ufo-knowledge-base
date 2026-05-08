@@ -8,8 +8,6 @@ witnesses: [Unnamed archaeologists investigating Indian ruins, unnamed campers, 
 craft_type: Intact saucer with large hole in the side
 corroboration: hearsay (Brandenburg relaying conference veterans' accounts)
 summary: "Second 1947 crash event approximately 100 miles from Roswell, occurring the morning of July 4; witnesses described an intact saucer with a large hole in the side, multiple dead alien bodies, and one live alien recovered; the same red-haired colonel who later appeared at Roswell arrived first at this site."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/p0S0BfoZy0w.md]
 tags: [roswell, san-agustin, crash-retrieval, live-alien, 1947, nhi-biologics, red-haired-colonel, witness-intimidation]
 ---

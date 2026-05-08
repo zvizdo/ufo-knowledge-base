@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Physicist described as the 'godfather of extended electrodynamics in the modern context'; based in Colorado Springs; published on scalar longitudinal waves; reportedly declined a meeting with Jesse Michaels."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KGD1nuM4MR8.md]
 name: Lee Hively
 aliases: []

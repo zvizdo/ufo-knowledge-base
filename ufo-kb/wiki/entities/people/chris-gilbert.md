@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "French-trained MD/PhD, former Doctors Without Borders physician, and holistic medicine pioneer; co-author with Eric Haseltine on UAP and consciousness; actively investigating Havana syndrome victims."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Chris Gilbert
 aliases: [Christine Gilbert]

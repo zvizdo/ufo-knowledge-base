@@ -1,10 +1,7 @@
 ---
 type: entity
 summary: "German-Romanian rocket pioneer; mentor to Wernher von Braun; came to the US under Operation Paperclip; publicly and openly speculated about UFOs including time manipulation involved in UFO travel."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
-updated: 2026-04-26
 name: Herman Oberth
 aliases: [Hermann Oberth]
 roles: [researcher, official]

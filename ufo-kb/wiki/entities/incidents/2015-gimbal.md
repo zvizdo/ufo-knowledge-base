@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2014–2015 FLIR video recorded by a US Navy F/A-18 off the East Coast during USS Theodore Roosevelt operations; shows a rotating, morphing object that became the central contested UAP video evidence in the modern disclosure era."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md]
 name: Gimbal Video
 date: 2014-2015

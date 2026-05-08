@@ -6,8 +6,6 @@ roles: ["researcher"]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/youtube-transcripts/NvqxmTCwHA8.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Ancient Greek historian (5th century BCE) who described Giza subterranean labyrinths — earliest textual record of underground infrastructure beneath the pyramid plateau."
 tags: ["ancient-history", "pyramids", "textual-source"]

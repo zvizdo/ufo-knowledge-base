@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "October 1917 public spectacle in Fatima, Portugal — reported by 30,000–70,000 witnesses — in which the sun appeared to spin, change colors, and descend toward Earth; preceded by apparitions to three child shepherds claiming to be the Virgin Mary."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h3u8EkGI8OQ.md]
 name: 1917 Fatima — Miracle of the Sun
 date: 1917-10-13

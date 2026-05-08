@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Remote Pacific atoll ~500 miles southwest of Hawaii; site of US high-altitude nuclear tests (Operation Dominic, 1962) and associated UAP sightings, including the 1962 Bluegill Triple Prime incident and Bob Jacobs's Vandenberg/Johnston scuttlebutt."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Johnston Island
 aliases: [Johnston Atoll]

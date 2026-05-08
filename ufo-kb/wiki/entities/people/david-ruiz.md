@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "President of the Peruvian Society of Legal Medicine; examined Nazca tridactyl mummies and asserts they are real non-human organisms that have been visiting Earth for thousands of years"
-created: 2026-04-26
-updated: 2026-04-26
 name: Dr. David Ruiz
 aliases: []
 roles: [researcher, official]

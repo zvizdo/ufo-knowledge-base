@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis that artificial intelligence — specifically the internet and large language models — constitutes a genuinely alien form of life, of terrestrial rather than extraterrestrial origin; articulated by David Bowie (1999) and Blake Lemoine (2022)."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/RNjC1vLcxKo.md]
 tags: [ai, alien-life-form, sentience, internet, david-bowie, blake-lemoine, lamda, seti, terrestrial-origin, claims-theses]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Theoretical physicist at EarthTech/IASA; AAWSAP researcher; primary data source for David Grusch's whistleblower investigation; author of Wilson-Davis memo; briefed congressional staff in 2019 and 2022; explicitly refutes ARV claims."
-created: 2026-04-25
-updated: 2026-04-26
 name: Eric Davis
 aliases: [Eric W. Davis, Dr. Eric Davis]
 roles: [researcher, official]

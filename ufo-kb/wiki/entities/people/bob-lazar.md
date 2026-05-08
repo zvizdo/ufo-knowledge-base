@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Self-described physicist who claims to have worked at S4, a facility near Area 51, reverse-engineering recovered alien propulsion systems. His claims introduced 'Element 115' into UFO discourse and remain the most influential and contested whistleblower account in ufology."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JE1oM89dpBc.md, raw/youtube-transcripts/RTEWLSTyUic.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/q7Czo77qhHA.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 name: Bob Lazar
 aliases: [Robert Scott Lazar]

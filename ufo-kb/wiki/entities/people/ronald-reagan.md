@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "40th President of the United States (1981–1989); author of the Strategic Defense Initiative (SDI/Star Wars); documented to have made repeated references to alien threat scenarios in both private and public contexts, including the 1985 Geneva Summit with Gorbachev and his remark at a White House screening of Spielberg's E.T."
-created: 2026-05-05
-updated: 2026-05-05
 name: Ronald Reagan
 aliases: [Ronald Wilson Reagan]
 roles: [politician, President, actor]

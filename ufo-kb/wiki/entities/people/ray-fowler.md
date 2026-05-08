@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Sylvania Corporation manager at Malmstrom AFB whose contractor employees witnessed UFO activity connected to the 1967 missile shutdowns; reported to Condon investigator Roy Craig, then was stonewalled by Col. Lewis Chase."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Ray Fowler
 aliases: []

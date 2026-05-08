@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Modern industrial chemistry process whereby sulfuric acid (often from oxidized H2S) extracts metals from iron-bearing ores; central to Jeffrey Drum's reconstruction of the pyramid complex as a metal-extraction facility."
 tags: ["chemistry", "metallurgy", "drum-thesis"]

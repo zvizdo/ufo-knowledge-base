@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Person in the Jesse Michaels / American Alchemy network; appears across multiple episodes. Context suggests a researcher, producer, or recurring interview subject connected to UAP or adjacent topics."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Omar Candal
 aliases: []

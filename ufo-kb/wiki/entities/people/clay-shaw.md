@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Clay Shaw: CIA contract agent in New Orleans; the only person brought to trial (and acquitted) by Jim Garrison for conspiracy in the Kennedy assassination; connected to Fred Chrisman and David Ferrie; played by Tommy Lee Jones in Oliver Stone's JFK."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Clay Shaw
 aliases: [Clay Lavergne Shaw, Klay Shaw]

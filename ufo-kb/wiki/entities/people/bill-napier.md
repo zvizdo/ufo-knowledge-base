@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British astrophysicist who proposed the Taurid meteor stream as the likely trigger for the Younger Dryas impact event — the cometary-debris origin model linking comet Enke/Encke to Earth's 12,900-year-ago catastrophe."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JGE1NIGhBzw.md]
 name: Bill Napier
 aliases: [William Napier]

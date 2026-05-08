@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Italian-American physicist; Nobel laureate (1938); architect of the first nuclear reactor; alleged vice-president of the Italian RS-33 UFO committee in 1953; namesake of the Fermi paradox"
-created: 2026-05-02
-updated: 2026-05-02
 name: Enrico Fermi
 aliases: []
 roles: [researcher, official]

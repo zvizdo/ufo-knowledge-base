@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The corpus of firsthand and secondhand witness accounts from credentialed military, intelligence, and scientific personnel asserting direct knowledge of UAP retrieval programs, non-human intelligence, or exotic materials; distinguished from sighting reports by the insider-access context of the witnesses."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [disclosure, testimony, credibility, grusch, elizondo, whistleblower]
 ---
 

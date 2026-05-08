@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Peter Levenda on JFK/alien connection, Nine seance network, Nazi occult/Wiligut/Wewelsburg programs, TTSA insider SCIF silence at Skinwalker Ranch, Fight Club multi-country silence thesis, Necronomicon SAC letter and OMNI advertising model, firsthand MIB/WIB encounter, Bendix/Lazar NOC thesis, cargo-cult/Prometheus/Oannes hypothesis, celestial ascent practice, traditionalism critique, and Scott Crane gnostic quest archetype."
-created: 2026-04-27
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 video_id: Y7PLeu5rTv4
 title: "CIA Historian: \"Aliens Are Controlling Human Timelines!\""

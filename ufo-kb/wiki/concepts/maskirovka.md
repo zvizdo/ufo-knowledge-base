@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Russian military deception doctrine — make adversaries think you can do things you can't (and vice versa); applied by Haseltine as a frame for understanding some UAP phenomena as possible Russian cognitive/psychological warfare."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 tags: [russia, deception, psychological-warfare, cognitive-warfare, uap-hypotheses, intelligence-methodology]
 ---

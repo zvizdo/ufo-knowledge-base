@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US nuclear weapons test site in Nevada (now Nevada National Security Site); the complex within which Area 51, S4, Tonopah Test Range, and Area 6 are located; over 1,000 nuclear tests conducted 1951–1992; central node in the UAP/nuclear nexus."
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 name: Nevada Test Site
 aliases: [NTS, Nevada National Security Site, NNSS, Nevada Test and Training Range, NTTR]

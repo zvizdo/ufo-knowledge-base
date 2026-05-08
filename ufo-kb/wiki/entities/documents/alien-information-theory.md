@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Andrew Gallimore's 2015 book presenting a metaphysical model of DMT as an information channel from higher-dimensional reality; explicitly speculative but one of the most systematic attempts to ground DMT phenomenology in information theory and physics."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 title: Alien Information Theory
 authors: [Andrew Gallimore]

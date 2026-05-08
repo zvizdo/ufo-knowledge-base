@@ -6,8 +6,6 @@ roles: []
 affiliations: [soviet-academy-of-sciences, russian-academy-of-sciences]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/nikolai-basov.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The leading physics research institute of the Soviet Academy of Sciences; home institution of Nikolai Basov and site of the foundational Soviet laser and maser research that underpins contemporary Russian directed energy weapons capabilities; part of the scientific lineage cited as evidence for Russian technical superiority in directed energy and microwave weapons."
 tags: [soviet, russia, physics, lasers, directed-energy, nikolai-basov, academy-of-sciences, moscow]

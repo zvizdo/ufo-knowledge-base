@@ -3,8 +3,6 @@ type: concept
 name: Great Filter
 aliases: [Great Filter, great-filter, Fermi Filter, Fermi Great Filter]
 first_seen_in: ufo-kb/wiki/entities/people/enrico-fermi.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Robin Hanson's 1998 concept explaining the Fermi Paradox: some extremely improbable step ('filter') lies between simple chemistry and spacefaring civilization; the key question is whether this filter is in humanity's past (we already passed it) or future (we face extinction ahead)."
 tags: [fermi-paradox, existential-risk, astrobiology, civilization, filter, great-silence]

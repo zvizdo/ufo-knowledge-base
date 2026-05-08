@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Canadian UFO researcher and author; posted a Facebook photo of a Bledsoe envelope and Camp David presidential-seal napkin that Bob Maguire identified as evidence the Bledsoe prophecies reached Barack Obama."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/Rjr3Yq-dMUE.md]
 name: Grant Cameron
 aliases: []

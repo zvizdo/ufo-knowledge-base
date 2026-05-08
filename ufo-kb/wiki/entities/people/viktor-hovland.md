@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Norwegian professional golfer, top-10 PGA Tour player; UAP and ancient mysteries enthusiast who reads Plato in his spare time and visits ancient sites during tournaments."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/SZBI85yvV5A.md]
 name: Viktor Hovland
 aliases: [Victor Havlin, Viktor]

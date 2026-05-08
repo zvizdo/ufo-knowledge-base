@@ -1,10 +1,7 @@
 ---
 type: entity
 summary: "Classified US hypersonic aircraft program rumored to be a Mach 5 SR-71 replacement; supported by USGS sonic boom tracking toward Area 51, Chris Gibson's North Sea sighting, British MOD documents, a $2B budget line item, and General Muellner's retirement-day 'gap puzzle' — investigated extensively by Nick Cook and Bill Sweetman at Jane's Defence Weekly."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/RTEWLSTyUic.md]
-updated: 2026-04-27
 name: Aurora Aircraft Program
 aliases: [Aurora, Mach-5 aircraft, Project Aurora]
 parent_org: Lockheed Skunk Works (alleged)

@@ -3,8 +3,6 @@ type: concept
 name: Black Budget
 aliases: [black budget, off-books funding, unacknowledged funding]
 first_seen_in: ufo-kb/wiki/synthesis/yamashita-gold-black-budget-network.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Classified or unacknowledged government spending that does not appear in publicly disclosed budgets; includes SAP (Special Access Program) funding, AARO's unacknowledged program findings, and alleged off-books financing mechanisms (Yamashita gold, Anderson Trust) theorized to fund UAP programs outside normal congressional appropriations."
 tags: [sap, classified-funding, unacknowledged-programs, congress-oversight, uap-secrecy]

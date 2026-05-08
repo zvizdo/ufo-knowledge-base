@@ -6,8 +6,6 @@ roles: []
 affiliations: [usaf]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/places/roswell-army-air-field.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "USAF installation at Roswell, New Mexico; formerly Roswell Army Air Field, home of the 509th Bomb Group in 1947; renamed in 1948 for WWII pilot Kenneth Walker; operated as a SAC bomber base through 1967; now the Roswell International Air Center (civilian)."
 tags: [roswell, usaf, new-mexico, sac, walker-afb, strategic-air-command, cold-war]

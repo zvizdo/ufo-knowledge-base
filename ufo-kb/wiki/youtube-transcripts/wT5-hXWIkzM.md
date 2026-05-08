@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy interview with Rupert Sheldrake covering TED Talk censorship, extended mind / extramission vision, scopaesthesia, transactional QM, morphic resonance, precognitive dreams, panpsychism, sun consciousness, physics of angels, AI limits, and Terence McKenna friendship"
-created: 2026-04-27
-updated: 2026-05-04
 sources: [raw/youtube-transcripts/wT5-hXWIkzM.md]
 video_id: wT5-hXWIkzM
 title: "Meet The Scientist BANNED By TED Talks (ft. Rupert Sheldrake)"

@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: [soul-foundation]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/LpLFWdsIU7M.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 summary: "Author of a Soul Foundation white paper on UAPs and financial stability risk; argues that Federal Reserve, Treasury, and other financial institutions are failing to assess the potential phase-transition risks from UAP disclosure, primarily due to social taboo. Primary concern is not civilian panic but the collapse of institutional bureaucracies (Fed, Treasury) staffed by psychologically stressed technocrats."
 tags: [disclosure, financial-stability, soul-foundation, disclosure-narratives]

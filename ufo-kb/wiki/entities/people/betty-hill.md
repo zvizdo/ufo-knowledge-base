@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "New England social worker; with husband Barney Hill, subject of the 1961 Betty and Barney Hill abduction — considered the earliest widely-reported alien abduction case; her original hypnotic regression accounts are contested."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/Rjr3Yq-dMUE.md, raw/youtube-transcripts/fyX8V1XXmQM.md]
 name: Betty Hill
 aliases: [Eunice Elizabeth Barrett Hill, Betty]

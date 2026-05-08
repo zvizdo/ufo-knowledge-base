@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF weather observer at Nellis AFB's Indian Springs Gunnery Ranges (1965–1967) who claims 26 months of sustained firsthand contact with the 'Tall White' alien species; author of the 6-volume Millennial Hospitality series."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/QgxjtDS2sIQ.md, raw/youtube-transcripts/Rfmy5oW_r9c.md, raw/youtube-transcripts/bM18PJY6_Zc.md]
 name: Charles Hall
 aliases: []

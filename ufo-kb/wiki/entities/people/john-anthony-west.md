@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alternative Egyptologist who championed Robert Schoch's Sphinx water erosion theory"
-created: 2026-04-26
-updated: 2026-04-26
 name: John Anthony West
 aliases: [JAW]
 roles: [researcher]

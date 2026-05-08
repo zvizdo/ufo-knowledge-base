@@ -3,8 +3,6 @@ type: entity
 name: BDM Corporation
 aliases: [BDM International]
 summary: "US defense contractor that hosted a classified 1985 Advanced Theoretical Physics working group focused on crash retrieval and reverse engineering; the group produced a documented bibliography and had access to cleared witnesses; later acquired by TRW and then Northrop Grumman."
-created: 2026-05-05
-updated: 2026-05-05
 type_detail: private-co
 country: US
 tags: [defense-contractor, crash-retrieval, atp-working-group, reverse-engineering, classified, northrop]

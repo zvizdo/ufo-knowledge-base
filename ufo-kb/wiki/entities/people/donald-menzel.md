@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Harvard Observatory director and prominent USAF-aligned UFO debunker who, according to documented accounts, ordered the destruction of one-third of Harvard's photographic plates and multiple observational log books in the early 1950s."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/h0hAit-KH9A.md]
 name: Donald Menzel
 aliases: [Don Mansel (transcript variant), Don Menzel, D.H. Menzel]

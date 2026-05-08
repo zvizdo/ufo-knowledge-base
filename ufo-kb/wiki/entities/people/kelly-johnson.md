@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Legendary founder and director of Lockheed Skunk Works; credited with designing the U-2 spy plane and SR-71 Blackbird; reportedly anti-stealth at the end of his career, clashing with Ben Rich who championed stealth development."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Kelly Johnson
 aliases: [Clarence Leonard Johnson]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Zones of energetic charged particles trapped by Earth's magnetic field; cited in UAP physics discussions as a radiation barrier that makes biological space travel difficult and as a potential energy source; also relevant to solar-wind/geomagnetic UFO correlation hypotheses."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [radiation, space, magnetic-field, nasa, transmedium, uap-physics]
 ---
 

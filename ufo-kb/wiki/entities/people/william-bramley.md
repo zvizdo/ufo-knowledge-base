@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Researcher who started investigating war profiteering and found UFOs; wrote 'The Gods of Eden' (1989) connecting UFO sightings to the Black Death, arguing plague-delivery entities using spray canisters created the Grim Reaper iconography."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: William Bramley
 aliases: []

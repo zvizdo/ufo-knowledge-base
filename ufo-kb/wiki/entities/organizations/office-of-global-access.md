@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA program/directorate for acquiring access to denied areas and materials; founded by Doug Wolf; identified as a key node in the intelligence-agency program-administrator layer of the UAP legacy pyramid."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Office of Global Access
 aliases: [OGA]

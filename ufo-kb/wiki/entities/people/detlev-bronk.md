@@ -8,8 +8,6 @@ affiliations: [Rockefeller University, Johns Hopkins University, Rockefeller Fou
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/q7Czo77qhHA.md
 tags: [majestic-12, mj12, alien-autopsy, rockefeller-foundation, johns-hopkins, nhi-biologics, ufo-cover-up, truman, eisenhower]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "American biophysicist and neurophysiologist; alleged Majestic-12 member reportedly conducting alien autopsies at Aztec and Roswell crash recoveries; simultaneously president of the Rockefeller Foundation and president of Johns Hopkins University — the convergence of alleged NHI-biological-specimen handling and elite medical/financial institution leadership."
 ---

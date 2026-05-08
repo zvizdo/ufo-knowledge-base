@@ -9,8 +9,6 @@ url: https://www.youtube.com/watch?v=WBTqsbwJyqU
 duration_minutes: 120
 tags: [paul-benowitz, richard-doty, dulce, disinformation, intelligence-manipulation, project-beta, mind-control, afosi, american-alchemy, bill-moore, myrna-hansen, dulce-underground-base, gabe-valdez, kirtland-afb]
 sources: [raw/youtube-transcripts/WBTqsbwJyqU.md]
-created: 2026-04-26
-updated: 2026-04-26
 ---
 
 # "Aliens" Drove This Man Insane! (Ft. Greg Bishop) — American Alchemy

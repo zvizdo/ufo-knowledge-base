@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Documentary filmmaker and investigative journalist specializing in UAP. Produced the 2018 Bob Lazar documentary and has been responsible for leaking several UAP videos that triggered Congressional and Pentagon responses in 2021–2023."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/C_Na1tI5qpw.md]
 name: Jeremy Corbell
 aliases: []

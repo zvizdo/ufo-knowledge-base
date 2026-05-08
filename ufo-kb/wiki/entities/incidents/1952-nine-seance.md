@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1952–53 Nine Seance: Séance in Maine organized by Andrija Puharich; attended by blue-blooded American establishment figures including Arthur Young (Bell helicopter co-inventor); contacted nine alleged non-human intelligences who later appeared connected to a UFO in low Earth orbit also contacted by Uri Geller."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: 1952–53 Nine Seance
 date: 1952-01-01

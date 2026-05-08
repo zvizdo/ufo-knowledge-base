@@ -1,10 +1,7 @@
 ---
 type: entity
 summary: "Northrop's advanced stealth bomber; multiple sources — Bill Gunston (Jane's), Aviation Weekly, and Nick Cook — claim its actual propulsion/lift involves Townsend Brown's electrogravitics via the Biefeld-Brown effect, with leading edges charged to millions of volts positive and trailing to millions of volts negative; Floyd Odlum's role as both Guidance Technologies' sole investor and Northrop's majority owner is the institutional link."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/RTEWLSTyUic.md]
-updated: 2026-04-27
 name: B2 Spirit Stealth Bomber
 aliases: [B2, B-2, B2 Spirit]
 category: weapon

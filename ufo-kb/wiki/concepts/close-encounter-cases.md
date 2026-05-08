@@ -3,8 +3,6 @@ type: concept
 name: Close Encounter Cases
 aliases: [close encounter cases, CE cases, close encounters, hynek classification]
 first_seen_in: ufo-kb/wiki/concepts/abduction-research.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "UAP/UFO incidents classified under J. Allen Hynek's Close Encounter typology; CE1 = sighting within 150m; CE2 = physical trace evidence; CE3 = occupants observed; CE4 = abduction; CE5 = voluntary contact. The classification system structured the research field and remains standard shorthand."
 tags: [hynek, close-encounters, ce1, ce2, ce3, ce4, ce5, uap-classification]

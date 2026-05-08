@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA Director of Science and Technology; allegedly blocked the transfer of UAP material from Lockheed Martin to Bigelow Aerospace; currently on the AARO board."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ATJwqp5twAg.md, raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/LnAiNChnuEQ.md]
 name: Glenn Gaffney
 aliases: [Glenn Gaffney]

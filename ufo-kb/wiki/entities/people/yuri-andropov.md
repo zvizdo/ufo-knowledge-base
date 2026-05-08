@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chairman of the KGB (1967–1982) and General Secretary of the Soviet Union (1982–1984); present at the Nixon-Brezhnev meeting where Nixon opened a UFO folder — immediately after which all Soviet and US moon program funding was halted."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 name: Yuri Vladimirovich Andropov
 aliases: [Andropov, Yuri Andropov]

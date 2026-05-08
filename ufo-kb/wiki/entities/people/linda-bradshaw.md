@@ -8,8 +8,6 @@ affiliations: []
 firsthand_claims: ["photographed an interdimensional portal opening on her property near Sedona, Arizona"]
 first_seen_in: null
 tags: [sedona, bradshaw-ranch, portal, interdimensional, arizona, uap, ross-coulthart]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "Former owner of Bradshaw Ranch near Sedona, Arizona, who photographed what she describes as an interdimensional portal opening in a specific patch of ground on the property."
 ---

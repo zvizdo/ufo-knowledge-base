@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: The US ran a secret, Manhattan Project–scale anti-gravity research program in the 1950s–60s, concealed behind Project Blue Book, involving top physicists, aerospace contractors, and Wright-Patterson researchers."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/kRO5jOa06Qw.md, raw/youtube-transcripts/mOWwdIuyaQA.md]
 tags: [anti-gravity, manhattan-project, wright-patterson, project-blue-book, 1950s, claims-thesis, gravity-manipulation]
 ---

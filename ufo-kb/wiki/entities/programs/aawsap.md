@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Advanced Aerospace Weapons Systems Application Program — a classified Pentagon program (2007–2012) that studied UAPs and anomalous phenomena, including operations at Skinwalker Ranch."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/LnAiNChnuEQ.md]
 name: AAWSAP
 aliases: [Advanced Aerospace Weapons Systems Application Program]

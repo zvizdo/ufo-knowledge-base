@@ -1,14 +1,11 @@
 ---
 type: entity
 summary: "U.S. Army clerk typist assigned to Project Blue Book who, on his deathbed, told Danny Sheehan he was taken to S4 and witnessed telepathic communication between a U.S. commander and an extraterrestrial being."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Albert Stein
 aliases: ["Oscar Wolf (name given in C4rSj5Aum7w — possibly same person)"]
 roles: [witness]
 affiliations: [United States Army, Project Blue Book]
-updated: 2026-04-26
 firsthand_claims: ["witnessed telepathic communication between U.S. commander and ET at S4; ET stated it was part of a multi-star-system monitoring team coordinated by what humans call 'God'"]
 first_seen_in: raw/youtube-transcripts/2SQXAPCdmPE.md
 tags: [blue-book, s4, et-contact, deathbed-testimony, telepathy, nhi]

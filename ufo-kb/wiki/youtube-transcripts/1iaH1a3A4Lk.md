@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Debate/discussion between skeptic Mick West and former DoD analyst Marik von Rennenkampff: covers Nimitz FLIR1, Gimbal, GoFast, Iraq thermal video (2008), Omaha sphere wave, de-rotation patent, Nimitz data exfiltration allegations, AARO failures, Susan Goff handler dynamic, Jake Barber egg video, historical nuclear-UFO nexus cases, drone flaps, and a $1,000 NHI consensus bet"
-created: 2026-04-25
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md]
 video_id: 1iaH1a3A4Lk
 title: "UFO Skeptic Mick West Challenged To A Debate"
@@ -13,7 +11,6 @@ published: ~2024-12
 url: https://www.youtube.com/watch?v=1iaH1a3A4Lk
 duration_minutes: ~90
 tags: [debate, video-analysis, nimitz, gimbal, gofast, aaro, skeptic, mick-west, marik-von-rennenkampff, uap-evidence, instrumented-evidence, de-rotation-patent, jake-barber, mario-woods, lakenheath, nuclear-ufo-nexus, uss-omaha, iraq-thermal-video, drone-flaps, sitrec, ryan-graves, schumer-rubio, psionic-assets, epistemology, credibility-frameworks]
-updated: 2026-05-05
 ---
 
 # UFO Skeptic Mick West Challenged To A Debate

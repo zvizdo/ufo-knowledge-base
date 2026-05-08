@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US plutonium production facility in Washington State, built during the Manhattan Project; site of the 1945 Bud Clem UFO sighting — before the facility was fully operational and before radioactive material was present."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Hanford Nuclear Reservation
 aliases: [Hanford Ordinance Works, Hanford Site]

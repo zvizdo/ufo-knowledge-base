@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Peter Levenda: Author and researcher specializing in occultism, Nazism, and intelligence community connections; wrote 'Sinister Forces' trilogy and co-authored 'Secret Machines' with Tom DeLonge; TTSA inner circle with direct access to Puthoff, Mellon, Vallee; firsthand MIB encounter; received Prometheus insider tip from intelligence advisor; 75 years old at recording."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Peter Levenda
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Joe Rogan's longtime producer ('Young Jamie'); deep UAP/UFO researcher who has been down extensive rabbit holes; golf enthusiast."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/SZBI85yvV5A.md]
 name: Jamie Vernon
 aliases: [Young Jamie, Jamie]

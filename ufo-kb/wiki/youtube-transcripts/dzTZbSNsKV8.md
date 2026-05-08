@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=dzTZbSNsKV8
 duration_minutes: ~60
 sources: [raw/youtube-transcripts/dzTZbSNsKV8.md]
 tags: [garry-nolan, metamaterials, basal-ganglia, uap-science, ubatuba, arts-parts, isotope-ratios, invisible-college, aatip, stanford, american-alchemy]
-created: 2026-04-28
-updated: 2026-04-28
 ---
 
 # "These Are Parts Of an Alien UFO!" — Stanford Scientist Garry Nolan

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "National Aerospace Plane program (X-30); publicly described as a civilian hypersonic airliner ('Orient Express') capable of 45-minute Washington-to-Asia travel; Bill Sweetman and Nick Cook believe it was primarily a white-world technology development cover for the classified Aurora hypersonic aircraft program."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: National Aerospace Plane
 aliases: [NASP, X-30, Orient Express]

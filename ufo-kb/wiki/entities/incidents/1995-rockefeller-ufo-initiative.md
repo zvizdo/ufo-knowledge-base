@@ -7,8 +7,6 @@ witnesses: [laurance-rockefeller, marie-galbraith, hillary-clinton, scott-jones]
 craft_type: na
 corroboration: documented
 tags: [disclosure, rockefeller-initiative, jy-ranch, best-available-evidence, clinton-era]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

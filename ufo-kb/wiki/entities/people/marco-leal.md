@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Brazilian UFO researcher and co-producer of James Fox's 'Moment of Contact' documentaries; responsible for reconnecting with and winning the trust of Varginha witnesses including Carlos de Souza after 25 years of silence."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UkKwa4jU0fc.md]
 name: Marco Leal
 aliases: [Machus, Mar Leo, Max Leo, Makus Leo, Marco Leall]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA S-Force field operations commander; photographed at Dealey Plaza on November 22, 1963; ran covert operations against Cuba as part of the anti-Castro paramilitary network."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Rip Robertson
 aliases: []

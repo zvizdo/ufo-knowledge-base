@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army Air Forces intelligence officer (Major) who recovered debris from the 1947 Roswell crash site and later claimed he was forced to pose with a weather balloon as cover for the real materials."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Jesse Marcel
 aliases: [Major Jesse Marcel, Jesse A. Marcel Sr.]

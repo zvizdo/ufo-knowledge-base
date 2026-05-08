@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Royal Observer Corps observer who in the late 1980s spotted an unknown dart-shaped black aircraft in the North Sea being escorted by F-111s and refueled by a KC-135 tanker — widely cited as the best eyewitness sighting of the classified Aurora hypersonic aircraft."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Chris Gibson
 aliases: []

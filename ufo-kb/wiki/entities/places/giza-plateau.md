@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The plateau near Cairo housing the Great Pyramid, Khafre's pyramid, Menkaure's pyramid, the Sphinx, and an extensive honeycombed underground"
-created: 2026-04-26
-updated: 2026-04-26
 name: Giza Plateau
 aliases: [Giza, Gizeh]
 region: Cairo, Lower Egypt

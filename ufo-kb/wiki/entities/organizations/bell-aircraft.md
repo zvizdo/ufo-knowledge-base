@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US aerospace company that broke the sound barrier in 1947 and whose president Lawrence Bell publicly claimed in 1956 to be using nuclear fuels to cancel gravity; named in the 1971 Australian JIO memo as a US anti-gravity program participant."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Bell Aircraft
 aliases: [Bell Aircraft Corporation, Bell Aerospace]

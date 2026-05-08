@@ -6,8 +6,6 @@ roles: []
 affiliations: [us-air-force, university-of-colorado]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/incidents/1967-falcon-lake.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Official USAF-funded scientific study of UFOs (1966–1968) led by physicist Edward Condon at the University of Colorado; concluded UFO study offers no scientific value; the Condon Report was used to justify closing Project Blue Book in 1969; criticized for methodological bias and selective presentation of findings."
 tags: [air-force, ufo-investigation, blue-book, 1960s, official-study, condon, colorado]

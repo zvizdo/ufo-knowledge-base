@@ -6,8 +6,6 @@ roles: []
 affiliations: [cia]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/dylan-borland.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "CIA headquarters complex in McLean, Virginia (commonly called 'Langley'); site of triangular craft with active electrooptic cloaking observed by Dylan Borland; the location of the primary UAP-adjacent intelligence archive within the US government."
 tags: [cia, langley, mclean, virginia, intelligence, headquarters, triangle-uap, borland]

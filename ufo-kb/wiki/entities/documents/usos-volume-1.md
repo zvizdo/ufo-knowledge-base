@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Richard Dolan's first volume of a planned three-volume work on unidentified submerged objects (USOs), containing a database of ~670 cases with 15 categorical fields each; key statistical finding: military USO encounters are 2x more likely to involve EM interference, rising to 4x for cases with abduction or entity contact."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 title: "Unidentified Submerged Objects (Volume 1)"
 authors: [richard-dolan]

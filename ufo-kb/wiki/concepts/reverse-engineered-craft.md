@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: The US (and possibly other nations) has recovered non-human craft and reverse-engineered them into functional flying vehicles, beginning possibly with Nazi Germany and continuing in classified US programs post-WWII."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/LnAiNChnuEQ.md]
 tags: [reverse-engineering, crash-retrieval, operation-paperclip, nazi-germany, recurring-claims]
 ---

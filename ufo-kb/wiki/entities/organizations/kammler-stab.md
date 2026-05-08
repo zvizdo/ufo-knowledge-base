@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Secret Nazi SS weapons facility in Czechoslovakia (modern-day Poland) run by SS General Hans Kammler, where anti-gravity and advanced propulsion researchers including Schauberger, Miethe, and Coanda worked before being transferred to the US via Operation Paperclip."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: Kammler-Stab
 aliases: [Kammler Staff, SS-E-IV, Hans Kammler Group, SCOD Works, Škoda Works, SCOD facility]

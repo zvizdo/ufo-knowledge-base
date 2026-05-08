@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Cave system in Ecuador rumored to contain anachronistic metallic artifacts; sought by Neil Armstrong after the moon landing"
-created: 2026-04-26
-updated: 2026-04-26
 name: Tayos Cave
 aliases: [Tayos Library, Cueva de los Tayos, Tayos Cave/Library]
 region: Morona-Santiago Province, Ecuadorian Amazon

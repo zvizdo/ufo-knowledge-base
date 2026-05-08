@@ -8,8 +8,6 @@ affiliations: [university-of-goettingen, cambridge-university]
 firsthand_claims: []
 first_seen_in: null
 tags: [quantum-mechanics, physics, manhattan-project-adjacent, goettingen, oppenheimer, condon]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "German-British theoretical physicist and Nobel laureate (1882–1970); central figure in quantum mechanics; mentor to both J. Robert Oppenheimer and Edward Condon at Göttingen in the 1920s — placing him at the origin of the network that later ran the Manhattan Project and the Condon Report."
 ---

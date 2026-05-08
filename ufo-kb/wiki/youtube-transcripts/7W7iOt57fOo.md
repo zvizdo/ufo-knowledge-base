@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Jesse Michaels visits Skinwalker Ranch, interviews owner Brandon Fugel, and documents anomalous phenomena including a buried 400-ft metallic object, rocket deflection, UAP sightings, and biological effects on visitors."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 video_id: 7W7iOt57fOo
 title: "I Searched for UFOs on Skinwalker Ranch…"

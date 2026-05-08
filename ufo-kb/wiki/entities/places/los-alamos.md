@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "National laboratory and Manhattan Project birthplace where Harald Malmgren physically handled recovered UAP material from the 1962 Bluegill Triple Prime shootdown."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 name: Los Alamos National Laboratory
 aliases: [Los Alamos, LANL, Los Alamos Lab]

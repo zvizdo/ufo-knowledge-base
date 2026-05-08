@@ -3,8 +3,6 @@ type: entity
 name: 1989 Voronezh UAP Landing
 aliases: [Voronezh incident, 1989 Voronezh UFO landing]
 summary: "September 27, 1989 landing event in Voronezh, USSR: multiple witnesses (primarily children) in a public park reported a craft landing, non-human beings emerging, and one entity using a device to temporarily paralyze a boy; corroborated by a TASS report; Soviet scientific investigation followed."
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 date: 1989-09-27
 tags: [uap, landing, ussr, 1989, nhi, close-encounter, russia, tass]

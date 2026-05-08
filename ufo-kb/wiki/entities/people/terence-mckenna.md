@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ethnobotanist, psychedelic philosopher, and provocateur whose conversation with John Mack about the coming collapse of the Western materialist paradigm is cited as a touchstone in the UFO/consciousness convergence discourse."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/I9VyyV4-3Js.md, raw/youtube-transcripts/dfPfPB601hw.md, raw/youtube-transcripts/wT5-hXWIkzM.md]
 name: Terence McKenna
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Little St. James island, US Virgin Islands; Jeffrey Epstein's private island estate; site of alleged physicist visits (Kip Thorne, Stephen Hawking, Murray Gell-Mann) and sex trafficking operations."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md]
 name: Epstein Island
 aliases: [Little St. James, Pedophile Island]

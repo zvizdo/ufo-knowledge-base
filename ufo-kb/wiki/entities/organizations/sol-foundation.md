@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/garry-nolan.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Stanford-adjacent nonprofit policy and research organization focused on UAP science and national security implications; co-founded by Garry Nolan and Christopher Mellon; holds symposia for academics, intelligence officers, and policymakers."
 tags: [uap, policy, stanford, disclosure, nonprofit, symposium]

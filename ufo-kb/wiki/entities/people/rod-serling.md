@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American screenwriter; creator of The Twilight Zone; narrated/produced UFO documentary in the 1960s; cultural transmitter of UFO themes into mainstream television"
-created: 2026-05-02
-updated: 2026-05-02
 name: Rod Serling
 aliases: []
 roles: [other]

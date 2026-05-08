@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American Catholic theologian and author of JFK and the Unspeakable (2008) — considered by many researchers the definitive synthesis of the JFK assassination as a national security state killing ordered because Kennedy moved toward peace."
-created: 2026-05-05
-updated: 2026-05-05
 name: James Douglass
 aliases: [Jim Douglass]
 roles: [author, theologian, researcher]

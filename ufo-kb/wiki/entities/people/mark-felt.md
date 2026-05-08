@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "FBI Deputy Director and 'Deep Throat'; per Sheehan, Felt was pursuing the Mexico City bank account trail that would have exposed the JFK assassination S Force, and was passed over for FBI Director because of it."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
 name: Mark Felt
 aliases: [Deep Throat, W. Mark Felt]

@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: []
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/d9tdJ2SkBKQ.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 summary: "German physicist (1925–2001); left deaf and nearly blind by an explosion at age 19; developed in isolation a six-dimensional unified field theory ('Heim theory') that predicted elementary particle masses with high accuracy; his extended 12-dimensional theory implies faster-than-light travel via conversion of electromagnetic to gravitational energy; reportedly recognized by Lockheed Martin in the 1950s."
 tags: [unified-field-theory, heim-theory, ftl, gravity-electromagnetism, german-physics, particle-masses]

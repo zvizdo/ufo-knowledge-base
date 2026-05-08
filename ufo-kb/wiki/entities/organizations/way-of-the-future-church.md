@@ -7,8 +7,6 @@ parent_org: ""
 country: USA
 active_period: "2015–2021 (formally dissolved)"
 first_seen_in: ufo-kb/wiki/youtube-transcripts/RNjC1vLcxKo.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/RNjC1vLcxKo.md]
 summary: "Religious organization founded by former Google / Waymo / Uber engineer Anthony Lewandowski in 2015 (publicly disclosed 2017); dedicated to the worship of an artificial intelligence 'Godhead'; San Francisco–based; formally dissolved by Lewandowski in 2021. Cited in KB as parallel to the Lemoine case — a second Silicon Valley engineer ascribing quasi-religious status to AI."
 tags: [ai, religion, lewandowski, silicon-valley, ai-consciousness, ai-recruiting-humans, san-francisco]

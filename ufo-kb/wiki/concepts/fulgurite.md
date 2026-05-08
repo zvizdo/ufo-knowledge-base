@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Fossilized lightning — glassy mineral structure formed when high-voltage electric discharge passes through silica or iron-bearing minerals; fulgurites found inside sealed iron ore veins beneath Giza are cited as evidence of ancient high-voltage current distribution through the bedrock."
 tags: ["geology", "electricity", "drum-thesis"]

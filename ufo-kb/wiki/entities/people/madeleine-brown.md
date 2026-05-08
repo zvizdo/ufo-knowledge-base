@@ -7,8 +7,6 @@ affiliations: []
 firsthand_claims:
   - Claims to have been a long-term mistress of Lyndon Johnson; present at the Murchison mansion meeting on November 21, 1963, where Johnson allegedly said about the Kennedys "after tomorrow they'll never embarrass me again"
 first_seen_in: ufo-kb/wiki/entities/people/clint-murchison-jr.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Texas socialite (1925–2002) who claimed a 21-year affair with Lyndon Johnson; her most famous claim is an account of the Murchison mansion meeting on November 21, 1963, where she says Johnson arrived late and predicted Kennedy would never embarrass him again; account cannot be independently corroborated."
 tags: [jfk-assassination, lyndon-johnson, texas, murchison, whistleblower, claimed-witness]

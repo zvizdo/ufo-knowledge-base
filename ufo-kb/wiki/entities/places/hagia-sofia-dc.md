@@ -7,8 +7,6 @@ country: USA
 coordinates:
 type: landmark
 tags: [washington-dc, mystery-school-discourse, public-talk-venue]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

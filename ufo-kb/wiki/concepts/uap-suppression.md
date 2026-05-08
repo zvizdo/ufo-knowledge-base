@@ -3,8 +3,6 @@ type: concept
 name: UAP Suppression
 aliases: [UAP suppression, uap-suppression, UFO suppression, ufo-suppression, UAP secrecy, UAP cover-up]
 first_seen_in: ufo-kb/wiki/entities/organizations/apollo-program.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The systematic concealment of UAP evidence and programs from the public, Congress, and most government officials; includes active disinformation, classification architecture, witness intimidation, destruction of evidence, and capture of oversight mechanisms."
 tags: [secrecy, classification, disinformation, government, cover-up, disclosure, whistelblowers]

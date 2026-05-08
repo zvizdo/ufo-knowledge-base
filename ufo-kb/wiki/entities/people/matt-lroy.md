@@ -4,8 +4,6 @@ entity-type: people
 name: Matt Lroy
 aliases: [Matthew Lroy, Matt LeRoy]
 summary: "Independent researcher and creator of Stage of Time; argues for a pre-Flood advanced civilization destroyed by a binary dead-star CME event, with physical evidence at Lake Van (Turkey), Giza, and in ancient plasma-discharge art."
-created: 2026-04-26
-updated: 2026-04-26
 roles: [researcher]
 affiliations: [Stage of Time (YouTube/Instagram)]
 firsthand_claims:

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Canadian inventor and free-energy researcher who claims to have discovered an electromagnetic motor effect where induction counterintuitively accelerates rather than decelerates; cited in UAP/suppressed-physics discourse."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md]
 name: Thane Heins
 aliases: []

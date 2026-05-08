@@ -6,8 +6,6 @@ date: 2006
 type_field: book
 classification: civilian-publication
 tags: [mk-ultra, military-psychiatry, colin-ross, mind-control, primary-document]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

@@ -4,8 +4,6 @@ entity-type: places
 name: Nazca Lines
 aliases: []
 summary: "Giant geoglyphs (c. 200 BC–600 AD) in the Peruvian desert, visible only from altitude; Robert Schoch and Matt Lroy interpret them as ancient recordings of plasma discharge sky events during CME catastrophes."
-created: 2026-04-26
-updated: 2026-04-26
 region: Nazca Desert
 country: Peru
 type: incident-site

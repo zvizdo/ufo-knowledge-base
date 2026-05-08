@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=C4rSj5Aum7w
 duration_minutes: ~120
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 tags: [jfk, cia, s-force, ufo-disclosure, remote-viewing, anderson-trust, yamashita-gold, scientology, knights-of-malta, s4, john-mack, zr-rifle]
-created: 2026-04-26
-updated: 2026-04-26
 ---
 
 # UFOs & JFK: He Knew Too Much! (Ft. Danny Sheehan)

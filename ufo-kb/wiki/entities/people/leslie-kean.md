@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Investigative journalist; co-broke the December 2017 New York Times UAP story; attempted to publish the Grusch whistleblower story at the NYT but was blocked by Julian Barnes; eventually published it in The Debrief; sits next to James Fox at Congressional hearings."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/I9VyyV4-3Js.md, raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: Leslie Kean
 aliases: [Alyssa Keane]

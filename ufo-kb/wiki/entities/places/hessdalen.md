@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Valley in Norway and Europe's premier UAP hotspot; anomalous lights observed since at least the 1980s; characterized by lights emerging from the ground upward; subject of scientific expeditions including AFU field research."
-created: 2026-04-26
-updated: 2026-04-26
 name: Hessdalen
 aliases: [Hessdalen Valley, Hæsdalen]
 region: Trøndelag

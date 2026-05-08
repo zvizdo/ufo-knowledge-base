@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Special Access Programs (SAPs) — four types of classified compartments; functionally equivalent to hidden SCIs per Davis and Grusch; mechanism for keeping UAP programs outside congressional oversight."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/LnAiNChnuEQ.md]
 tags: [classification, sap, sci, congressional-oversight, compartmentalization, disclosure]
 ---

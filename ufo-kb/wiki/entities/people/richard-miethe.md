@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "German aerospace engineer who worked on high-voltage experiments under the Nazi Kammler-Stab program and was transferred to the US via Operation Paperclip."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Richard Miethe
 aliases: [Rudolf Schriever, Richard Mietha]

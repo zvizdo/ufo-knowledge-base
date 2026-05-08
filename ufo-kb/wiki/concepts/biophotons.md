@@ -3,8 +3,6 @@ type: concept
 name: Biophotons
 aliases: [biophotons, biophoton, ultraweak photon emission, UPE, cellular light emission]
 first_seen_in: raw/youtube-transcripts/q7Czo77qhHA.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "Ultraweak photon emissions from living cells and organisms; documented in mainstream biophysics; produced by metabolic processes and reactive oxygen species; speculated to function as a coherent signaling mechanism within organisms and as a correlate of consciousness; cited in KB in connection with DNA electromagnetic information coding and the dna-phantom-effect."
 tags: [biophotons, biophysics, light-emission, consciousness, dna, cellular-communication]

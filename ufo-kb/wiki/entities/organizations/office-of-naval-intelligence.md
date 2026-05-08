@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The oldest US intelligence agency (est. 1882), operating under the Department of the Navy; in the McKinnon case, ONI physically seized his hard drives at arrest and its Washington office visit by UK officers triggered dramatic escalation of the extradition proceedings."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md]
 name: Office of Naval Intelligence
 aliases: [ONI]

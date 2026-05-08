@@ -6,7 +6,6 @@ parent_org: ""
 country: USA
 active_period: "1946–present"
 tags: [remote-viewing, psi, stargate, government-contract, consciousness]
-updated: 2026-04-26
 ---
 
 # Stanford Research Institute

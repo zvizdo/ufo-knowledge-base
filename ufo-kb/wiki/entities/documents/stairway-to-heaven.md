@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Book by Peter Levenda on celestial ascent practices — Merkavah mysticism, Shangqing Daoism, and the seven-level ascent structure encoded in the Big Dipper stellar axis across multiple ancient traditions; referenced as the practical guide for Merkavah first-step practice."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Stairway to Heaven
 title: "Stairway to Heaven: Chinese Alchemists, Jewish Kabbalists, and the Art of Spiritual Transformation"

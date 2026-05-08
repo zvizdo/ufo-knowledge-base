@@ -8,8 +8,6 @@ affiliations: [luftwaffe, nazi-germany]
 firsthand_claims: []
 first_seen_in: nazi-ufo-hypothesis
 tags: [nazi, aircraft, flying-wing, horten, stub]
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 summary: "Reimar and Walter Horten — German aircraft designers who built the Ho 229, a twin-jet flying wing aircraft for the Luftwaffe. The Ho 229's disc-like planform and stealth properties make it a recurring reference in Nazi UFO hypotheses and claims that alleged Roswell craft were of terrestrial Nazi origin."
 ---

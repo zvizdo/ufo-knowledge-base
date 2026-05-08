@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The social and professional stigma that prevents serious researchers, military witnesses, and government officials from publicly discussing or investigating UAP; Mick West debates center on it; used as a tool to prevent disclosure."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [disclosure, stigma, credibility, uap-research, mick-west]
 ---
 

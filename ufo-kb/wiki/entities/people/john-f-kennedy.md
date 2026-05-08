@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [us-government, us-navy]
 firsthand_claims: []
 first_seen_in: raw/entities/documents/jfk-mccone-letter.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "35th President of the United States (1961–1963); assassinated November 22, 1963 in Dallas; in the KB through alleged UAP-related memoranda (JFK-McCone letter), connections between his assassination and UAP secrecy programs, and the JFK Assassination Records Review Board model used for UAPDA."
 tags: [president, jfk, 1963-assassination, uap-history, mccone-letter, majestic-12, cold-war]

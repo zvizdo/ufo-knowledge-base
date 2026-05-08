@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2010 ICBM missile silo outage at F.E. Warren AFB lasting approximately one hour, attributed by base personnel to a Tic-Tac shaped UAP flying around the base."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/fzvwBBSmWYA.md]
 name: 2010 F.E. Warren ICBM Outage
 date: 2010

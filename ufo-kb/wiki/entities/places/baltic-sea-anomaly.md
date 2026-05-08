@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Anomalous 60-meter-diameter object on the Baltic Sea floor at 90 m depth, discovered by Ocean X via sidescan sonar on June 19, 2011; exhibits consistent EM interference, 90° corridors, separated from seabed, and organic material on surface."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aGqFOxuYRT0.md]
 name: Baltic Sea Anomaly
 aliases: [BSA, Baltic Sea Anomaly Object]

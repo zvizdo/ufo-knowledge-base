@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Deputy director of the Condon Commission who wrote an internal memo before the study began stating it would appear scientific but would find nothing — pre-determining the Commission's null result."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Robert Low
 aliases: []

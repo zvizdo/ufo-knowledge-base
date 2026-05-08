@@ -6,8 +6,6 @@ roles: [politician, dictator]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/sia-marchetti.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Italian fascist dictator (1922–1945); in the UAP context, Mussolini ordered the creation of Gabinetto RS/33 following the 1933 Magenta craft recovery, personally imposed a media blackout on the event, and politically insisted the craft was of terrestrial origin despite his investigators' conclusion that it was non-human — establishing the world's first documented government UAP suppression structure."
 tags: [mussolini, italy, fascism, 1933-magenta, gabinetto-rs33, uap-suppression, wwii, historical]

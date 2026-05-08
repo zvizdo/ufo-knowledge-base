@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Henry Stimson: Secretary of War 1940–1945; after being briefed on the Yamashita gold discovery via Truman, assembled Robert Lovett, Robert Anderson, and John J. McCloy into the covert Anderson Trust; earlier architect of Manhattan Project secrecy."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Henry Stimson
 aliases: [Henry L. Stimson, Henry Lewis Stimson]

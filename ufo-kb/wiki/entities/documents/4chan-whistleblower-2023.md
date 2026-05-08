@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Anonymous 4chan posting (~early 2023) from someone claiming to have worked crash retrieval operations, describing underwater Mobile Construction Units manufacturing UAPs, recovered bodies/element 115, AI drone ships, and NHI indifference to humanity."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h3u8EkGI8OQ.md]
 title: 4chan Whistleblower 2023
 authors: [anonymous]

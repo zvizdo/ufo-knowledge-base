@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Crew member aboard the USS Delarof in summer 1945 who witnessed a ~200-ft disc-shaped object emerge from the water near Adak Island and circle the transport ship twice in silence before departing; also spoke with UAP researcher James McDonald."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Robert Crawford
 aliases: []

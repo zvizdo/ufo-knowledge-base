@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged human-built craft reproducing recovered alien technology — a subtype of reverse-engineered vehicles. Key claim from Brad Sorensen's 1988 Norton AFB account: he was shown three ARVs including the 'Flux Liner', a craft derived from recovered materials. ARV is the term used by insiders to distinguish domestically-manufactured copies from the original recovered craft."
-created: 2026-04-27
-updated: 2026-04-27
 name: Alien Reproduction Vehicles (ARVs)
 aliases: [ARV, Flux Liner, Pulsar]
 category: craft

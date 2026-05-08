@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former Navy Director of Science and Technology who, while dying of cancer, told Ross Coulthart he had seen UAP technology at Wright-Patterson Air Force Base involving 'bonded metals fabricated at the atomic level.'"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Nat Kobitz
 aliases: []

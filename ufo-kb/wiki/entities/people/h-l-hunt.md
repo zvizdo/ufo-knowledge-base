@@ -6,8 +6,6 @@ roles: [other]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/clint-murchison-jr.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Texas oil billionaire (1889–1974); one of the wealthiest Americans of the mid-20th century; funded far-right political operations through Life Line radio broadcasts; named in multiple JFK assassination accounts including the alleged Murchison mansion meeting of November 21, 1963."
 tags: [texas-oil, jfk-assassination, right-wing, oil, billionaire, murchison, dallas]

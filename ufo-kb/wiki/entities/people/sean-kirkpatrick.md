@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former director of AARO (All-domain Anomaly Resolution Office); alleged primary source for the Wall Street Journal article claiming an EMP device caused the 1967 Malmstrom missile shutdowns."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/h0hAit-KH9A.md]
 name: Sean Kirkpatrick
 aliases: []

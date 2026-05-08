@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nick Cook's 2001 investigation into classified anti-gravity research; documents 1956 G-engines boom, Kammler-Stab Nazi programs (Schauberger/Schriever/Miethe/Die Glocke), Townsend Brown's electrogravitics and B2 connection, Boyd Bushman and John Hutchinson interviews, Ben Rich's ESP statement, Ning Lee, and the classified Aurora and ASTRA programs."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 title: The Hunt for Zero Point
 authors: [Nick Cook]

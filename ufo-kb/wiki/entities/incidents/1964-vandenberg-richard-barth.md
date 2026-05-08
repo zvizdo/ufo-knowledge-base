@@ -3,8 +3,6 @@ type: entity
 entity-type: incidents
 name: 1964 Vandenberg CE3 — Richard Barth
 summary: "September 1964 CE3 at Vandenberg AFB: USAF guard Richard Barth paralyzed by approaching NHI humanoid, transported aboard a hovering saucer, shown the base below through a transparent aperture, and communicated a nuclear deterrence message by the NHI."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Qe8br8yYEDM.md]
 date: 1964-09
 location: Vandenberg Air Force Base, D-sector site D5, California

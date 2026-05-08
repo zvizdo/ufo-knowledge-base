@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Presidential adviser to JFK, LBJ, Nixon, and Ford; economist; firsthand witness who claims to have physically handled recovered UAP material at Los Alamos National Laboratory."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/SZBI85yvV5A.md, raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/LpLFWdsIU7M.md]
 name: Harold Malmgren
 aliases: [Harald Malmgren, Malmgren]

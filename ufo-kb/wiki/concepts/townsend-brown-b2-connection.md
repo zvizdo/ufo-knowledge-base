@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: Thomas Townsend Brown's electrogravitics research was incorporated into the B2 stealth bomber, with the craft's leading and trailing edges charged to millions of volts positive and negative respectively."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 tags: [b2-stealth-bomber, townsend-brown, electrogravitics, bifield-brown-effect, northrop, claims-thesis]
 ---

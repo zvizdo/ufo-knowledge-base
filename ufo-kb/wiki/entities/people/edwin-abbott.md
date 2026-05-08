@@ -6,8 +6,6 @@ roles: [other]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/youtube-transcripts/fyX8V1XXmQM.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "English schoolmaster and theologian (1838–1926); author of Flatland: A Romance of Many Dimensions (1884), the foundational popularization of higher-dimensional geometry; cited in KB as the source of the 2D/3D/4D intersection analogy used by Jacques Vallée and others to explain hyperdimensional UFO encounters."
 tags: [flatland, hyperdimensional, geometry, dimensions, vallee, victorian-mathematics]

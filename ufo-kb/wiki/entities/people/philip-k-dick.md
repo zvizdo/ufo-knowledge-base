@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American science fiction author (1928–1982); wrote The Man in the High Castle, Do Androids Dream of Electric Sheep?, VALIS, and many others. In 1974 experienced a prolonged visionary episode (the 'Exegesis') he interpreted as contact with a vast active living intelligence system (VALIS). Cited in UAP/simulation theory discourse as a prophetic experiencer."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/hXYdkcv5TtY.md]
 name: Philip Kindred Dick
 aliases: [PKD]

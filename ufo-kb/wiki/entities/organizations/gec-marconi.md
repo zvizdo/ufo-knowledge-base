@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/incidents/1982-gec-marconi-deaths.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "British defense electronics company (General Electric Company's Marconi subsidiary); worked on the UK's Strategic Defense Initiative (Star Wars) equivalent; between 1982 and 1990, approximately 25 scientists working on classified Marconi defense programs died under unusual circumstances."
 tags: [uk, defense, electronics, star-wars-sdi, scientist-deaths, marconi, classified, 1980s]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "René Girard's anthropological theory of mimetic desire and the scapegoat mechanism — invoked in UFO-religion-convergence discourse as the structural template for how revelation events generate, then displace, social conflict by externalizing it onto a sacrificial figure."
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [girard, mimetic-theory, scapegoat-mechanism, religion, ufo-as-revelation, claims-thesis]
 ---

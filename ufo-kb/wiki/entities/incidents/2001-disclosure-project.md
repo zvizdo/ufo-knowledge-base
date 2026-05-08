@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The 2001 Disclosure Project press conference at the National Press Club, organized by Steven Greer — 21 military, intelligence, and government witnesses testified about UAP encounters and secrecy programs. Notable for: Mark McCandish's Flux Liner / ARV testimony, Clifford Stone's entity-catalog claim, and Robert Salas's Oscar Flight account. The largest single public presentation of insider UAP testimony up to that date."
-created: 2026-04-27
-updated: 2026-04-27
 name: 2001 Disclosure Project
 aliases: [Disclosure Project, NPC 2001, 2001 National Press Club]
 date: 2001-05-09

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Framework: The DOD doctrine of nuclear deterrence — that maintaining nuclear superiority prevents war — is directly undermined if UFOs can disable nuclear missiles; this creates a strong institutional motive to suppress the UFO-nuclear evidence."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/Qe8br8yYEDM.md]
 tags: [nuclear-deterrence, ufo-nukes, national-security, suppression-motive, cold-war]
 ---

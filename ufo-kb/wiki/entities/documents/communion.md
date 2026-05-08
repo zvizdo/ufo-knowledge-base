@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Communion: A True Story (1987) by Whitley Strieber — the memoir of his 1985 NHI contact experiences at his upstate New York cabin. The book became a mainstream bestseller and brought alien abduction into public consciousness; foundational text for the abduction research field."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 title: Communion
 authors: [whitley-strieber]

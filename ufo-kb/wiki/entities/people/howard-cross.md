@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Battelle Memorial Institute scientist who authored the 'Pentacle Memo' (January 1953) — a classified document sent to Project Blue Book advising on how to stage and control UFO investigations to reach predetermined conclusions; a key document in the Condon Commission whitewash thesis."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Howard Cross
 aliases: []

@@ -3,8 +3,6 @@ type: concept
 name: Topological Insulator
 aliases: [topological insulator, topological insulators, TI, quantum topological state]
 first_seen_in: raw/youtube-transcripts/d9tdJ2SkBKQ.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 summary: "A quantum material phase that is insulating in the bulk but conducts electricity on its surface via topologically protected states; the conducting surface states are immune to disorder and impurities due to topological protection; bismuth-based compounds are prototype topological insulators; cited in KB as a proposed mechanism for exotic UAP hull properties."
 tags: [quantum-materials, topology, bismuth, surface-states, exotic-materials, metamaterials]

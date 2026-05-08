@@ -8,8 +8,6 @@ affiliations: [Northwestern University]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/2-GeTxXi670.md
 tags: [esp, radio-frequencies, cia, mind-control, andrija-puharich, northwestern]
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/2-GeTxXi670.md]
 summary: "Northwestern University researcher who mentored Andrija Puharich in ESP and radio frequency experimentation; was receiving letters from the CIA and Navy seeking his expertise; recommended Puharich to intelligence agencies."
 ---

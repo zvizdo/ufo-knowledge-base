@@ -8,8 +8,6 @@ country: USA
 active_period: 2020–present
 tags: [space-force, intelligence, big-dipper, bear, guardians, uap-adjacent, occult-symbolism]
 summary: "Intelligence wing of the US Space Force whose emblem shows a bear holding a key in front of the Big Dipper — placing Space Force's intelligence unit within the broader pattern of aerospace institutions embedding occult/stellar symbolism."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The claim that the 'Watchers' of the Book of Enoch were extraterrestrial angelic beings who descended to Earth, mated with humans, and whose imprisonment and legacy directly informs the modern NHI phenomenon."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [watchers, book-of-enoch, nephilim, fallen-angels, extraterrestrial, antediluvian, mount-hermon]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "45th and 47th President of the United States. In the UAP context: Trump publicly associated JFK records with 'people from space' in 2024, appointed Tulsi Gabbard as DNI, and has been cited in the Pines/Malmgren network as a figure who may have received UAP briefings connecting JFK records to UAP programs."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Donald John Trump
 aliases: [DJT, Trump 45, Trump 47]

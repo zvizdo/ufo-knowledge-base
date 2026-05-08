@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Cord Meyer — CIA officer; head of the International Organizations Division; ex-husband of Mary Pinchot Meyer (JFK's mistress, murdered 1964); one of the most powerful covert operators in the CIA during the Cold War."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Cord Meyer
 aliases: [Cord Meyer Jr.]

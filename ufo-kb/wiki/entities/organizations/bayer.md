@@ -8,8 +8,6 @@ parent_org: null
 country: Germany
 active_period: 1863–present
 tags: [big-pharma, third-reich, nazi, human-experimentation, hiv-contamination, monsanto, agent-orange, roundup, glyphosate, hemophilia, concentration-camps]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "German pharmaceutical giant with documented Nazi-era human experimentation ties; knowingly shipped HIV-contaminated hemophilia medication to developing countries in the 1980s; acquired Monsanto (Agent Orange, Roundup/glyphosate) in 2018."
 ---

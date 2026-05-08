@@ -3,8 +3,6 @@ type: concept
 name: Contact as Forcing Function
 aliases: [ufo forcing function, forcing function, contact transformation, anomalous experience transformation]
 tags: [diana-pasulka, transformation, contact, uap-religion, personal-change, moral-seriousness, forcing-function, jesse-michaels]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/tS_64sTN5AU.md]
 ---
 

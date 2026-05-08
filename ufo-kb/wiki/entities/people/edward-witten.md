@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "String theorist widely considered the most brilliant living physicist; son of Lewis Whitten, the 1950s Martin Corporation anti-gravity researcher — a biographical connection Weinstein cites as potentially significant given string theory's role in absorbing physics talent away from the anti-gravity direction."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/iQOibpIDx-4.md]
 name: Edward Witten
 aliases: [Ed Witten]

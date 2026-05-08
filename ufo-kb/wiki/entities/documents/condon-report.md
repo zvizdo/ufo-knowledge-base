@@ -7,8 +7,6 @@ date: "1969-01-08"
 type_doc: report
 classification: unclassified
 tags: [condon, ufo, debunking, air-force, university-of-colorado, stub]
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 summary: "The 1969 University of Colorado UFO study commissioned by the US Air Force and led by physicist Edward Condon. Concluded that UFO study offered no scientific value and provided no evidence for extraterrestrial craft. Used to shut down Project Blue Book. Widely criticized for its conclusion contradicting its own case analyses, and cited by disclosure advocates as a cover-up instrument."
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Anomalous metallic sphere found in Colombia by a mining/metal detection prospector; given to Jaime Maussan; features symbols recognized independently by Mario Woods and Randy Anderson as matching those they encountered in their own UAP experiences; material reportedly 3× harder than aerospace aluminum."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Bogotá Sphere
 aliases: [Bugga Sphere, Bogga Sphere, Colombian Sphere]

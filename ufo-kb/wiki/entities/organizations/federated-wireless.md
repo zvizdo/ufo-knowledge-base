@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Technology company involved in spectrum sharing and wireless communications. Referenced in the American Alchemy network in connection with Bob Maguire and UAP-adjacent communications research."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Federated Wireless
 aliases: []

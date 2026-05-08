@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Financier and convicted sex trafficker whose hidden obsessions — eugenics, gravity research, physicist funding — connect him to shadow governance networks, classified physics, and alleged underground laboratories."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/UrHLTFvdEZk.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 name: Jeffrey Epstein
 aliases: [Epstein]

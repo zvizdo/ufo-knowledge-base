@@ -4,8 +4,6 @@ entity-type: people
 name: Thomas Van Flandern
 aliases: [Tom Van Flandern]
 summary: "NASA astronomer who investigated Pioneer 10/11 gravitational anomalies suggesting a dead binary star companion to our sun; died of throat cancer in 2009 under circumstances flagged as suspicious by researchers."
-created: 2026-04-26
-updated: 2026-04-26
 roles: [researcher, official]
 affiliations: [NASA, U.S. Naval Observatory]
 firsthand_claims:

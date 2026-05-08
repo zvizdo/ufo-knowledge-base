@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Dan Crenshaw — US Congressman (R-TX); Chair of the House Intelligence Committee; cited in UAP disclosure discussions as a key House-side figure with access to classified briefings; Danny Sheehan predicts 51% odds of significant disclosure by Sept 2025 in part based on Crenshaw's committee position."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Dan Crenshaw
 aliases: [Representative Crenshaw, Congressman Crenshaw]

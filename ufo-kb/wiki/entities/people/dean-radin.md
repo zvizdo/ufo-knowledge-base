@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Parapsychology researcher who has published approximately 100 peer-reviewed papers demonstrating statistically significant mind-matter interaction effects (random event generators); cited by Bob Maguire as conclusive evidence that consciousness can affect physical randomness."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 name: Dean Radin
 aliases: []

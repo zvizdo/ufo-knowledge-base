@@ -6,8 +6,6 @@ roles: [physicist]
 affiliations: [institute-for-advanced-study, princeton-university]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/abraham-pais.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "German-born theoretical physicist (1879–1955); author of special and general relativity; Nobel Prize in Physics 1921 (photoelectric effect); spent his final 22 years at the Institute for Advanced Study, Princeton; relevant to KB through his unified field theory program and claims about his involvement in UAP investigations."
 tags: [physics, relativity, ias, princeton, unified-field, uap-claims, 20th-century]

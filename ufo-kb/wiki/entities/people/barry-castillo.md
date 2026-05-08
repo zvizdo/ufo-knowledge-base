@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Bob Lazar's lab partner and mentor at S4, ~1987–1989; showed Lazar the sport model craft and reactor, conducted the key demonstration experiments, and communicated the gravity A/B theoretical framework. Whereabouts currently unknown."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: Barry Castillo
 aliases: [Castillio (alternate spelling in some accounts)]

@@ -3,8 +3,6 @@ type: concept
 name: Bureau of Simulation
 aliases: [Bureau of Simulation, McCarthy Bureau of Simulation, Bureau-of-Simulation Parable]
 first_seen_in: ufo-kb/wiki/youtube-transcripts/fyX8V1XXmQM.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
 summary: "Parable attributed to John McCarthy (Stanford AI lab founder) and recounted by Jacques Vallée: a man is informed by a 'Bureau of Simulation' that his behavior has been fully predicted by a model and that he must deviate or be replaced by a simulated version of himself. The parable is a thought-experiment articulation of the simulation hypothesis with a behavioral-deviation criterion for 'realness.'"
 tags: [simulation-theory, mccarthy, vallee, ai, npc, predictability, behavioral-deviation, thought-experiment]

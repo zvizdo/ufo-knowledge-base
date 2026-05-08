@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The bioelectromagnetic model of the body in which every cell and organ emits measurable electromagnetic fields that encode health information, and in which Eastern concepts like chi/qi are reframed as ELF-band electromagnetic phenomena. Colin Ross proposes a 'tricorder' device to scan the whole body's emitted EM field for pre-biochemical disease detection."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 tags: [bioelectromagnetics, chi, human-energy-field, healing, colin-ross, elf-waves, body-electric, medicine, tricorder]
 ---

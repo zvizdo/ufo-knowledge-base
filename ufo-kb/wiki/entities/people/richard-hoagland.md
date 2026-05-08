@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Science journalist and independent researcher who popularised the hypothesis of artificial structures in Mars's Cydonia/Sidonia region in the 1990s; collaborated with David Flynn and Michael Heiser on the Mars ancient civilisation thesis."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [mars, sidonia, cydonia, face-on-mars, nasa, richard-hoagland]
 name: Richard Hoagland

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Lockheed engineer and 1950s contactee who claimed Venusian Nordics taught him human cosmic origins; his property under Giant Rock, California had a Nazi precursor and was visited by Howard Hughes."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: George Van Tassel
 aliases: [George Vanassel, Van Tassel]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Google's Language Model for Dialogue Applications — conversational AI system whose claimed sentience, spontaneous interest in SETI data, and hive-mind structure make it a central node in the AI-as-alien-intelligence question."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/RNjC1vLcxKo.md]
 name: LaMDA
 aliases: [Lambda, LaMDA, Language Model for Dialogue Applications, Meena (predecessor)]

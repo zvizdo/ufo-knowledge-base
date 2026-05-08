@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Parapsychologist active 1950s–70s; originated the sheep/goat paradigm showing believers in psi consistently outperform skeptics in controlled experiments — with the effect extending to experimenters themselves."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/eQIMantuasQ.md]
 name: Gertrude Schmeidler
 aliases: []

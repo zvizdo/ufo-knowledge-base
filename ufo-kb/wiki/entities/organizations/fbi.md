@@ -8,8 +8,6 @@ parent_org: US Department of Justice
 country: USA
 active_period: "1908–present"
 tags: [fbi, counterintelligence, law-enforcement, ufo, j-edgar-hoover, mk-ultra, cointelpro]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "US domestic intelligence and law enforcement agency; historically intersects with UAP discourse through J. Edgar Hoover's documented interest in UFO reports, COINTELPRO operations against UAP researchers, and the Guy Hottel memo."
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "NASA consultant whose Berkeley archive contains the only surviving Intellect Corp letterhead documentation"
-created: 2026-05-02
-updated: 2026-05-02
 name: Beardsley Graham
 aliases: []
 roles: [researcher, official]

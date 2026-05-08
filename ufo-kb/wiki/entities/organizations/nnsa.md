@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "National Nuclear Security Administration — semi-autonomous DOE agency managing US nuclear weapons sites including the Nevada National Security Site; Eric Davis's contacts at the NNSA Nevada site (Director of Intelligence and Director of Counter-Intelligence) helped facilitate the Wilson-Davis meeting."
-created: 2026-04-27
-updated: 2026-04-27
 name: NNSA
 aliases: [National Nuclear Security Administration, NNSA Nevada, Nevada National Security Site]
 roles: []

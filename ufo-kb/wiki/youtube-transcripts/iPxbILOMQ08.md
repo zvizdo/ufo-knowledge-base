@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Steve Coburn — scientist, materials analyst, and personal experiencer — describes his firsthand alien implant case, his collaboration with Roger Leir, NHI propulsion physics, the gray alliance, and the class 1/2 experiencer framework."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/iPxbILOMQ08.md]
 video_id: iPxbILOMQ08
 tags: [alien-implants, roger-leir, steve-coburn, nhi-contact, biefeld-brown, scalar-waves, gray-alliance, abduction, class-2-experiencer, nanotechnology, propulsion, time-travel, moon, apollo-13]

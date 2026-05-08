@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Journalist and author; wrote UAP debunking book *UFO* (2024); simultaneously involved in Hunter Biden laptop pre-bunking via Aspen Institute — Shellenberger flags this overlap as suspicious."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: Garrett Graff
 aliases: [Graff]

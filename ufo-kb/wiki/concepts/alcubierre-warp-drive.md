@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Theoretical faster-than-light propulsion concept proposed by physicist Miguel Alcubierre in 1994; contracts spacetime ahead of a craft and expands it behind, allowing the craft to travel without locally exceeding light speed — referenced in Haseltine's UAP books."
-created: 2026-05-02
-updated: 2026-05-02
 tags: [propulsion, faster-than-light, physics, spacetime, uap-technology]
 ---
 

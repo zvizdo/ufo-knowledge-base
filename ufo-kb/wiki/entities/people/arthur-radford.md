@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Navy Admiral who, together with Secretary of the Navy Dan Kimball, had a firsthand UFO sighting in 1950 while flying from California to Hawaii — the encounter directly prompted Kimball to order an independent Navy UFO investigation."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Arthur Radford
 aliases: [Admiral Radford, Admiral Arthur W. Radford]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Competing meta-theories about how UFO/UAP truth is or isn't being released: slow disclosure, controlled opposition, psyop, genuine reveal, false-flag prep, catastrophic revelation. Applied when a source explicitly or implicitly endorses a narrative model about *why* information is emerging (or not)."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [CONSTITUTION.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/ATJwqp5twAg.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/HxQN2tkQHs8.md, raw/youtube-transcripts/KRDE1i3LDuU.md, raw/youtube-transcripts/LpLFWdsIU7M.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 tags: [disclosure, psyop, cover-up, controlled-release, meta-theory, politics]
 ---

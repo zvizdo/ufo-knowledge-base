@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: [u-albany-project-x]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/u-albany-project-x.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Faculty member at the University at Albany Project X UAP research program; one of the academic researchers associated with the program co-directed by Kevin Knuth and Matthew Shostakus."
 tags: [researcher, academia, uap, u-albany, project-x, faculty]

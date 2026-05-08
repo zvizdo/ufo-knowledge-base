@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Host of The Joe Rogan Experience (JRE), the most-listened-to podcast in the world; prominent UAP advocate whose 2019 Bob Lazar interview (~63M views) is credited with re-mainstreaming UFO discourse."
-created: 2026-04-26
-updated: 2026-04-26
 name: Joe Rogan
 aliases: [Joseph James Rogan, JRE host]
 roles: [host, researcher, other]

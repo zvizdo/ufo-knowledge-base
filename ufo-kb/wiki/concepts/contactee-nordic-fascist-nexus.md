@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The organizational and ideological connection between 1950s UFO contactees (Van Tassel, Williamson, Adamski, Meier) and fascist/Nazi networks — all transmitted the same Nordic master-race hierarchy doctrine under the guise of cosmic revelation."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 tags: [contactee, fascism, nazi, nordics, van-tassel, adamski, williamson, billy-meier, racial-hierarchy, american-alchemy]
 ---

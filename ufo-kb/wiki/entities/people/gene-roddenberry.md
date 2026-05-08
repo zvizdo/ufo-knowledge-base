@@ -10,8 +10,6 @@ firsthand_claims:
   - Wrote a 130-page unproduced script called "The Nine" based on his experiences
 first_seen_in: raw/youtube-transcripts/2-GeTxXi670.md
 tags: [star-trek, the-nine, andrija-puharich, channeling, deep-space-nine, documentary]
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/2-GeTxXi670.md]
 summary: "Creator of Star Trek who attended multiple Nine channeling sessions with Andrija Puharich in the mid-1970s and wrote an unproduced script called 'The Nine' about his experience; Deep Space Nine's name and character 'Venad' trace to these sessions."
 ---

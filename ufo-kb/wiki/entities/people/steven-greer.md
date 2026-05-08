@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Emergency physician turned UFO disclosure advocate; runs CE-5/C5 contact protocols claiming human-initiated contact with NHI; former client of Danny Sheehan; antagonist of Lue Elizondo within the disclosure community."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/JE1oM89dpBc.md, raw/youtube-transcripts/areO7Mej44E.md]
 name: Steven Greer
 aliases: [Greer, Dr. Greer]

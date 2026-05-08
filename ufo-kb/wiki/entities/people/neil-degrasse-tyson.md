@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Astrophysicist, director of Hayden Planetarium, popular science communicator; cited in UAP discourse as a prominent institutional skeptic who dismisses UAP witness accounts; contrasted with researchers like Avi Loeb who take evidence-based approaches."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/TNtlzEnl8rA.md, raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Neil deGrasse Tyson
 aliases: [NdGT]

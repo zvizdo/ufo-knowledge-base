@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/q7czo77qhha.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/q7czo77qhha.md]
 summary: "US nonprofit that channeled NIH/NIAID funding to the Wuhan Institute of Virology for bat coronavirus research; submitted the rejected DARPA DEFUSE proposal to insert furin cleavage sites into SARS-like coronaviruses."
 tags: [gain-of-function, biowarfare, covid-origins, wuhan, fauci, darpa, niaid]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Recovered material from the UAP allegedly downed by the 1962 Bluegill Triple Prime nuclear X-ray pulse; identified by Bissell as the same material Harald Malmgren later handled at Los Alamos."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Bluegill UAP Debris
 aliases: [Bluegill craft material, tag-along debris]

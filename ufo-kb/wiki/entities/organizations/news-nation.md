@@ -3,8 +3,6 @@ type: entity
 entity-type: organization
 name: NewsNation
 aliases: [News Nation, WGN America NewsNation]
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 tags: [media, television, uap-disclosure, journalism]
 ---

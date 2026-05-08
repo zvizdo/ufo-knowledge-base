@@ -3,8 +3,6 @@ type: concept
 name: Shangqing Daoism
 aliases: [Shangqing Daoism, shangqing-daoism, Shang-ch'ing Taoism, Supreme Clarity Taoism, Mao Shan Taoism]
 first_seen_in: ufo-kb/wiki/entities/documents/stairway-to-heaven.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Revelatory Daoist tradition that emerged in 4th-century China through claimed direct communications from divine beings to Lady Wei Huacun; emphasized celestial ascent, internal alchemy, and direct contact with stellar intelligences; structurally parallel to Jewish Merkavah mysticism; its texts describe navigation by Big Dipper stars to achieve contact with non-human intelligences."
 tags: [daoism, taoism, chinese, celestial-ascent, contact, big-dipper, nhi, consciousness, alchemy]

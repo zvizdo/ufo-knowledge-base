@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Hancock's 1992 investigation into the real location of the Ark of the Covenant, concluding it was taken by the Beta Israel (Ethiopian Jews) from the Elephantine Island community to Lake Tana and ultimately to Axum, Ethiopia"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md]
 title: The Sign and the Seal
 authors: [Graham Hancock]

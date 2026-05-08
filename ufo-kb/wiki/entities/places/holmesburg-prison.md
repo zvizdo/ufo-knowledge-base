@@ -7,8 +7,6 @@ country: USA
 coordinates:
 type: installation
 tags: [philadelphia, mk-ultra-adjacent, dermatology-experiments, kligman]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

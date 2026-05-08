@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Hypothesis that US (and possibly Soviet) programs deliberately used nuclear material or detonations as bait to attract UAP/NHI, either to study them or to establish contact — inverting the standard narrative where UAPs monitor humans passively."
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 tags: [nuclear, nhi, contact, garry-nolan, ufo-nuclear-nexus, hypothesis]
 asserters: [garry-nolan]

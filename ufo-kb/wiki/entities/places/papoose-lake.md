@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Dry lake bed in the Nevada desert adjacent to the alleged S4 facility; the USGS removed a road leading to it from maps 8 days after Bob Lazar's first anonymous broadcast in 1989; satellite and aerial photography corroborate hangar structures matching Lazar's description."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: Papoose Lake
 aliases: [Papoose Dry Lake]

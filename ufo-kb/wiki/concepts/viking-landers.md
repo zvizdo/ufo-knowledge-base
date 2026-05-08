@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "NASA's 1976 twin Mars landers (Viking 1, Viking 2). Their gas-chromatograph and biology-package data are the empirical anchor for John Brandenberg's Mars-nuclear-war thesis (Xenon-129 anomaly) and for the still-unresolved Viking labeled-release life-detection result."
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [mars, nasa, 1976, gas-chromatograph, labeled-release, life-detection, brandenberg]
 ---

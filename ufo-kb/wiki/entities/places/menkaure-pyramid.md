@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Third and smallest of the Giza pyramids, built by Pharaoh Menkaure (4th Dynasty, ~2510 BC); associated with ongoing ground-penetrating radar and subsurface surveys"
-created: 2026-04-27
-updated: 2026-04-27
 name: Menkaure Pyramid
 aliases: [Pyramid of Menkaure, Pyramid of Mykerinos, Menkaure's Pyramid]
 region: Giza Plateau, Lower Egypt

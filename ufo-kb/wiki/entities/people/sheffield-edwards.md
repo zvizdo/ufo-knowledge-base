@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Sheffield Edwards: CIA Chief of Security under Allen Dulles; authorized the CIA-Mafia assassination program targeting Castro; met with Santos Trafficante at the Fontainebleau Hotel to formalize the operation."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Sheffield Edwards
 aliases: [Colonel Sheffield Edwards]

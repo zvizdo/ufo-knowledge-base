@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "AFOSI (Air Force Office of Special Investigations) agent and disinformation operative; recruited UFO researchers to feed false information; drove Paul Benowitz to psychiatric breakdown; later disclosed some UAP information to researchers."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Richard Doty
 aliases: [Rick Doty]

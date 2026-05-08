@@ -6,8 +6,6 @@ category: device
 custodian: intellect
 provenance: Developed by Andrija Puharich at Intellect Inc., Elmsford NY, 1960s; demonstrated at the Pentagon
 first_seen_in: ufo-kb/wiki/entities/organizations/intellect.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Andrija Puharich's thought-transmission device developed at Intellect Inc. in the 1960s; a radio-frequency transmitter designed to send signals directly to the brain's audio-processing centers, bypassing the ears; demonstrated at the Pentagon; part of Puharich's classified consciousness-technology research."
 tags: [puharich, mind-control, thought-transmission, consciousness-technology, pentagon, cia, radio-frequency, implant]

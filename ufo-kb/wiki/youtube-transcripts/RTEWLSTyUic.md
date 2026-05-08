@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=RTEWLSTyUic
 duration_minutes: ~210
 tags: [thomas-townsend-brown, electrogravitics, biefeld-brown-effect, anti-gravity, b2-stealth-bomber, bob-lazar, john-lear, cia, physics-lockdown, nazi-ufo-hypothesis, extended-electrodynamics, disclosure-narratives, american-alchemy]
 sources: [raw/youtube-transcripts/RTEWLSTyUic.md]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # The CIA Scientist Who Built UFOs Before Bob Lazar (Townsend Brown Documentary)

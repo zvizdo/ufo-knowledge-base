@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Theoretical physicist and cosmologist (Cambridge/Caltech); visited Epstein island; one of the world's most famous scientists, known for work on black holes, cosmology, and the nature of spacetime."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md]
 name: Stephen Hawking
 aliases: []

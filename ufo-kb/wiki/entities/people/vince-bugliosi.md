@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Los Angeles prosecutor who convicted Charles Manson in 1971 and authored Helter Skelter (the best-selling true crime book of all time); Tom O'Neill documents that Bugliosi actively suppressed CIA-connected peripheral figures from his prosecution narrative."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: Vince Bugliosi
 aliases: [Vincent Bugliosi]

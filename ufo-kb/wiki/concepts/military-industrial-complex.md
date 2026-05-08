@@ -3,8 +3,6 @@ type: concept
 name: Military-Industrial Complex
 aliases: [military-industrial complex, Military-Industrial Complex, MIC, defense-industrial complex]
 first_seen_in: ufo-kb/wiki/entities/people/dwight-eisenhower.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The network of relationships between the US military establishment, defense contractors, and government agencies; coined by Eisenhower in his 1961 farewell address as a warning about undue influence on policy; central to UAP secrecy theories as the structural explanation for why UAP programs remain classified."
 tags: [government, secrecy, defense, contractors, eisenhower, policy, uap-suppression]

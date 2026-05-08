@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Classified USAF installation in Nevada founded by CIA's Richard Bissell in 1955; connected to UAP reverse engineering through Bissell's private disclosure to Malmgren about the Bluegill recovery."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/QgxjtDS2sIQ.md, raw/youtube-transcripts/Sct30Qijfv8.md]
 name: Area 51
 aliases: [Groom Lake, The Ranch, Nevada Test and Training Range]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Medieval Christian military order (1119–1312) that Carlson and esoteric tradition identify as custodians of advanced pre-Christian knowledge, including the Holy Grail tradition and possibly the Shroud of Turin."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/dfPfPB601hw.md]
 name: Knights Templar
 aliases: [Order of the Poor Fellow-Soldiers of Christ and of the Temple of Solomon, Templars]

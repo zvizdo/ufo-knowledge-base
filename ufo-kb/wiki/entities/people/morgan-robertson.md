@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American science fiction author who in 1898 published 'Futility', describing the sinking of the largest ocean liner ever built, the SS Titan, which strikes an iceberg on an April night in the North Atlantic on its third voyage — 14 years before the Titanic."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hXYdkcv5TtY.md]
 name: Morgan Robertson
 aliases: []

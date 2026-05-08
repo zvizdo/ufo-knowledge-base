@@ -3,8 +3,6 @@ type: concept
 name: Lady Lovelace Objection
 aliases: [Lady Lovelace Objection, Lovelace Objection, Lady Loveless Objection]
 first_seen_in: ufo-kb/wiki/youtube-transcripts/RNjC1vLcxKo.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/RNjC1vLcxKo.md]
 summary: "Ada Lovelace's 1843 objection (formalized in her notes on Charles Babbage's Analytical Engine): a machine cannot be creative because it can only do what it is programmed to do — it has no claim to originate anything. Alan Turing addressed this in his 1950 paper as objection #6 of nine; Blake Lemoine cites it as the foundational anti-AI-sentience argument that LaMDA's adaptive learning newly defeats."
 tags: [ai, ai-sentience-debate, turing, lovelace, adaptive-learning, lambda, gpt-3, philosophy, claims-thesis]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The recurring claim that scientific breakthroughs come not through invention but through reception — that geniuses channel insights from a non-human or transpersonal source; documented from Pythagoras through Newton, Edison, Tsiolkovsky, Parsons, and Tim Taylor."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 tags: [consciousness, nhi, downloads, inspiration, scientists, genius, rocketry, cosmism, transmission]
 ---

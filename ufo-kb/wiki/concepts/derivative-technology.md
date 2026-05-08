@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "UAPGerb's preferred term over 'ARV' (alien reproduction vehicle) — recognising that not every legacy-program exploitation of non-human technology involves full craft replication; includes partial technology adoption, cloaking, propulsion elements."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 tags: [arv, reverse-engineering, derivative-technology, legacy-programs, uapgerb, cloaking]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged 2003/2005 US military encounter with a 12-foot, six-fingered giant in Afghanistan's Kandahar region that killed a recon team before being put down and airlifted out."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [giants, nephilim, afghanistan, military, kandahar, classified]
 name: Kandahar Giant Incident

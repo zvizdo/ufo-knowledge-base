@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO researcher specializing in the 1948 Aztec, New Mexico crash; co-author with Suzanne Ramsay of an investigative account of the incident based on surviving witness interviews."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Scott Ramsay
 aliases: []

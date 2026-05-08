@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nobel Prize-winning Manhattan Project physicist; on both the WWII Foo Fighter investigation and the 1953 Robertson Panel; also performed the first muon radiography scan of Khafre's pyramid."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/92XrddiKjHY.md, raw/youtube-transcripts/KGD1nuM4MR8.md]
 name: Luis Alvarez
 aliases: [Luis W. Alvarez]

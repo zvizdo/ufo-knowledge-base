@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=fyX8V1XXmQM
 duration_minutes: ~90
 tags: [jacques-vallee, trinity-crash, intermittent-reinforcement, control-system, interdimensional, simulation, noble-myth, invisible-college, american-alchemy, rosicrucianism, consciousness, passport-to-magonia, bob-lazar, mk-ultra, philip-k-dick, flatland, hyperdimensional, wilson-davis-memo, philip-corso, mccarthy, bureau-of-simulation, kenneth-arnold]
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
-created: 2026-04-27
-updated: 2026-05-06
 ---
 
 # He's Seen More UFO Evidence Than Anyone Alive (Ft. Jacques Vallée)

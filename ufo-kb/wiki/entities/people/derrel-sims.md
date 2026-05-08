@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO researcher and hypnotherapist who pioneered the investigation of alien implants; met Roger Leir at a UFO conference and eventually convinced him to examine and remove suspected implants from patients — initiating Leir's two-decade implant research program."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/iPxbILOMQ08.md]
 name: Derrel Sims
 aliases: [Darl Sims, Daryl Sims]

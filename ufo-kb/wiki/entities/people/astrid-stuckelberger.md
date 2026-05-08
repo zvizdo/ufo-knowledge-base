@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Public health expert who claims CERN physicists privately told her that beings come through portals opened by beam collisions — one of the most unusual claims in the aKZ_MUbuk_Q episode; identity and credibility unverified as of 2026-04-27."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 name: Astrid Stuckelberger
 aliases: []

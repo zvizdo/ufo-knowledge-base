@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ruth Payne: Daughter-in-law of Arthur Young (Bell helicopter inventor/Nine seance attendee); housed Lee Harvey Oswald and Marina Oswald in Texas; obtained Oswald his job at the Texas School Book Depository; her Warren Commission testimony was cut off by Allen Dulles."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Ruth Payne
 aliases: [Ruth Hyde Paine, Ruth Paine]

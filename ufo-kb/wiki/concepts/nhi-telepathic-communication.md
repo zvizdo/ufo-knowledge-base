@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Recovered UAP materials and non-human entities communicate telepathically with human interactants; the US government recognized this phenomenon and institutionalized its pursuit through programs including Stargate."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/73YBwFvcmF8.md, raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/IFaXi-NrPV0.md, raw/youtube-transcripts/KGD1nuM4MR8.md, raw/youtube-transcripts/Rfmy5oW_r9c.md]
 tags: [nhi-telepathy, remote-viewing, uap-communication, consciousness, los-alamos]
 ---

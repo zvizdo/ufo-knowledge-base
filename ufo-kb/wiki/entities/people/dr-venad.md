@@ -8,8 +8,6 @@ affiliations: []
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/2-GeTxXi670.md
 tags: [the-nine, channeling, theosophy, andrija-puharich, roundtable-foundation, india]
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/2-GeTxXi670.md]
 summary: "Indian psychic, theosophist, and professor from Bombay who first channeled 'The Nine' at Andrija Puharich's Roundtable Foundation in Maine on New Year's Eve 1952; friend of Gandhi."
 ---

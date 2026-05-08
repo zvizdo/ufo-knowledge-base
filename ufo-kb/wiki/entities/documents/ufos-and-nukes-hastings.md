@@ -7,8 +7,6 @@ type_doc: book
 classification: public
 summary: "Robert Hastings's ~600-page compilation of 167 PRP-cleared military witness accounts of UAP activity at nuclear weapons sites; the foundational secondary-source synthesis for the UFO-nuclear nexus; basis for Senator Harry Reid's AATIP/AAWSAP funding push."
 tags: [robert-hastings, ufo-nuclear-nexus, nuclear-weapons, ufos-disable-nuclear-weapons, jake-barber, 2024-new-jersey-drone-flap]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fzvwBBSmWYA.md]
 ---
 

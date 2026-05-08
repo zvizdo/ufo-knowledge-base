@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "EarthTech International — the Austin, Texas research institute founded by Hal Puthoff where Eric Davis was based; produced key papers on metric engineering, vacuum zero-point energy, and exotic propulsion."
-created: 2026-04-26
-updated: 2026-04-26
 name: EarthTech International
 aliases: [EarthTech, Institute for Advanced Studies at Austin, IASA]
 type: research-group

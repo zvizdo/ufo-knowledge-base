@@ -3,8 +3,6 @@ type: concept
 name: Analytical Overlay
 aliases: [AOL, AOL-drive]
 summary: "Remote viewing / witness testimony concept: the contamination of raw perceptual data by the viewer's analytical mind imposing familiar interpretive categories on ambiguous signals; critical problem in both remote viewing protocol design and UAP witness testimony evaluation."
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 tags: [remote-viewing, witness-testimony, perception, interpretation, credibility, kenneth-arnold]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "ICBM nuclear base in Wyoming that experienced a one-hour missile silo outage in 2010 attributed by base personnel to a Tic-Tac shaped object; part of Robert Hastings's 167-case documentation of UFOs at nuclear bases."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/fzvwBBSmWYA.md]
 name: F.E. Warren Air Force Base
 aliases: [FE Warren, Francis E. Warren AFB]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Five Eyes global signals intelligence collection system for intercepting communications; first officially acknowledged by an Australian intelligence source in a story broken by Ross Coulthart; its existence informed Coulthart's analog research strategy when investigating UAPs."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Echelon
 aliases: [ECHELON]

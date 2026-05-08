@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Non-human alien species described by USAF weather observer Charles Hall; tall pale humanoids in force-field suits who maintained a base at Indian Springs (Areas 53–54) Nevada from at least the ice age; longest-contact firsthand account in the KB."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/QgxjtDS2sIQ.md]
 name: Tall Whites
 aliases: [Tall White aliens, the Tall Whites]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Director of Central Intelligence (1953–1961); co-founder of Area 51 with Richard Bissell; reportedly co-arranged transfer of the 1933 Magenta craft via OSS Project McGregor; fired by JFK after Bay of Pigs."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Allen Dulles
 aliases: [Allen Welsh Dulles, Dulles]

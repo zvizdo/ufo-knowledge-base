@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Local Pennsylvania radio journalist who investigated the 1965 Kecksburg crash; his career was destroyed as a consequence of pursuing the story — a pattern of suppression applied to journalists who investigated crash-retrieval events too aggressively."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Frank Murphy
 aliases: []

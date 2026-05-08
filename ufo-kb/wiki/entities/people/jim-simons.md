@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Renaissance Technologies founder and best-performing hedge fund manager in history; also an NSA codebreaker, mathematician who contributed to Yang-Mills theory, and benefactor of David Spergel (NASA UAP panel author) — Eric Weinstein suspects a Simons-UFO funding connection."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 name: Jim Simons
 aliases: [James Simons]

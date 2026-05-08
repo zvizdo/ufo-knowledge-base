@@ -2,8 +2,6 @@
 type: entity
 entity-type: places
 summary: "Ancient city in the Tigray region of northern Ethiopia; claimed by Ethiopia to be the current location of the Ark of the Covenant, held in the Chapel of the Tablet."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/dfPfPB601hw.md]
 name: Axum
 aliases: [Aksum, Axum, Tigray]

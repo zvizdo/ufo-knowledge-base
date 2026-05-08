@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO researcher who conducted extended conversations with Eric Walker (Penn State president and alleged MJ-12 adjacent figure); subsequently converted to Christianity and withdrew from UAP research — cited by Jesse Michaels as the archetype of the 'gnostic quest' completion."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Scott Crane
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Michael Aquino: Founder of the Temple of Set; former Church of Satan high priest; US Army PSYOPS officer (Vietnam Phoenix Program); non-lethal warfare theorist; told Levenda the 'MJ' designation in Space Command meant 'non-terrestrial biologics.'"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Michael Aquino
 aliases: [Michael A. Aquino, Lt. Col. Aquino]

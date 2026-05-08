@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Classified Department of Energy / Air Force test range in Nevada; sister site to Area 51; long-running home for classified aircraft testing including F-117 stealth"
-created: 2026-05-02
-updated: 2026-05-02
 name: Tonopah Test Range
 aliases: [ttr, tonopah]
 region: Nevada

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Old engraving bearing the Hermetic inscription 'as above so below' found on the Skinwalker Ranch property; origin unknown; possibly carved by Buffalo Soldier Augustus Wally."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 name: As Above So Below Engraving (Skinwalker Ranch)
 aliases: [Skinwalker as above so below]

@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Long-form American Alchemy interview with UFO historian Richard Dolan covering Forrestal's murder, breakaway civilization origins, USO research, MJ12/Majestic documents, Navy vs. Air Force rivalry, JFK-UFO connection, Chinese UFO history, and Dolan's personal path into the field."
-created: 2026-04-26
-updated: 2026-05-04
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 video_id: GQlWf54K_7Y
 tags: [richard-dolan, james-forrestal, breakaway-civilization, uso, mj12, jfk-assassination, american-alchemy, jesse-michaels, china-ufo, lou-baldin]

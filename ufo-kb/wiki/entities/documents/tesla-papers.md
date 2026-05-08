@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nikola Tesla's research papers, seized by the FBI and reviewed by John Trump immediately after Tesla's death in 1943; allegedly contain advanced physics and communications technology still held by US intelligence."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 title: Tesla Papers
 authors: [Nikola Tesla]

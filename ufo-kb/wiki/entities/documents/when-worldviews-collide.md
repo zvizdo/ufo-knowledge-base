@@ -6,8 +6,6 @@ date: 1995
 type_field: article
 classification: civilian-publication
 tags: [john-mack, abduction-research, worldview, harvard, primary-document]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Pharma entrepreneur and provocateur; appears in this KB for his simulation-theory/UFO-religion synthesis and independent endorsement of parapsychology and the UAP-as-conversion-experience pattern."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Mb6NPPjCyg.md]
 name: Martin Shkreli
 aliases: [Pharma Bro, Martin]

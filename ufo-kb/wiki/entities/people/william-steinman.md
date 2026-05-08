@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO researcher active in the 1980s who tracked down Maria Wang (widow of Dr. Eric Wang) and surfaced her claim that Eric Wang reported directly to Henry Kissinger in the flying saucer program."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Jpf0ZGY87c0.md, raw/youtube-transcripts/Rjr3Yq-dMUE.md]
 name: William Steinman
 aliases: [Steinman, Bill Steinman]

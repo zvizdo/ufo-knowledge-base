@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Edward Lansdale — USAF Brigadier General and CIA operative; counterinsurgency expert in the Philippines and Vietnam; identified by Danny Sheehan and others as a key planner in the JFK assassination network and the Anderson Trust / Yamashita gold operations."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Edward Lansdale
 aliases: [Ed Lansdale, Brigadier General Lansdale]

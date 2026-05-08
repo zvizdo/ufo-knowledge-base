@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Jason Reza Jorjani's central thesis: a faction of humans (Nordic phenotype) achieved time travel at some future point and now manages human history from a fifth-dimensional perspective — appearing across all epochs as gods, Anunnaki, Elohim, Olympians, angels, and fairies."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/ABw7EsWh2Us.md]
 tags: [nordic, control-system, time-travel, master-slave, anunnaki, elohim, breakaway-civilization, jorjani]
 ---

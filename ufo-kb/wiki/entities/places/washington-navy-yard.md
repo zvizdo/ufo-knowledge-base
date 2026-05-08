@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Historic U.S. Navy installation in Washington D.C. Referenced in the Salvatore Pais / American Alchemy episode as a location connected to Navy UAP research and the anonymous source 'Jack'."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Washington Navy Yard
 aliases: [Navy Yard Washington]

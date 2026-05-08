@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: the 1954 Atomic Energy Act's broad definition of 'special nuclear material' (any material releasing atomic energy) automatically classifies UAP crash retrieval material under nuclear secrecy law from the moment of recovery — making Oppenheimer, as the AEA's architect, necessarily aware of UAP programs."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/ATJwqp5twAg.md, raw/youtube-transcripts/TH10mD9hQas.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 tags: [classification, atomic-energy-act, oppenheimer, uap-secrecy, nuclear-law, claims-thesis]
 ---

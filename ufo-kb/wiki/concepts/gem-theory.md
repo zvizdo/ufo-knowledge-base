@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Brandenburg's Gravity-Electromagnetism unification theory: gravity as radiation pressure from zero-point vacuum fluctuations; predicts Big G and the electron-proton mass ratio 1836 (√1836 ≈ 42.85) from first principles; received DARPA funding and has experimental gravity-modification support."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/p0S0BfoZy0w.md]
 tags: [physics, unification, gravity, electromagnetism, zero-point-energy, vacuum-fluctuations, DARPA, anti-gravity, john-brandenberg]
 ---

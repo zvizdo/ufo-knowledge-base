@@ -8,8 +8,6 @@ parent_org: cia (originally), GD SURL (1970s), monsanto (1985–)
 country: USA
 active_period: 1960s–1985 (as traceable entity)
 tags: [cia, mk-ultra, oard, behavioral-research, monsanto, rumsfeld, cia-proprietary, privatization, mind-control, boston, rural-lab]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "CIA proprietary research organization created by OARD (MK-Ultra's successor) near Boston; ran behavioral experimentation including animal brain electrode control; privatized in the late 1970s as SURL Metadata (subsidiary of GD SURL, chaired by Donald Rumsfeld); sold to Monsanto in 1985 — the documented CIA-to-pharma pipeline for behavioral research."
 ---

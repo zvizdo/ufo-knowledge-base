@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis — developed by Sheehan — that a continuous institutional lineage from Brown Brothers Harriman through the CIA's founding to the JFK assassination, Watergate, Iran-Contra, and current UAP secrecy represents a single governing apparatus that operates independently of elected officials."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/9QMrhcpJq8I.md]
 tags: [cia, deep-state, brown-brothers-harriman, jfk, watergate, iran-contra, uap-secrecy, continuity, covert-ops]
 ---

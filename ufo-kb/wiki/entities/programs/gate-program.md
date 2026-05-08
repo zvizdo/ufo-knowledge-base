@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Gifted and Talented Education program — a U.S. federal educational initiative identifying high-ability students; cited in the KB alongside the Space Kids program as evidence of a systematic, institutional effort to identify children with anomalous cognitive or psychic abilities, possibly for intelligence purposes."
-created: 2026-05-05
-updated: 2026-05-05
 name: GATE Program
 aliases: [Gifted and Talented Education, GATE]
 parent_org: U.S. Department of Education

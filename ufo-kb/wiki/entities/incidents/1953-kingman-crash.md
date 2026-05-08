@@ -8,8 +8,6 @@ craft_type: 30-ft disc (two fused saucers), dull brushed metal, no landing gear
 corroboration: firsthand (one confirmed witness; Chris Mellon independent confirmation of recovery)
 tags: [kingman, 1953, crash-retrieval, humanoid-bodies, wright-patterson, operation-upshot-knothole, eric-wang, kissinger]
 summary: "Alleged crash retrieval near Kingman, Arizona, occurring around the time of the Operation Upshot-Knothole 'Harry' nuclear test; engineer Arthur Stansel claims to have observed a 30-ft disc and humanoid figures at the classified scene."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Jpf0ZGY87c0.md]
 ---
 

@@ -6,8 +6,6 @@ roles: ["researcher"]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/youtube-transcripts/NvqxmTCwHA8.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "1930s archaeologist among those who reportedly documented subterranean passages at Giza before later access restrictions."
 tags: ["pyramids", "archaeology"]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Frank Sturgis (born Frank Angelo Fiorini, 1924–1993) — CIA operative, Bay of Pigs veteran, and one of the Watergate burglars arrested at the DNC offices in June 1972. Connected to anti-Castro Cuban exile networks, Operation Mongoose, and the CIA covert-ops milieu of the 1960s."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Frank Sturgis
 aliases: [Frank Fiorini]

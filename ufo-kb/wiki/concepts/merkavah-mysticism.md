@@ -3,8 +3,6 @@ type: concept
 name: Merkavah Mysticism
 aliases: [Merkavah mysticism, merkavah-mysticism, Merkabah mysticism, chariot mysticism, Jewish celestial ascent, Hekhalot literature]
 first_seen_in: ufo-kb/wiki/entities/documents/stairway-to-heaven.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Ancient and medieval Jewish mystical tradition of celestial ascent — ascending through seven heavenly palaces (Hekhalot) to the divine throne-chariot (Merkavah); described in apocalyptic literature and developed through Hekhalot texts; structurally parallel to Shangqing Daoist and Sumerian ascent traditions; linked in contemporary UAP research to NHI contact phenomenology."
 tags: [merkavah, jewish-mysticism, celestial-ascent, hekhalot, big-dipper, nhi, consciousness, kabbalah]

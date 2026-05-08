@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Major Florenz Mansman, Bob Jacobs' superior at Vandenberg AFB 1964; initially denied the UAP filming incident, later corroborated that Jacobs managed ~130 personnel and that the incident occurred."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KGD1nuM4MR8.md]
 name: Florenz Mansman
 aliases: [Major Mansman]

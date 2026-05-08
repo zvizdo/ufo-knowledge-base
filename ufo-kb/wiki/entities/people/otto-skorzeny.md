@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Otto Skorzeny: Nazi SS colonel known for daring WWII rescue operations; postwar ran ratlines helping Nazi war criminals escape to South America; Knight of Malta; connected to former Nazis integrated into Western intelligence."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Otto Skorzeny
 aliases: [Scarface, Otto Johann Skorzeny]

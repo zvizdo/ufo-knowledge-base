@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former Director of National Intelligence (2020–2021) who publicly stated that UAPs exhibit technologies the United States does not have and cannot defend against — one of the highest-level on-record government acknowledgments of technological disparity."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md]
 name: John Ratcliffe
 aliases: [Radcliffe, John Ratcliffe]

@@ -7,8 +7,6 @@ witnesses: [Lorero's youngest daughter (door), wife, mother, other daughters (ca
 craft_type: N/A
 corroboration: firsthand
 tags: [murder, nuno-lorero, brookline, mit, nuclear-fusion, plasma-physics, scientists-targeting-pattern, brown-university-shooting]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 summary: "MIT plasma physicist Nuno Lorero was shot in the foyer of his Brookline, MA home on December 15, 2025 and died in hospital the following morning; primary suspect is Portuguese national Claudio Valente, who had shot two students at Brown University two days earlier and was believed to harbor long-standing resentment toward Lorero."
 ---

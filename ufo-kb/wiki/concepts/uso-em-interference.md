@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Statistical pattern discovered by Richard Dolan in his ~670-case USO database: EM interference scales with encounter intimacy — 10% baseline, 20% in military cases, 40% in cases involving entity contact or missing time — implying EM effects are a deliberate tool, not an artifact."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/aGqFOxuYRT0.md]
 tags: [uso, em-interference, statistics, richard-dolan, navy, weapons-offline, communications, deliberate]
 ---

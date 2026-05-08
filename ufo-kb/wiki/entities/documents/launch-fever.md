@@ -2,8 +2,6 @@
 type: entity
 stub: true
 summary: "Tim Taylor's autobiography documenting his career as a NASA mission controller at Cape Canaveral; contains coded references to Nassau (time moves differently there), drug-running cargo flights, and consciousness-based launch success — read by researchers as containing encrypted references to classified activities."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bM18PJY6_Zc.md]
 title: Launch Fever
 authors: [Tim Taylor]

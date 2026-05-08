@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Robert Bigelow's aerospace company that held the AAWSAP contract with the DoD (2008–2010), ran BAASS, and operated Skinwalker Ranch. The primary private-sector node in post-2000 government UAP investigation."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Bigelow Aerospace Advanced Space Studies (BAASS) / Bigelow Aerospace
 aliases: [BAASS, Bigelow Aerospace]

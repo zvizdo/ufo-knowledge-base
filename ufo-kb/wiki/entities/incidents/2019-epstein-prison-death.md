@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Jeffrey Epstein's death in Metropolitan Correctional Center, New York, August 10, 2019; officially ruled suicide by hanging; disputed based on Wired Magazine reporting that surveillance video metadata showed editing consistent with Adobe Premiere, including a minute-long removed section."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md]
 name: "2019 Epstein Prison Death"
 date: "2019-08-10"

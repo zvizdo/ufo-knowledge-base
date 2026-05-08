@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "NASA shuttle astronaut (6 space flights) who reported seeing 'snakes writhing in space' — a recurring space-based UAP phenomenon with precedents going back centuries."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Story Musgrave
 aliases: [F. Story Musgrave]

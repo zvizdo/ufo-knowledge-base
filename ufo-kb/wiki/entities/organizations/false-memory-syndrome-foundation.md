@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Organization founded 1992 by memory researchers, abuse-denial advocates, and CIA MK Ultra psychiatrists Jolly West and Martin Orne; publicly stated goal was to discredit multiple personality disorder and 'false memory' claims; Colin Ross argues a core covert purpose was to suppress survivor testimony about Manchurian Candidate programs leaking into clinical practice."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: False Memory Syndrome Foundation
 aliases: [FMSF]

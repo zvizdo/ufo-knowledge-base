@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Independent researcher and prolific author known for the breakaway civilization thesis and for excavating the technical and occult dimensions of Nazi secret weapons programs; cited by Salvatore Pais for the Nenza / 1890s airship hypothesis and breakaway civilization framework."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: Joseph Farrell
 aliases: [Dr. Joseph Farrell, Dr. Joseph P. Farrell]

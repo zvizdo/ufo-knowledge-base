@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "One of the last known living eyewitnesses to the July 1952 Washington D.C. UFO flyover; interviewed on American Alchemy documentary while still alive, providing direct first-person testimony."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md]
 name: Mr. Hill (1952 DC Witness)
 aliases: [Mr. Hill]

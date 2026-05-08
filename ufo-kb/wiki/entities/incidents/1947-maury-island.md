@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1947 Maury Island Incident: Doughnut-shaped craft over Puget Sound dropped slag; two US Air Force intelligence officers killed when their plane exploded carrying evidence — the first deaths of the modern UFO era; connected to Guy Banister, Fred Chrisman, and later the JFK assassination network."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: 1947 Maury Island Incident
 date: 1947-06-21

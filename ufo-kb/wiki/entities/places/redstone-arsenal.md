@@ -6,8 +6,6 @@ roles: []
 affiliations: [us-army, nasa-msfc]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/ning-lee.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Army installation in Huntsville, Alabama; center of US Army missile and rocket development; location where Werner von Braun and the Operation Paperclip German rocket team developed the Jupiter and Saturn rockets; where physicist Ning Lee and Larry Smalley relocated to conduct classified gravity research after winning a DoD contract."
 tags: [army, huntsville, missiles, rockets, von-braun, paperclip, classified, gravity-research, ning-lee]

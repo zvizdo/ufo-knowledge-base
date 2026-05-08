@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Zecharia Sitchin — author of The 12th Planet (1976) and the Earth Chronicles series; argued from Sumerian cylinder seal translations that the Anunnaki were extraterrestrials from a planet called Nibiru who genetically engineered Homo sapiens. His translations are disputed by mainstream scholars including Michael Heiser."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Zecharia Sitchin
 aliases: [Sitchin, Z. Sitchin]

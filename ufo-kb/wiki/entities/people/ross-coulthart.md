@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Australian investigative journalist, author of In Plain Sight (2021), and NewsNation correspondent who broke the David Grusch and Jake Barber stories; conducted UAP research using analog tradecraft to avoid surveillance; firsthand witness to a UAP orb over Secret Mountain, Sedona."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Ross Coulthart
 aliases: []

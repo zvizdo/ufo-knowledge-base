@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Czech psychiatrist and consciousness researcher who developed holotropic breathwork; argued that advanced non-physical intelligences would interact with humans via the brain rather than materializing physically."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 name: Stanislav Grof
 aliases: [Stan Grof]

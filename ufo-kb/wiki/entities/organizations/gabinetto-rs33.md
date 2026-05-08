@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Mussolini's secret state investigation body convened in 1933 to study the non-human craft recovered near Magenta, Italy — the first known government UFO investigation body."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Gabinetto RS/33
 aliases: [RS33, RS/33, Gabinetto RS33]

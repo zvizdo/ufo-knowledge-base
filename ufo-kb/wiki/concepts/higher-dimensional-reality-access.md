@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Hypothesis that UAP, NHI, and certain consciousness phenomena involve access to or intrusion from dimensions of reality beyond the standard 3+1 spacetime dimensions. NHI may exist in higher-dimensional space and manifest in 3D spacetime selectively."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 tags: [dimensions, nhi, uap, consciousness, vallee, interdimensional]
 ---

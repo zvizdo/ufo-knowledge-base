@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF's official UFO investigation program (1952–1969); publicly the Air Force's face on UFO issues while a deeper, parallel investigation of nuclear-site incidents occurred separately."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Project Blue Book
 aliases: [Blue Book]

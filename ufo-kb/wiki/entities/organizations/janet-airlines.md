@@ -3,8 +3,6 @@ type: entity
 name: JANET Airlines
 aliases: [Janet, JANET, Key Airlines]
 summary: "Classified US government airline (officially operated by AECOM/EG&G) that transports workers to and from classified facilities including Area 51/Groom Lake; operated from a classified terminal at Las Vegas McCarran Airport; its existence was officially denied until 1995."
-created: 2026-05-05
-updated: 2026-05-05
 type_detail: gov-agency
 country: US
 tags: [area-51, groom-lake, classified-transport, bob-lazar, nevada, s4]

@@ -3,8 +3,6 @@ type: concept
 name: Diatomaceous Earth
 aliases: [Diatomaceous Earth, Diatomite, Datoms]
 first_seen_in: ufo-kb/wiki/youtube-transcripts/HxQN2tkQHs8.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md]
 summary: "Naturally-occurring sedimentary rock made of fossilized diatoms (single-celled algae); functions as a powerful desiccant. In the Nazca tridactyl mummy case, diatomaceous earth is the preservation mechanism that explains why the bodies retained internal organs, tendons, and cartilage despite being 700–18,800 years old."
 tags: [preservation, desiccant, nazca-mummies, mummies, organic-preservation]

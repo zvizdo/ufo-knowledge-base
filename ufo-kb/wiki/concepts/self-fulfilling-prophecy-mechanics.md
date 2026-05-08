@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Wargo's thesis that any genuine precognition in a block universe must take the form of a self-fulfilling prophecy — the information from the future cannot change history, only produce the causal loop that was always part of history. Oedipus, Jung's scarab beetle, and Freud's oral cancer are the canonical examples."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hXYdkcv5TtY.md]
 tags: [precognition, time-loops, block-universe, oedipus, synchronicity, self-fulfilling, wargo, jung, freud]
 ---

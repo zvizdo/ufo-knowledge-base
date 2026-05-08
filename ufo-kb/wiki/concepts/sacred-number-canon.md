@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The family of numbers (72, 144, 432, 720, 1440, 2160, 25920, 86400, etc.) appearing redundantly across time measures, Platonic solid geometry, solar system dimensions, ancient calendars, and sacred language — argued by Randall Carlson and others to be a universal ancient numerical cosmology."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/R7oyZGW99os.md]
 tags: [sacred-geometry, sacred-numbers, numerical-cosmology, ancient-knowledge, precession, platonic-solids, calendar, gematria, randall-carlson]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Regional hospital in Varginha, Brazil where the alien being from the 1996 Varginha incident was taken for treatment; has a plaque in the front entrance acknowledging the ET's visit."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UkKwa4jU0fc.md]
 name: Hospital Regional Varginha
 aliases: [Regional Hospital Varginha]

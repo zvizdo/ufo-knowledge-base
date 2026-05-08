@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British Conservative politician who served as UK Home Secretary (2010–2016) and Prime Minister (2016–2019); in October 2012 blocked the US extradition request for Gary McKinnon on human rights grounds."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md]
 name: Theresa May
 aliases: [Theresa Mary May, Baroness May of Maidenhead]

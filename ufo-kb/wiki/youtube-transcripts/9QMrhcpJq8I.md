@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy episode featuring Matthew Pines on the strategic convergence of Bitcoin, UAPs, AI, psionics, consciousness, and global power structures."
-created: 2026-04-26
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md]
 video_id: 9QMrhcpJq8I
 tags: [psionics, bitcoin, uap-strategic, disclosure, consciousness, jfk-assassination, power-structure, matthew-pines, american-alchemy]

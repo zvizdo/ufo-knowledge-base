@@ -4,8 +4,6 @@ name: Maria (M-type)
 aliases: [Maria, Maria Nazca, Maria tridactyl]
 category: entity
 first_seen_in: ufo-kb/wiki/youtube-transcripts/HxQN2tkQHs8.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md]
 summary: "Largest of the named M-type Nazca tridactyl bodies; subject of the most-discussed DNA decomposition (~70% known / 30% unknown), the GLI3 mutation finding, and the conflicting Sri Lanka finger-bone sex-chromosome result."
 tags: [nazca-mummies, m-type, dna, gli3, polydactyly, hybridization, sri-lanka-test]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former president of the Republic of Kalmykia (1993–2010) and FIDE World Chess Federation (1995–2018); the highest-ranking head of government to publicly claim a first-contact alien encounter — September 17, 1997, Moscow — corroborated by three witnesses who could not find him for over an hour."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 name: Kirsan Nikolayevich Ilyumzhinov
 aliases: [Kiran Ilum Xenov, Kirsan Ilyumzhinov, Kersonen, Kirsan]

@@ -6,8 +6,6 @@ date: 2024
 type_field: article
 classification: documentary-film
 tags: [documentary, mazzola, catastrophic-disclosure, primary-document]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

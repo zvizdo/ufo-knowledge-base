@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis — developed by UAP-Gerb — that Federally Funded Research and Development Centers (FFRDCs) and University Affiliated Research Centers (UARCs) serve as the organizational spine of unacknowledged UAP reverse-engineering programs, enabling off-budget funding and structural insulation from Congressional oversight."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [ffrdc, uarc, uap, secrecy, budget, mitre, rand, aerospace-corporation, uap-gerb, black-programs]
 ---
 

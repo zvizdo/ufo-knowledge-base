@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "12-station citizen science satellite tracking network created by Fred Whipple (Donald Menzel's PhD student) with J. Allen Hynek; produced at least 36 UFO reports from amateur astronomers that have been largely ignored."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/lbGE3EC6StE.md]
 name: Operation Moonwatch
 aliases: [Project Moonwatch, Moonwatch]

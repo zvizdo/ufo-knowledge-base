@@ -6,8 +6,6 @@ roles: []
 affiliations: [smithsonian-institution, harvard-university]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/harvard-observatory.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Research institute of the Smithsonian Institution specializing in astrophysics; merged with Harvard College Observatory in 1973 to form the Center for Astrophysics | Harvard & Smithsonian; home to Operation Moonwatch infrastructure and modern astronomical survey programs."
 tags: [astrophysics, smithsonian, harvard, satellite-watching, operation-moonwatch, astronomy]

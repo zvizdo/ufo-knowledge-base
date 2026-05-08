@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alternate name/alias for Jonathan Gorard; see [[jonathan-gorard]]."
-created: 2026-04-26
-updated: 2026-05-05
 sources: []
 name: Jonathan Gerard
 aliases: []

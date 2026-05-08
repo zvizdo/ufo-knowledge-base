@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army Colonel; set up Army Futures Command; Army representative to the UAP Task Force alongside David Grusch; publicly argues UAP are real and proposes a four-heresy taxonomy linking NHI to esoteric traditions and consciousness physics."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/h0hAit-KH9A.md]
 name: Carl Nell
 aliases: [Karl Nell, Colonel Nell]

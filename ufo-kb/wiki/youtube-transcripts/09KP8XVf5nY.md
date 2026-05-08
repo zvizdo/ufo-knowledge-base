@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Harald Malmgren — presidential adviser to JFK, LBJ, Nixon, and Ford — claims firsthand handling of recovered UAP material at Los Alamos and says the 1962 Bluegill Triple Prime nuclear test deliberately downed a UFO. Final phone call three days before death: 'My life is connected with time travel. Yes.'"
-created: 2026-04-25
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 video_id: 09KP8XVf5nY
 title: "Presidential Advisor: 'I Directly Handled UFO Material' (Ft. Harald Malmgren)"

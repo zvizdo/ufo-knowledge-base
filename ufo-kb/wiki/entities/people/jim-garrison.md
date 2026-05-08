@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Jim Garrison: New Orleans District Attorney (1962–1973); conducted the only criminal prosecution related to the Kennedy assassination; his released investigation files contained documentation of the American Orthodox Catholic Church intelligence front."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Jim Garrison
 aliases: [Earling Carothers Garrison, Big Jim]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Sustained UAP incident cluster off the US East Coast (Virginia Beach / NAS Oceana operating area), 2014–2015; detected daily by F/A-18 squadron VFA-11 using newly-installed APG-79 AESA radar; triple-sensor corroborated; led to Ryan Graves's public advocacy and his 2023 congressional testimony."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/6WC4o2yY9Ws.md]
 name: 2014–2015 East Coast UAP Incidents
 date: 2014-2015

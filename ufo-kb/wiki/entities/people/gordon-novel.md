@@ -3,8 +3,6 @@ type: entity
 entity-type: people
 name: Gordon Novel
 summary: "New Orleans private investigator and CIA-connected operative who claimed involvement in UAP retrieval programs and worked with Jim Garrison's JFK investigation; associated with Robert Bigelow and NIDS."
-created: 2026-04-25
-updated: 2026-04-25
 roles: [other]
 affiliations: [NIDS]
 tags: [cia, jfk, nids, uap-retrieval, new-orleans]

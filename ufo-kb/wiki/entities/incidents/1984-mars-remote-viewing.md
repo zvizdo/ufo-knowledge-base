@@ -6,7 +6,6 @@ witnesses: [joe-mcmoneagle]
 craft_type: ""
 corroboration: firsthand
 tags: [remote-viewing, mars, stargate, cia, ancient-civilization]
-updated: 2026-04-26
 ---
 
 # 1984 CIA Mars Remote Viewing Session

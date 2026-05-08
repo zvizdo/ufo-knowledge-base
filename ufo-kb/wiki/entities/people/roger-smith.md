@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Charles Manson's parole officer (1967–1969) who was simultaneously a Berkeley criminology student and LSD/amphetamine researcher specializing in adolescent gang members who became violent under drugs — exactly the profile Manson embodied."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: Roger Smith
 aliases: [Jubal (Manson Family nickname)]

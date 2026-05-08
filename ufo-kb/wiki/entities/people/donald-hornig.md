@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Presidential science advisor to Eisenhower, Kennedy, and Johnson; designed the electronic trigger for the Trinity plutonium bomb; listed as present in an official government document on the 1965 Kecksburg crash — Kevin Knuth's father's cousin."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Donald Hornig
 aliases: []

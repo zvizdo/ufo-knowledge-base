@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Whitley Strieber's cabin in rural upstate New York where his most intense NHI contact experiences occurred, beginning Christmas Eve 1985 — the foundational event documented in Communion (1987)."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Strieber Cabin (Upstate New York)
 aliases: [cabin upstate new york, Strieber's cabin]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Lead Operations Officer of Sky Watchers (Skywatcher); retired Army Special Operations Sergeant Major with 23 years service; built the multi-spectrum UAP detection platform from first principles; discovered UAPs accidentally during a 2021 government war game; reports 200+ documented UAPs over five years including four alleged crashes."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/y_8IKKcTntQ.md]
 name: James Valor
 aliases: []

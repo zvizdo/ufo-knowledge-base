@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Technical illustrator who documented the Alien Reproduction Vehicle (ARV / Flux Liner) at the 2001 National Press Club Disclosure event — his drawings of the electrogravitic craft, based on eyewitness descriptions from Norton Air Force Base, constitute one of the most detailed public ARV illustrations."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/LnAiNChnuEQ.md, raw/youtube-transcripts/nTiFs8LudUo.md]
 name: Mark McCandlish
 aliases: [McCandish, McCandlish]

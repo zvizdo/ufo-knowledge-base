@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army — connected to UAP discourse through the Stargate/remote viewing program, Project Sign/Grudge/Blue Book involvement, Arthur Trudeau's UFO material acquisition activities, and as employer of multiple UAP witnesses and investigators."
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 name: US Army
 aliases: [United States Army, Army]

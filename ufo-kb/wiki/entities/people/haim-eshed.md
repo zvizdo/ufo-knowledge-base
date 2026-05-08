@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Retired Israeli general and former head of Israel's Defense Ministry Space Directorate; in December 2020 publicly claimed extraterrestrials exist, a Galactic Federation is in contact with the US and Israel, and a joint US-alien base exists on Mars."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/IFaXi-NrPV0.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/SZBI85yvV5A.md]
 name: Haim Eshed
 aliases: [Haim Eshed, חיים אשד]

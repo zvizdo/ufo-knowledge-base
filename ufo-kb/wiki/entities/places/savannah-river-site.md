@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Top-secret nuclear facility in South Carolina, operational July 1952, that produced plutonium and tritium for US nuclear weapons; site of a July 19, 1952 UAP sighting by nuclear engineer John Anderson coinciding with the peak day of the 1952 Washington DC flyover."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fzvwBBSmWYA.md]
 name: Savannah River Site
 aliases: [Savannah River Plant]

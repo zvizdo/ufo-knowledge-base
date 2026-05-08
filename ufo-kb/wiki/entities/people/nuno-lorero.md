@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "MIT plasma physicist and nuclear fusion expert; deputy director of MIT's Plasma Science and Fusion Center; murdered at his Brookline home December 15–16, 2025; suspect was a Portuguese ex-classmate; his research directly supported Commonwealth Fusion Systems, a competitor to TAE Technologies, which merged with Trump Media two days after his death."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Nuno Lorero
 aliases: [Nuno Felipe Gomez Lorero, Nuno Lurero]

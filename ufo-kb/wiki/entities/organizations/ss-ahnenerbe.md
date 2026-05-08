@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "SS Ahnenerbe: Himmler's ancestral heritage research organization; studied Tibet, yoga-rune postures, Kabbalah, and ancient history; fully documented in the US National Archives; the organizational institutionalization of Nazi occultism within the SS."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: SS Ahnenerbe
 aliases: [Ahnenerbe, Deutsches Ahnenerbe, SS Ancestral Heritage Research]

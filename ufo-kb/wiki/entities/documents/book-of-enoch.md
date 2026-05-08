@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ancient Jewish pseudepigraphal text attributed to the antediluvian patriarch Enoch; contains the 'Book of the Watchers' narrative of angelic descent, Nephilim giants, and the Flood; preserved by Ethiopian Christians and rediscovered in the 18th century."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/dfPfPB601hw.md]
 tags: [book-of-enoch, watchers, nephilim, antediluvian, apocrypha, ethiopia, second-temple, dead-sea-scrolls]
 title: Book Of Enoch

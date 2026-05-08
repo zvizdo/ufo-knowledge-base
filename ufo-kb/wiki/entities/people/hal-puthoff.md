@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Physicist; co-founder of the CIA/DIA Stargate remote viewing program at SRI; referenced in context of George W. Bush administration UAP disclosure discussions alongside NSA Steven Hadley."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/Rfmy5oW_r9c.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/p0S0BfoZy0w.md, raw/youtube-transcripts/qAou_h1POWs.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 name: Hal Puthoff
 aliases: [Harold E. Puthoff, Harold Puthoff, Puthoff]

@@ -8,8 +8,6 @@ country: USA
 active_period: 1917–1961
 tags: [cic, army-intelligence, operation-paperclip, roswell, kissinger, corso, majestic-12, nazi-scientists, denazification]
 summary: "US Army's counter-intelligence and security body; played a key role in post-WWII denazification, Operation Paperclip, early UFO crash retrievals (including alleged Roswell involvement), and the transition of Nazi scientific expertise into US programs."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Jpf0ZGY87c0.md]
 ---
 

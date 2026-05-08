@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA senior officer who had personal entity-in-room experiences with his wife; visited Chris Bledsoe after hearing about him; opened Bob Maguire's access to the Bledsoe circle; has spoken publicly about his anomalous experiences."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md]
 name: Jim Semivan
 aliases: []

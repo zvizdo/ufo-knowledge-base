@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Secondary witness of the 1973 Pascagoula abduction; was 19 at the time; largely disappeared from public view for decades before re-emerging near the end of his life to confirm his own abduction separately."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Calvin Parker
 aliases: []

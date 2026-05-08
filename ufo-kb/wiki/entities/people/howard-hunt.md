@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA operative and Watergate figure who reportedly stated before his death that the JFK assassination was connected to the alien presence."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/9QMrhcpJq8I.md]
 name: Howard Hunt
 aliases: [E. Howard Hunt]

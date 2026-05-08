@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Australian missile and weapons test range adjacent to Maralinga; site of secret US hypersonic missile testing; Aboriginal communities in the area have reported silent black triangles."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Woomera Test Range
 aliases: [Woomera, RAAF Woomera]

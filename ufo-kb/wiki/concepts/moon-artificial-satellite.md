@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis that Earth's Moon is an engineered artifact — constructed by the Nordic precursor civilization as a transport from Mars and a terraforming device — supported by anomalous seismic data, crater geometry, orbital mathematics, and remote-viewing testimony."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/iPxbILOMQ08.md]
 tags: [moon, artificial-satellite, nordics, terraforming, hollow-moon, remote-viewing, jorjani, randall-carlson, ingo-swann, zulu-legend, apollo]
 ---

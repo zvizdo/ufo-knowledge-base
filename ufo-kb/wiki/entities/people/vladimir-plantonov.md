@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Retired Soviet army colonel who provided journalist George Knapp with a series of still-classified Soviet documents about UFO activity, including the 1982 Soviet Ukraine incident where a UFO triggered a 15-second missile launch countdown."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fzvwBBSmWYA.md]
 name: Vladimir Plantonov
 aliases: []

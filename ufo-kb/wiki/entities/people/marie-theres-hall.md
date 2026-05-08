@@ -2,8 +2,6 @@
 type: entity
 stub: true
 summary: "Wife of Charles Hall; appeared briefly in the American Alchemy episode confirming details about Tim Taylor's visits and the 15-year relationship."
-created: 2026-04-27
-updated: 2026-04-27
 name: Marie-Theres Hall
 aliases: []
 roles: [witness]

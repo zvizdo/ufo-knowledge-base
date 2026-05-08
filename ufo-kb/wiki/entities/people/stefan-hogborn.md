@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Swedish expert diver (~6,000 lifetime dives); first person to physically touch the Baltic Sea Anomaly in 2012; reported near-freezing temperature anomaly and described walls, corridors, and the 'breathing' hole."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aGqFOxuYRT0.md]
 name: Stefan Hogborn
 aliases: []

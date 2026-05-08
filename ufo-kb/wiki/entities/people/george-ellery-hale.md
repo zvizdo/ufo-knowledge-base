@@ -9,8 +9,6 @@ first_seen_in: raw/youtube-transcripts/zjpvfDFc4fg.md
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 tags: [astronomy, occult, solar-research, caltech, mount-wilson, egypt, mysticism, aerospace-adjacent]
 summary: "Late 19th–early 20th century astronomer who built Mount Wilson Observatory (enabling Hubble's galaxy discovery), transformed Caltech, and claimed mystical guidance from a spirit entity; embedded Egyptian sun-worship symbolism into his Pasadena observatory."
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # George Ellery Hale

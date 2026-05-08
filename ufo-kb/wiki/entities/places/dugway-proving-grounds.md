@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "U.S. Army chemical and biological weapons testing facility in Tooele County, Utah; cited in the KB as the likely successor to Area 51 as the primary UAP research hub, with 35–40% of Area 51 programs allegedly relocated there, including Battelle Institute's UAP compartment."
-created: 2026-05-05
-updated: 2026-05-05
 name: Dugway Proving Grounds
 aliases: [Dugway, Utah Test and Training Range]
 region: Tooele County, Utah

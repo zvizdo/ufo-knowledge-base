@@ -3,8 +3,6 @@ type: concept
 name: Control System Hypothesis
 aliases: [control mechanism hypothesis, NHI control system, Vallée control system]
 tags: [jacques-vallee, intermittent-reinforcement, skinner, behaviorism, trickster, nhi-behavior, uap-ontology, civilizational-control, consciousness, claims-theses]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 ---
 

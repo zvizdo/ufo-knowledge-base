@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Ronald Bracewell's 1960 proposal that interstellar civilizations would communicate by sending autonomous probes to target star systems rather than broadcasting radio signals across the speed-of-light delay barrier; probes would park in Lagrange points and initiate contact by bouncing local transmissions back."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 tags: [bracewell-probe, seti, interstellar, lagrange-points, LDE, long-delay-echoes, communication]
 ---

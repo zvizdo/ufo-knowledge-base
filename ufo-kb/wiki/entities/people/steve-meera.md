@@ -7,9 +7,7 @@ firsthand_claims:
   - "Maria mummy DNA from Sri Lanka lab: one male result and one female result from two different finger bones — suggests contamination or composite construction"
 first_seen_in: HxQN2tkQHs8
 tags: [nazca-mummies, peru, forensics, dna, contamination]
-updated: 2026-05-05
 type: entity
-created: 2026-04-26
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md]
 ---
 

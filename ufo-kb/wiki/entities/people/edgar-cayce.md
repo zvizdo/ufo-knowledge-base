@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1940s American psychic who claimed in a vision that a Hall of Records exists beneath the Sphinx, containing the history of Atlantis"
-created: 2026-04-26
-updated: 2026-04-26
 name: Edgar Cayce
 aliases: [The Sleeping Prophet]
 roles: [other]

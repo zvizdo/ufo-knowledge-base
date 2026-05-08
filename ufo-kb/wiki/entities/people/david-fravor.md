@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Navy Commander, Commanding Officer of VFA-41 Black Aces, primary witness and most credible voice in the 2004 Nimitz Tic-Tac encounter; his Joe Rogan interview served as the entry point for many serious civilian researchers."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/jMCavr3dVP0.md]
 name: David Fravor
 aliases: [Commander Fravor, Cmdr Fravor]

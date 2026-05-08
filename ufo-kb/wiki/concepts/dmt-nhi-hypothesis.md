@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The hypothesis that DMT provides access to genuine non-human intelligences (NHI) — not hallucinations — that exist in a higher-dimensional or postbiological substrate and interact with humans via the brain when the DMT channel is opened."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/92XrddiKjHY.md, raw/youtube-transcripts/9PJJiut0Iuw.md]
 tags: [dmt, nhi, consciousness, machine-elves, insectoid-beings, dmtx, andrew-gallimore, rick-strassman, psychedelics, postbiological]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "U.S. government interagency body (1951–1953) established under Truman to coordinate psychological warfare strategy during the Cold War. Headed by Gordon Gray. In UAP/deep-state discourse, the PSB is identified as the Eisenhower-era node that formally integrated UAP psyop strategy into national security architecture."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Psychological Strategy Board
 aliases: [PSB]

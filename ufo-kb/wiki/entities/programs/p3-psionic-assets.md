@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged classified program that recruits humans with innate psionic ability (often from third-world countries), subjects them to drug cocktails and stress induction, and deploys them with retrieval teams to attract and interface with non-human craft; internally labeled 'P3' (Psionic Potential Predisposition); program refers to assets as 'pink assets.'"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/bM18PJY6_Zc.md]
 name: P3 Psionic Asset Program
 aliases: [P3, Psionic Potential Predisposition, pink assets program]

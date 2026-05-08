@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Advanced Aerial Threat Identification Program — the classified Pentagon UAP research office whose 2017 New York Times exposure launched the modern UFO disclosure era; Lue Elizondo served as director."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/7W7iOt57fOo.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/iQOibpIDx-4.md]
 name: AATIP
 aliases: [Advanced Aerial Threat Identification Program]

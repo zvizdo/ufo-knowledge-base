@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Young attorney who published in Harvard Law Review finding zero historical precedents for prosecution of individuals who disclosed classified information to Congress through appropriate secure channels — directly relevant to the UAP whistleblower fear-of-prosecution argument."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KGD1nuM4MR8.md]
 name: Dylan Guthrie
 aliases: []

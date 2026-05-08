@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2020 book by Brian Muraresku arguing that early Christianity and the Eleusinian Mysteries used psychedelic sacraments to produce experiences of death-and-continuity; bestseller with foreword by Graham Hancock."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/I9VyyV4-3Js.md]
 title: "The Immortality Key: The Secret History of the Religion with No Name"
 authors: [Brian Muraresku]

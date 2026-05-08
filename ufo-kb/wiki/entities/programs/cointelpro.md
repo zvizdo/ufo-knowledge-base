@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "FBI domestic counterintelligence program (1956–1971) that surveilled, infiltrated, and disrupted political organizations including UFO researcher and contactee groups; a documented precedent for government suppression of non-mainstream discourse."
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 name: COINTELPRO
 aliases: [Counter Intelligence Program]

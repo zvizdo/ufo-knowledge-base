@@ -3,8 +3,6 @@ type: concept
 name: NHI Radiation Effects
 aliases: [NHI radiation effects, UAP radiation injuries, close encounter radiation]
 first_seen_in: ufo-kb/wiki/concepts/ufo-electromagnetic-injuries.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Physical injuries and biological effects attributed to close proximity to UAP, including radiation burns, tissue damage, eye injuries, and longer-term health consequences; documented in cases like Cash-Landrum (1980), Rendlesham (1980), and Falcon Lake (1967); consistent with high-intensity electromagnetic or particle radiation."
 tags: [radiation, ufo-injuries, health-effects, electromagnetic, burns, cash-landrum]

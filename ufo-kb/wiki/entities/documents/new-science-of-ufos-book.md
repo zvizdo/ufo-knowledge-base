@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Eric Haseltine and Chris Gilbert's non-fiction survey of all UAP hypotheses using the intelligence community's method of competing hypotheses; aimed at attracting serious scientists to the UAP field."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 title: The New Science of UFOs
 authors: [eric-haseltine, chris-gilbert]

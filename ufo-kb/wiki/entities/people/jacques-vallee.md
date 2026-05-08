@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "French-American computer scientist, venture capitalist, and pioneering UFO researcher; discovered the Pentacle Memo in Project Blue Book files; worked alongside J. Allen Hynek."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/dfPfPB601hw.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/kRO5jOa06Qw.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 name: Jacques Vallée
 aliases: [Jacqu Valet (transcript phonetic)]

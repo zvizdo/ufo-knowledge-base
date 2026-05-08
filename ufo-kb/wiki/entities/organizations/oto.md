@@ -8,8 +8,6 @@ country: International (US chapter: Pasadena, CA)
 active_period: 1895–present
 tags: [occult, thelema, crowley, parsons, sex-magic, ceremonial-magic, aerospace-adjacent]
 summary: "Esoteric order led during the 1940s by Aleister Crowley; Jack Parsons led the Pasadena 'Agape Lodge' chapter while co-founding JPL, making OTO the direct organizational link between American rocketry and ceremonial magic."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 ---
 

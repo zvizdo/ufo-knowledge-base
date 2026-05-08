@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Moon-landing skeptic and documentary filmmaker who has spent decades arguing the Apollo missions were staged; confronted Neil Armstrong with an unedited NASA reel showing what he claims is Earth at low altitude while astronauts pretended to be far away."
-created: 2026-04-26
-updated: 2026-04-26
 name: Bart Sibrel
 aliases: []
 roles: [researcher, journalist]

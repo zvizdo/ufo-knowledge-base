@@ -11,8 +11,6 @@ url: https://www.youtube.com/watch?v=IWui5cBkwoE
 duration_minutes: ~90
 tags: [uap-physics, nuclear-nexus, jal-1628, propulsion, water-worlds, gemini-11, skylab, vasco, nasa, malmstrom, kecksburg, reverse-engineering, arts-parts, 3i-atlas]
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
-created: 2026-04-26
-updated: 2026-04-26
 ---
 
 # NASA Whistleblower: "We Systematically Suppress UFO Data!"

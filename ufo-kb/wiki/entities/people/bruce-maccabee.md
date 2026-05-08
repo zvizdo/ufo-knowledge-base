@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Navy physicist and UAP photo/film analyst; produced multiple analytical reports on UAP photographs and film; assessed ARV photographs as likely hoaxes."
-created: 2026-04-26
-updated: 2026-04-26
 name: Bruce Maccabee
 aliases: [Maccabee]
 roles: [researcher, official]

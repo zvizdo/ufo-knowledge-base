@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nuclear plant worker at Kerr-McGee who discovered 40 lbs of bomb-grade plutonium missing and was killed driving to meet a NY Times reporter; Sheehan's investigation found the plutonium went to Israel then Iran under the Shah, facilitated by CIA's Theodore Shackley."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
 name: Karen Silkwood
 aliases: []

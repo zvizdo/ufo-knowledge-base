@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Soviet Ambassador to the United States 1962–1986; longest-serving Soviet envoy in Washington; tracked Harald Malmgren and directly asked him about UFOs, receiving the response 'we only feel safe when we control.'"
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Anatoly Dobrynin
 aliases: [Dobrynin]

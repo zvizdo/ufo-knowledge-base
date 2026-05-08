@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Meteorite expert and Air Force-affiliated scientist who led Project Twinkle (investigation of anomalous green fireballs at nuclear sites) and co-led the Near-Earth Satellite Project at White Sands with Clyde Tombaugh."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 name: Lincoln LaPaz
 aliases: [Lincoln Leaz (transcript phonetic)]

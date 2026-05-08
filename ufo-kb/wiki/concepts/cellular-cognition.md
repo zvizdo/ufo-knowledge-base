@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Evidence that memory and learning are distributed throughout the body at the cellular level, not localized to neurons; foundational to Chris Gilbert's holistic medicine practice and to NHI cognition modeling."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 tags: [consciousness, neuroscience, holistic-medicine, nhi-biology, body-mind]
 ---

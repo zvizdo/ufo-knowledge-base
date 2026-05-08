@@ -8,8 +8,6 @@ country: USA
 coordinates: "28.5729° N, 80.6490° W"
 type_field: installation
 tags: [nasa, space-launch, florida, cape-canaveral, astronauts, 45th-space-wing]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "NASA's primary launch facility on Merritt Island, Florida, adjacent to Cape Canaveral AFS; managed astronaut recovery operations and hosted flight surgeons including Greg Rogers."
 ---

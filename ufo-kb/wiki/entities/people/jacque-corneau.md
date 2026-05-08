@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "French Air Force officer and technical representative for Sud-Ouest aircraft company who facilitated Thomas Townsend Brown's 1956 vacuum experiments at the Montgolfier facility in Paris; the most rigorous confirmation of the Biefeld-Brown effect in a vacuum on record."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RTEWLSTyUic.md]
 name: Jacque Corneau
 aliases: [Jacque Corone]

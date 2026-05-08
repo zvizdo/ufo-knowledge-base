@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Near-death experiences (NDEs) — reported consciousness events at the threshold of physical death — as empirical data points for the consciousness-survives-death and transmission-theory-of-consciousness theses; also connected to Eleusinian 'dying before dying' and psychedelic-induced analog states."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/I9VyyV4-3Js.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 tags: [nde, consciousness, death, immortality, near-death, white-light, out-of-body, psychedelics, eleusinian-mysteries, dying-before-dying]
 ---

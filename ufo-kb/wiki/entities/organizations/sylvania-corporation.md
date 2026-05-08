@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "U.S. electronics manufacturer whose investigators (principally Lewis Chase) participated in the Condon Commission's field investigations of UFO incidents in 1967–68, including the Malmstrom-area cases."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Sylvania Corporation
 aliases: [Sylvania Electric Products, GTE Sylvania]

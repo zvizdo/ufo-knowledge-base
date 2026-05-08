@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "September 1966: Gemini 11 mission transcripts record battery drain ('stack Charlie') and an object flying over the spacecraft; a lithograph labeled 'Strange object as seen by Gemini 11 astronauts' was later found in Scott Simkinson's NASA archive."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: "Gemini 11 UFO Encounter (1966)"
 date: "1966-09"

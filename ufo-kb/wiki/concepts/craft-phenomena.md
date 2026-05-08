@@ -3,8 +3,6 @@ type: concept
 name: Craft Phenomena
 aliases: [craft phenomena, craft-phenomena, UAP craft types, craft morphologies]
 first_seen_in: ufo-kb/wiki/entities/craft-phenomena/disc-shaped-craft.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Parent concept for the KB's craft-phenomena category: the morphological and behavioral taxonomy of UAP craft types — disc, triangle, tic-tac, cube-in-sphere, and others — as reported across decades of witness testimony, military observation, and alleged recovered craft accounts."
 tags: [craft, uap, morphology, taxonomy, disc, triangle, tic-tac, cube-in-sphere, craft-type]

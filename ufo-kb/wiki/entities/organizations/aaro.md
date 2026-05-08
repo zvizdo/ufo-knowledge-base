@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "All-domain Anomaly Resolution Office — the Pentagon's official UAP investigation office, established 2022; received Robert Salas's 2.5-hour briefing but declined to follow up with the Air Force on his case."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/6WC4o2yY9Ws.md]
 name: All-domain Anomaly Resolution Office
 aliases: [AARO]

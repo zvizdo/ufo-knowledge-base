@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Prestigious British military and defense publication where Nick Cook and Bill Sweetman worked as editors; notable in the UFO/UAP context for its institutional credibility — Cook and Sweetman's investigations gained authority from Jane's reputation for rigorous, insider-trusted defense reporting."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Jane's Defence Weekly
 aliases: [Jane's, Janes, Jane's Defense Weekly]

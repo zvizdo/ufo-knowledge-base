@@ -13,8 +13,6 @@ firsthand_claims:
   - Found mysterious fake-looking Facebook profile of man claiming to have contact with Valerie Ransone
 first_seen_in: raw/youtube-transcripts/2-GeTxXi670.md
 tags: [documentary, andrija-puharich, space-kids, the-nine, mk-ultra, mind-traveler]
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/2-GeTxXi670.md]
 summary: "Documentary filmmaker who spent ~10 years researching Andrija Puharich's life and archives, producing the film 'Mind Traveler'; accessed Puharich's tape recordings, journals, and space kids firsthand."
 ---

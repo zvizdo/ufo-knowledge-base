@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Recurring specific numbers — especially 747, 3-6-9, and related sequences — appearing in UAP-adjacent witness accounts, prophetic downloads, and classified program history; possible signal in the noise or pareidolia."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/ATJwqp5twAg.md]
 tags: [numbers, 747, nikola-tesla, consciousness, prophetic-dreams, coincidence, synchronicity]
 ---

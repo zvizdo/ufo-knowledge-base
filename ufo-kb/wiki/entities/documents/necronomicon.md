@@ -7,8 +7,6 @@ type_doc: book
 classification: public
 tags: [occult, grimoire, ritual, big-dipper, ceremony-of-walking, nrol-16, military-feedback, levenda]
 summary: "1977 occult grimoire published under the pseudonym 'Simon'; contains the 'ceremony of walking' ritual whose parameters (midnight, northeast/Big Dipper heading, number 5) match the 2005 NROL-16 classified satellite launch almost exactly; reportedly praised as 'spot on' by US military officers."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 ---
 

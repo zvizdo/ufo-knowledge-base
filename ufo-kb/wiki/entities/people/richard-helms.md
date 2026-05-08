@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA Director (1966–1973) who ordered all MK-Ultra files destroyed in 1973 as Watergate threatened to expose the CIA's classified programs."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md]
 name: Richard Helms
 aliases: []

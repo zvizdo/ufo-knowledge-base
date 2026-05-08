@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "NASA Mission Controller ('Dragon Control' console, Cape Canaveral); biotech entrepreneur (Vivex Biotechnologies, $88M); Nassau Group time-travel program (Townsend Brown president); tells Bledsoe 'I work for the Hammer and the Hammer works for God'; helped Linda Brown write her father's biography; linked to NRO, Aerospace Corporation, and Elon Musk."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/QgxjtDS2sIQ.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 name: Tim Taylor
 aliases: [Tyler D]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The hypothesis that a faction of tall, human-appearing NHI (Nordics) occupies a controlling or managerial role over other NHI types and over human civilization — appearing in contactee accounts, Men-in-Black reports, and some whistleblower testimony as the dominant species within a multi-entity NHI hierarchy."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [nhi, nordics, contactee, control-system, hierarchy, albert-bender, mib, antediluvian]
 ---
 

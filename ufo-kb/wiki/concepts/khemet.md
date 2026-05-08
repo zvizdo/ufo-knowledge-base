@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Ancient Egypt's own name for itself, conventionally translated as 'the Black Land' (referring to fertile Nile silt); Drum reframes it as 'land of chemistry' — root of the word 'alchemy' — describing the pyramid complex's industrial function rather than the soil color."
 tags: ["egypt", "etymology", "drum-thesis"]

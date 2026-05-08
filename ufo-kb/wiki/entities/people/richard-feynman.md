@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nobel Prize–winning physicist (QED) who attended the 1957 UNC Chapel Hill gravity conference; cited by Jesse Michels as a skeptical voice who demanded falsifiability — and whose name appears in the WADC-sponsored conference program."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Richard Feynman
 aliases: [Richard Phillips Feynman, RPF]

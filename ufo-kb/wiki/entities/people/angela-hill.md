@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFC fighter and granddaughter of Barney Hill — one of the first documented alien abductees (1961); appeared on Jesse Michaels' podcast without disclosing her ancestry until after recording."
-created: 2026-04-26
-updated: 2026-04-26
 name: Angela Hill
 aliases: [Overkill]
 roles: [other]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US counter-narcotics operation in Peru circa 1997, under which Jonathan Wagant was deployed; during the operation his Marine team was diverted to investigate a 'downed friendly plane' that turned out to be an egg/teardrop NHI craft embedded in a cliff face."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Operation Laser Strike
 aliases: [Laser Strike]

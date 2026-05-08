@@ -3,8 +3,6 @@ type: entity
 entity-type: places
 name: Dulce, New Mexico
 summary: "Small town on the Jicarilla Apache reservation in northwestern New Mexico; center of the contested 'Dulce underground base' mythology, originating from Myrna Hansen's hypnotic regression accounts and amplified by the AFOSI disinformation operation against Paul Benowitz."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/WBTqsbwJyqU.md]
 tags: [new-mexico, underground-base, dulce, jicarilla-apache, archeleta-mesa, benowitz, cattle-mutilations]
 aliases: []

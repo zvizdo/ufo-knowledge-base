@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Charles Hall's alternative physics framework (copyrighted 1997) arguing Einstein's Special Relativity is incomplete — light has more internal force fields than assumed, enabling FTL travel via additional subatomic particle classes rather than wormholes or spacetime warping."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/QgxjtDS2sIQ.md]
 tags: [hall-photon-theory, faster-than-light, einstein, special-relativity, ufo-propulsion, subatomic-particles, physics-lockdown, charles-hall, nuts-and-bolts]
 ---

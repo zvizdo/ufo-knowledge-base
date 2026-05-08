@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis that non-human intelligences function as information transmitters or teachers — delivering knowledge to contactees, scientists, or channelers rather than purely physical entities"
-created: 2026-04-27
-updated: 2026-04-27
 name: NHI as Information Source
 tags: [nhi, contactee, channeling, transmission-theory, consciousness, cosmism, disclosure-narratives]
 ---

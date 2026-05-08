@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Project Magnet — Canadian government UFO investigation program (1950–1954) led by Wilbert Smith at the Department of Transport. Unique in that it operated in response to insider intelligence: Smith had personally learned from Robert Sarbacher that UAPs were 'the most classified subject in the US government.' The only government UAP research program explicitly initiated on the basis of foreign-intelligence-sourced UAP briefings."
-created: 2026-04-27
-updated: 2026-04-27
 name: Project Magnet
 aliases: [Project Magnet, Canadian UFO program]
 parent_org: Department of Transport (Canada)

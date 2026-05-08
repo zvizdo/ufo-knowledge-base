@@ -6,8 +6,6 @@ roles: [other]
 affiliations: [andreessen-horowitz]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/ai-as-cosmic-gateway.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "American software engineer and venture capitalist; co-creator of Mosaic (the first graphical web browser); co-founder of Netscape and Andreessen Horowitz (a16z); cited in KB for describing Google's Willow quantum chip as requiring the multiverse to function."
 tags: [silicon-valley, venture-capital, quantum-computing, netscape, a16z]

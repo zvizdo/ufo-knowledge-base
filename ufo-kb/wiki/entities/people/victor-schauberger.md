@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Austrian naturalist and inventor who designed an implosion-based 'impeller' flying saucer concept; worked under Hans Kammler's SS secret weapons program; Nick Cook visited the Schauberger family archive and found his 1942 diary explicitly placing him at Kammler-Stab locations under the note 'What I am doing is secret.'"
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/Jpf0ZGY87c0.md]
 name: Victor Schauberger
 aliases: [Viktor Schauberger]

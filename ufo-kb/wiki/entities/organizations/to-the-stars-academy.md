@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "To The Stars Academy of Arts & Science (TTSA) — organization co-founded by Tom DeLonge, Luis Elizondo, and Chris Mellon in 2017. Functioned as the civilian disclosure vehicle that released the Nimitz/FLIR footage and triggered the modern UAP disclosure era."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: To The Stars Academy of Arts & Science
 aliases: [TTSA, ttsa, To The Stars, to-the-stars-academy]

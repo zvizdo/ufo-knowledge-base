@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Full American Alchemy episode featuring Michael Herrera and UAPGerb — the most detailed public account of the 2009 Indonesia UAP encounter, P3 psionic asset programs, Jake Barber's insider disclosures, scalar healing technology, and the transnational breakaway civilization thesis."
-created: 2026-04-26
-updated: 2026-05-04
 sources: [raw/youtube-transcripts/D2tKCFmJjks.md]
 video_id: D2tKCFmJjks
 tags: [michael-herrera, indonesia-ufo, jake-barber, uapgerb, psionics, p3-assets, scalar-healing, reverse-engineered-craft, ce-5, american-alchemy, breakaway-civilization, sdi, operation-paperclip, 31st-meu]

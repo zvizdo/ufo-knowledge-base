@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=KRDE1i3LDuU
 duration_minutes: ~90
 sources: [raw/youtube-transcripts/KRDE1i3LDuU.md]
 tags: [plato, philosophy, consciousness, epistemology, cave-allegory, disclosure, american-alchemy, heidegger, prometheus, umwelt, eleusinian-mysteries, jim-madden]
-created: 2026-04-26
-updated: 2026-05-04
 ---
 
 # Plato's Cave & UFOs: Consciousness Is Key (ft. James Madden)

@@ -4,8 +4,6 @@ entity-type: people
 name: Jeff Natelli
 aliases: []
 summary: "USAF security officer at Vandenberg AFB who witnessed and responded to five UAP incidents between 2003 and 2005, including the October 14 2003 Vandenberg Red Square and a triangular craft larger than a football field."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Qe8br8yYEDM.md]
 roles: [witness, military]
 affiliations: [US Air Force, vandenberg-afb]

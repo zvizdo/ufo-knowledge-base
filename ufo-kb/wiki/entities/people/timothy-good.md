@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British UFO researcher and author of Above Top Secret (1987), the book that launched Richard Dolan's career and is considered a canonical work on the worldwide government UFO cover-up."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Timothy Good
 aliases: [Tim Good]

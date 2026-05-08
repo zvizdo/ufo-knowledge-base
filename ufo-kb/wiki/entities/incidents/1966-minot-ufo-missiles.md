@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "September 1966: all 10 Minuteman missiles at a Minot AFB, North Dakota flight go offline during reported UFO activity — the earliest incident in Salas's 30-missile UFO-nuclear shutdown sequence."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: 1966 Minot AFB UFO Missile Shutdown
 date: 1966-09

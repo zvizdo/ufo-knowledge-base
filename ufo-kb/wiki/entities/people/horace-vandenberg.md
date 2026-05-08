@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF General and Air Force Chief of Staff (1948–1953) who rejected and ordered destroyed the Project Sign 'Estimate of the Situation' — the classified report concluding UFOs were likely extraterrestrial. Key institutional suppressor in early UFO history."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Horace Vandenberg
 aliases: [Hoyt Sanford Vandenberg, General Vandenberg]

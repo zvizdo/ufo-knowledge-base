@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Director of the CIA under JFK; recipient of a letter from Kennedy regarding classified matters including alleged UAP briefings; connected to the nexus of JFK's assassination and UAP disclosure."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: John McCone
 aliases: [McCone]

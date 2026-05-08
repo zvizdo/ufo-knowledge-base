@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "June 19, 2011 sidescan sonar discovery by Ocean X of a 60-meter anomalous object at 90 m depth in the Baltic Sea — the initial event that launched a 15-year investigation still ongoing as of 2025."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aGqFOxuYRT0.md]
 name: 2011 Baltic Sea Anomaly Discovery
 date: 2011-06-19

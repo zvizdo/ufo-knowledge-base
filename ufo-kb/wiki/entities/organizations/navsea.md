@@ -6,8 +6,6 @@ roles: []
 affiliations: [us-navy, dod]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/places/washington-navy-yard.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Navy command responsible for design, acquisition, and maintenance of ships and combat systems; headquartered at Washington Navy Yard; relevant to UAP discourse as the acquisition chain through which Salvatore Pais's Navy-patented propulsion physics was processed."
 tags: [navsea, navy, acquisition, ships, weapons-systems, pais-effect, washington-navy-yard]

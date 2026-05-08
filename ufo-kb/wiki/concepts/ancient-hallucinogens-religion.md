@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis that psychoactive substances (ergot, lotus, opium, ayahuasca, psilocybin, DMT) were the common substrate of ancient divine contact, mystery schools, and civilizational leaps across cultures"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/92XrddiKjHY.md, raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/I9VyyV4-3Js.md, raw/youtube-transcripts/dfPfPB601hw.md]
 tags: [hallucinogens, mystery-schools, ancient-egypt, eleusinian-mysteries, ayahuasca, dmt, ergot, lotus, religion, consciousness, civilizational-leap]
 ---

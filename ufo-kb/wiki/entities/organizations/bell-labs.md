@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Bell Telephone Laboratories; AT&T R&D arm; named by Philip Corso as primary corporate recipient of seeded Roswell-derived materials for transistor/integrated-circuit research"
-created: 2026-05-02
-updated: 2026-05-02
 name: Bell Labs
 aliases: [bell-telephone-laboratories, att-bell-labs]
 type_of_org: private-co

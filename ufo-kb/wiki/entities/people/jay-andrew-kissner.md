@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [new-mexico-state-legislature]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/u7g5Sn1DJF4.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 summary: "New Mexico state representative who, in 1994–1995, conducted a series of interviews with firsthand legacy-program personnel (Office of Naval Research, Air Force, and others), documenting crash retrieval from 1947 under Vannevar Bush's direction, AFSWP involvement, and a shift in the early 1950s when craft custody transferred to DOE/NNSA national labs. Briefed fellow NM state rep Steven Schiff, prompting Schiff's GAO audit into Roswell records — which found the Air Force had lost all relevant files."
 tags: [legacy-programs, crash-retrieval, new-mexico, national-labs, 1947-roswell, afswp, doe, disclosure]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former Republican Governor of Arizona (1991–1997); firsthand witness to the 1997 Phoenix Lights; initially publicly ridiculed the event but later reversed and confirmed his sighting; appeared in James Fox's documentaries."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: Fife Symington
 aliases: [J. Fife Symington III]

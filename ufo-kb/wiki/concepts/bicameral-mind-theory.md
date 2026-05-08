@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Julian Jaynes's thesis that pre-1000 BC humans lacked unified consciousness and experienced internal monologue as literal divine voices — the 'bicameral mind'"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/92XrddiKjHY.md]
 tags: [consciousness, psychology, ancient-history, divine-voices, left-brain, religion, julian-jaynes, bicameral]
 ---

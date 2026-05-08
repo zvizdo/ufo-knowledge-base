@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Ed May's hypothesis that micro-PK (mind-over-matter on random number generators) experimental results may be explained entirely by researcher precognition guiding trial start-times, with no actual psychokinesis occurring — with potentially sweeping implications for experimental science."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hXYdkcv5TtY.md]
 tags: [decision-augmentation, micro-pk, precognition, parapsychology, replication-crisis, stargate, ed-may, wargo]
 ---

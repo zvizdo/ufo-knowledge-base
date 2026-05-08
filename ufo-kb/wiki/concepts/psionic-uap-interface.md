@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The hypothesis that trained human psychic operators can interface with, summon, or influence UAP behavior; supported by CE-5 protocols, remote-viewing program outputs, and accounts from Herrera and Ramsay episodes; overlaps with consciousness-as-technology."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [consciousness, remote-viewing, ce-5, psi, uap, herrera, ramsay]
 ---
 

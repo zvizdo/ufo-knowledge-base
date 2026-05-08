@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "French Catholic literary theorist and philosopher; originator of mimetic theory (all human desire is imitative) and the scapegoat mechanism (institutionalized violence as social cohesion); his 'theory of everything' for human violence was considered heretical by both religious scholars and evolutionary biologists."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 name: René Girard
 aliases: [Rene Girard, René Girard]

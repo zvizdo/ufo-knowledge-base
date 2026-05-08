@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "One of two child witnesses to the 1945 San Antonio, NM UFO crash; age ~9 at the time; son of a local cattle rancher; entered the craft area and observed its interior, unlike his companion Remy Baca."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
 name: Jose Padilla
 aliases: []

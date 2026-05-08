@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "SS General who oversaw Nazi Germany's most secret weapons programs (V-2, jet propulsion, concentration camp construction) and ran Kammler-Stab — the black special projects office in Czechoslovakia. By 1945, hatched a secret plan to assassinate Hitler and was reportedly in secret negotiations with the Western Allies, offering his secret weapons files in exchange for his life."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Hans Kammler
 aliases: [Hans Kammer, SS-Obergruppenführer Kammler]

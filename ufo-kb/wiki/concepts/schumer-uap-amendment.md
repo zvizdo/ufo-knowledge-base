@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The Schumer-Rounds UAP Disclosure Amendment (2023) proposed a UAP Records Review Board modeled on the JFK Records Act — mandating declassification of UAP-related government records within a fixed timeframe. It passed the Senate but was significantly weakened in final legislation."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [legislation, disclosure, uap, senate, ufo-policy]
 ---
 

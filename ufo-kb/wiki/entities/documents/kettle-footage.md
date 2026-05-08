@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Film footage from the Kettle 2 camera position during the 1962 Bluegill Triple Prime nuclear test; allegedly captured the UAP 'tag-along' event; the Department of Energy told researcher Jeffrey Kruchshank in 2023 it was 'unable to locate' this footage."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 title: Kettle 2 Footage (Bluegill Triple Prime)
 authors: []

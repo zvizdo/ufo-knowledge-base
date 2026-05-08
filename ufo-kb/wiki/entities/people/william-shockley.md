@@ -6,8 +6,6 @@ roles: [other]
 affiliations: [bell-labs]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/youtube-transcripts/RNjC1vLcxKo.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/RNjC1vLcxKo.md]
 summary: "American physicist and inventor; co-inventor of the transistor at Bell Labs (Nobel 1956); founder of Shockley Semiconductor; cited in KB for the 'god-like, alien-like figure' archetype — colleagues described him in mystical / extraterrestrial terms, mirroring patterns seen with other foundational technologists (Newton-as-alchemist, Pauli-as-mystic)."
 tags: [bell-labs, transistor, semiconductor, nobel, shockley-semiconductor, alien-figure-archetype, eugenics-controversy]

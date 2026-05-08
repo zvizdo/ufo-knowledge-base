@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Christian researcher, author, filmmaker, and field investigator specialising in biblical giants, Nephilim theology, UFO/NHI phenomena, and ancient mysteries."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [giants, nephilim, book-of-enoch, ufology, ancient-mysteries, christianity, peru, sardinia, kandahar]
 name: Tim Alberino

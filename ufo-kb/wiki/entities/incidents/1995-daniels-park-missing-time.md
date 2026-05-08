@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "John Blitch's ~5-hour missing-time mountain bike incident near a Native American burial ground at Daniels Park, south/southwest of Denver (1995), involving a spontaneous nosebleed, immediate loss of consciousness, and fragmented memories of bright lights and an unknown man in a red plaid shirt."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/yAvD5UTziTo.md]
 name: 1995 Daniels Park Missing Time
 date: 1995 (post-April 19; in weeks after Oklahoma City bombing)

@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy investigative episode examining a cluster of missing, murdered, or classified-absorbed scientists in 2025–2026, framing them as a potential pattern tied to advanced defense and UAP-adjacent research."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 video_id: wlsQIbpEKSM
 title: "Why America's Top Scientists Are Going Missing"

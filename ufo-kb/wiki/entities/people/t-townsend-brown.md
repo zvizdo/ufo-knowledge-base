@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American physicist and inventor who reported electrogravitic effects (Biefeld-Brown effect); associated with the Philadelphia Experiment; worked at Martin Corporation the same year Lockheed's Skunk Works was founded; temporal displacement reports parallel Die Glocke phenomena."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: T. Townsend Brown
 aliases: [Townsend Brown, Thomas Townsend Brown]

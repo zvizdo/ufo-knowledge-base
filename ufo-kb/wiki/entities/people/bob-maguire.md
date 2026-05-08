@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA/NSA/NRO mathematician and engineer, founder of Hawkeye 360 (satellite RF intelligence) and Hume Center at Virginia Tech; amateur UFO researcher who witnessed orbs at Chris Bledsoe's property and is developing a consciousness-physics bridge theory."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md]
 name: Bob Maguire
 aliases: [Science Bob, Bob McGwire]

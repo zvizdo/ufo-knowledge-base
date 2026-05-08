@@ -6,8 +6,6 @@ aliases: [DIA UAP Report, DIA advanced aerospace threat report, DIA UFO report]
 authors: []
 date: 2010
 first_seen_in: ufo-kb/wiki/concepts/ufo-documents.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Defense Intelligence Agency documents related to the UAP/UFO topic; most notably, a set of 38 DIA-commissioned scientific reports produced under the AAWSAP/BAASS contract (2008-2010) on advanced aerospace topics, partially released via FOIA; also referenced in the Wilson-Davis memo context."
 tags: [dia, documents, aawsap, baass, advanced-aerospace, foia]

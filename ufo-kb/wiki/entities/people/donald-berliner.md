@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO crash-retrieval researcher active in the late 1970s–1980s FOIA era; part of the cohort (alongside Stringfield, Friedman, Randle) who systematically investigated and published crash retrieval accounts using newly released FOIA documents."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Donald Berliner
 aliases: []

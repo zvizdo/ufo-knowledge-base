@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=Sct30Qijfv8
 duration_minutes: ~120
 tags: [american-alchemy, nswc-crane, offworld-technology, green-beret, witness, psionics, hieroglyphics, area-51, anti-gravity, consciousness]
 sources: [raw/youtube-transcripts/Sct30Qijfv8.md]
-created: 2026-04-26
-updated: 2026-04-26
 ---
 
 # "I Saw Alien Technology At A Military Base!" (ft. Randy Anderson)

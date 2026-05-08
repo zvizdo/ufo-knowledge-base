@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Legendary Hollywood director; alleged to possess insider knowledge about UFO/UAP reality based on a reported private screening quote; his films (Close Encounters, E.T.) are framed by some as culturally seeding disclosure."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JE1oM89dpBc.md]
 name: Steven Spielberg
 aliases: [Spielberg]

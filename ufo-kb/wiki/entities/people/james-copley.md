@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Communications officer aboard the USS John F. Kennedy aircraft carrier in 1971 who witnessed a glowing orange orb that disabled ship communications and weapons systems; carrier went to general quarters for ~20 minutes."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: James Copley
 aliases: [James Cop]

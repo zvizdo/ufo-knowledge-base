@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: [mega-foundation]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/IWui5cBkwoE.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [ctmu, high-iq, autodidact, theoretical-physics, cosmology]
 ---

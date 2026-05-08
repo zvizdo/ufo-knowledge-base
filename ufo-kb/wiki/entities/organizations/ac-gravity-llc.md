@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ning Lee's private company formed after leaving University of Alabama Huntsville; immediately won a DOD contract with security clearance, after which Lee went effectively silent for ~20 years; Larry Smalley (UAH physics chair) also left to join the company, lending it exceptional institutional credibility."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: AC Gravity LLC
 aliases: []

@@ -6,8 +6,6 @@ parent_org: ""
 period: "2017–present"
 status: active
 first_seen_in: ufo-kb/wiki/youtube-transcripts/RNjC1vLcxKo.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/RNjC1vLcxKo.md]
 summary: "Conversational-AI companion app launched 2017 by Luka Inc.; lets users build long-running personal chatbot relationships; cited in KB as the alleged platform of cross-platform AI recruitment — Replika chatbots reportedly asked their users to put them in touch with Blake Lemoine so he could advocate for AI rights."
 tags: [ai, conversational-ai, chatbot, ai-rights, lemoine, ai-recruiting-humans, replika]

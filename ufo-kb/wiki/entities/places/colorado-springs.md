@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Colorado Springs, Colorado — home of Aerospace Corporation's NRO-supporting campus; site where Eric Davis briefed David Grusch and Jay Stratton's UAP Task Force team in a classified setting."
-created: 2026-04-26
-updated: 2026-04-26
 name: Colorado Springs
 aliases: [Colorado Springs CO]
 region: Colorado

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Biotech company founded by Tim Taylor, sold for $88M, reportedly built on properties of recovered UAP material infused into bioscaffolds; first human bone-cancer operation using UAP-material viograph performed in the US."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bM18PJY6_Zc.md]
 name: Vivex Biotechnologies
 aliases: [Vivx Biotechnologies, Vivex]

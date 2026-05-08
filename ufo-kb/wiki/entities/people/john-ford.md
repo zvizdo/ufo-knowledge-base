@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Head of the Long Island UFO Network who investigated the alleged 1989 Long Island USO/crash near Brookhaven National Lab; was subsequently incarcerated on apparently fabricated charges of plotting to poison a county official with radioactive toothpaste."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: John Ford
 aliases: []

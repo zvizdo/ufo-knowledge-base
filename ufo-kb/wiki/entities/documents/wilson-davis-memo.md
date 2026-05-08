@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Handwritten notes allegedly taken by Dr. Eric Davis from a conversation with Admiral Thomas R. Wilson in a Las Vegas parking lot on October 16, 2002. Wilson allegedly confirmed knowledge of a private-sector crash-retrieval and reverse-engineering program that he was denied access to as DIA Director. One of the most significant alleged documents in UAP disclosure history."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 title: Wilson-Davis Memo
 authors: [eric-davis]

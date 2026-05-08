@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Elon Musk's brain-computer interface company; in the KB through Jared Birchall (Musk's personal handler and Neuralink board member), whose Mormon intelligence network connections parallel the structure of Frank Gay's 'Mormon Mafia' that managed Howard Hughes and ran CIA operations in the 1960s–70s."
-created: 2026-05-05
-updated: 2026-05-05
 name: Neuralink
 aliases: []
 type_detail: private-company

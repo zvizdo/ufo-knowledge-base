@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The Fermi Paradox: given the age and size of the universe, the apparent absence of detectable extraterrestrial civilizations is puzzling — where is everybody? In UAP discourse, it is cited as motivation for the interdimensional/postbiological/consciousness hypotheses that explain why advanced NHI are not radiating obvious signals."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/ZTIO-xAP0Dw.md, raw/youtube-transcripts/_bM9eAtCOGw.md, raw/youtube-transcripts/dzTZbSNsKV8.md]
 tags: [fermi-paradox, extraterrestrial, seti, nhi, postbiological, john-barrow]
 ---

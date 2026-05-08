@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "National Underwater Reconnaissance Office — the alleged 6th major US intelligence agency, established 1969, still not publicly acknowledged; identified by UAPGerb as a UAP legacy-program administrator alongside NSA/DIA/CIA/NRO/NGA."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: NURO
 aliases: [National Underwater Reconnaissance Office]

@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [cia]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/theodore-shackley.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "CIA paramilitary operative; involved in the capture and execution of Che Guevara (1967); key figure in Vietnam's Phoenix Program and Iran-Contra drug trafficking network; met with a George H.W. Bush aide regarding Iran-Contra; named in Danny Sheehan's Christic Institute complaint."
 tags: [cia, iran-contra, phoenix-program, che-guevara, paramilitary, shadow-government, sheehan]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Huxley's prediction and Muraresku's extension: a new Eleusinian mystery tradition is emerging in the 21st century through three channels — state-sanctioned therapeutic (FDA/Oregon), underground Dionysian (Burning Man lineage), and First Amendment religious exercise."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/I9VyyV4-3Js.md]
 tags: [psychedelics, religion, psilocybin, lsd, dmt, huxley, muraresku, oregon-model, first-amendment, burning-man, eleusinian-revival, therapeutic]
 ---

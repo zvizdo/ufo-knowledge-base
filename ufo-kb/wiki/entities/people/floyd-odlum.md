@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Prominent aerospace lawyer and investor; majority owner of Northrop before its merger with Grumman; became the sole investor in Thomas Townsend Brown's Guidance Technologies after Edward Teller's astonishment at Brown's demos — then Northrop published an electrogravitics paper within months of Guidance Technologies closing, and his wife received payments from Odlum for the rest of her life."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Floyd Odlum
 aliases: []

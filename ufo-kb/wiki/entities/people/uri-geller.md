@@ -3,8 +3,6 @@ type: entity
 entity-type: people
 name: Uri Geller
 summary: "Israeli-British illusionist and self-described psychic; tested by SRI in the early 1970s under the CIA/military remote viewing program; his results generated genuine scientific controversy before his methods were disputed."
-created: 2026-04-25
-updated: 2026-04-25
 roles: [witness, other]
 affiliations: []
 firsthand_claims: ["Demonstrated psychokinesis and remote viewing under controlled SRI conditions"]

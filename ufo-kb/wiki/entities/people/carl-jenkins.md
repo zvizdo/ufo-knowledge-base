@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Carl Jenkins — CIA paramilitary operations officer; key figure in the S-Force / ZR-RIFLE / Operation 40 network that Danny Sheehan identifies as the team responsible for the JFK assassination."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Carl Jenkins
 aliases: []

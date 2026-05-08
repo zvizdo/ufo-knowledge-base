@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA front company operated through Howard Hughes that built the Glomar Explorer — ostensibly to recover a Soviet submarine — which Dolan cites as proof that the US government has the capability (and likely the practice) of recovering objects from deep ocean floors."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Global Marine Corporation
 aliases: [Glomar Marine, Hughes Glomar Explorer operator]

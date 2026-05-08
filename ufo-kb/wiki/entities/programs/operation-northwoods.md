@@ -7,8 +7,6 @@ parent_org: Joint Chiefs of Staff
 period: "1962"
 status: declassified
 summary: "Declassified 1962 Joint Chiefs proposal to stage false-flag attacks against US citizens and infrastructure to justify military intervention in Cuba; approved by the Joint Chiefs but rejected by JFK. The paradigm case for government willingness to deceive the public on national security matters."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [program, false-flag, declassified, jfk, cuba, covert-action]
 ---
 

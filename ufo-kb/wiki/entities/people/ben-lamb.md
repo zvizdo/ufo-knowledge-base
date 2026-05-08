@@ -6,7 +6,6 @@ affiliations: [Colossal Biosciences]
 firsthand_claims: []
 first_seen_in: HxQN2tkQHs8
 tags: [colossal-biosciences, dna, de-extinction, nazca-mummies]
-updated: 2026-04-26
 ---
 
 # Ben Lamb

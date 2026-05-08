@@ -7,8 +7,6 @@ location: Philadelphia Naval Shipyard, Pennsylvania
 witnesses: []
 corroboration: hearsay
 summary: "Alleged 1943 US Navy experiment in which the USS Eldridge was reportedly rendered invisible to radar and briefly teleported; no credible official confirmation exists; T. Townsend Brown and his temporal displacement research are sometimes associated with it; the account circulated through Carlos Allende's annotated copy of the Varo edition of 'Unified Field Theory.'"
-created: 2026-05-05
-updated: 2026-05-05
 tags: [uss-eldridge, teleportation, invisibility, rainbow, allende, townsend-brown, navy, philadelphia]
 ---
 

@@ -8,8 +8,6 @@ craft_type: recovered artifacts (orb + gauntlet device)
 corroboration: firsthand
 tags: [nswc-crane, offworld-technology, levitating-orb, hieroglyphics, underground-facility, green-beret, consciousness, crash-retrieval]
 sources: [raw/youtube-transcripts/Sct30Qijfv8.md]
-created: 2026-04-26
-updated: 2026-04-26
 ---
 
 # 2014 NSWC Crane Off-World Technology Division

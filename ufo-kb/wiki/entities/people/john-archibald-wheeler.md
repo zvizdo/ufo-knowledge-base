@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "John Archibald Wheeler — Princeton physicist; coined the terms 'black hole' and 'wormhole'; advocated the participatory universe ('It from Bit') — the idea that consciousness is fundamental to physical reality. Referenced in UAP/consciousness contexts for his quantum measurement interpretation."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: John Archibald Wheeler
 aliases: [J.A. Wheeler, Wheeler]

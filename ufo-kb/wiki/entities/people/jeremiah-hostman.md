@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Sedona-based UAP researcher (with wife Alexandra) who has documented anomalous activity at Secret Mountain and Bradshaw Ranch through systematic on-the-ground investigation."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Jeremiah Hostman
 aliases: []

@@ -7,8 +7,6 @@ parent_org: state-university-of-new-york
 country: USA
 active_period: 1844–present
 tags: [academic-research, suny, kevin-knuth, physics-research]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

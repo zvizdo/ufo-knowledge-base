@@ -3,8 +3,6 @@ type: concept
 name: Noble Myth / Cultural Filter
 aliases: [cultural filter hypothesis, noble myth of the time, cultural idiom adaptation]
 tags: [jacques-vallee, diana-pasulka, cultural-adaptation, phenomenology, betty-hill, barney-hill, outer-limits, angels-demons-aliens, interdimensional, claims-theses]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
 ---
 

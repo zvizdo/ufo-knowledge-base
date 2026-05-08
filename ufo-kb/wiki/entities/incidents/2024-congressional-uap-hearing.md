@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Congressional UAP oversight hearing at Rayburn House Office Building, November 2024; featured testimony from Michael Shellenberger on the Immaculate Constellation report."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: 2024 Congressional UAP Hearing (Rayburn)
 date: 2024-11

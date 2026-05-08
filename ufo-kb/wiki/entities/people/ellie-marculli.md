@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO/NHI researcher and colleague of Tim Alberino; independently collected a corroborating Kandahar Giant account from a special ops soldier; worked with Roger Lear on implant extractions."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [kandahar-giant, implants, roger-lear, ufology, researcher]
 name: Ellie Marculli

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Head of Lockheed Skunk Works when Nick Cook visited the Palmdale headquarters; mentioned he had overseen 15 real flying aircraft but could only discuss 12 — leaving three unacknowledged programs; Cook also spotted 'ASTRA' on a Skunk Works org chart during that visit."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Jack Gordon
 aliases: []

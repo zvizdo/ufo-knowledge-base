@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Secret aerial operations facility at Yucca Flat on the Nevada Test and Training Range; houses a Lockheed Martin aerial operations facility that does work for DTRA, DARPA, NRO, and NGA — almost unknown outside the research community."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Area 6
 aliases: []

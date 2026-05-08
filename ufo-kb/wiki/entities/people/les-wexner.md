@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Founder and CEO of Victoria's Secret and Limited Brands; Jeffrey Epstein's primary financial backer; provided Epstein with a house in Ohio and substantial funding; wrote in his diary in the 1980s or 90s about being haunted by a dybbuk (Hebrew: demon)—a detail that extends the Epstein network into occult/supernatural territory."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Les Wexner
 aliases: [Leslie Wexner, L Brands founder]

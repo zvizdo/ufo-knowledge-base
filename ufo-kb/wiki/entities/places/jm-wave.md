@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "JM/WAVE — the CIA's Miami Station; the largest CIA domestic station in US history during the early 1960s, operating under cover as a front company ('Zenith Technical Enterprises'); coordinated anti-Castro operations and is alleged to be a hub for the S-Force/Operation 40 network."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: JM/WAVE
 aliases: [JMWAVE, Miami Station, Zenith Technical Enterprises]

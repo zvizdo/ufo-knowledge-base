@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Journalist and researcher who documented 167 security-cleared witnesses to UFO activity at nuclear weapons facilities in the book UFOs and Nukes; worked as a janitor at Malmstrom AFB in 1967."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/73YBwFvcmF8.md, raw/youtube-transcripts/ATJwqp5twAg.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/Qe8br8yYEDM.md, raw/youtube-transcripts/TH10mD9hQas.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/h0hAit-KH9A.md, raw/youtube-transcripts/kRO5jOa06Qw.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 name: Robert Hastings
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA biological warfare offshoot program running parallel to MK Ultra; Frank Olson was a key researcher at Fort Detrick working under MK Naomi; the program developed biological agents and delivery systems."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: MK Naomi
 aliases: [MKNAOMI, Project Naomi]

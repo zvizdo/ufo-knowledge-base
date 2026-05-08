@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former nuclear-base security officer with a CE3 camping-trip encounter in 1977; his partner Toby disappeared and never fully recovered, dying with a drinking problem; parallel case to Mario Woods."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/73YBwFvcmF8.md]
 name: Terry Lovelace
 aliases: []

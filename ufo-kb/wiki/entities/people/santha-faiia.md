@@ -2,8 +2,6 @@
 type: entity
 entity-type: people
 summary: "Graham Hancock's wife and research partner; together they discovered Philip Hancock's inscription (5 April 1916) near the summit of the Great Pyramid, confirmed by Philip's wartime diary."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md]
 name: Santha Faiia
 aliases: [Santa Faiia]

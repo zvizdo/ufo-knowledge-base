@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Los Alamos nuclear weapons scientist and test director; connected to Operation Dominic and the high-altitude nuclear test program; referenced in the context of the Bluegill Triple Prime UAP shootdown incident."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: William Ogle
 aliases: [Ogle]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "NASA's primary human spaceflight center in Houston, Texas; site of Gary McKinnon's most significant hack finds, including UAP satellite imagery in Building 8 and alleged non-terrestrial officer logistics."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md]
 name: Johnson Space Center
 aliases: [JSC, NASA JSC, Houston]

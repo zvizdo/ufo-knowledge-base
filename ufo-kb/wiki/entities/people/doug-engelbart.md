@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Computer scientist; inventor of the mouse; co-developed an early ARPANET precursor alongside Jacques Vallée at SRI."
-created: 2026-04-28
-updated: 2026-04-28
 sources: [raw/youtube-transcripts/dzTZbSNsKV8.md]
 name: Doug Engelbart
 aliases: [Douglas Engelbart]

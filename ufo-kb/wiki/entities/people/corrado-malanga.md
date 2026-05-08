@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Italian researcher and head of the Giza substructure scanning research group; collaborator with Filippo Biondi and Armando Mei on the Beyond Protocol Giza project"
-created: 2026-04-27
-updated: 2026-04-27
 name: Corrado Malanga
 aliases: []
 roles: [researcher]

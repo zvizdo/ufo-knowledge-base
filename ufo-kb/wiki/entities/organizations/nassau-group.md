@@ -7,8 +7,6 @@ type: alleged-classified-program
 country: USA
 active_period: alleged ongoing
 tags: [nassau-group, time-travel, tim-taylor, nassau-bahamas, classified-program, adjustment-bureau]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Nassau Group

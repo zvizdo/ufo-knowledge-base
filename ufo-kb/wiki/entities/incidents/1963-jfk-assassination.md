@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "November 22, 1963: assassination of President John F. Kennedy in Dallas, Texas. Per Danny Sheehan, carried out by Nixon's 15-man 'S Force' with David Morales as the grassy-knoll shooter; Oswald was a witting patsy; Allen Dulles activated the team after discovering JFK's secret nuclear disarmament letters to Khrushchev."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: JFK Assassination
 date: 1963-11-22

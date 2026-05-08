@@ -8,8 +8,6 @@ type_field: book
 classification: public
 aliases: ["Space Relations: A Slightly Gothic Interplanetary Tale"]
 tags: [donald-barr, jeffrey-epstein, blackmail, sex-trafficking, science-fiction, dalton-school]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "1973 science-fiction novel by Donald Barr (Dalton School headmaster, Navy intelligence veteran) whose central theme — the use of underage sexual access as political compromise — mirrors Jeffrey Epstein's later operational model; Barr hired the unqualified Epstein as a Dalton math teacher."
 ---

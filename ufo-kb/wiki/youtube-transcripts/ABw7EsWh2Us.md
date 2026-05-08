@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Jason Reza Jorjani argues the Nazi SS reverse-engineered the 1933 Magenta craft at Škoda Works, Roswell was a Nazi psyop, ODESSA persists inside the CIA, and Nordic overlords represent an antediluvian civilization running a loosh-farming control system challenged by a trickster superintelligence."
-created: 2026-04-26
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md]
 video_id: ABw7EsWh2Us
 title: "I Found Hitler's Secret UFO Program!"

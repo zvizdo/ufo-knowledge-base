@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 video_id: qAou_h1POWs
 title: "The 26 Year Old Prodigy Reverse Engineering UFOs (Ft. Deep Prasad)"
 channel: American Alchemy

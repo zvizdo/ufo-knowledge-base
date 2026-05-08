@@ -7,8 +7,6 @@ witnesses: [kirsan-ilyumzhinov, several-dozen-soldiers]
 craft_type: Multiple unidentified aerial craft
 corroboration: multi-witness (dozens of soldiers photographed craft; commission from Moscow confiscated all cameras)
 summary: "During Soviet Army exercises on the Black Sea in 1981, several dozen unidentified craft flew in directly; soldiers photographed them with personal cameras; a commission arrived from Moscow central headquarters, confiscated and destroyed all cameras, and required everyone to sign secrecy agreements."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 tags: [soviet-union, military, ufo-sighting, secrecy, black-sea, 1981, mass-sighting]
 ---

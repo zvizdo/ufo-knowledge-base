@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alabama-based scientist who was openly researching anti-gravity technology when she died in 2022 from a claimed self-inflicted gunshot; she repeatedly warned friends beforehand that her life was in danger and explicitly stated she would not commit suicide."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Amy Escridge
 aliases: []

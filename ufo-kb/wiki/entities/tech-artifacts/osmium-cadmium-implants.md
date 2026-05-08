@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Metal implants found inside M-type Nazca tridactyl mummy bodies; contain osmium and cadmium (ultra-rare earth metals found on meteorites); organic tissue osseointegrated to them, indicating beings were alive when implanted; osmium 1,500× rarer than gold"
-created: 2026-04-26
-updated: 2026-04-26
 name: Osmium-Cadmium Implants (Nazca)
 aliases: [Nazca metal implants, tridactyl implants]
 category: implant

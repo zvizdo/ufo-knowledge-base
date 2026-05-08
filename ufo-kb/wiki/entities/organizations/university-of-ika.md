@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Peruvian university currently hosting and studying the Nazca tridactyl mummies; has resisted 7 government attempts to seize the bodies; VP Martin Alcron documents ongoing political pressure"
-created: 2026-04-26
-updated: 2026-04-26
 name: University of Ika
 aliases: [Universidad de Ica, University of Eeka]
 type: research-group

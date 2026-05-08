@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2021 book by Jacques Vallée and Paola Harris documenting the alleged 1945 San Antonio, NM UFO crash — 20 days after the Trinity atomic test and two years before Roswell; argues UFO history predates the postwar 'flying saucer' era."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
 title: "Trinity: The Best Kept Secret"
 authors: [Jacques Vallée, Paola Harris]

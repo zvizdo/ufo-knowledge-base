@@ -16,8 +16,6 @@ firsthand_claims:
   - Documented bone-induction radio reception — individuals receiving radio signals through metallic dental work
 first_seen_in: raw/youtube-transcripts/2-GeTxXi670.md
 tags: [parapsychology, cia, mk-ultra, elf-waves, consciousness, uri-geller, remote-viewing, the-nine, space-kids, tooth-implant, td-100, mind-control, scalar-waves, bone-induction, channeling]
-created: 2026-04-26
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/2-GeTxXi670.md, raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/73YBwFvcmF8.md, raw/youtube-transcripts/75Je_0hZovQ.md]
 summary: "Croatian-American medical doctor, inventor, and parapsychologist (1918–1995) who conducted early classified research into ELF waves and consciousness; organized The Nine channeling sessions from 1952; ran the Space Kids program in the 1970s; invented the TD-100 thought-transmission device; the central figure at the intersection of CIA mind control, psychic research, and NHI contact claims."
 ---

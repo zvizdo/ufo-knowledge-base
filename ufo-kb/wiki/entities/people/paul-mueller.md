@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Director at the Paris Observatory in 1961 who confiscated and destroyed Jacques Vallée's tracking tape of an unidentified retrograde-orbit object — an early instance of deliberate suppression of anomalous astronomical data."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 name: Paul Mueller
 aliases: []

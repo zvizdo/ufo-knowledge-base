@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Hypothesis that life exists throughout the universe and is distributed via asteroids, comets, or spacecraft. Directed panspermia (Crick & Orgel, 1973) proposes deliberate seeding of Earth by an extraterrestrial civilization — the scientific-adjacent version of the NHI-origin-of-life thesis."
-created: 2026-04-26
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/dfPfPB601hw.md, raw/youtube-transcripts/q7Czo77qhHA.md, raw/youtube-transcripts/wT5-hXWIkzM.md, raw/youtube-transcripts/jMCavr3dVP0.md]
 tags: [origin-of-life, extraterrestrial, nhi, francis-crick, directed-panspermia, astrobiology]
 ---

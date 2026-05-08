@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "17-day drone swarm incursion at Langley Air Force Base (Hampton, Virginia) in late 2024; Chris Mellon suggested a possible mothership; Salvatore Pais interprets the absence of casualties as evidence this was man-made tech (if ET tech, they'd have been more aggressive)."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md]
 name: 2024 Langley AFB Incursion
 date: 2024-12

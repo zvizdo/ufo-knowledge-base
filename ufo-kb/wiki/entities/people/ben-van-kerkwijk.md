@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "YouTube researcher associated with Randall Carlson; discussed Hancock's 4th-dynasty pyramid convergence; appeared on Joe Rogan to discuss the Hawara Labyrinth and Herodotus/Pliny accounts of underground Egypt"
-created: 2026-04-26
-updated: 2026-04-27
 name: Ben Van Kerkwijk
 aliases: []
 roles: [researcher]

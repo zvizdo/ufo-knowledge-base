@@ -3,8 +3,6 @@ type: concept
 name: DNA Phantom Effect
 aliases: [DNA phantom effect, DNA phantom, Gariaev phantom effect, biophoton phantom]
 first_seen_in: raw/youtube-transcripts/q7Czo77qhHA.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "Russian experiment (1990s) in which laser light continued to scatter in a container after a DNA sample was removed, as if the DNA were still present — for hours or days; interpreted as evidence of an electromagnetic or field-based 'phantom' residue left by biological material; associated with Pyotr Gariaev and wave genetics."
 tags: [dna, biophotons, phantom-effect, wave-genetics, gariaev, laser-scattering, russia]

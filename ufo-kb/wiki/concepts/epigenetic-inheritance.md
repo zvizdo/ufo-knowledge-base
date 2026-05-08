@@ -3,8 +3,6 @@ type: concept
 name: Epigenetic Inheritance
 aliases: [epigenetic inheritance, transgenerational epigenetics, non-genetic inheritance]
 first_seen_in: ufo-kb/wiki/concepts/morphic-resonance.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The transmission of acquired phenotypic traits across generations through mechanisms other than DNA sequence — methylation patterns, histone modifications, and other epigenetic marks; mainstream biology accepts limited transgenerational epigenetic effects; Rupert Sheldrake argues epigenetic inheritance is morphic resonance misidentified."
 tags: [epigenetics, inheritance, lamarck, sheldrake, morphic-resonance, transgenerational]

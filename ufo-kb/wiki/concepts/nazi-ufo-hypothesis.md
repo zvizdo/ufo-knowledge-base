@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis that Nazi Germany's SS programs reverse-engineered a non-human craft (1933 Magenta) to develop Die Glocke/flying saucer technology, that the 1947 Roswell crash was a Nazi test/psyop rather than an alien crash, and that the CIA is structurally continuous with Nazi intelligence networks."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md]
 tags: [nazi-ufo, die-glocke, magenta-crash, roswell, operation-paperclip, odessa, cia-continuity, reverse-engineering]
 ---

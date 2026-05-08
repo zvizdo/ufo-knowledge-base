@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Anomalous radio echoes first detected in 1927 with delay times of 3–30 seconds — far too long for normal ionospheric bounce — that pattern-match the Bracewell probe predicted first-contact signal of bouncing local transmissions back from a nearby location."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 tags: [LDE, long-delay-echoes, radio-anomaly, bracewell, lagrange-points, 1927, ionosphere]
 ---

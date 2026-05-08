@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The 2004 Nimitz Tic-Tac incident — the most documented modern UAP case. USS Nimitz carrier strike group radar tracked an anomalous object for weeks; Commander David Fravor and Lt. Cmdr. Jim Slaight had a visual encounter on November 14, 2004. Navy cockpit footage released 2017."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/qAou_h1POWs.md]
 name: 2004 Nimitz Tic-Tac Incident
 date: "2004-11-14"

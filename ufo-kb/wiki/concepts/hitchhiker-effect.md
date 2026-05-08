@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The documented pattern in which anomalous phenomena associated with Skinwalker Ranch follow investigators home after their visits — appearing in their personal lives and homes weeks or months after leaving the property."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 tags: [skinwalker-ranch, aawsap, nids, paranormal, contagion, hitchhiker, biological-effects, trickster]
 ---

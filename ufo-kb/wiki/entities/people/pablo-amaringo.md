@@ -2,8 +2,6 @@
 type: entity
 entity-type: people
 summary: "Peruvian ayahuasca shaman and visionary painter who defined 'flying sorcerers' (UFO-like objects) in his art as vehicles for entering and leaving the spirit world — a framing Graham Hancock considers more illuminating than the nuts-and-bolts UFO hypothesis."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md]
 name: Pablo Amaringo
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO crash retrieval in Peru (1997, during Operation Laser Strike) witnessed by USMC Lance Corporal Jonathan Wagant; egg/teardrop craft with electromagnetic field embedded in a cliff, four-fingered arm, telepathic communication, followed by anthrax-booster silencing."
-created: 2026-04-26
-updated: 2026-04-27
 name: Peru UFO Crash Retrieval
 date: 1997
 location: Peru (jungle cliff face, Operation Laser Strike counter-narcotics zone)

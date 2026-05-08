@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Air Force intelligence officer and NRO analyst who became the most prominent UAP whistleblower of the modern era, testifying before Congress in 2023 about a non-human intelligence retrieval program."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/HxQN2tkQHs8.md, raw/youtube-transcripts/LnAiNChnuEQ.md, raw/youtube-transcripts/TH10mD9hQas.md, raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/ePdH01pphbk.md, raw/youtube-transcripts/h0hAit-KH9A.md, raw/youtube-transcripts/kRO5jOa06Qw.md]
 name: David Grusch
 aliases: [Grusch]

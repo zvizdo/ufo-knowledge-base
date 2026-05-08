@@ -8,8 +8,6 @@ country: USA
 active_period: 1936–present
 tags: [nasa, rocketry, caltech, parsons, aerospace, pasadena, jato, solid-fuel]
 summary: "NASA's primary planetary science and deep-space mission lab, co-founded by Jack Parsons and colleagues in the Arroyo Seco dry gulch near Pasadena in 1936; some insiders call it 'Jack Parsons Laboratory.'"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 ---
 

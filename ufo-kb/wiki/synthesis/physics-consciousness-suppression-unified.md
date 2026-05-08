@@ -2,8 +2,6 @@
 type: synthesis
 synthesis-type: pattern
 summary: "Physics suppression and consciousness/psi suppression are not separate phenomena — they are two faces of the same institutional response to knowledge that threatens the classified UAP-physics program. The same classification apparatus, the same funding-deflection mechanisms, and the same academic marginalization apply to both domains."
-created: 2026-04-25
-updated: 2026-04-27
 derived-from: [physics-lockdown, consciousness-non-local, remote-viewing, string-theory-as-deflection, autistic-savant-telepathy, transmission-theory-consciousness, biefeld-brown-effect, scalar-waves, nhi-telepathic-communication, stargate-program, atomic-energy-act-classification]
 tags: [physics, consciousness, suppression, psi, classification, synthesis]
 ---

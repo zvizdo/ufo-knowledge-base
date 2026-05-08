@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American physicist and author who developed 'subquantum kinetics' and wrote extensively on suppressed electrogravitics; argues the B2 bomber uses electrogravitic propulsion; a key theorist connecting classified physics to UAP propulsion."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md]
 name: Paul LaViolette
 aliases: [Paul A. LaViolette]

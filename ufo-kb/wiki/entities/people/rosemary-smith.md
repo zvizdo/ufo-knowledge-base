@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Stargate Program remote viewer who located a downed Soviet TU-22 spy plane in Africa by narrowing all of Africa to a 3-square-mile area in Zaire; President Carter called it the most miraculous event of his presidency."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/RofQnByLwOo.md]
 name: Rosemary Smith
 aliases: []

@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 video_id: TNtlzEnl8rA
 title: 'NASA Doctor: "I Saw This UFO In A Secret Hangar!" (Ft. Greg Rogers)'
 channel: American Alchemy

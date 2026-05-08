@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Navy physicist who filed three interdependent exotic-propulsion patents (2016–2019) describing quantum vacuum manipulation, high-energy electromagnetic field concentration, and space-time metric warping — assessed by Bob Maguire as likely derived from recovered crash material."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md]
 name: Salvatore Pais
 aliases: [Pais, "P" (Maguire's shorthand)]

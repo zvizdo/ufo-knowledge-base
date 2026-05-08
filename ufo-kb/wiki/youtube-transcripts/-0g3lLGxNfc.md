@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 video_id: "-0g3lLGxNfc"
 title: '"This UFO Shut Down 10 Nukes!" - Air Force Officer Robert Salas'
 channel: American Alchemy

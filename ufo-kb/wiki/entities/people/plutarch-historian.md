@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Plutarch — Greek historian and biographer (c. 46–119 AD); author of Parallel Lives and Moralia. Cited in ancient-mysteries contexts for preserving accounts of Atlantis, Egyptian priesthood knowledge, and pre-history traditions transmitted through Solon."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Plutarch
 aliases: [Lucius Mestrius Plutarchus]

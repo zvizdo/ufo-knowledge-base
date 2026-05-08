@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Senator (R-FL) who embedded the first legislative UAP reporting mandate into the 2021 Intelligence Authorization Act and has repeatedly stated that credible whistleblowers with high clearances fear for their lives."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md]
 name: Marco Rubio
 aliases: []

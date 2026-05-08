@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Public online forum founded and run by Mick West for structured debunking of conspiracy theories and UAP videos; the primary institutional home of the skeptical analytical tradition in modern UAP discourse."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md]
 name: Metabunk
 aliases: [metabunk.org]

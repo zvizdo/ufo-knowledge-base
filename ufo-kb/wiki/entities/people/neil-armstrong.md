@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "First human on the Moon; post-mission led an expedition to Ecuador searching for the Tayos Cave/Library"
-created: 2026-04-26
-updated: 2026-04-26
 name: Neil Armstrong
 aliases: []
 roles: [other]

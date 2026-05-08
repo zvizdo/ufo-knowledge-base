@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Psychologist and abductee researcher with 50 years of practice; associate of John Mack; reportedly had a spontaneous encounter with a reptilian being in her home; provided counseling to experiencers in the PEER network."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
 name: Barbara Lamb
 aliases: []

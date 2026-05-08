@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Neurological effect in which modulated microwave radiation creates perceived sounds directly in the inner ear via thermoelastic expansion — also called the Frey effect; proposed mechanism for both Havana Syndrome and 'voice of God' directed-energy weapons."
-created: 2026-05-02
-updated: 2026-05-02
 tags: [directed-energy, havana-syndrome, voice-of-god, microwave, neuroscience, rf-weapons]
 ---
 

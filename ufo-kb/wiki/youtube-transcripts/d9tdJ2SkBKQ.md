@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy interview with Bob Lazar — deep technical revisit of S4, element 115, reactor experiments, and a surprise appearance by NASA electrostatics scientist Dr. Charles Buhler validating Townsend Brown physics."
-created: 2026-04-27
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 video_id: d9tdJ2SkBKQ
 title: "I Surprised Bob Lazar With NASA's Lead Scientist"

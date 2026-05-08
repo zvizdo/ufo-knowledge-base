@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The claim that ~105,000 anomalous light transients appearing in Palomar Observatory photographic plates from 1950–1956 represent real solar-reflective objects in geosynchronous-range orbit, predating the launch of any human satellite."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 tags: [pre-sputnik, transients, palomar, vasco, villarroel, orbital, mirror-like, earth-shadow]
 ---

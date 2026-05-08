@@ -3,8 +3,6 @@ type: concept
 name: Skull Elongation
 aliases: [skull elongation, elongated skulls, Paracas skulls, artificial cranial deformation]
 first_seen_in: ufo-kb/wiki/concepts/ancient-astronaut-hypothesis.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The practice of artificially elongating the skull through infant head binding, found in multiple ancient cultures; and claims that some skulls (particularly Paracas, Peru) have anomalous volume or morphology suggesting non-human or genetically distinct origins; cited in the ancient astronaut hypothesis as evidence of human-NHI hybridization or mimicry."
 tags: [ancient-astronauts, paracas, skulls, peru, cranial-deformation, hybridization]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Greek Orthodox monastic peninsula in northern Greece; site of Ralph Larson's 1991 time-travel dream and Virgin Mary apparitions; women historically excluded; dedicated to the Virgin Mary."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ATJwqp5twAg.md]
 name: Mount Athos
 aliases: [Holy Mountain, Mount Aos, Monathos, Aghion Oros, Άγιον Όρος]

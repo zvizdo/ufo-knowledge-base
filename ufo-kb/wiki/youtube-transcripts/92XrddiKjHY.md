@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy episode with vigilante archaeologist Luke Caverns on pyramids, the Sphinx, Atlantis, Giza's underground structures, ancient religion, hallucinogens, and the Americas"
-created: 2026-04-26
-updated: 2026-05-04
 video_id: 92XrddiKjHY
 title: "The Pyramids Are NOT What We Think!"
 channel: American Alchemy

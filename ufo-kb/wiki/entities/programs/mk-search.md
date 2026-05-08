@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA follow-on program to MK-Ultra (1964–1972) that continued mind-control and behavioral modification research after MK-Ultra's nominal end; shares personnel, contractors, and methods with its predecessor."
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 name: MKSEARCH
 aliases: [MK-Search, Project MKSEARCH]

@@ -6,8 +6,6 @@ roles: [witness, official]
 affiliations: [nasa, us-senate, freemasonry]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/1f16VvXaSSE.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md]
 summary: "Mercury Atlas 6 astronaut (first American to orbit Earth, 1962); US Senator from Ohio 1974–1999; 33rd-degree Scottish Rite Freemason; cited by Lue Elizondo as the senior figure who urged Harry Reid to investigate UFOs as part of AAWSAP."
 tags: [astronaut, freemasonry, masonic-astronauts, aawsap, us-senate]

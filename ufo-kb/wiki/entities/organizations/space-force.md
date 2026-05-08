@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "U.S. Space Force (USSF) — the sixth branch of the U.S. Armed Forces, established December 2019. Responsible for space operations, satellite systems, and space domain awareness. Referenced in UAP context through its relationship with NORAD and potential role in monitoring UAP in space."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: United States Space Force
 aliases: [USSF, Space Force]

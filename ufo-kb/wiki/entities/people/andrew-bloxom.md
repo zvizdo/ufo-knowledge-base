@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ship's naturalist aboard the HMS Blonde in 1825 whose published diary contains one of the earliest documented USO sightings — an orange spherical object rising from the South Pacific ocean, descending, and rising again."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Andrew Bloxom
 aliases: []

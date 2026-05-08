@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "John J. McCloy: Deputy Secretary of War; brought into the Anderson Trust by Secretary Stimson; later World Bank president and Warren Commission member; archetypal postwar establishment figure connecting finance, intelligence, and governance."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: John J. McCloy
 aliases: [John Jay McCloy, The Chairman]

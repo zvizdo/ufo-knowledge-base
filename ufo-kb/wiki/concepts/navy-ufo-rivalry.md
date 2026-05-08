@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Institutional competition between the US Navy and Air Force over UFO investigation authority; the Navy had independent encounter data and resented Air Force dominance over the official investigation, driving parallel intelligence efforts and independent civilian disclosure by Navy figures."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 tags: [navy, air-force, institutional-rivalry, nicap, keyhoe, dan-kimball, ufos-investigate]
 ---

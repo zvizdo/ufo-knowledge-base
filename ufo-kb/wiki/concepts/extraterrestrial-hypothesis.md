@@ -3,8 +3,6 @@ type: concept
 name: Extraterrestrial Hypothesis
 aliases: [extraterrestrial hypothesis, ETH, alien hypothesis]
 first_seen_in: ufo-kb/wiki/concepts/ultraterrestrial-hypothesis.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The hypothesis that UAP/UFO phenomena are explained by craft and beings from other star systems — the dominant popular and official framing since 1947; criticized by Jacques Vallée and others on behavioral and logistical grounds; contrasted with interdimensional, ultraterrestrial, and temporal hypotheses."
 tags: [nhi-origin, extraterrestrial, alien, eth, interstellar]

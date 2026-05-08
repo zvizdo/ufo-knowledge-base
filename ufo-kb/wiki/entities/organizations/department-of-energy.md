@@ -3,8 +3,6 @@ type: entity
 entity-type: organization
 name: Department of Energy
 aliases: [DOE, ERDA, AEC]
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 tags: [government, nuclear, classification, uap-adjacent]
 ---

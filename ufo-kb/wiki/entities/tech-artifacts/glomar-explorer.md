@@ -6,8 +6,6 @@ category: device
 custodian: [cia, global-marine-corporation, us-navy]
 provenance: declassified
 tags: [project-azorian, k-129, deep-sea-recovery, cia-ocean-program]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

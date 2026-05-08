@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Bob Lazar's own company founded ~1999–2000; sells radioactive materials commercially including to DHS and FBI for training purposes; raided by CPSC with a SWAT team despite prior clearances from FBI, ATF, and the postal service."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: United Nuclear
 aliases: [UnitedNuclear.com]

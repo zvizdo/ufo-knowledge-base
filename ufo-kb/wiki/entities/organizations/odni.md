@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Office of the Director of National Intelligence; coordinates the US Intelligence Community; created post-9/11 by the Intelligence Reform and Terrorism Prevention Act; relevant to UAP as the issuing authority for UAP assessment reports and the employer of several KB figures."
-created: 2026-05-02
-updated: 2026-05-02
 name: ODNI
 aliases: [Office of the Director of National Intelligence, DNI]
 type: gov-agency

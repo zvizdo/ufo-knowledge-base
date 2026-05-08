@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The US Department of Defense; primary institutional custodian of UAP-related classified programs; administrator of Immaculate Constellation per sources; oversees AATIP, AARO, and the UAP Task Force."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Department of Defense
 aliases: [DoD, Defense Department, Pentagon]

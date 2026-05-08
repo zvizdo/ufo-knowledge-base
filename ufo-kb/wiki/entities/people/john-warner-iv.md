@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Grandson of CIA co-founder Paul Mellon; relayed Mellon's firsthand account of witnessing a German flying disc in a Czechoslovak hangar at the end of WWII — an account passed down through the family."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: John Warner IV
 aliases: []

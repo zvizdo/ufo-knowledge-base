@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The deliberate deployment of social stigma, media smears, and image-cheapening by intelligence agencies to suppress investigation of sensitive programs — particularly UAP — by destroying the credibility of researchers, witnesses, and officials who approach classified material."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/iQOibpIDx-4.md]
 tags: [cointelpro, cia, image-cheapening, uap-suppression, physics-lockdown, stigma, manufactured-stigma, disclosure-obstacles]
 ---

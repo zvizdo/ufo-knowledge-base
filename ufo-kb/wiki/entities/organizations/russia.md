@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Russian Federation; successor state to the Soviet Union; in UAP context, associated with directed-energy weapons programs, potential Havana Syndrome perpetrator, advanced propulsion research, and the Maskirovka deception framework."
-created: 2026-05-02
-updated: 2026-05-02
 name: Russia
 aliases: [Russian Federation, Soviet Union, USSR]
 type: gov-agency

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF base near Great Falls, Montana; site of multiple UFO-related Minuteman missile shutdown incidents in 1966–1967 and continuing UFO reports through at least 1975; one of the most documented UFO-nuclear hotspots."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Malmstrom Air Force Base
 aliases: [Malmstrom AFB, Malmstrom]

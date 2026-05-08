@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Military-intelligence group, apparently Air Force, that views the UFO/UAP phenomenon as demonic and actively persecutes researchers and experiencers — responsible, per Strieber, for his career destruction."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABOP8ZJsyIk.md]
 name: Collins Elite
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The unresolved question of what Egypt's 4th-dynasty pyramids were built for — tomb, Ka-house, power plant, or something else"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/92XrddiKjHY.md, raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/NvQXmtcwHA8.md, raw/youtube-transcripts/zrmG2jBckgk.md]
 tags: [ancient-egypt, pyramids, tomb, ka, divine-essence, fourth-dynasty, architecture, giza, archaeology, chemical-manufacturing, hydrogen, hydrothermal]
 ---

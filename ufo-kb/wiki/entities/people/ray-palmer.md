@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Editor of Flying Saucers magazine (1950s–70s); Charles Hall witnessed Palmer displaying a ~1-yard strip of woven ceramic fiber-optic material from Roswell at a Wisconsin store as a child — the piece bent light without absorption."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/QgxjtDS2sIQ.md]
 name: Ray Palmer
 aliases: []

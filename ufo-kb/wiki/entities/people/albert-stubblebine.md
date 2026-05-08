@@ -3,8 +3,6 @@ type: entity
 entity-type: people
 name: Albert Stubblebine
 summary: "Major General Albert N. Stubblebine III, US Army (ret.); commanded the Army Intelligence and Security Command (INSCOM) 1981–1984, where he championed remote viewing and paranormal research programs; later became an outspoken UAP believer and alternative medicine advocate."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/areO7Mej44E.md]
 tags: [military, remote-viewing, paranormal, ufology, bribery-attempt, army-intelligence]
 aliases: []

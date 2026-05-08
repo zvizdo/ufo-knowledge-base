@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/steve-coburn.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Materials science company founded by Steve Coburn; focused on analyzing alleged alien implants using advanced isotopic spectroscopy and nanotechnology analysis; seeks funding for continued implant research following collaboration with Roger Leir."
 tags: [implants, materials-science, nano-technology, steve-coburn, roger-leir, experiencers, analysis]

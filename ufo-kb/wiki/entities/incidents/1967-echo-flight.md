@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "~March 16, 1967: all 10 Minuteman I missiles in Echo Flight at Malmstrom AFB go offline during reported UFO activity — eight days before the Oscar Flight incident; witnessed by Lt. Walt Feele."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/fzvwBBSmWYA.md]
 name: 1967 Echo Flight UFO Incident
 date: ~1967-03-16

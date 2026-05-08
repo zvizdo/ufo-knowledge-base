@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British author and journalist who argues that a forgotten advanced civilization existed before the last Ice Age; his work on pre-historical civilizations and megalithic astronomy connects to UAP/NHI disclosure themes."
-created: 2026-04-25
-updated: 2026-04-27
 firsthand_claims_extended:
   - "Great Pyramid is not a tomb; remote scanning reveals unexamined cavities including a possible second Grand Gallery"
   - "Sphinx was originally a full lion; pharaonic head was carved later over an eroded lion head"

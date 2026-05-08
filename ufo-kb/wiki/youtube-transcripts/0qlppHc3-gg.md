@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=0qlppHc3-gg
 duration_minutes: ~120
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 tags: [telepathy, autism, consciousness, non-local-consciousness, documentary, savant-abilities, american-alchemy, the-hill, facilitated-communication, scalar-waves, transmission-theory]
-created: 2026-04-27
-updated: 2026-05-04
 ---
 
 # "These Children Can Read Your Mind!" — Ky Dickens / Telepathy Tapes

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "December 2024 wave of drone and UAP sightings over New Jersey, centered on Pikatini Arsenal; involved 59+ uncoordinated law enforcement entities, DoD/FBI task forces, and private contractors including Sky Watchers; Barber's assessment: both conventional drones AND genuine UAP-class phenomena present simultaneously."
-created: 2026-04-27
-updated: 2026-04-27
 name: 2024 New Jersey Drone/UAP Flap
 date: 2024-12
 location: Pikatini Arsenal, New Jersey; Salem Nuclear Power Plant; Brunswick (Duke Energy) Nuclear Plant, North Carolina; Lake and Heath, North Carolina

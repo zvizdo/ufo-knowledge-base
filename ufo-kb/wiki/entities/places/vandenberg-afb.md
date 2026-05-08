@@ -3,8 +3,6 @@ type: entity
 entity-type: places
 name: Vandenberg Air Force Base
 summary: "USAF base on the California coast near Lompoc; primary site for polar-orbit satellite launches and ICBM test firings; location of the 1964 Bob Jacobs missile-UFO filming incident."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [base, california, ufo-nuclear-nexus]
 aliases: []
 ---

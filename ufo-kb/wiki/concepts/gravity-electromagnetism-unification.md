@@ -2,8 +2,6 @@
 type: concept
 stub: true
 summary: "The unsolved physics problem of reconciling General Relativity (gravity) with quantum field theory / electromagnetism — identified by Jesse Michaels and others as the theoretical key to exotic propulsion and UAP physics, with Townsend Brown's empirical work as a possible anchor."
-created: 2026-04-27
-updated: 2026-04-27
 tags: [physics, exotic-propulsion, general-relativity, quantum-mechanics, townsend-brown, uap-physics]
 ---
 

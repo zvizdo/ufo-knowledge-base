@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The recurring pattern in high-strangeness UAP/NHI encounters where absurd, context-defying details serve to pre-stigmatize the case and make it self-discrediting — associated with Vallée, Keel, and the Scandinavian encounter tradition; linked to intermittent-reinforcement as a behavior-modification mechanism."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
 tags: [trickster, high-strangeness, phenomenology, vallee, keel, self-discrediting, intermittent-reinforcement]
 ---

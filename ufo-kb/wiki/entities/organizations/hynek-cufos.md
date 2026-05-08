@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/northwestern-university.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Scientific UFO research organization founded in 1973 by J. Allen Hynek after his break from Project Blue Book; collected and analyzed civilian UFO reports; published the International UFO Reporter; one of the earliest attempts to treat UFO investigation as a legitimate scientific enterprise."
 tags: [ufo-research, civilian, hynek, scientific, organization, chicago]

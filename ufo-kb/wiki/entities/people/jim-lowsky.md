@@ -7,8 +7,6 @@ affiliations: [dia]
 firsthand_claims:
   - Told Eric Davis that he personally entered the hull of a retrieved UAP craft; published a book describing the experience
 first_seen_in: raw/youtube-transcripts/xnxasfyHtfo.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [crash-retrieval, dia, hull-entry, insider-testimony]
 ---

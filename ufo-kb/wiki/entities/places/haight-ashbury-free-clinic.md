@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "San Francisco free medical clinic that served the Haight-Ashbury hippie community (1967–present); the site where Jolly West conducted CIA-connected LSD research and where Charles Manson built his cult in the same period."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: Haight-Ashbury Free Clinic
 aliases: [Haight Ashbury Free Medical Clinic, HAFMC]

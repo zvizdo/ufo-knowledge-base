@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1946 wave of unidentified rocket-like aerial phenomena over Sweden and Scandinavia; Eisenhower sent General James Doolittle to investigate; described as resembling modified V-2 rockets flying at speeds and with propulsion capabilities beyond contemporary technology."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/Rjr3Yq-dMUE.md, raw/youtube-transcripts/SZBI85yvV5A.md, raw/youtube-transcripts/aGqFOxuYRT0.md]
 name: 1946 Swedish Ghost Rockets
 date: 1946

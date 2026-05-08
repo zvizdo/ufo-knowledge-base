@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Graham Hancock joins Jesse Michaels to trace his autobiography from Ethiopia/Ark of the Covenant research to lost-civilization thesis; covers Sphinx water erosion, Orion Correlation Theory, Göbekli Tepe, Atlantis, soul-ascension path encoded in monuments, DMT/consciousness as the better UAP track, and Pablo Amaringo's 'spirit-world vehicles' framing."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md]
 video_id: 9PJJiut0Iuw
 title: "Graham Hancock: The Great Pyramid Is a 'Stargate' for Consciousness!"

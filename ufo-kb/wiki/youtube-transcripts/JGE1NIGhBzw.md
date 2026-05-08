@@ -9,8 +9,6 @@ published: "2024"
 url: "https://www.youtube.com/watch?v=JGE1NIGhBzw"
 duration_minutes: ~120
 tags: [moon, hollow-moon, younger-dryas, taurid-meteor-stream, atlantis, sphinx, pyramids, holy-grail, knights-templar, shroud-of-turin, catastrophism, breakaway-civilization, freemasonry, parapsychology, randall-carlson, american-alchemy]
-created: 2026-04-26
-updated: 2026-05-04
 sources: [raw/youtube-transcripts/JGE1NIGhBzw.md]
 ---
 

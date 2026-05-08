@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nazi Party Secretary who allegedly survived WWII and operated in Argentina under Perón's protection; three conflicting death accounts; checks cashed through Chase Buenos Aires into the 1960s; Ian Fleming's MI6 mission was reportedly facilitating his evacuation."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: Martin Bormann
 aliases: [Bormann]

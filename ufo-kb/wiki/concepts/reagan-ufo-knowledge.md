@@ -3,8 +3,6 @@ type: concept
 name: Reagan UFO Knowledge
 aliases: [Reagan UFO knowledge, reagan-ufo-knowledge, Reagan alien remarks, Reagan extraterrestrial statements]
 first_seen_in: ufo-kb/wiki/entities/incidents/1986-jal-1628.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Evidence that President Ronald Reagan had unusual knowledge of or belief in the reality of extraterrestrial visitation, including his repeated public and private references to an alien threat uniting humanity, his alleged 1974 Governor's plane sighting, and a classified briefing implied by scientific advisors' reactions."
 tags: [reagan, president, alien, briefing, ufo, cold-war, uap-politics, 1980s]

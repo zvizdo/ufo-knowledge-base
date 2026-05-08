@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Apollo 12 astronaut (4th human on the Moon); personally told Kevin Knuth that Skylab astronauts photographed a red flashing light that paced their orbit, photos publicly available."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Alan Bean
 aliases: []

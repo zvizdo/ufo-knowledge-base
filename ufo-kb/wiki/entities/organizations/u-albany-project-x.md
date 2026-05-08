@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "University at Albany's endowed UAP research program, co-led by Kevin Knuth and Matthew Shostakus; evolved from UAPx (disbanded); one of very few university-supported programs doing systematic UAP data collection and material analysis."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: U Albany Project X
 aliases: [UAlbany Project X, SUNY Albany Project X, UAPx (predecessor)]

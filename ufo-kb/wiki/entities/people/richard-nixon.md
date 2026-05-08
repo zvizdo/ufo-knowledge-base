@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "37th U.S. President; chaired NSC 5412 Committee as VP; allegedly created the 15-man 'S Force' in 1960 to assassinate Castro, which — per Sheehan — became the team that killed JFK and was later the operational core behind Watergate."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/C_Na1tI5qpw.md]
 name: Richard Nixon
 aliases: [Nixon]

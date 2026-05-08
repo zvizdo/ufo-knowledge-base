@@ -3,8 +3,6 @@ type: concept
 name: Epstein Network
 aliases: [Epstein network, epstein-network, Jeffrey Epstein network, Epstein intelligence nexus, Epstein blackmail operation]
 first_seen_in: ufo-kb/wiki/entities/places/dalton-school.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The social and financial network surrounding Jeffrey Epstein (1953–2019); included MIT Media Lab, Harvard, Silicon Valley investors, hedge funds, royalty, and politicians; alleged blackmail operation serving intelligence community interests; relevant to KB through Epstein's connections to scientific institutions and classified research funding."
 tags: [epstein, blackmail, intelligence, mit, harvard, bill-gates, silicon-valley, scientific-funding]

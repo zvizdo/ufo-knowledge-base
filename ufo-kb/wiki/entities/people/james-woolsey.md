@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "James Woolsey — CIA Director 1993–1995; has publicly stated he believes some UAP reports involve real phenomena; cited in Age of Disclosure documentary and disclosure discussions alongside Clapper and Brennan."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: James Woolsey
 aliases: [R. James Woolsey, CIA Director Woolsey]

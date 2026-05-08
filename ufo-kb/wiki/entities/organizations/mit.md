@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Massachusetts Institute of Technology — elite research university; connected to UAP discourse through alumni (Harold Puthoff, Avi Loeb), classified research connections, and as an institutional node in the physics establishment that Eric Weinstein and others critique."
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 name: MIT
 aliases: [Massachusetts Institute of Technology]

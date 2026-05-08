@@ -3,8 +3,6 @@ type: entity
 entity-type: programs
 name: UAP Task Force
 summary: "DoD-established task force created in August 2020 to standardize UAP reporting and detect threats to US airspace; the direct institutional predecessor to AARO."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [program, dod, disclosure, uap-investigation]
 aliases: []
 status: alleged

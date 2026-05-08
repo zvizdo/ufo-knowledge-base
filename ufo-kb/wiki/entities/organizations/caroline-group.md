@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Private intelligence and finance consortium operating from the yacht Caroline (owned by Eldridge Reeves Johnson, predecessor of RCA Records); functioned as an informal private-sector intelligence network steering Thomas Townsend Brown's classified work and serving as a possible precursor to what Ben Rich called 'the international corporate board' controlling UAP secrecy."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RTEWLSTyUic.md]
 name: Caroline Group
 aliases: [Nassau Group]

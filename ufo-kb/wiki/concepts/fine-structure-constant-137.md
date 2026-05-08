@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The dimensionless fine structure constant α ≈ 1/137 — governs electromagnetic coupling; cited by Feynman as physics' greatest mystery; claimed by Armando Mei to be encoded in Khafre pyramid proportions"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zrmG2jBckgk.md]
 tags: [physics, fine-structure-constant, 137, quantum, electromagnetism, pyramid, feynman, armando-mei, numerology, ancient-knowledge]
 ---

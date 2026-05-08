@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Canadian oceanographic archaeologist who mapped what she identified as vast underwater ruins off Cuba's western coast using sonar; was subsequently arrested in Mexico when investigating the Yucatan connection, then dropped the investigation entirely."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: Paulina Zelitsky
 aliases: []

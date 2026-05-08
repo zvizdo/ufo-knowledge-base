@@ -7,8 +7,6 @@ parent_org:
 country: International (32 member states)
 active_period: 1949–present
 tags: [intergovernmental, military-alliance, intelligence-sharing, cold-war]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

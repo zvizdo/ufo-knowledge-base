@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Salvatore Pais, US Navy physicist who filed the exotic-propulsion patents, gives his first in-person interview — explaining the Pais effect, the physics pathway from Oliver Heaviside to Schwinger-limit black-hole propulsion, room-temperature superconductivity, and his belief in both man-made and ET craft."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md]
 video_id: 8TYMQOUDQBo
 title: "Meet the Navy Scientist With UFO Patents (Ft. Salvatore Pais)"

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Italian theoretical physicist at University of Milan; co-developed with Giuliano Preparata a QFT model of coherent domains in water relevant to cold fusion; died ~2014–2015"
-created: 2026-04-27
-updated: 2026-04-27
 name: Emilio Del Giudice
 aliases: []
 roles: [researcher]

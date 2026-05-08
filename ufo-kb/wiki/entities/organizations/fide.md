@@ -7,8 +7,6 @@ parent_org: ~
 country: Switzerland (headquarters)
 active_period: 1924–present
 summary: "Global chess governing body with ~200 member nations; governed by Kirsan Ilyumzhinov for 23 years (1995–2018); appears in UFO discourse as the institutional platform through which Ilyumzhinov pursued his alien-contact thesis and chess-alien-origin theory."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 tags: [chess, fide, ilyumzhinov, kasparov, global-organization, alien-chess]
 ---

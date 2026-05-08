@@ -6,8 +6,6 @@ roles: []
 affiliations: [nro, cia, dsd, australian-dsd]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/u7g5Sn1DJF4.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 summary: "Joint Defence Facility Pine Gap, near Alice Springs, Australia; operated jointly by CIA, NRO, NSA, and Australian intelligence; functions as a ground station for US signals intelligence satellites and for satellite control; cited in KB as a candidate Indo-Pacific UAP tracking facility (NRO Program B ground element)."
 tags: [australia, nro, cia, signals-intelligence, joint-facility, satellite, uap-tracking]

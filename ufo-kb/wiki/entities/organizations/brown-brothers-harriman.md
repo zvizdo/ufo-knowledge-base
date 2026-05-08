@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Gilded Age investment collective of elite American families; per Sheehan, financed Hitler's Third Reich through Union Bank of New York; produced the CIA's founding architecture through Robert Lovett; the structural origin point for the deep-state continuity Sheehan traces."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/q7Czo77qhHA.md]
 name: Brown Brothers Harriman
 aliases: [BBH]

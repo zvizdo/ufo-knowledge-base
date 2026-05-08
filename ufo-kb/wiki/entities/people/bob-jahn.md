@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Princeton Dean of Engineering who founded the PEAR lab and spent 28 years producing statistically robust evidence that human intention skews quantum-random outputs — sacrificing his mainstream career for the research."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/eQIMantuasQ.md]
 name: Bob Jahn
 aliases: [Robert Jahn, Robert G. Jahn]

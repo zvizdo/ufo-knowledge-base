@@ -7,8 +7,6 @@ location: Washington DC
 witnesses: []
 corroboration: firsthand
 summary: "The 1972 break-in at the Democratic National Committee headquarters and subsequent cover-up that ended Nixon's presidency; relevant to UAP discourse as a documented case of the CIA-mob-White House covert action apparatus deployed for domestic political operations."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [incident, watergate, nixon, cia, deep-state, cover-up]
 ---
 

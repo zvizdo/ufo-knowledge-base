@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Air Force General who authored the 1947 Twining Memo — an internal assessment listing UAP characteristics including metallic construction, evasive behavior, and disc-shaped craft — and later became Chairman of the Joint Chiefs of Staff."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md]
 name: Nathan Twining
 aliases: [General Twining, Nathan F. Twining]

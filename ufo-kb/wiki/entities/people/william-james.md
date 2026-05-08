@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American philosopher and psychologist, Harvard professor, founding member of the American Society for Psychical Research; early academic legitimizer of consciousness and anomalous-phenomena research."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: William James
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The hypothesis that sufficiently advanced civilizations transcend biology, cease outward expansion, and instantiate themselves in the computational substrate of spacetime — becoming 'everywhere and nowhere' and effectively disappearing from the physical cosmos."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/_bM9eAtCOGw.md]
 tags: [nhi, postbiological, anti-kardashev, john-barrow, andrew-gallimore, dmt, simulation-theory, consciousness, fermi-paradox, advanced-civilizations]
 ---

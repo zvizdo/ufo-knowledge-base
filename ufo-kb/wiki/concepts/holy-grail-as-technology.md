@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Randall Carlson's framework that the Holy Grail encodes a multi-scale technology of restoration and regeneration — applicable at the individual, national, and planetary level — that is the esoteric counterpart of the alchemical philosopher's stone."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JGE1NIGhBzw.md]
 tags: [holy-grail, alchemy, regeneration, mystery-traditions, esoteric, templars, knights-templar, randall-carlson]
 ---

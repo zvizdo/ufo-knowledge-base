@@ -3,8 +3,6 @@ type: concept
 name: Microtubule Quantum Consciousness
 aliases: [microtubule quantum consciousness, microtubule-quantum-consciousness, Orch-OR, orchestrated objective reduction, Penrose-Hameroff, quantum mind]
 first_seen_in: ufo-kb/wiki/entities/people/eric-wargo.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The Penrose-Hameroff 'Orchestrated Objective Reduction' (Orch-OR) hypothesis proposing that quantum computations in neuronal microtubules are the physical basis of consciousness; controversial in neuroscience; relevant to KB as a physics-grounded theory of consciousness relevant to UAP observer effects and psi phenomena."
 tags: [consciousness, quantum, microtubules, penrose, hameroff, orch-or, neuroscience, observer-effect]

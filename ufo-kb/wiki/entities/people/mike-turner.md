@@ -3,8 +3,6 @@ type: entity
 entity-type: people
 name: Mike Turner
 summary: "Republican congressman from Ohio (R-OH-10); Chair of the House Permanent Select Committee on Intelligence (HPSCI); key figure in UAP legislative oversight and the Schumer-Rounds UAP Disclosure Amendment debate."
-created: 2026-04-25
-updated: 2026-04-25
 roles: [official]
 affiliations: [US House of Representatives, HPSCI]
 tags: [congress, intelligence-oversight, uap-legislation, disclosure]

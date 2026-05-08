@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Peter Levenda's formulation for multi-nation silence on crash craft possession: if both the US and adversaries have recovered craft, the natural result is a mutual silence pact — 'It's the Fight Club' — because disclosing one side's possession reveals the other's, with no disclosure benefit outweighing the strategic cost."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 tags: [disclosure, crash-retrieval, geopolitics, mutual-deterrence, silence-pact]
 ---

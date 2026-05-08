@@ -3,8 +3,6 @@ type: concept
 name: Compartmentalization
 aliases: [need-to-know, compartmented information, SCI compartments, program compartmentalization]
 summary: "The security-architecture principle of dividing classified information into discrete 'compartments' accessible only to those with established 'need to know,' used within UAP programs to prevent any single individual from having comprehensive knowledge of the full program."
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 tags: [classification, secrecy, sar, sci, black-programs, uap-secrecy, need-to-know]
 ---

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The geological and historical thesis that Earth's past has been punctuated by sudden, civilization-ending catastrophes — not gradual change — and that these events are encoded in global mythology and drive cycles of human reset."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [ancient-history, geology, mythology, lost-civilization, younger-dryas, randall-carlson, graham-hancock]
 ---
 

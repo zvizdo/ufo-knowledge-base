@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Beatriz Villarroel's new project to find, verify, localize, and physically retrieve a non-human artifact or ET probe from Earth orbit using a network of telescopes in New Mexico."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/lbGE3EC6StE.md]
 name: ExoProbe
 aliases: [Exo Probe, exop probe]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Industrial designer and technical illustrator who in 1988 was admitted to a classified aerospace show at Norton AFB and witnessed three reverse-engineered saucer-shaped craft behind a black curtain; his 1990 Aviation Week interview is the contemporaneous corroborating record; Eric Davis explicitly disputes his claims."
-created: 2026-04-26
-updated: 2026-04-27
 name: Brad Sorensen
 aliases: [Sorenson]
 roles: [witness]

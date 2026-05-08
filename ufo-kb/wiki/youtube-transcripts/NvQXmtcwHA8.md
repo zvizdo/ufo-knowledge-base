@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy episode: Filippo Biondi's SAR phonon tomography detects 8 vertical tubes ~1km deep beneath Giza; Jeffrey Drum's hydrogen-sulfide chemical-manufacturing thesis; technical debate over detection limits, Big Void discrepancy, and hydrothermal vs. artificial explanations"
-created: 2026-04-26
-updated: 2026-05-03
 video_id: NvQXmtcwHA8
 title: "BREAKING: Massive Energy Grid Found Beneath Pyramids of Egypt"
 channel: American Alchemy

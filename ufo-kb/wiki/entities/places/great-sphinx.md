@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The Great Sphinx of Giza; its water erosion patterns and limestone outcropping origin make it the strongest physical argument for a pre-dynastic monument in Egypt"
-created: 2026-04-26
-updated: 2026-04-26
 name: Great Sphinx
 aliases: [Sphinx of Giza, The Sphinx]
 region: Giza Plateau, Lower Egypt

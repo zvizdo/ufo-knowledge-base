@@ -3,8 +3,6 @@ type: concept
 name: Classification System
 aliases: [classification system, US classification system, security classification, classification levels]
 first_seen_in: ufo-kb/wiki/concepts/compartmentalization.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The US government's hierarchical information security framework: Confidential, Secret, Top Secret, and above-TS compartmented tiers (SCI, SAP, USAP); the formal structure within which compartmentalization operates."
 tags: [classification, secrecy, sci, sap, clearance-levels]

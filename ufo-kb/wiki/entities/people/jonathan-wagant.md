@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USMC Lance Corporal whistleblower deployed on Operation Laser Strike (Peru, 1997) who encountered an egg/teardrop NHI craft embedded in a cliff face, observed a four-fingered arm from the open hatch, felt telepathic communication, and was subsequently silenced with anthrax boosters."
-created: 2026-04-26
-updated: 2026-04-27
 name: Jonathan Wagant
 aliases: [Jonathan Weygant]
 roles: [witness, whistleblower]

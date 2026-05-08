@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Swedish-Spanish astrophysicist at Stockholm University; discovered ~105,000 pre-Sputnik light transients in Palomar Observatory plates consistent with mirror-like reflective objects in geosynchronous-range orbit; leads VASCO, ExoProbe, and the European Crash Retrieval Initiative."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/aGqFOxuYRT0.md, raw/youtube-transcripts/lbGE3EC6StE.md, raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/zrmG2jBckgk.md]
 name: Beatriz Villarroel
 aliases: [Dr. V Royale (transcript phonetic), Dr. Varel, Dr. Vrial, Beatatrice Voral]

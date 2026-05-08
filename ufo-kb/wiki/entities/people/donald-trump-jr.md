@@ -6,8 +6,6 @@ roles: [other]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/jake-barber.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Businessman and public figure; son of Donald Trump; in the KB, notable for hosting Jake Barber on his podcast before Ross Coulthart broke Barber's UAP crash-retrieval whistleblower story publicly — making the Trump Jr. interview one of the early public appearances in Barber's disclosure sequence."
 tags: [trump, media, podcast, jake-barber, disclosure, whistleblower]

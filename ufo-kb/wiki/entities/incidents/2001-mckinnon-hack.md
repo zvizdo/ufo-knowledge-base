@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Gary McKinnon's 2001–2002 intrusion into 97 U.S. military and NASA computer systems. McKinnon claims to have found evidence of non-terrestrial officers, fleet-to-fleet transfers between non-terrestrial ships, and photographs of large cigar-shaped craft — all since deleted. The most famous UAP-motivated computer hack."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: 2001 McKinnon Hack
 date: "2001-02 to 2002-03"

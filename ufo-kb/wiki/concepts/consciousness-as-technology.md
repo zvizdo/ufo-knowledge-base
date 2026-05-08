@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis that human consciousness functions as an operative technology — capable of remote viewing, telepathy, telekinesis, and NHI contact — and that UAP craft are piloted not mechanically but via telepathic consciousness interface; Sheehan's framework for unifying UAP, paranormal, and religious phenomena."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/_CBtd8Om-hU.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 tags: [consciousness, remote-viewing, telepathy, uap-propulsion, nhi-contact, ce-5, evolution, danny-sheehan]
 ---

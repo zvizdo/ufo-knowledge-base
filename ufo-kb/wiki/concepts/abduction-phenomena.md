@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The category of experiences in which individuals report being taken against their will by non-human beings, subjected to medical procedures, and returned — often with missing time and memory suppression. Foundational to modern NHI contact research."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/IFaXi-NrPV0.md, raw/youtube-transcripts/Qe8br8yYEDM.md, raw/youtube-transcripts/Rfmy5oW_r9c.md, raw/youtube-transcripts/areO7Mej44E.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/iPxbILOMQ08.md]
 tags: [abduction, nhi, experiencer, missing-time, medical-procedures, betty-hill, strieber, john-mack, cd-jackson, mk-ultra-cover, human-staged, greer]
 ---

@@ -3,8 +3,6 @@ type: concept
 name: "Polarizable Vacuum Model"
 aliases: [PV model, polarizable vacuum]
 summary: "Hal Puthoff's reformulation of General Relativity as a dielectric medium — treating the vacuum as a polarizable field whose permittivity (ε) and permeability (μ) can be locally altered to produce gravitational and metric effects, including altered speed of light and effective spacetime curvature."
-created: 2026-04-27
-updated: 2026-04-27
 tags: [physics, metric-engineering, gravity, vacuum, puthoff, general-relativity, uap-propulsion, exotic-physics]
 ---
 

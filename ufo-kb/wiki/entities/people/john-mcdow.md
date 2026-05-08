@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "President of the American Forensics Association (former); Grand Wall Award winner; examined Nazca mummies in person and found data suggesting they 'can be interpreted to be perhaps living organisms'"
-created: 2026-04-26
-updated: 2026-04-26
 name: John McDow
 aliases: [Macd]
 roles: [researcher, official]

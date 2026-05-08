@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: major particle accelerators (CERN, Brookhaven) are connected to UAP phenomena — either attracting NHI attention or inadvertently opening dimensional portals. Evidence: CERN physicist testimony about beings, UAP crash adjacent to Brookhaven."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 tags: [cern, brookhaven, particle-accelerators, portals, uap-crashes, dimensions, high-energy-physics]
 ---

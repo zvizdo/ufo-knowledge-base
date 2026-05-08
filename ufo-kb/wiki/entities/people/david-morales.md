@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA assassin known as 'the Mexican'; identified by Danny Sheehan as the S-Force shooter who fired from the grassy knoll on November 22, 1963."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: David Morales
 aliases: [El Indio, "The Mexican"]

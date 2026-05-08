@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Biochemist and NIDS researcher who co-authored both key Skinwalker Ranch books; was part of the NIDS/AAWSAP investigations at the ranch from the mid-1990s."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 name: Colm Kelleher
 aliases: []

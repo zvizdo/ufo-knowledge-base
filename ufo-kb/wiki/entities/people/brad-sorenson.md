@@ -6,8 +6,6 @@ roles: [witness]
 affiliations: []
 firsthand_claims: [viewed-three-arvs-at-palmdale]
 first_seen_in: raw/youtube-transcripts/LpLFWdsIU7M.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 summary: "Aerospace industry figure and contact of aviation illustrator Mark McCandish; taken to Palmdale by a prominent Italian defense financier (suspected by researcher contacts to be Frank Carlucci) at a California air show and shown three bell/acorn-shaped craft — described as alien reproduction vehicles — with visible wear and tear consistent with operational use."
 tags: [alien-reproduction-vehicles, crash-retrieval-research, palmdale, witness, arv]

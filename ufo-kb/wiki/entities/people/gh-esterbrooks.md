@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Colgate College psychologist who pioneered hypnotic super spy creation for the US military; published a 1943 book on hypnotism and bragged in a 1971 magazine article about creating a compartmentalized army courier triggered by the code phrase 'the moon is clear'; his contracts with the War Department are documented in the MK Ultra archive."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: G.H. Esterbrooks
 aliases: [GH Esterbrooks, George Esterbrooks]

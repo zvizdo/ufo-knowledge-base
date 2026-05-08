@@ -6,8 +6,6 @@ roles: [researcher, other]
 affiliations: [aitc]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/aitc.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Co-founder of the AI Trust Council (AITC), a private organization focused on preventing runaway artificial general intelligence; his connection to UAP whistleblower Randy Anderson through AITC places Wright at the intersection of AI safety and UAP disclosure communities."
 tags: [aitc, ai, artificial-intelligence, agi, safety, governance]

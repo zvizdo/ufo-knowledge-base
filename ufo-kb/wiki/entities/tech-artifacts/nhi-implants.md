@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Objects reportedly implanted in abductees/contactees by NHI entities; Bob Maguire's girlfriend has two confirmed RF-pulsing implants (leg and forehead); Maguire's Hawkeye 360 technology would geolocate them from orbit."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/73YBwFvcmF8.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/iPxbILOMQ08.md]
 name: NHI Implants
 aliases: [alien implants, UAP implants]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The documented and alleged pattern by which governments suppress, classify, discredit, or obstruct civilian and official awareness of UAP evidence — ranging from classification orders to active disinformation operations."
-created: 2026-04-26
-updated: 2026-04-26
 tags: [suppression, government, classification, cover-up, disinformation, uap-secrecy, disclosure]
 ---
 

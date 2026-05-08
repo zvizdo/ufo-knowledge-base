@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Latvian parapsychologist and pioneer of Electronic Voice Phenomena (EVP) research; identified by Strieber's mid-2000s visitor as the inventor of the implant placed in Strieber's ear in 1989."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABOP8ZJsyIk.md]
 name: Constantine Raudive
 aliases: [Konstantīns Raudive, Rodive (Strieber mispronunciation)]

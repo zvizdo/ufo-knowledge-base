@@ -3,8 +3,6 @@ type: concept
 name: Mothman
 aliases: [Mothman, mothman, Point Pleasant Mothman, West Virginia Mothman]
 first_seen_in: ufo-kb/wiki/entities/people/john-keel.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Anomalous entity reported near Point Pleasant, West Virginia, 1966–1967; described as a large winged humanoid with glowing red eyes; sightings clustered in the 13 months before the Silver Bridge collapse (December 1967); investigated and named by journalist John Keel in 'The Mothman Prophecies' (1975)."
 tags: [cryptid, entity, west-virginia, john-keel, forteana, 1960s, bridge-collapse, precognition]

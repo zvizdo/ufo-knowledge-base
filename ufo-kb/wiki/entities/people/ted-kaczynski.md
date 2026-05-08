@@ -4,8 +4,6 @@ entity-type: people
 name: Ted Kaczynski
 aliases: [Theodore Kaczynski, Unabomber]
 summary: "Harvard mathematician turned domestic terrorist (the 'Unabomber'); as an undergraduate at Harvard (1959–62), Kaczynski was subjected to psychologically abusive experiments run by Henry Murray under CIA MK-Ultra protocols — experiments that may have contributed to his radicalization."
-created: 2026-04-25
-updated: 2026-04-25
 roles: [other]
 affiliations: []
 tags: [mk-ultra, cia, harvard, behavioral-research, domestic-terrorism]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Nikolai Kardashev's 1964 framework for classifying civilizations by energy use (stellar → galactic); widely cited in popular science but critiqued by Karl Nell as uninstructive for UAP analysis — he proposes the Universal Civilization Development Model (energy density, information physics, ecology-evolution) as a replacement."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aa9Xx5wI8Rw.md]
 tags: [kardashev, civilizations, nhi-classification, energy, dyson-sphere, ucdm, karl-nell, fermi-paradox]
 ---

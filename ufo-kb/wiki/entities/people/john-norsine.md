@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former US Navy pilot, weapons designer, and neuroengineer at Lockheed Martin known for work in biofusion, biometrics, neuroweaponry, and neural pattern recognition (brain prints); died September 27, 2007 while on business for Concurrent Technologies."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: John Norsine
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ancient Inca capital in the Peruvian Andes; home to the Qorikancha (most precise ancient stonework anywhere) and gateway to Machu Picchu and Sacsayhuaman"
-created: 2026-04-26
-updated: 2026-04-26
 name: Cusco
 aliases: [Cuzco, Qusqu]
 region: Cusco Region, Andes

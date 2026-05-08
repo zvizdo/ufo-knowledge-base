@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Major US defense and intelligence contractor whose psychological operations consulting practice for the DoD supplied a primary source — Susan Goff — for the Wall Street Journal's 2024 pro-debunking UFO article, without disclosure."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h0hAit-KH9A.md]
 name: Booz Allen Hamilton
 aliases: [BAH]

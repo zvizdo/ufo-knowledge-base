@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Practices and claimed technologies for actively attracting or summoning UAPs: encompasses CE-5 (CE-5 Initiative), Sky Watchers' dog-whistle frequency, and neuritator psionic operators — ranging from civilian consciousness protocols to claimed classified-program-adjacent methods."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/SZBI85yvV5A.md, raw/youtube-transcripts/dnnpyNuPdXs.md, raw/youtube-transcripts/y_8IKKcTntQ.md]
 tags: [sky-watchers, ce5, summoning, jake-barber, james-valor, psionics, consciousness, uap-contact, dog-whistle, controlled-test]
 ---

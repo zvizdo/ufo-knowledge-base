@@ -3,8 +3,6 @@ type: concept
 name: Satellite Surveillance
 aliases: [satellite surveillance, satellite-surveillance, spy satellites, reconnaissance satellites, signals intelligence satellites]
 first_seen_in: ufo-kb/wiki/entities/places/pine-gap.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Intelligence collection using orbital platforms; includes optical (imagery) and signals intelligence (SIGINT) satellites; relevant to KB through Pine Gap's role as a satellite ground station, SpaceX's Starlink as dual-use constellation, and claims that UAP events near classified satellite facilities involve autonomous UAP response to surveillance infrastructure."
 tags: [satellites, intelligence, surveillance, nro, sigint, imint, pine-gap, nsa, cold-war]

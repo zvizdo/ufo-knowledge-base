@@ -11,8 +11,6 @@ duration_minutes: ~180
 tags: [varginha, brazil, nhi-biologics, crash-retrieval, men-in-black, memory-metal, alien-bacteria, hospital-regional-varginha, neurosurgeon, american-alchemy]
 sources: [raw/youtube-transcripts/UkKwa4jU0fc.md]
 summary: "Three primary Varginha 1996 witnesses — crash eyewitness pilot Carlos de Souza, neurosurgeon Dr. Italo Venturelli (face-to-face with the being), and forensic pathologist Dr. Armando Fortunato (autopsy of soldier who captured the being) — give their most detailed public testimony to date."
-created: 2026-04-26
-updated: 2026-05-04
 ---
 
 # "My Hospital Operated On An Alien!" — Top Surgeon [Exclusive Interview]

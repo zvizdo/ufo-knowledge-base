@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Mass UFO sightings over Washington D.C. in July 1952, overflying the Capitol Building; triggered presidential attention, newspaper headlines, and an Air Force press conference — the largest in USAF history at the time."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/iQOibpIDx-4.md]
 name: 1952 Washington D.C. UFO Flyover
 date: 1952-07 (multiple nights; primary events July 19–20 and July 26–27)

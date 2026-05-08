@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Last pharaoh of the 18th dynasty Amarna period; possibly murdered; tomb's 'curse' caused deaths and misfortunes among excavators"
-created: 2026-04-26
-updated: 2026-04-26
 name: Tutankhamun
 aliases: [Tutankhaten, King Tut, Tutankhamun]
 roles: [other]

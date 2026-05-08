@@ -1,8 +1,6 @@
 ---
 type: index
 summary: "Index of all American Alchemy YouTube episode transcripts imported into ufo-kb. Each page is a source-summary with entities, claims, and connections extracted."
-created: 2026-04-26
-updated: 2026-04-26
 tags: [index, american-alchemy, youtube-transcripts, jesse-michaels]
 ---
 

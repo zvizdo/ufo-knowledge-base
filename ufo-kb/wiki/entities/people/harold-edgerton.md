@@ -8,8 +8,6 @@ affiliations: [mit, egng, manhattan-project]
 firsthand_claims: []
 first_seen_in: null
 tags: [egng, stroboscopic-photography, nuclear-testing, manhattan-project, vannevar-bush, cape-canaveral, area-51]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "MIT scientist (1903–1990) who co-founded EG&G; pioneered stroboscopic high-speed photography used to capture microsecond nuclear detonation dynamics; associate of Vannevar Bush; the E in EG&G."
 ---

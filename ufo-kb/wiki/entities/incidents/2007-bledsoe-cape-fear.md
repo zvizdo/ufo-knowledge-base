@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "January 8, 2007 — Cape Fear River near Fayetteville, NC: Chris Bledsoe witnessed two large fire-orbs plus a third that descended on him; experienced 4 hours of missing time; Crohn's disease of 18 years vanished afterward."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bM18PJY6_Zc.md]
 name: 2007 Bledsoe Cape Fear River Encounter
 date: 2007-01-08

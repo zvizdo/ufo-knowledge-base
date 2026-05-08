@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [us-army, us-government]
 firsthand_claims: []
 first_seen_in: raw/entities/incidents/1954-eisenhower-ufo-meeting.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "34th President of the United States (1953–1961); Supreme Allied Commander WWII; in the KB primarily through claims about the 1954 Eisenhower UFO meeting at Edwards/Muroc and alleged Eisenhower-era treaties with NHI; also the administration that created the NSA, CIA's covert action capabilities, and the National Security Act framework that enabled UAP program secrecy."
 tags: [president, ike, majestic-12, 1954, nhi-contact, cold-war, military-industrial-complex, uap-history]

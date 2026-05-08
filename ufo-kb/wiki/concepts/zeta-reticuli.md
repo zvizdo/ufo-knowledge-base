@@ -3,8 +3,6 @@ type: concept
 name: Zeta Reticuli
 aliases: [Zeta Reticuli, zeta-reticuli, Zeta Ret, ζ Reticuli, Zeta Reticuli star system]
 first_seen_in: ufo-kb/wiki/entities/incidents/1961-betty-barney-hill-abduction.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Binary star system approximately 39 light years from Earth in the constellation Reticulum; became associated with the UAP phenomenon through the Betty and Barney Hill abduction case (1961), in which Betty Hill recalled being shown a star map that astronomer Marjorie Fish interpreted as depicting Zeta Reticuli as the travelers' home system."
 tags: [astronomy, star-system, abduction, betty-hill, star-map, extraterrestrial-hypothesis]

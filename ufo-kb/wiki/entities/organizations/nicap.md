@@ -1,10 +1,7 @@
 ---
 type: entity
 summary: "National Investigations Committee on Aerial Phenomena; major civilian UFO research organization founded 1956; briefly led by former CIA Director Roscoe Hillenkoetter; attempted to force congressional UFO hearings before being neutralized circa 1962."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/RTEWLSTyUic.md]
-updated: 2026-04-27
 name: NICAP
 aliases: [National Investigations Committee on Aerial Phenomena]
 type: research-group

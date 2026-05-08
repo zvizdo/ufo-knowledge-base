@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The 1948 Aztec, New Mexico crash — a reported UAP retrieval event filed in this KB under '1947-aztec' following early naming conventions. Per [[detlev-bronk]] lore and MJ-12 documents, Bronk performed alien autopsies at this site. Researcher Frank Scully's 1950 book 'Behind the Flying Saucers' was the first public account; authenticity remains highly contested."
-created: 2026-04-27
-updated: 2026-04-27
 name: 1948 Aztec, New Mexico Crash
 aliases: [1947-aztec, Aztec crash, Aztec UFO crash]
 date: 1948-03-25

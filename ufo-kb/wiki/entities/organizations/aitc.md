@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "AI Trust Council — a private organization co-founded by Chris Wright to slow the development of runaway artificial general intelligence; Randy Anderson, the UAP whistleblower, is a member, connecting the organization to the KB's AI/UAP governance cluster."
-created: 2026-05-05
-updated: 2026-05-05
 name: AI Trust Council
 aliases: [AITC]
 type_detail: advocacy-organization

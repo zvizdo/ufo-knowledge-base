@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "QAnon: internet-based disinformation movement that emerged in 2017 claiming a deep state shadow government was being exposed by an anonymous insider ('Q'); Alex Jones explicitly calls it a designed disinfo operation to entrap and discredit populist commentators."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KhmUixSXxDo.md]
 tags: [disinfo, qanon, alex-jones, flood-the-zone, deep-state, conspiracy, disclosure-narratives]
 ---

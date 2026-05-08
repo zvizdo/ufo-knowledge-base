@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Biologist at the University of Ika (Peru) who concluded that the Nazca mummies classified as M-types are 'humanoid, not hominid'; prominent figure in the scientific investigation of the mummies."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md]
 name: Roger Zuniga
 aliases: []

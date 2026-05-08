@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "JFK's assassination was motivated at least in part by his intent to share UAP intelligence with the Soviet Union as a unifying force against a shared non-human threat, breaking CIA's secrecy structure."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/IFaXi-NrPV0.md, raw/youtube-transcripts/areO7Mej44E.md]
 tags: [jfk-assassination, cia, ufo-motive, disclosure-narratives, allen-dulles, moon-program, brezhnev, nixon, gaps, greer]
 ---

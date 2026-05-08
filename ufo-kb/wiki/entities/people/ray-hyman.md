@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "University of Oregon psychologist and professional skeptic; co-reviewer of Stargate Program data with Jessica Utts in 1995; found methodological issues and disputed the statistical conclusions, giving the CIA cover to shut down the program."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md]
 name: Ray Hyman
 aliases: []

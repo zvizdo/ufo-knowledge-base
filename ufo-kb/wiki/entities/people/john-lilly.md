@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Neuroscientist who invented the isolation tank; conducted CIA/Navy-adjacent LSD and dolphin communication research; under high doses of ketamine contacted what he called the 'SSI' (Solid State Entity)—an alien intelligence; his dolphin brain electrode research was used by the CIA to develop bomb-delivery remote-controlled dolphins."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: John Lilly
 aliases: [John C. Lilly]

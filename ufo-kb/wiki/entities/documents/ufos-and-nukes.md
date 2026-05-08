@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Book by journalist Robert Hastings documenting 167 security-cleared USAF witnesses to UFO activity at nuclear weapons facilities — the most comprehensive published account of the UFO-nuclear pattern."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/TH10mD9hQas.md]
 title: "UFOs and Nukes: Extraordinary Encounters at Nuclear Weapons Sites"
 authors: [robert-hastings]

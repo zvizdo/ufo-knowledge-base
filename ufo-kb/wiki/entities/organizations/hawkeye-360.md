@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Satellite-based RF geolocation company founded by Bob Maguire; tracks the location of any RF-emitting device on Earth to within one square meter from orbit; approached by Space Force in 2022 to apply this capability to UAP detection; the same technology that would geolocate NHI implant beacons."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md]
 name: Hawkeye 360
 aliases: [HawkEye 360]

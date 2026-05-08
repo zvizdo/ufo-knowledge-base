@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis that NHI entities are from another dimension rather than another star system — and that an earlier precursor of the modern space program made deliberate first contact with them."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JE1oM89dpBc.md]
 tags: [nhi, extradimensional, interdimensional, space-program, first-contact, uap-origin, dimension]
 ---

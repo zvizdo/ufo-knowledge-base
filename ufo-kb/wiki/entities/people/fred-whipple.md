@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Harvard astronomer and Donald Menzel's PhD student who created Operation Moonwatch — a 12-station citizen science satellite tracking network that accumulated at least 36 UFO reports; worked with J. Allen Hynek on the program."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/lbGE3EC6StE.md]
 name: Fred Whipple
 aliases: [Frederick Whipple, Fred L. Whipple]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Eric Weinstein's proposed unified theory of physics (a 14-dimensional geometric framework); relevant to UAP because Weinstein argues it provides extra parameters that recover General Relativity as a limit, potentially opening theoretical space for non-rocket propulsion beyond Einsteinian constraints."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 name: Geometric Unity
 aliases: [GU]

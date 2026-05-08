@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US defense think tank established by the Air Force in 1948; produced some of the earliest systematic analyses of UFO reports and served as an institutional bridge between the intelligence community and academic researchers."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: RAND Corporation
 aliases: [RAND, Project RAND]

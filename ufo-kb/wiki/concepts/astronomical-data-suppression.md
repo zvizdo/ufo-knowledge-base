@@ -1,10 +1,7 @@
 ---
 type: concept
 summary: "Recurring pattern of deliberate destruction or systematic removal of anomalous observational data in astronomy — from Donald Menzel's Harvard plate destruction to Jacques Vallée's tracking tape, to Space Force's classified uncorrelated target lists."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/A_LsUSxTm7A.md, raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/lbGE3EC6StE.md]
-updated: 2026-04-27
 tags: [data-suppression, menzel, vallee, plates, uncorrelated-targets, space-force, vera-rubin, cover-up, pioneer-probes, binary-star, nasa]
 ---
 

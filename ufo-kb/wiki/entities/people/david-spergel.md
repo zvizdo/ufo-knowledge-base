@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Astrophysicist and Jim Simons's science advisor; main author of the NASA UAP review panel report (2023) — a connection that raised speculation about a Simons-UFO research funding nexus."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/h0hAit-KH9A.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 name: David Spergel
 aliases: []

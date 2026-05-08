@@ -4,8 +4,6 @@ subtype: claims-theses
 name: The Nine
 aliases: [Council of Nine, The Nine Gods, Nine Egyptian Gods]
 summary: "A purported council of nine cosmic entities first channeled at Andrija Puharich's Roundtable Foundation in 1952; described themselves as 'laws or principles of the universe, not personalities'; recurred through Uri Geller in 1971 and through Puharich's Space Kids in the 1970s; linked to nine Egyptian gods and to nuclear base UAP sightings."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/2-GeTxXi670.md]
 tags: [channeling, nhi, andrija-puharich, the-nine, uri-geller, space-kids, egypt, cosmic-intelligences]
 ---

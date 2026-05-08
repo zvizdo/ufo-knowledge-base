@@ -3,8 +3,6 @@ type: concept
 name: Electromagnetic Effects
 aliases: [electromagnetic effects, electromagnetic-effects, UAP electromagnetic effects, EM effects, UAP EM interference, EMI UAP]
 first_seen_in: ufo-kb/wiki/entities/incidents/1945-flight-19.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Electromagnetic interference effects associated with UAP proximity — including compass deviation, instrument failure, engine stall, radio blackout, and electrical system disruption; one of the most consistently reported categories of physical UAP effects across civilian, military, and aviation contexts."
 tags: [electromagnetic, EM, instrument-failure, compass, radio, engine-stall, UAP-effects, physics]

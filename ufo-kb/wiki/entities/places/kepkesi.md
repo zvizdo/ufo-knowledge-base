@@ -4,8 +4,6 @@ entity-type: places
 name: Kepkesi
 aliases: [Kef Kesi, Kabekli]
 summary: "Megalithic site near Lake Van, Turkey, featuring giant square basalt blocks with machine-cut surfaces and vitrified faces — melted stone requiring temperatures exceeding 2,000°C."
-created: 2026-04-26
-updated: 2026-04-26
 region: Eastern Anatolia
 country: Turkey
 type: incident-site

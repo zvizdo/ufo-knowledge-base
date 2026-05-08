@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/future-humans-hypothesis.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Referenced by Michael P. Masters in the context of the future humans hypothesis; cited in connection with the claim that humanity's descendants will 'inherit' this planet, providing motivation for future-human NHI to locate and interact with their ancestors."
 tags: [future-humans-hypothesis, masters, temporal-nhi]

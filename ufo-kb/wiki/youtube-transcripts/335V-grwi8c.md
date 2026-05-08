@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Short promotional video announcing the 'It's Probably Nothing' live tour — Jesse Michaels (American Alchemy) and Chris Ramsey (Area 52) announce Austin and Montreal dates."
-created: 2026-04-25
-updated: 2026-04-25
 video_id: 335V-grwi8c
 title: "It's Probably Nothing - LIVE Tour 2026"
 channel: American Alchemy

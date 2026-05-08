@@ -2,8 +2,6 @@
 type: synthesis
 synthesis-type: cross-cluster-pattern
 summary: "Synthesis tracing the occult-to-classified-aerospace pipeline: from Thule/Vril pre-war Germany through Operation Paperclip to JPL/OTO, NASA Freemasonry, NRO ritual naming, and the Space Force Big Dipper/NHI nexus — a pattern of esoteric frameworks embedded at the institutional core of the space program."
-created: 2026-04-27
-updated: 2026-04-27
 derived-from: [occult-aerospace-connection, oto, thule-society, vril-society, jpl, jack-parsons, john-ramirez, ron-pandolfi, space-delta-7, 2005-nrol-16-launch, big-dipper-nhi-nexus, scientists-as-receivers, secret-machines, jeffrey-kripal]
 tags: [synthesis, occult, aerospace, intelligence, space-force, nhi, cia, nro, ritual, consciousness, parsons, paperclip]
 ---

@@ -3,8 +3,6 @@ type: concept
 name: UAP Physical Evidence
 aliases: [UAP physical evidence, uap physical evidence, physical evidence UAP, material UAP evidence]
 first_seen_in: ufo-kb/wiki/concepts/nhi-radiation-effects.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Physical, measurable evidence of UAP: landing traces, electromagnetic effects on vehicles and equipment, radiation burns on witnesses, isotopic anomalies in alleged materials, radar tracks, and sensor data; the subset of UAP evidence that is objectively verifiable rather than purely testimonial."
 tags: [physical-evidence, uap, landing-traces, radar, radiation, sensor-data]

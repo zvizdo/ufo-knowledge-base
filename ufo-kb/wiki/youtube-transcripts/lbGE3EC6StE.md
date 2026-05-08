@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 video_id: lbGE3EC6StE
 title: "Meet the Astronomer Tracking UFOs"
 channel: American Alchemy

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Russian intelligence chief and Prime Minister; maintained a back-channel with Harald Malmgren that Obama reportedly shut down in 2009; connected to USSR/Russia's parallel UAP awareness."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/ATJwqp5twAg.md]
 name: Yevgeny Primakov
 aliases: [Primakov, Евгений Примаков]

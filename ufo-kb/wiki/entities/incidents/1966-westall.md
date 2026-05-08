@@ -6,8 +6,6 @@ location: Westall, Melbourne, Victoria, Australia
 witnesses: [mr-greenwood]
 craft_type: unknown (landed briefly in schoolyard area)
 corroboration: multi-witness
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hBrfe4hFuM0.md]
 summary: "1966 mass UAP sighting in Melbourne; a craft landed near a school and was witnessed by teachers and students; science teacher Mr. Greenwood was subsequently intimidated by men in suits to stay silent."
 tags: [westall, australia, mass-sighting, landing, men-in-black, cover-up]

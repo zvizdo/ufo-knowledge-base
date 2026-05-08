@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army Green Beret who detonated a Cybertruck loaded with fireworks outside Trump Tower in Las Vegas on January 1, 2025; his email to podcaster Sam Shoemate claimed New Jersey mystery drones are Chinese electrogravitic craft and included coordinates later tied to Area 51."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Sct30Qijfv8.md]
 name: Matthew Livelsberger
 aliases: [Livelsberger, Las Vegas Cybertruck Bomber]

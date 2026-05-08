@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "President of Penn State University (1956–1970); alleged Majestic-12 adjacent figure; reportedly present at the 1965 Kecksburg crash site alongside Donald Hornig (presidential science advisor)."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/Rjr3Yq-dMUE.md]
 name: Eric Walker
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Entire domains of theoretical physics were deliberately classified during the nuclear era, creating a 'glass wall' that effectively halted major breakthroughs in fundamental physics from the 1970s onward and forced anomalous progress underground."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/LpLFWdsIU7M.md, raw/youtube-transcripts/QgxjtDS2sIQ.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 tags: [physics-lockdown, tesla, anti-gravity, classified-science, ufo-propulsion]
 ---

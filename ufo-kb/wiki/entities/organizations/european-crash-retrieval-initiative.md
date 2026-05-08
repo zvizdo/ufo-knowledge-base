@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Private citizen-driven European crash retrieval team, led by Thomas Pinder and Alex Tal in Sweden, maintaining a cold-case database of European UFO crash events and attempting to respond to new 'hot cases'."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/lbGE3EC6StE.md]
 name: European Crash Retrieval Initiative
 aliases: [ECRI]

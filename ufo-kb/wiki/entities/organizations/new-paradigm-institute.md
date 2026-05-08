@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Danny Sheehan's current legal and advocacy organization focused on UAP disclosure; authorized under the Senate UAP bill statute to recommend members for the UAP review board."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: New Paradigm Institute
 aliases: [New Paradigm Research Institute, Ubiquity University (associated)]

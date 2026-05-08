@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army's Remote Viewer #1 — Legion of Merit recipient for 200+ military intelligence contributions via remote viewing; firsthand accounts of TK-089 Soviet submarine session, Mars DOD tasking, near-death experience, and consciousness theory."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/aGqFOxuYRT0.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md]
 tags: [remote-viewing, mars, stargate, cia, nde, consciousness, soviet-submarine, mx-missile]
 name: Joe McMoneagle

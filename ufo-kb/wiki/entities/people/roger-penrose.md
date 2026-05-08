@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nobel Prize-winning physicist; co-developer of Orchestrated Objective Reduction (Orch OR), a quantum-biology theory of consciousness cited in UAP-consciousness discussions as a candidate mechanism for telepathy."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KGD1nuM4MR8.md, raw/youtube-transcripts/KRDE1i3LDuU.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/hXYdkcv5TtY.md]
 name: Roger Penrose
 aliases: [Sir Roger Penrose]

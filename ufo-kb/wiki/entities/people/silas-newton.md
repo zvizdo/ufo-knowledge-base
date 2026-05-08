@@ -6,8 +6,6 @@ roles: [witness]
 affiliations: []
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/u7g5Sn1DJF4.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 summary: "Wealthy oil man (reportedly worth ~$20M in contemporary dollars) and semi-professional golfer; co-author (with Leo Gabbauer/Dr. Gee) of the early Aztec crash account published by Frank Scully in 'Behind the Flying Saucers' (1950); subsequently convicted of fraud over a 'doodlebug' oil-detection device — a conviction UAPGerb and Scott/Suzanne Ramsey argue was a setup, with a substituted device placed in evidence to discredit him."
 tags: [aztec-crash, 1948, whistleblower, fraud-setup, doodlebug, silas-newton, crash-retrieval-research]

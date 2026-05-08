@@ -9,8 +9,6 @@ first_seen_in: raw/youtube-transcripts/zjpvfDFc4fg.md
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 tags: [skunkworks, lockheed, mysticism, consciousness, uap-insider, secret-machines, garment-of-god]
 summary: "Former vice president of Lockheed Martin and Skunk Works director; gave a talk titled 'The Garment of God' linking mysticism, consciousness, and tech progress; openly discussed ritual altered states and ancient entities in UAP lectures; advised Secret Machines."
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # James Ryder

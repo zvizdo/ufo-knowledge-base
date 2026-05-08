@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Apollo 14 astronaut and sixth person to walk on the Moon; reported that Wernher von Braun came to him and shared knowledge of UFO/ET matters; associated with remote viewing and consciousness research."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/wT5-hXWIkzM.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 name: Edgar Mitchell
 aliases: []

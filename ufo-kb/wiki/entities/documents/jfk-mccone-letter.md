@@ -6,8 +6,6 @@ date: "1963-11-12"
 type_field: memo
 classification: "alleged FOIA-released; authenticity contested"
 sources: [raw/youtube-transcripts/lbGE3EC6StE.md]
-created: 2026-05-03
-updated: 2026-05-03
 tags: [jfk, cia, mccone, ufo-disclosure, soviet-coordination, foia-2005, contested-authenticity, jfk-assassination-ufo]
 summary: "Memorandum allegedly authored by President Kennedy and addressed to acting CIA Director John McCone, requesting UFO data on the grounds that Soviet observation of US 'unknowns' could provoke conflict; FOIA-released circa 2005; authenticity remains disputed."
 ---

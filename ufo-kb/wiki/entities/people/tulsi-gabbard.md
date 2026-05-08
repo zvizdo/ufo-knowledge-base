@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Senator and Director of National Intelligence nominee under Trump (2025); spans the Bitcoin and UAP policy domains simultaneously; committed to releasing JFK assassination records."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md]
 name: Tulsi Gabbard
 aliases: [Gabbard, DNI Gabbard]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Italian researcher applying SAR Doppler tomography to Giza substructure via the Beyond Protocol; claims 8 large cylindrical underground structures; contested but not uniformly rejected"
-created: 2026-04-26
-updated: 2026-04-27
 name: Filippo Biondi
 aliases: []
 roles: [researcher]

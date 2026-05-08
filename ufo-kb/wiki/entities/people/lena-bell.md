@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Managing editor in the Wall Street Journal opinion section; met with Jesse Michaels to discuss publishing Carl Nell's UAP-transparency op-ed but was unable or unwilling to advance it; told Michaels that David Spergel is the WSJ's de facto UFO adviser."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h0hAit-KH9A.md]
 name: Lena Bell
 aliases: []

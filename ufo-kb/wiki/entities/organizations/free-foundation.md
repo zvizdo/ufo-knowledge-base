@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/experiencer-research.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Foundation for Research into Extraterrestrial Encounters (FREE); nonprofit co-founded by Rey Hernandez that conducts large-scale quantitative surveys of contact experiencers; produced the first systematic academic-style survey of UAP/NHI contact experiences, with several thousand respondents, published in 'Beyond UFOs' (2018)."
 tags: [experiencer-research, survey, nhi-contact, rey-hernandez, nonprofit]

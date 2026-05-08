@@ -6,8 +6,6 @@ roles: [philosopher, researcher]
 affiliations: [society-for-psychical-research, cambridge-university]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/edmund-gurney.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "British moral philosopher and Cambridge economist (1838–1900); first President of the Society for Psychical Research (1882–1884, 1888–1892); provided institutional credibility as a Cambridge professor to the early parapsychological research program."
 tags: [spr, parapsychology, philosophy, cambridge, 19th-century, ethics]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Founder of the OSS and Knight of Malta who established UAP retrieval protocols for the 1933 Magenta craft and whose intelligence networks became the foundation of the CIA."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Bill Donovan
 aliases: [Wild Bill Donovan, William Joseph Donovan]

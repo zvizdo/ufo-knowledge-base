@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The use of megalithic architecture aligned to precessional sky positions to 'date-stamp' a specific astronomical epoch — creating a message readable by any future civilization with astronomy."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md]
 tags: [precession, monuments, astronomy, giza, gobekli-tepe, graham-hancock, ancient-astronomy, zep-tepi]
 ---

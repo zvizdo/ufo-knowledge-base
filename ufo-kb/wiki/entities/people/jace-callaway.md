@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/endogenous-dmt-function.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Pharmacologist and researcher associated with the hypothesis that endogenous DMT is released during REM sleep to generate dream imagery; published research on ayahuasca alkaloids and the pharmacology of DMT; cited in the KB's endogenous DMT/consciousness framework."
 tags: [dmt, endogenous-dmt, pharmacology, rem-sleep, ayahuasca, dream-imagery]

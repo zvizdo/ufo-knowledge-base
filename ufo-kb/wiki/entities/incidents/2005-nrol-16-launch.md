@@ -8,8 +8,6 @@ craft_type: null
 corroboration: hearsay
 tags: [nro, cia, walpurgisnacht, pandolfi, occult, prometheus, big-dipper, ritual-timing, necronomicon, titan-4]
 summary: "Classified NRO satellite launch at 12:50 AM on Walpurgisnacht 2005 — former CIA officer John Ramirez identifies it as a deliberately structured occult ritual: payload named Prometheus, northeast heading toward Big Dipper, patch with pentagrams, matching the Necronomicon's 'ceremony of walking' parameters almost exactly."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 ---
 

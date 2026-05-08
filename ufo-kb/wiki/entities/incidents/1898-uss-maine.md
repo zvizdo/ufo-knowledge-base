@@ -8,8 +8,6 @@ witnesses: []
 craft_type: N/A
 corroboration: contested
 first_seen_in: ufo-kb/wiki/entities/programs/operation-northwoods.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Explosion of the US battleship Maine in Havana Harbor on February 15, 1898, killing 266 sailors; attributed to Spanish sabotage by the yellow press, triggering the Spanish-American War; subsequent investigations suggest accident or internal explosion; cited as a historical precedent for government-exploited or manufactured pretexts for military action."
 tags: [false-flag, spain, cuba, 1898, war-pretext, historical, hearst, manipulation, spanish-american-war]

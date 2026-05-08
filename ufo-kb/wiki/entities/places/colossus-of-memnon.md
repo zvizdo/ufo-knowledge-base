@@ -4,8 +4,6 @@ entity-type: places
 name: Colossus of Memnon
 aliases: []
 summary: "Massive ancient Egyptian stone statues near Luxor; [[matt-lroy]] notes burn marks exclusively on their northeast-facing sides, which he interprets as directional evidence of an ancient plasma discharge event."
-created: 2026-04-26
-updated: 2026-04-26
 region: Upper Egypt
 country: Egypt
 type: incident-site

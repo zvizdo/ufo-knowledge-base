@@ -3,8 +3,6 @@ type: concept
 name: USO
 aliases: [USO, Unidentified Submerged Object, unidentified submerged objects, underwater UFO]
 first_seen_in: raw/youtube-transcripts/73YBwFvcmF8.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Unidentified Submerged Objects — the underwater analog of UAP; craft or phenomena observed entering, exiting, or operating underwater at speeds and depths that exceed known submarine and diving capabilities; documented by Richard Dolan back to 19th-century naval records; connect to the water-world UAP habitat hypothesis."
 tags: [uso, underwater, trans-medium, uap, water, navy, submarine]

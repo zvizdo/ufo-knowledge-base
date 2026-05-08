@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Debris material from alleged UAP crashes with shape-memory properties — extremely light, crumples then immediately returns to original shape; reported at Roswell (1947), Varginha (1996), and other retrieval sites."
-created: 2026-04-26
-updated: 2026-04-26
 tags: [memory-metal, crash-retrieval, metamaterials, roswell, varginha, arts-parts]
 ---
 

@@ -6,8 +6,6 @@ roles: [official]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/jacob-javits.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Chief Justice of the United States (1969–1986); before his judicial career, served as intelligence-community counsel; implicated in the MK-Ultra cover-up of the only successfully litigated non-consensual LSD death (the tennis pro case) alongside Jacob Javits; when Christic Institute's investigation exposed his role, the judge ordered the case settled to prevent Burger being named in open court."
 tags: [chief-justice, supreme-court, mk-ultra, cover-up, intelligence-community, jacob-javits, deep-state-continuity]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Witness who observed a large triangular craft with electrooptic lava-flow cloaking system over Langley, Virginia; has since gained exposure into legacy programs."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Dylan Borland
 aliases: []

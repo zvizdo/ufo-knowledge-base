@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The primary classified program at S4 assigned to Bob Lazar (~1987–1989); had two directives: reverse-engineer the craft's propulsion system using available Earth materials, OR remotely disable it 'at all costs' — the second was described as the higher priority."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: Project Galileo (S4)
 aliases: [S4 Galileo Program]

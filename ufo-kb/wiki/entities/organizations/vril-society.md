@@ -8,8 +8,6 @@ country: Germany
 active_period: 1920s–1945 (alleged)
 tags: [nazi, occult, anti-gravity, channeling, subterranean-beings, nhi-contact, germany]
 summary: "Alleged German occult group said to have channeled anti-gravity technology and psychic powers from an ancient subterranean race; formal institutional existence is disputed but the mythology influenced Nazi exotic-propulsion research claims."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 ---
 

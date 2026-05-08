@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Retired US Marine Corps Major and one of the earliest credible public advocates for UFO disclosure; reported in 1953 that the Air Force was tracking two unknown artificial satellites in low Earth orbit — four years before Sputnik."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Donald Keyhoe
 aliases: [Major Donald Kho (transcript phonetic)]

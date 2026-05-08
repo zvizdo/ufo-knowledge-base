@@ -3,8 +3,6 @@ type: concept
 name: History of UAP
 aliases: [history of UAP, history-of-uap, UAP history, UFO history, history of UFOs, UAP historical record]
 first_seen_in: ufo-kb/wiki/entities/documents/national-security-act.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The chronological record of UAP observation, government response, and research — from pre-modern accounts through the post-WWII classified program era to the 2017 AATIP disclosure; the pattern of recurrence across different technological epochs is itself data about the phenomenon."
 tags: [history, uap, chronology, government-response, research, pattern, disclosure]

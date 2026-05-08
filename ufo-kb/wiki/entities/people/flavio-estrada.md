@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Peruvian archaeologist affiliated with Ministry of Culture; made the 2023 conflation between wooden tourist figurines and real Nazca mummies that became the Western debunking narrative; later claimed mummy fingers were deliberately mutilated"
-created: 2026-04-26
-updated: 2026-04-26
 name: Flavio Estrada
 aliases: []
 roles: [debunker, official]

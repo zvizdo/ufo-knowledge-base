@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Bob Lazar's supervisor and escort at S4, ~1987–1989; arranged the craft test flight observation; conducted a bizarre non-communicative casino meeting after Lazar's disclosure that preceded a theft from Lazar's home. Reportedly deceased."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: Dennis Mariani
 aliases: []

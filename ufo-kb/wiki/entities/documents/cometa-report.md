@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1999 French government-adjacent report (~100 pages) produced by COMETA (Committee for In-Depth Studies), a group of senior military and intelligence officials; concluded extraterrestrial hypothesis is plausible and that the US is withholding information."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 title: "COMETA Report (UFOs and Defense: What Must We Be Prepared For?)"
 authors: [cometa-group]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Amazon and Blue Origin founder; identified by Matthew Pines as the adoptive maternal grandson of Lawrence Geist (AEC Albuquerque director who briefed Harold Malmgren on UAP materials), connecting him to the founding UAP custodian network."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md]
 name: Jeff Bezos
 aliases: [Bezos, Jeffrey Bezos]

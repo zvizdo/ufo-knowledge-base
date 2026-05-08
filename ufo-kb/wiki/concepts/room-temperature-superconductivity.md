@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The goal of producing a material that superconducts at room temperature — enabling lossless power transmission, extreme magnetic fields, and, per Salvatore Pais, the high-Q resonator required for exotic propulsion. The Pais patents include a denied room-temperature superconductor claim supported by Victor Lachinov's bipolaron mechanism."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md]
 tags: [superconductivity, physics, pais-patents, bipolaron, bcs-theory, topological-materials, room-temperature, enabling-technology]
 ---

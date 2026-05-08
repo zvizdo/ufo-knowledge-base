@@ -11,8 +11,6 @@ duration_minutes: ~90
 tags: [nsa, uap, havana-syndrome, exo-psychology, panspermia, directed-energy, consciousness, intelligence-community, cellular-cognition, biefeld-brown, laser-propulsion, maskirovka]
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 summary: "Former NSA Director of Research Eric Haseltine and MD/PhD holistic medicine pioneer Chris Gilbert survey UAP hypotheses using intelligence analytic tradecraft, detail their Havana syndrome investigation, and explore exo-psychology, panspermia, exotic propulsion, and cellular cognition."
-created: 2026-05-02
-updated: 2026-05-04
 ---
 
 # Former NSA Director Breaks Silence on UFOs

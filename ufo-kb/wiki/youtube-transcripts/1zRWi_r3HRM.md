@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Dr. Beatriz Villarroel presents findings of 100,000+ pre-Sputnik light transients on Palomar Observatory plates; Dr. Steven Bruell presents a peer-reviewed statistical correlation between nuclear tests and transient appearances."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 video_id: 1zRWi_r3HRM
 tags: [villarroel, vasco, palomar, pre-sputnik, transients, nuclear-nexus, bracewell, SETI, american-alchemy]

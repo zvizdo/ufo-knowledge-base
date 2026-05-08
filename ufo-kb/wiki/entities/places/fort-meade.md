@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "U.S. Army installation in Anne Arundel County, Maryland; headquarters of the National Security Agency (NSA) and U.S. Cyber Command; in the KB through Dan Sherman's account of receiving his read-in for Project Preserve Destiny at NSA main building on Fort Meade."
-created: 2026-05-05
-updated: 2026-05-05
 name: Fort Meade
 aliases: [Fort George G. Meade, NSA Headquarters]
 region: Anne Arundel County, Maryland

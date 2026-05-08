@@ -1,7 +1,6 @@
 ---
 name: Nuclear-UAP Multilateral Evidence Map
 synthesis-type: pattern
-updated: 2026-04-27
 derived-from: [ufo-nuclear-nexus, ufos-disable-nuclear-weapons, joe-mcmoneagle, kirk-mcconnell, kevin-knuth, ralph-moat-larson, robert-hastings, 1945-trinity-test, 1962-bluegill-uap-shootdown, 1964-vandenberg-bob-jacobs, 1967-oscar-flight, 1967-echo-flight, 2010-fe-warren-outage, aaro, fzvwBBSmWYA, IWui5cBkwoE, JpLThEF2dTM, KGD1nuM4MR8, ATJwqp5twAg]
 tags: [nuclear, uap, synthesis, pattern, ufos-disable-nuclear-weapons, disclosure]
 ---

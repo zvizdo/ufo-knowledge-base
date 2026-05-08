@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Second official USAF UFO investigation (1949–1951); succeeded Project Sign with an explicit debunking mandate. Produced a report concluding UFOs were explainable as misidentifications, hoaxes, or mass hysteria."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Project Grudge
 aliases: [Grudge, Project Saucer (informal)]

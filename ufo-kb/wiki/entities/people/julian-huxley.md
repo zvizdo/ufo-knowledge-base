@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British biologist, first Director-General of UNESCO, and co-founder of the transhumanist movement; Aldous Huxley's brother; claimed in a 1962 speech that Brave New World described an actual elite plan for biological/genetic social control."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KhmUixSXxDo.md]
 name: Julian Huxley
 aliases: [Sir Julian Sorell Huxley]

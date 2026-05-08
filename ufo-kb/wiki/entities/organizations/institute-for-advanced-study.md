@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/abraham-pais.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Independent research institute in Princeton, New Jersey; founded 1930; has housed Einstein, von Neumann, Gödel, and dozens of Fields Medalists and Nobel laureates; the premier institution for pure advanced research in mathematics, physics, and related fields; relevant to KB through connections to John von Neumann and other UAP-adjacent figures."
 tags: [princeton, physics, mathematics, einstein, von-neumann, research-institute, advanced-study]

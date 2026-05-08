@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Cargo Cult Hypothesis: Human civilization — agriculture, writing, astronomy, architecture — is the product of an ancient contact event with non-human intelligences; humanity is fundamentally a cargo cult that received gifts of knowledge from NHI and built religions and science around the encounter."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 tags: [cargo-cult, ancient-contact, nhi, peter-levenda, tom-delonge, prometheus, oannes, civilization-jumpstart]
 ---

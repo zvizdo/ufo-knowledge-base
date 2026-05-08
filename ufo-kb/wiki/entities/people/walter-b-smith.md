@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA Director 1952–1953; authored a memo proposing to operationalize UFO phenomena as a psychological warfare tool against the Soviets."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md]
 name: Walter Bedell Smith
 aliases: [Walter B. Smith, Bedell Smith, General Smith]

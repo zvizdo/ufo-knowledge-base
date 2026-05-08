@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Semi-rural park south/southwest of Denver, Colorado, containing a Native American burial ground; site of John Blitch's 1995 missing-time mountain bike incident."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/yAvD5UTziTo.md]
 name: Daniels Park
 aliases: [Daniel's Park]

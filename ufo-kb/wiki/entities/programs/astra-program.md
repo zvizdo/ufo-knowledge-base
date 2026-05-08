@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Mysterious Skunk Works aircraft designation spotted by Nick Cook on a classified Lockheed organizational chart during an April 1st visit to Palmdale HQ — positioned above all then-current acknowledged programs; a subsequent Skunk Works director confirmed it was known internally and 'hasn't flown yet.'"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: ASTRA Program
 aliases: [Astra, Project ASTRA]

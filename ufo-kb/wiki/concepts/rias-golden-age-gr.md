@@ -3,8 +3,6 @@ type: concept
 name: RIAS Golden Age of General Relativity
 aliases: [RIAS, Research Institute for Advanced Study, Golden Age of GR, Martin Corporation gravity program]
 first_seen_in: raw/youtube-transcripts/xnxasfyHtfo.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [physics-lockdown, gravity-research, martin-corporation, rias, golden-age-gr, anti-gravity, history-of-physics]
 ---

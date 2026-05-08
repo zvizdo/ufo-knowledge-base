@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [nsa, cia, us-navy, dia, naval-intelligence]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/yAvD5UTziTo.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [nsa, cia, dia, naval-intelligence, sasc, mj12-named]
 ---

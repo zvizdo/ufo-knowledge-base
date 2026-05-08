@@ -6,7 +6,6 @@ parent_org: US Navy
 country: USA
 active_period: "1941–present"
 tags: [navy, weapons, indiana, classified-programs, deep-underground, offworld-technology, reverse-engineering, doe-nexus]
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Sct30Qijfv8.md]
 ---
 

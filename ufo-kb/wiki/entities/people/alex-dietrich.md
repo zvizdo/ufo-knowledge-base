@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Lt. Cmdr. Alex Dietrich — US Navy pilot; wingman to Commander David Fravor during the 2004 Nimitz Tic-Tac encounter; one of the two primary eyewitnesses to the visual UAP encounter."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Alex Dietrich
 aliases: [Lieutenant Commander Dietrich, Lt. Cmdr. Dietrich]

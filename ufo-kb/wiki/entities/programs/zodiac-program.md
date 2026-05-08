@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged crash retrieval and reverse-engineering program reportedly operated by TRW (~1988–2001), believed to be either a renamed Majestic 12 or a successor oversight group; documented in a 1998 UFO Magazine article under the pseudonym 'Greg Halifax' and discussed in email chains between Kit Green, Hal Puthoff, and Eric Davis."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/nTiFs8LudUo.md]
 name: ZODIAC Program
 aliases: [Zodiac, Project ZODIAC]

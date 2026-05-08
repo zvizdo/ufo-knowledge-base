@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Montana-based author and researcher whose primary focus is biblical giants, the Nephilim, and prophetic/survivalist topics; co-founded Gen 6 Productions with Tim Alberino; first to publicly document the Kandahar Giant pilot account."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [giants, nephilim, kandahar, gen-6-productions, montana, author]
 name: Steve Quail

@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: [mit, mit-artificial-intelligence-lab]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/eric-haseltine.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "American cognitive scientist and computer scientist (1927–2016); co-founder of MIT's Artificial Intelligence Laboratory; foundational figure in AI research; personal acquaintance of Eric Haseltine; his work on consciousness and machine intelligence intersects with UAP consciousness debates."
 tags: [ai, mit, consciousness, artificial-intelligence, cognitive-science, transhumanism]

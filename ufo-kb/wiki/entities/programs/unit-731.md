@@ -7,8 +7,6 @@ parent_org: Imperial Japanese Army
 period: 1937–1945
 status: terminated
 tags: [biowarfare, human-experimentation, world-war-2, japan, manchuria, immunity-deal, biological-weapons, cold-war, us-cover-up]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "Imperial Japanese Army biological and chemical warfare unit operating in Manchuria; conducted vivisection, deliberate infection, and live weapons tests on prisoners; its commanders were granted US immunity in exchange for classified biological warfare data — a direct precursor to the postwar biowarfare-intelligence-pharma nexus."
 ---

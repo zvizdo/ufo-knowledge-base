@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Bestselling romance and thriller novelist who wrote 'The Doomsday Conspiracy' (1991), a work of fiction inspired by Bill Todman Jr.'s alleged UFO encounter."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Sydney Sheldon
 aliases: []

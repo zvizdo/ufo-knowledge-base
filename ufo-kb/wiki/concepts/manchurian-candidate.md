@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "A person whose behavior has been covertly modified through trauma, hypnosis, drugs, or electrode implantation to execute actions (assassination, courier service, political violence) on command—typically with no memory of receiving instructions or performing the acts. CIA documents confirm the capability was operational, not merely theoretical."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 tags: [mk-ultra, cia, mind-control, assassination, amnesia, did, hypnosis, programming]
 ---

@@ -6,8 +6,6 @@ type_field: religious
 parent_org: grand-lodge-of-texas
 country: USA (chartered in Texas)
 active_period: 1999–present
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md]
 summary: "Masonic Lodge chartered by the Grand Lodge of Texas in 1999, intended to convene future Masonic meetings on the Moon at the Sea of Tranquility (Apollo 11 landing site); founded with Apollo astronaut Buzz Aldrin, who carried a Scottish Rite flag with him to the lunar surface to consecrate the future lodge — cited by Lue Elizondo as a literal example of the Masonic-aerospace overlap."
 tags: [freemasonry, masonic-astronauts, occult-aerospace, sea-of-tranquility, apollo-11, scottish-rite]

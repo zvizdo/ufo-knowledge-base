@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Book by Dr. Rick Strassman (2001) documenting his clinical research at UNM (1990–1995) in which he administered IV DMT to 60 volunteers under controlled conditions. Foundational text for the dmt-NHI hypothesis — many subjects encountered autonomous beings in the DMT state."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 title: DMT: The Spirit Molecule
 authors: [rick-strassman]

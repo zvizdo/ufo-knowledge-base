@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Italian theoretical physicist at University of Milan who developed the quantum-field theoretical basis for cold fusion; collaborated with Emilio Del Giudice and worked with Fleischmann and Pons; died early 2000s"
-created: 2026-04-27
-updated: 2026-04-27
 name: Giuliano Preparata
 aliases: []
 roles: [researcher]

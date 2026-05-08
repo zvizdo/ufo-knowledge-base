@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "James Fox (round 2 with Jesse Michaels) on the updated Moment of Contact: New Revelations; Dr. Italo Venturelli's live-alien hospital testimony, the Varginha flight path, MIB pattern across Phoenix/Westall/Varginha, Holloman AFB landing, Harald Malmgren/Bluegill Triple Prime Roswell-alien connection, tridactyl Peru mummies, Robert Bigelow 'walking among us,' and Eric Davis demanding immunity to testify on crash retrievals."
-created: 2026-04-27
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/hBrfe4hFuM0.md]
 video_id: hBrfe4hFuM0
 title: "Army Captures Live Alien (Hospital Report Revealed!)"

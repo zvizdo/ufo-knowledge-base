@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ancient Greek sanctuary 13 miles northwest of Athens; site of the Eleusinian Mysteries, the most important and secretive mystery rite of the ancient Mediterranean world, practiced for ~2,000 years under penalty of death for those who revealed its secrets."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/I9VyyV4-3Js.md]
 name: Eleusis
 aliases: [Eleusis sanctuary, Eleusinian sanctuary]

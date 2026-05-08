@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 video_id: TH10mD9hQas
 title: "How I Know David Grusch Is Not Lying…"
 channel: American Alchemy

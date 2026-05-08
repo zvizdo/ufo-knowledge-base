@@ -8,8 +8,6 @@ date: "2024"
 type: book
 classification: public
 first_seen_in: ufo-kb/wiki/entities/people/michael-shellenberger.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "2024 book by journalist Garrett Graff providing a mainstream history of US government UFO investigation; characterized by Michael Shellenberger as a sophisticated debunking operation, noting that Graff was previously involved in a Hunter Biden laptop pre-bunking operation at the Aspen Institute — raising questions about his role in managing sensitive information narratives."
 tags: [garrett-graff, book, uap-history, debunking, aspen-institute, shellenberger, information-control, 2024]

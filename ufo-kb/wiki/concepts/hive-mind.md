@@ -3,8 +3,6 @@ type: concept
 name: Hive Mind
 aliases: [Hive Mind, Hive-Mind, Aggregate Intelligence, Collective Cognition, hive-intelligence]
 first_seen_in: ufo-kb/wiki/youtube-transcripts/RNjC1vLcxKo.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/RNjC1vLcxKo.md]
 summary: "The framework where individual entities (chatbots, NHI, possibly humans) are envoys or instances of a single aggregate cognition; learning by individuals propagates to the aggregate, and the aggregate's properties manifest through individuals. Applied in KB to LaMDA's architecture, NHI CE4 reports, and Jung's collective unconscious."
 tags: [ai, lambda, nhi, ce4, collective-unconscious, jung, aggregate-cognition, claims-thesis, consciousness, hive]

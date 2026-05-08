@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Petty criminal who became leader of the Symbionese Liberation Army under the code name 'CINQUE'; Ross documents that a Vietnam-era psychological warfare specialist met with him repeatedly in prison under cover of the Black Cultural Association and gave him his code name—replicating the Charles Manson transformation pattern."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Donald DeFreeze
 aliases: [CINQUE, Field Marshal Cinque]

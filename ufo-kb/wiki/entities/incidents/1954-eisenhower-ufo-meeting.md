@@ -3,8 +3,6 @@ type: entity
 name: 1954 Eisenhower UFO Meeting
 aliases: [Eisenhower-NHI meeting, Holloman AFB UFO meeting, 1954 Muroc/Holloman meeting, Eisenhower alien treaty, eisenhower-alien-treaty]
 summary: "Alleged 1954 meeting between President Eisenhower and non-human entities at either Edwards Air Force Base (formerly Muroc) or Holloman AFB — presented in multiple testimonies as the first formal US government-NHI contact; not confirmed in primary sources and contested."
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 date: 1954-02
 tags: [eisenhower, nhi, government-contact, 1954, holloman, edwards-afb, claims-thesis, contested]

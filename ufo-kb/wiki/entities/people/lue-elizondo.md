@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former US Army counterintelligence officer who directed AATIP and AAWSAP; became the most prominent public face of the post-2017 UAP disclosure wave."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/JE1oM89dpBc.md, raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/q7Czo77qhHA.md]
 name: Lue Elizondo
 aliases: [Luis Elizondo, Luis Elizondo Orosa, luis-elizondo]

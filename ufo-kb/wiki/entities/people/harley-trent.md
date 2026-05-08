@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Submarine specialist and Stargate-era remote viewer; worked the TK-089 Soviet submarine target simultaneously with Joe McMoneagle; described by McMoneagle as 'better viewer than I'll ever be.' Died relatively soon after the Stargate era."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JpLThEF2dTM.md]
 name: Harley Trent
 aliases: []

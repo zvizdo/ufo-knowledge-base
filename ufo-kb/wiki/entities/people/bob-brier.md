@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Egyptologist who concluded Tutankhamun likely died from a blunt-force head injury based on blood pooling evidence"
-created: 2026-04-26
-updated: 2026-04-26
 name: Bob Brier
 aliases: [Dr. Bob Brier]
 roles: [researcher]

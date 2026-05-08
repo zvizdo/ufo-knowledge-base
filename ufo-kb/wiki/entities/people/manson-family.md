@@ -6,8 +6,6 @@ roles: [cult]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/j-edgar-hoover.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Cult led by Charles Manson in Los Angeles, 1967–1969; committed the Tate-LaBianca murders (August 1969); associated in KB through J. Edgar Hoover's FBI surveillance of countercultural groups; connected to the Laurel Canyon counterculture nexus and claims about intelligence-adjacent manipulation of 1960s counterculture."
 tags: [cult, manson, los-angeles, 1969, murders, counterculture, fbi, cointelpro, laurel-canyon]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "WWII-era pilot who observed UFOs over the Hanford plutonium production facility in 1945, before the site was fully operational — one of the earliest documented nuclear-site UAP sightings; cited in Knuth's academic UAP paper."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Bud Clem
 aliases: []

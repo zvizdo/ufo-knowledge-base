@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The apparatus of government, contractor, and private classification, compartmentalization, and active suppression that has kept UAP-related information from reaching the public, Congress, or even senior executive-branch officials for at least seven decades."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [secrecy, classification, compartmentalization, uap, disclosure, deep-state, majestic-12, grusch]
 ---
 

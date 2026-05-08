@@ -7,8 +7,6 @@ affiliations: []
 date: 1977-07-30
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/water-world-ufo-habitat.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Alleged USO (Unidentified Submerged Object) encounter by the Royal New Zealand Navy frigate HMNZS Southland; cited by physicist Kevin Knuth as a physics-breaking case in the USO phenomenon; specific details not fully documented in KB source material."
 tags: [uso, new-zealand, royal-navy, knuth, physics-breaking, underwater]

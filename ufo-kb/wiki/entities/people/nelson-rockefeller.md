@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Vice President (1974–77), Governor of New York, Eisenhower adviser; Henry Kissinger's principal patron; connected to MJ12 through Detlev Bronk's presidency of the Rockefeller Foundation and classified outputs of the Rockefeller Brothers Fund Special Studies Project."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Jpf0ZGY87c0.md]
 name: Nelson Rockefeller
 aliases: [Nelson Aldrich Rockefeller, Rocky]

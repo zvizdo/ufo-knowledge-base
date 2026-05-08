@@ -3,8 +3,6 @@ type: concept
 name: CE-5 Protocols
 aliases: [CE-5 protocols, CE5, Contact in the Desert, human-initiated contact, HICE]
 first_seen_in: ufo-kb/wiki/concepts/psionic-uap-interface.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Human-Initiated Contact Experience protocols; techniques developed primarily by Steven Greer for deliberately attempting to summon or communicate with NHI using meditation, light signals, and remote viewing — the CE5 (Fifth Kind) tier of the Hynek classification system."
 tags: [steven-greer, ce5, voluntary-contact, nhi-communication, meditation]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "North Carolina industrialist who sponsored the 1957 UNC Chapel Hill gravity conference and simultaneously funded Thomas Townsend Brown's gravitator experiments; also wrote a science-fiction novel about a fake alien invasion using anti-gravity craft."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 name: Agnew Bahnson
 aliases: []

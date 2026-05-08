@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "A vast underground complex described by Herodotus and Pliny the Elder near the Hawara pyramid in the Faiyum; Ben Van Kerkwijk discussed it on Joe Rogan as possibly the largest unexplored archaeological site in Egypt"
-created: 2026-04-27
-updated: 2026-04-27
 name: Hawara Labyrinth
 aliases: [Labyrinth of Egypt, Labyrinth of Amenemhat III]
 region: Faiyum, Middle Egypt

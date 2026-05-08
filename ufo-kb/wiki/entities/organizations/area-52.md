@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO/UAP-focused YouTube channel hosted by Chris Ramsey; name plays on Area 51; part of the independent UFO media ecosystem."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/335V-grwi8c.md]
 name: Area 52
 aliases: []

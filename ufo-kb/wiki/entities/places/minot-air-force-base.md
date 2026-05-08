@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF Strategic Air Command base in North Dakota; site of multiple UFO-missile-system interaction incidents in 1966–1968, making it a key node in the UFO-nuclear nexus alongside Malmstrom AFB."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Minot Air Force Base
 aliases: [Minot AFB, Grand Forks-Minot complex]

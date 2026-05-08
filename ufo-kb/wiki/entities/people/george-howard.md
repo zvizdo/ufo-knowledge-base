@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Researcher and co-author of the 2007 Younger Dryas Impact Hypothesis paper; runs the Cosmic Tusk blog aggregating YDIH research and news."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JGE1NIGhBzw.md]
 name: George Howard
 aliases: []

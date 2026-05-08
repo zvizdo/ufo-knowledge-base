@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Vedic framework of cyclical civilizational ages; Randall Carlson demonstrates that Yuga durations (Kali = 432,000 years; Maha Yuga = 4,320,000 years) converge with the Sumerian pre-diluvian king list total (also 432,000 years) — two independent traditions sharing one number system."
-created: 2026-04-26
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/A_LsUSxTm7A.md, raw/youtube-transcripts/R7oyZGW99os.md]
 tags: [yuga, vedic, hinduism, civilizational-cycles, great-year, binary-star, ancient-knowledge, catastrophism, sacred-numbers, sumerian, randall-carlson]
 ---

@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 video_id: UrHLTFvdEZk
 title: "Exposing the CIA's Darkest Mind Control Secrets"
 channel: American Alchemy

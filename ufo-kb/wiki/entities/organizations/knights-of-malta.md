@@ -1,10 +1,7 @@
 ---
 type: entity
 summary: "Vatican-affiliated sovereign military order identified as a key transnational UFO secrecy custodian network, partially insulated from CIA/DoD via diplomatic immunity."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/C4rSj5Aum7w.md]
-updated: 2026-04-26
 name: Sovereign Military Order of Malta
 aliases: [Knights of Malta, SMOM, Order of Malta]
 type_of: religious

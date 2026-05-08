@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Commandant of the United States Marine Corps; targeted in 1934 by Brown Brothers Harriman-aligned Gilded Age industrialists (Carnegies, Rockefellers) to lead an armed coup against FDR and install a fascist government; exposed the plot to Congress."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
 name: Smedley Butler
 aliases: [General Smedley Butler, Major General Smedley Butler]

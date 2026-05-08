@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Journalist and author who broke the Immaculate Constellation story; known for Twitter Files, Twitter censorship reporting, and nuclear/environment policy work."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: Michael Shellenberger
 aliases: [Shellenberger]

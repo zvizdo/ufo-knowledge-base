@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The claim that ancient giant humanoids (Nephilim) — offspring of angelic Watchers and human women — physically existed, left skeletal remains worldwide, and may have living representatives that persist to the present day."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [nephilim, giants, book-of-enoch, watchers, ancient-texts, sardinia, kandahar, smithsonian]
 ---

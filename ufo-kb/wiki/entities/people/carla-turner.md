@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Abduction researcher and abductee herself; student of Bud Hopkins and Barbara Bartholic; documented her own family's abductions and MILABS (military abductions); authored Into the Fringe, Taken, and Masquerade of Angels; died of aggressive cancer."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [abduction, milabs, carla-turner, grays, virtual-reality, deception, implants]
 name: Carla Turner

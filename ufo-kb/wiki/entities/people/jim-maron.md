@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Texas-based former rock promoter (Willie Nelson associate) who possesses a metallic sphere that reportedly moves under its own power on a level floor; sphere to be tested at Skinwalker Ranch under Brandon Fugal."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Jim Maron
 aliases: []

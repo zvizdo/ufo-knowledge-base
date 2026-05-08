@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Air Force Master Sergeant stationed at Nellis Air Force Base with the 67th Intelligence Group; describes a face-to-face encounter with a UAP/non-human entity at the Nellis testing range in August 1994; featured in James Fox's forthcoming documentary 'The Program.'"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: Jason Sanss
 aliases: []

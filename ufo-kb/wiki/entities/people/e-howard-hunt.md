@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "E. Howard Hunt: CIA operative and later convicted Watergate burglar; served as liaison for the paramilitary Everglades training base; key figure in CIA black operations from the 1950s through the 1970s."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: E. Howard Hunt
 aliases: [Everette Howard Hunt, Howard Hunt]

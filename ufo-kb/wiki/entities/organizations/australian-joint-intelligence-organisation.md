@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Australia's primary foreign intelligence agency (equivalent to the CIA), whose nuclear division chief Harry Turner authored the 1971 memo concluding that the US had deeply concealed anti-gravity and UAP programs behind Project Blue Book."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Australian Joint Intelligence Organisation
 aliases: [Australian JIO, ASIS (partial overlap)]

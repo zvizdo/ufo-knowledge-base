@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Artist and UFO researcher who became one of the most prolific documenters of alien abduction cases; childhood friend of John Mack, whose work drew Mack into abduction research."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/areO7Mej44E.md]
 name: Bud Hopkins
 aliases: [Budd Hopkins]

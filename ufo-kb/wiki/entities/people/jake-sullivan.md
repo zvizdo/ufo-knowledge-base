@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [national-security-council]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/LpLFWdsIU7M.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 summary: "US National Security Advisor (2021–2025) under President Biden; attended at least one Senate UAP briefing with firsthand witness testimony per Ross Coulthart; cited in KB as evidence that senior executive branch officials were briefed on UAP testimony but chose to prioritize other national security concerns."
 tags: [nsc, national-security-advisor, biden, uap-briefing, coulthart]

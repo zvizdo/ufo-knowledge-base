@@ -2,8 +2,6 @@
 type: entity
 entity-type: tech-artifacts
 summary: "Biblical artifact claimed to be held in Axum, Ethiopia; Hancock's research suggests it functions as a radiation-emitting device — guardians universally develop cataracts and die within ~3 years."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md]
 name: Ark of the Covenant
 aliases: []

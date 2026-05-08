@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1997 book by Colonel Philip Corso claiming he personally oversaw the distribution of Roswell recovered technology to US defense contractors; one of the most detailed and contested firsthand-claim documents in UAP literature."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 title: The Day After Roswell
 authors: [Philip Corso, William J. Birnes]

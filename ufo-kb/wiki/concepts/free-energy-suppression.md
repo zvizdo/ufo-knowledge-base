@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The claim that working zero-point or electrogravitic energy systems have been suppressed by the black-program control structure for decades, eliminating poverty and energy dependence if released."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/areO7Mej44E.md]
 tags: [free-energy, zero-point-energy, electrogravidics, suppressed-tech, townsend-brown, greer, disclosure, black-programs]
 ---

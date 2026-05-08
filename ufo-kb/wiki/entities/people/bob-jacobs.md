@@ -3,8 +3,6 @@ type: entity
 entity-type: people
 name: Bob Jacobs
 summary: "USAF First Lieutenant and film officer who in 1964 captured telescopic footage of an unidentified disc-shaped object apparently disabling a Minuteman dummy warhead over Vandenberg AFB; subsequently forced to sign a security oath and silenced for nearly two decades."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/h0hAit-KH9A.md]
 tags: [witness, military, ufo-nuclear-nexus]
 aliases: []

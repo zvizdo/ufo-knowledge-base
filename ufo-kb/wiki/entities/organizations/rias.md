@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Martin Corporation's dedicated anti-gravity research division (Research Institute for Advanced Study), run by VP George Trimble in the 1950s; sent Lewis Whitten to represent it at the 1957 UNC Chapel Hill gravity conference."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/2Xxmguz0GEQ.md]
 name: RIAS
 aliases: [Research Institute for Advanced Study, Martin RIAS]

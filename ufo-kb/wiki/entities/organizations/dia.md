@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Defense Intelligence Agency — US military intelligence agency; connected to UAP through AAWSAP/AATIP contracts, DIA-funded remote viewing programs (Stargate), and as a recipient of Eric Davis/Hal Puthoff technical reports on UAP reverse engineering."
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 name: DIA
 aliases: [Defense Intelligence Agency]

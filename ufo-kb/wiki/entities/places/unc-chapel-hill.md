@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "University of North Carolina at Chapel Hill — identified in the 1971 Australian JIO memo as a CIA academic outpost; site of the 1957 gravity research conference funded by Agnew Bahnson and sponsored by Wright Air Development Center."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: UNC Chapel Hill
 aliases: [University of North Carolina at Chapel Hill]

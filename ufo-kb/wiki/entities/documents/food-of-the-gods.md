@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Terence McKenna's 1992 book arguing that psychedelic mushroom consumption was the catalyst for the Quantum Leap in human consciousness, behavior, and cultural complexity — the 'stoned ape' hypothesis"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md]
 title: Food of the Gods
 authors: [Terence McKenna]

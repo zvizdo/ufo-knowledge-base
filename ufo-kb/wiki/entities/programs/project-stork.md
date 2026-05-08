@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Battelle Memorial Institute's secret compartmented UAP research program — the hidden counterpart to the public-facing Project Blue Book, operating under CIA Office of Scientific Intelligence classification via the McMahon Secrecy Act; worked on materials from the 1947 Roswell crash including shaped metal alloys and nickel-titanium composites."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/nTiFs8LudUo.md]
 name: Project STORK
 aliases: [Project Stork, Stork]

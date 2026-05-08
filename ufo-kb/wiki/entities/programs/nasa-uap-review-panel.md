@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "NASA Independent Study Team on UAP (2022–2023); chaired by astrophysicist David Spergel (Simons Foundation); produced a ~10-page final report criticized for failing to engage the astronaut encounter record and for being thin compared to France's 1999 COMETA report."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: NASA UAP Review Panel
 aliases: [NASA Independent Study Team on UAP, NASA UAP Study Team]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1995 incident near Bariloche, Argentina, in which a commercial pilot reported a UFO chasing his aircraft and causing an outage, preventing him from landing; occurred near the Bariloche civilian nuclear grid."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h0hAit-KH9A.md]
 name: 1995 Bariloche Argentina UFO Incident
 date: "1995"

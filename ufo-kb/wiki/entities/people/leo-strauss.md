@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "German-American political philosopher (1899–1973) who revived the esoteric/exoteric reading of classical texts — canonical figure for understanding Plato as a coded, multi-layered writer, relevant to how suppressed knowledge is transmitted."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KRDE1i3LDuU.md]
 name: Leo Strauss
 aliases: [Strauss]

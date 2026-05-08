@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "First director of the CIA's Office of Global Access (OGA); 16 years in the NRO; served as CIA DS&T deputy director and DDNI ATNF — making him one of the named program-administrator nodes in the UAP legacy pyramid."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Doug Wolf
 aliases: []

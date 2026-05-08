@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British scientific organization founded in 1882 to rigorously investigate telepathy, mediumship, and other anomalous mental phenomena; coined the term 'telepathy' and produced the first systematic evidence base for psychical research."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 name: Society for Psychical Research
 aliases: [SPR, Society of Psychical Research, Society for Psychical Research, society-for-psychical-research]

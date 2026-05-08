@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British molecular biologist (1916–2004); co-discoverer of the structure of DNA (1953, with James Watson). Later a leading neuroscientist studying consciousness. In UAP/consciousness discourse, known for his directed panspermia hypothesis and for an anomalous LSD-facilitated insight that helped him visualize the double helix."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/dfPfPB601hw.md, raw/youtube-transcripts/q7Czo77qhHA.md]
 name: Francis Harry Compton Crick
 aliases: []

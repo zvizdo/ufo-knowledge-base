@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Founder of psychoanalysis; his model of the unconscious is, per Wargo, a structurally complete theory of precognition — just flip the iceberg sideways. Freud denied precognition his entire career while living out a textbook precognitive time loop with his own 1895 dream and 1923 oral cancer diagnosis."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hXYdkcv5TtY.md]
 name: Sigmund Freud
 aliases: []

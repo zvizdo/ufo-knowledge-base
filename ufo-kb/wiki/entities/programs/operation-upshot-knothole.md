@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Operation Upshot-Knothole: series of nuclear weapons tests at the Nevada Test Site from March to June 1953; the Kingman crash (May 1953) occurred during this test series, making it one of the nuclear-UAP nexus data points."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Operation Upshot-Knothole
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Thesis that UAP propulsion and observable behaviors are emergent properties of macroscopic quantum mechanics — quantum effects operating at craft scale, analogous to superconductivity where quantum mechanics produces visible large-scale effects that appear to 'break' classical physics."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/qAou_h1POWs.md]
 tags: [macroscopic-quantum, uap-physics, superconductivity, emergent-phenomena, five-observables, new-physics]
 ---

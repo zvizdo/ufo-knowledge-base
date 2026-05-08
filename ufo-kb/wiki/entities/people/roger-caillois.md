@@ -3,8 +3,6 @@ type: entity
 name: Roger Caillois
 aliases: []
 summary: "French sociologist and polymath (1913–1978) known for his theories of mimicry in biology and social life; his work on animal mimicry — where creatures adopt the appearance of their environment or other species — is cited in UAP contexts as a framework for understanding NHI behavioral mimicry of human social structures."
-created: 2026-05-05
-updated: 2026-05-05
 roles: [researcher]
 affiliations: [UNESCO, Collège de Sociologie]
 firsthand_claims: []

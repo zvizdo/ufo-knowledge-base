@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Journalist and friend of Jesse Michaels who wrote incisive tweets and commentary on the Wall Street Journal's EMP claim for the 1967 Malmstrom incident, noting the physical absurdity of secretly moving a 60-foot experiment to an active nuclear facility."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h0hAit-KH9A.md]
 name: Merrick von Rennenkampff
 aliases: [Merrick von Renincamp, Merrick von Renenamp]

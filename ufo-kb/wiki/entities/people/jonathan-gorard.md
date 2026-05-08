@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: [wolfram-institute]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/LpLFWdsIU7M.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 summary: "Wolfram Institute physicist who in 2020–2021 showed that pure hypergraph rewriting rules generate a causal graph recovering the Einstein field equations and a branchial graph recovering quantum mechanics (path integral, projective Hilbert space) — providing a candidate unified physics framework that Matthew Pines argues has direct implications for understanding NHI propulsion, consciousness, and non-local phenomena."
 tags: [wolfram-gorard-physics, hypergraph, consciousness, nhi-physics, quantum-gravity, general-relativity]

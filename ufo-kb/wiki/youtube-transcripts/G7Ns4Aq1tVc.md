@@ -9,8 +9,6 @@ guest: [Nick Cook]
 published: 2024
 url: https://www.youtube.com/watch?v=G7Ns4Aq1tVc
 duration_minutes: ~90
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 tags: [anti-gravity, zero-point-energy, nick-cook, hunt-for-zero-point, skunk-works, aurora, b2, townsen-brown, kammler-stab, ning-lee, boyd-bushman, ben-rich, electrogravitics, classified-programs, aerospace, journalism]
 ---

@@ -6,8 +6,6 @@ roles: [other, researcher]
 affiliations: [rockefeller-brothers-fund, rockefeller-family-fund]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/areO7Mej44E.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [rockefeller-family, ufo-disclosure-funder, jy-ranch, 1990s-disclosure-push]
 ---

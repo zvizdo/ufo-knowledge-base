@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Swedish journalist, author, and archivist; head of AFU (Archives for the Unexplained) since 1973; considered holder of the world's largest private UFO archive; field investigator who personally witnessed a radar-confirmed UAP case in 2005."
-created: 2026-04-26
-updated: 2026-04-26
 name: Claus Svahn
 aliases: [Klaus Svahn, Clauss Swan]
 roles: [researcher, journalist, witness]

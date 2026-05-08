@@ -2,8 +2,6 @@
 type: entity
 entity-type: people
 summary: "Frankfurt University professor who co-authored Hamlet's Mill (1969) with Giorgio de Santillana, identifying ancient precessional knowledge encoded in global mythology."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md]
 name: Hertha von Dechend
 aliases: []

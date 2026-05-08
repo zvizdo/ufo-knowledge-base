@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Researcher at Imperial College London who implemented the DMTX protocol in humans, extending stable DMT breakthrough states to 30 minutes for the first time."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/dfPfPB601hw.md]
 name: Chris Timmermann
 aliases: [Christopher Timmermann]

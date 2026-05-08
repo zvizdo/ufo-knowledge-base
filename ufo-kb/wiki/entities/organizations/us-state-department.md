@@ -6,8 +6,6 @@ roles: []
 affiliations: [us-government]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/incidents/2016-havana-syndrome.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Cabinet-level agency responsible for foreign affairs and diplomacy; the organizational body with the largest population of Havana Syndrome victims among all affected US government entities; manages diplomatic posts globally including those at which directed energy attacks were carried out."
 tags: [state-department, diplomacy, foreign-affairs, havana-syndrome, directed-energy, US-government]

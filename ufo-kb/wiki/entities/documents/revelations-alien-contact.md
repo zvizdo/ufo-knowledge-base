@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1991 book by Jacques Vallée examining deception in alien contact claims — notable for hinting (p. 9) that Bob Lazar may have been an MK-Ultra subject; frames the UFO field's hoaxers, government programs, and witness deception as a three-layer deception structure."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
 title: "Revelations: Alien Contact and Human Deception"
 authors: [Jacques Vallée]

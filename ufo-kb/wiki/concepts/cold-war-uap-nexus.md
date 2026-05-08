@@ -3,8 +3,6 @@ type: concept
 name: Cold War UAP Nexus
 aliases: [Cold War UAP nexus, cold-war-uap-nexus, Cold War UFO nexus, UAP Cold War connection]
 first_seen_in: ufo-kb/wiki/entities/incidents/1983-able-archer.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The intersection of Cold War military tensions and the modern UAP phenomenon: both superpowers conducted UAP/UFO investigations, classified UAP sightings as national security concerns, tested exotic technologies that generated UAP reports, and potentially used UAP narratives for intelligence and disinformation purposes."
 tags: [cold-war, uap, soviet-union, intelligence, nuclear, disinformation, able-archer, history]

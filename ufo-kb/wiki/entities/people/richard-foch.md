@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Deceased top scientist at the Naval Research Labs who accessed classified vault documents and confirmed to Greer that the US mastered gravity control in October 1954."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/areO7Mej44E.md]
 name: Richard Foch
 aliases: [Rick Foch]

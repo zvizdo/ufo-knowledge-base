@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Dallas nightclub owner who shot and killed Lee Harvey Oswald on November 24, 1963, two days after JFK's assassination. His mob connections and inexplicable access to the Dallas police department basement make him a central figure in JFK conspiracy theories."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: Jack Ruby
 aliases: [Jacob Leon Rubenstein]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Tennessee Congressman who has been investigating why top US researchers are disappearing at elevated rates; claims intelligence agencies are actively stonewalling his inquiries; told the Daily Mail he doesn't trust the government on this."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Tim Burrett
 aliases: []

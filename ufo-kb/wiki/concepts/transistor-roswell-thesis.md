@@ -3,8 +3,6 @@ type: concept
 name: Transistor-Roswell Thesis
 aliases: [transistor-roswell-thesis, Transistor Roswell thesis, Roswell transistor thesis, alien transistor, reverse-engineered transistor]
 first_seen_in: ufo-kb/wiki/entities/organizations/bell-labs.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The claim that the transistor (invented at Bell Labs, 1947) was reverse-engineered from recovered Roswell crash material; popularized by Colonel Philip Corso's 'The Day After Roswell' (1997); not supported by documented Bell Labs history but widely cited in UAP reverse-engineering narratives."
 tags: [transistor, roswell, bell-labs, reverse-engineering, philip-corso, 1947, technology-transfer]

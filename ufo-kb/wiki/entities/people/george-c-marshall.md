@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army General and senior statesman who was briefed on the Battle of Los Angeles UFO incident in 1942 and is identified as a central node in early postwar UAP intelligence networks."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: George C. Marshall
 aliases: [General Marshall]

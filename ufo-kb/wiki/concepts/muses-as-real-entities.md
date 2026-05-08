@@ -3,8 +3,6 @@ type: concept
 name: Muses as Real Entities
 aliases: [muse tradition, oral muse tradition, muse-as-nhi]
 tags: [diana-pasulka, muse, benjamin-franklin, freemasonry, space-program-patches, cosmism, nhi, oral-tradition, museums]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/tS_64sTN5AU.md]
 ---
 

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Physician and former CIA analyst; implicated as a covert government liaison to civilian UAP researchers via Tim Taylor's visits to Charles Hall; named in connection with the AAWSAP program and UAP medical effects research."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/QgxjtDS2sIQ.md, raw/youtube-transcripts/Rjr3Yq-dMUE.md]
 name: Kit Green
 aliases: [Christopher "Kit" Green]

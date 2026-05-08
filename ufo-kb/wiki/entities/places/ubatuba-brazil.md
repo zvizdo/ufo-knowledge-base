@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/incidents/1957-ubatuba-orb.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Coastal municipality in São Paulo state, Brazil; site of the 1957 UAP explosion over the ocean that produced recovered magnesium fragments with anomalous isotope ratios; analyzed by Garry Nolan using NanoSIMS at Stanford, representing one of the few UAP-associated physical materials subjected to rigorous scientific analysis."
 tags: [brazil, uap, physical-evidence, magnesium, 1957, coastal, sao-paulo]

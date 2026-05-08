@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army veteran convicted of the 1995 Oklahoma City bombing that killed 168 people; publicly stated a computer chip was removed from his buttock when taken to Tinker Air Force Base; Jolly West was selected to interview him despite being based in LA and having no obvious connection to Oklahoma."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Timothy McVeigh
 aliases: []

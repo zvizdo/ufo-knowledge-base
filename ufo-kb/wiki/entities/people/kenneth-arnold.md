@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Private pilot who in June 1947 reported seeing nine disc-like objects flying in formation near Mount Rainier, Washington; his description was mistranslated into 'flying saucer' by press — coining the term that defined the modern UFO era."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/kRO5jOa06Qw.md]
 name: Kenneth Arnold
 aliases: []

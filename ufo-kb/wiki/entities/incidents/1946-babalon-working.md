@@ -8,8 +8,6 @@ craft_type: null
 corroboration: firsthand
 tags: [occult, parsons, hubbard, thelema, nhi-contact, babalon, sex-magic, uap-trigger-hypothesis]
 summary: "Ceremonial magic working conducted by Jack Parsons and L. Ron Hubbard in early 1946, intended to summon the 'Moonchild' archetype (Babalon); Parsons believed it succeeded and opened contact with NHI — the 1947 UAP wave followed."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 ---
 

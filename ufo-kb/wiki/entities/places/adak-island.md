@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Westernmost inhabited island in the Aleutian chain; site of the 1945 USS Delarof USO incident in which a ~200-ft disc emerged from the Pacific, circled the transport ship twice, and departed at extreme speed."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Adak Island
 aliases: []

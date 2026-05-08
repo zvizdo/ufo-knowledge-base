@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Dalton School headmaster who hired a manifestly unqualified Jeffrey Epstein as a math teacher; former highly-cleared Navy intelligence officer; author of Space Relations (1973), a novel in which sexual exploitation of children is used as political compromise—matching Epstein's later operational model. Father of William Barr."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Donald Barr
 aliases: []

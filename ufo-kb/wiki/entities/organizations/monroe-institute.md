@@ -6,7 +6,6 @@ parent_org: ""
 country: USA
 active_period: "1974–present"
 tags: [consciousness, out-of-body, gateway-process, hemi-sync, remote-viewing]
-updated: 2026-04-26
 ---
 
 # Monroe Institute

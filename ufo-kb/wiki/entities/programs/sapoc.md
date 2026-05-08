@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Special Access Program Oversight Committee — the Pentagon body that reviews and approves every special access program in the Department of Defense; Neil McCasland served as its executive secretary 2009–2011, making him gatekeeper to the entirety of classified black-project activity."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Special Access Program Oversight Committee
 aliases: [SAPOC]

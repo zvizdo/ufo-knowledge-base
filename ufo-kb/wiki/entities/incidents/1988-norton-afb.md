@@ -7,8 +7,6 @@ witnesses: [brad-sorensen, mark-mccandish]
 craft_type: alien-reproduction-vehicle
 corroboration: multi-witness
 summary: "Classified aerospace demonstration at Norton AFB where Brad Sorensen viewed three reverse-engineered saucer-shaped craft ('mama, baby, papa bear') behind a black curtain, alongside the Lockheed Pulsar; Mark McCandish created technical line art from Sorensen's description; a 1990 Aviation Week interview provides independent corroboration."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/nTiFs8LudUo.md]
 tags: [norton-afb, arv, flux-liner, alien-reproduction-vehicle, brad-sorensen, mark-mccandish, reverse-engineering, 1988, pulsar, lockheed]
 ---

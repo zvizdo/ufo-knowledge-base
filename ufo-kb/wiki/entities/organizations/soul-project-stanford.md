@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Stanford University research project investigating the nature of the soul and consciousness; Riz Virk is peripherally involved — mentioned in passing in the aKZ_MUbuk_Q episode alongside the Galileo Project."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 name: Soul Project (Stanford)
 aliases: [Soul project, Stanford soul research]

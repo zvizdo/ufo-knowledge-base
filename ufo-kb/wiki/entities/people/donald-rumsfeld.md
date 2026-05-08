@@ -8,8 +8,6 @@ affiliations: [US Department of Defense, GD SURL, Searle Pharmaceuticals, Nixon 
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/q7Czo77qhHA.md
 tags: [rumsfeld, secretary-of-defense, cia-pharma, scientific-engineering-institute, monsanto, gd-surl, searle, aspartame, cia, deep-state, revolving-door, big-pharma]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "Two-time US Secretary of Defense (Ford and G.W. Bush administrations); chaired GD SURL (pharmaceutical subsidiary housing former CIA behavioral research unit); in 1985 orchestrated the sale of the CIA's Scientific Engineering Institute to Monsanto — the clearest documented link between CIA mind-control research and the pharmaceutical-agrochemical industry."
 ---

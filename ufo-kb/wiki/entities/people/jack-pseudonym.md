@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Individual appearing under a pseudonym in the American Alchemy episode on Salvatore Pais (8TYMQOUDQBo) — likely a source or interview subject who requested anonymity. Context: connected to Navy UAP patents / Pais Effect research and the Washington Navy Yard."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Jack (pseudonym)
 aliases: [Jack (pseudonym)]

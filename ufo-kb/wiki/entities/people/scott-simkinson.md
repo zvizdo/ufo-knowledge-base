@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "One of NASA's earliest engineers ('first engineer hired'); his personal NASA archive — purchased at auction by Ed Wilson — contained a lithograph labeled 'Strange object as seen by Gemini 11 astronauts.'"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Scott Simkinson
 aliases: [Scotty]

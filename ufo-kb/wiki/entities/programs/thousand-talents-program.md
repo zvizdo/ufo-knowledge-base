@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CCP program launched in 2008 to recruit overseas scientists and researchers (especially from the US) to transfer technology and knowledge to China; generated multiple US federal prosecutions including Harvard chemistry chair Charles Lieber."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/ePdH01pphbk.md]
 name: Thousand Talents Program
 aliases: [Qianren Jihua, 1000 Talents]

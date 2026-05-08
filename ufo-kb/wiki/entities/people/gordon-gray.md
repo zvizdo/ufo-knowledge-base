@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Eisenhower's National Security Advisor; director of the Psychological Strategy Board; Kissinger's consulting patron; named in MJ12 documents as a Truman-era adviser; connected to gravity research through UNC Chapel Hill and the 1956 Chapel Hill Conference."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/Jpf0ZGY87c0.md]
 name: Gordon Gray
 aliases: [Gray]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Retired CIA Soviet specialist (OSS veteran) identified as 'Falcon' in Bill Moore's intelligence network; handler who recruited Moore and orchestrated the unofficial counterintelligence operation of which the Benowitz affair was one small component."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/WBTqsbwJyqU.md]
 name: Harry Rositzki
 aliases: [Falcon]

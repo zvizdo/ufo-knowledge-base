@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Joe McMoneagle — Remote Viewer #1 — on Stargate operational successes, Mars remote viewing firsthand account, near-death experience, consciousness theory, UFO-nuclear nexus, and Himiko."
-created: 2026-04-26
-updated: 2026-05-04
 sources: [raw/youtube-transcripts/JpLThEF2dTM.md]
 video_id: JpLThEF2dTM
 title: "Mars Had Alien Life! (Ft. Joe McMoneagle)"

@@ -2,8 +2,6 @@
 type: entity
 entity-type: places
 summary: "Megalithic site in southeastern Turkey; Enclosure D Pillar 43 is an astronomical diagram of the summer solstice sky ~12,500–12,800 years ago — the same 'First Time' epoch encoded at Giza."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md]
 name: Göbekli Tepe
 aliases: [Gobeklitepe, Gobekli Tepe]

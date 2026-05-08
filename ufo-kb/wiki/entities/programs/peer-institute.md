@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Program for Extraordinary Experience Research (PEER) — John Mack's Harvard-adjacent institute for studying anomalous experiences; subsequently taken over by Diane Powell."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 name: PEER Institute
 aliases: [Program for Extraordinary Experience Research, PEER]

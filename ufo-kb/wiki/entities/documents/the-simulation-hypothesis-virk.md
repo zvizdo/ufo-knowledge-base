@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Riz Virk's primary book arguing that reality is a quantum-computational RPG simulation — takes Nick Bostrom's philosophical argument and grounds it in video-game engineering, quantum physics, and consciousness research."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 title: The Simulation Hypothesis
 authors: [Riz Virk]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Military police officer who captured the live alien being in Varginha in January 1996 with bare hands; died ~2 weeks later from an unprecedented, highly virulent bacterial infection; central figure in the post-contact biological contamination hypothesis."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UkKwa4jU0fc.md]
 name: Marcos Charez
 aliases: [Marco Sharesi, Marcos Charice, Eli Shiz, Marco Charez, Marcos Charice]

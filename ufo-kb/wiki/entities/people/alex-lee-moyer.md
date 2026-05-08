@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Documentary filmmaker; director of 'Alex's War' (2022), a feature documentary on Alex Jones exploring his evolution from populist philosopher to tinfoil-hat conspiracy figure."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/KhmUixSXxDo.md]
 name: Alex Lee Moyer
 aliases: []

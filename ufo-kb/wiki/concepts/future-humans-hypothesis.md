@@ -3,8 +3,6 @@ type: concept
 name: Future Humans Hypothesis
 aliases: [future humans hypothesis, nhi-future-humans, NHI as future humans, Extratemporalis model, temporal NHI]
 summary: "The discrete thesis that UAP/NHI visitors are not extraterrestrials but future Homo sapiens who have mastered time travel — the Extratemporalis model. Aggregates who asserts it, what evidence is adduced, and who disputes it."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/kRO5jOa06Qw.md]
 tags: [future-humans, extratemporalis, time-travel, nhi, claims-thesis, michael-p-masters]
 ---

@@ -9,6 +9,12 @@ summary_destination: wiki/youtube-transcripts/
 
 Handles American Alchemy episodes and any other UFO/UAP-relevant YouTube channel transcripts (Need to Know, Theories of Everything, UAP Society, Joe Rogan UFO eps, etc.). Channel name is captured as a tag, not a separate procedure.
 
+## Staging
+
+Use `python scripts/youtube_import.py fetch <URL>` to download captions, clean them, and stage the file. The helper writes `transcripts/<video-id>.md` with prefilled YAML frontmatter (`video_id`, `title`, `channel`, `published`, `url`, `duration_minutes`) sourced directly from `yt-dlp` metadata. When this skill runs against a staged file, **copy these six fields verbatim into the wiki source-summary frontmatter** — do not re-derive them from transcript content. Re-deriving has historically caused channel mis-attribution and `published`-year drift; the yt-dlp values are authoritative.
+
+The remaining required wiki frontmatter fields (`host`, `guest[]`, `tags[]`, plus `type: source-summary`, `created`, `sources`) are still derived during import as before.
+
 ## Pre-filter
 
 Before import: check the title and first ~500 words. If the episode is **pure off-domain** (general philosophy, sports, business with zero UFO/UAP/adjacent content), skip and log to LOG.md as `[skipped: off-domain]`. If the episode is mostly off-domain but mentions UFO topics in passing, import lightly (extract only the UFO-relevant entities and a one-line summary).
@@ -26,7 +32,7 @@ Every import creates a summary page in `wiki/youtube-transcripts/<video-id>.md` 
 
 ## Extraction Steps
 
-1. Read the transcript from `raw/youtube-transcripts/<video-id>.md`.
+1. Read the staged transcript from `transcripts/<video-id>.md` (move it to `raw/youtube-transcripts/<video-id>.md` as part of `/kb-import` Step 1).
 2. Identify host(s) and guest(s) from the title and intro section.
 3. Extract entities (default depth = every named entity worth a page):
    - **people** — speakers, anyone they reference by name

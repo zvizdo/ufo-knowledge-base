@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Lens for weighing witness and source reliability in UAP discourse: firsthand vs. hearsay, documented access vs. claimed access, corroboration count, institutional affiliation, and track record. Not a numeric score — captured qualitatively."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [CONSTITUTION.md, raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1iaH1a3A4Lk.md]
 tags: [epistemics, sourcing, witness-reliability, methodology]
 ---

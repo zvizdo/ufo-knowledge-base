@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The largest private FOIA archive of US government documents, founded by John Greenwald Jr.; primary civilian infrastructure for document-based UAP research."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: The Black Vault
 aliases: [Black Vault, blackvault.com]

@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/elon-musk.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Private aerospace company founded by Elon Musk (2002); developed the Falcon 9 reusable rocket, Starship heavy-lift vehicle, and Starlink satellite constellation; dominant commercial launch provider; relevant to KB through Elon Musk's UAP-adjacent statements and Starlink's dual-use surveillance/communication infrastructure."
 tags: [aerospace, launch, rockets, elon-musk, starlink, commercial-space, satellites]

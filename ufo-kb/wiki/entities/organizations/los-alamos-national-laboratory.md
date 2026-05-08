@@ -6,8 +6,6 @@ roles: []
 affiliations: [us-department-of-energy, university-of-california]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/bill-richardson.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Department of Energy national laboratory in Los Alamos, New Mexico; founded as the Manhattan Project's weapons design laboratory (1943); operates nuclear weapons design and physics research programs; cited in KB through Bill Richardson's DOE oversight and Jeffrey Epstein's access to classified facilities via a LANL-adjacent network."
 tags: [doe, nuclear, manhattan-project, new-mexico, classified, weapons-design, national-lab]

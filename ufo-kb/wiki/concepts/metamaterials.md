@@ -3,8 +3,6 @@ type: concept
 name: Metamaterials
 aliases: [metamaterial, exotic materials, engineered metamaterials, anomalous materials, anomalous-materials, UAP anomalous materials]
 summary: "Engineered materials with properties not found in naturally occurring substances, typically achieved through precise geometric microstructure rather than chemical composition; in UAP context, materials recovered from alleged crash retrieval programs that exhibit anomalous properties like negative refractive index, extreme hardness/flexibility, or isotopic ratios inconsistent with Earth manufacture."
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 tags: [materials, uap, reverse-engineering, crash-retrieval, anomalous-materials, izotopic-anomalies]
 ---

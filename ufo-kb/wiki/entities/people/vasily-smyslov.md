@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Likely identity of 'Vasilei Smith' in Ilyumzhinov transcript — a world chess champion who privately told Ilyumzhinov that in the 1970s, a translucent alien entity appeared in his hotel room before a match in Germany against Hübner and demonstrated the entire game on the chessboard; it played out identically the next day."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 name: Vasily Vasilyevich Smyslov
 aliases: [Vasily Smyslov, Vasilei Smith (transcript transcription error)]

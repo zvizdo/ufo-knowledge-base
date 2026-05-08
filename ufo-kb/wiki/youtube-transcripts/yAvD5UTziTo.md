@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 summary: "Jesse Michaels interviews Lt. Colonel John Blitch (ret.) — DARPA scientist, Delta Force veteran, and self-described abductee — on his missing-time mountain bike incident, praying-mantis terror encounter, validation of Jake Barber and Randy Anderson, DARPA's possible role as alien-tech distribution conduit, and his thesis that abduction secrecy is the true UFO cover."
 video_id: yAvD5UTziTo
 title: "Meet The DARPA Scientist Abducted By an Alien"

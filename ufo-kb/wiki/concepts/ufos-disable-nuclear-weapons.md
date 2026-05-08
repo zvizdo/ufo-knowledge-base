@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: Non-human craft have repeatedly disabled (and occasionally activated) nuclear missile systems at multiple USAF bases, demonstrating both the capability and apparent intent to interfere with human nuclear weapons."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/73YBwFvcmF8.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/fzvwBBSmWYA.md]
 tags: [ufo-nukes, malmstrom, minuteman, nuclear-deterrence, recurring-claims]
 ---

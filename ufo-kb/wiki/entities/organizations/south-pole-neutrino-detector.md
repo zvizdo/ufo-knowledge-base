@@ -6,8 +6,6 @@ roles: []
 affiliations: [national-science-foundation, university-of-wisconsin]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/raytheon.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The IceCube Neutrino Observatory at the South Pole — a cubic-kilometer ice Cherenkov detector operated by a consortium led by University of Wisconsin-Madison, staffed partly by Raytheon contractors; claimed by Eric Hecker to have capabilities and purposes beyond its stated neutrino detection mandate."
 tags: [south-pole, neutrino, IceCube, raytheon, eric-hecker, physics, classified, detector, whistleblower]

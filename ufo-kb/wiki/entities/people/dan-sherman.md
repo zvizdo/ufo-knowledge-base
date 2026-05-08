@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Retired USAF Technical Sergeant and ELINT specialist who claims he served as an NSA 'intuitive communicator' under Project Preserve Destiny, telepathically receiving alien transmissions and relaying abduction data; author of Above Black."
-created: 2026-04-27
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/Rfmy5oW_r9c.md, raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Dan Sherman
 aliases: [Daniel Sherman, Sergeant Dan Sherman]

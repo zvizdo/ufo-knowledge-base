@@ -2,8 +2,6 @@
 type: entity
 entity-type: people
 summary: "Athenian statesman (~638–558 BC) who received the Atlantis account from Egyptian priests at the Temple of Neith at Sais in the Nile Delta; transmitted it to Plato through family lineage."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md]
 name: Solon
 aliases: []

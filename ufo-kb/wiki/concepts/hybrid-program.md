@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The recurring claim that NHI have conducted a long-running program of interbreeding or genetic manipulation with humans — appearing across abductee literature, whistleblower testimony, and channeled material. Reframed by Masters as an intertemporal breeding program (genetic banking from the ancestral past)."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y26iMB0r-f8.md]
 tags: [hybrid-program, nhi, genetics, abduction, interbreeding, recurring-claims, future-humans]
 ---

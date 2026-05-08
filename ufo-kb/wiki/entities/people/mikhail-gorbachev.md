@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Last leader of the Soviet Union (1985–1991); in UFO discourse, he is the relay node for Andropov's account of the Nixon-Brezhnev UFO folder meeting that immediately preceded the halt of all Soviet and US lunar exploration programs."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 name: Mikhail Sergeyevich Gorbachev
 aliases: [Gorbachev, Gorbachoff, Mikhail Gorbachev]

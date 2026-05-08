@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Retired USAF Major General; PhD in astronomical engineering (MIT); commanded AFRL at Wright-Patterson 2011–2013 ($2.2B portfolio); former executive secretary of SAPOC; UAP disclosure-adjacent through DeLonge/Podesta emails; disappeared February 27, 2026."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Neil McCasland
 aliases: [General McCasland, McCasslin, McCastlin, Neil C. McCasland]

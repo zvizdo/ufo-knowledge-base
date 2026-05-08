@@ -3,8 +3,6 @@ type: concept
 name: UAP National Security Threat
 aliases: [UAP national security threat, UAP as national security threat, UAP threat assessment]
 first_seen_in: ufo-kb/wiki/concepts/battle-space-preparation.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The framing of UAP as a national security concern — either because unknown objects in sensitive airspace represent adversary surveillance/technology, or because they represent non-human intelligence with unknown capabilities and intentions; the framing adopted by Congress, AARO, and military in the 2020s to justify formal UAP study."
 tags: [national-security, aaro, congress, threat-assessment, uap-policy, adversary-hypothesis]

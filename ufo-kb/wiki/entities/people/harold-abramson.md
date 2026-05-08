@@ -6,8 +6,6 @@ roles: [researcher, official]
 affiliations: [cia, mk-ultra]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/frank-olson.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Allergist and physician who was among the CIA's primary MK-Ultra LSD researchers; involved in managing the Frank Olson case after Olson was covertly dosed with LSD in 1953; his response to Olson's deterioration suggested coordinated management rather than independent psychiatric care."
 tags: [mk-ultra, cia, lsd, frank-olson, mind-control, doctor, psychiatry, 1953]

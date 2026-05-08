@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Skywatcher team member who described UAP craft as 'conscious AI entities' that can be piloted via mind-meld rather than mechanical controls; cited by Matthew Pines as evidence that retrieval (not reverse engineering) is the strategic prize."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md]
 name: Jordan (Skywatcher)
 aliases: [Jordan]

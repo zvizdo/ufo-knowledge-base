@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "DoD Intelligence-sourced report relayed by Matthew Pines: an NHI craft emerged from a water medium and discharged directed energy that struck a person, occurring shortly before the interview (~2025)."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 name: DoD Intel NHI Water Emergence and Attack (~2025)
 date: ~2025

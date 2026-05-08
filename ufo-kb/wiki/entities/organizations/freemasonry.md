@@ -8,8 +8,6 @@ type_org: religious
 country: international
 active_period: 1717–present
 tags: [freemasonry, mystery-schools, esoteric, secret-society, james-bruce, graham-hancock, ancient-mysteries, knights-templar]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Freemasonry

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "A ~400-foot-wide manufactured metallic object buried under the Mesa at Skinwalker Ranch; identified via ground-penetrating radar and drilling; samples contain europium and tellurium."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 name: Skinwalker Mesa Metallic Object
 category: material

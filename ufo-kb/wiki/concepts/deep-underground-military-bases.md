@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Alleged network of classified underground military and research installations, some potentially used for UAP-related programs; researched by Richard Sauder; connected by Catherine Austin Fitts to unaccounted Pentagon funding and the breakaway civilization thesis."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/HxQN2tkQHs8.md]
 tags: [underground-bases, black-budget, breakaway-civilization, richard-sauder, dumb, classified-programs]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "First Director of the CIA (1947–1950); reportedly received and processed materials from the 1947 Roswell crash; early architect of UAP intelligence classification."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Roscoe Hillenkoetter
 aliases: [Hillenkoetter, Roscoe H. Hillenkoetter, Admiral Hillenkoetter]

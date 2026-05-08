@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy episode with Riz Virk (MIT/Stanford CS, video-game entrepreneur) on simulation theory: RPG-framing of reality, quantum-code evidence, UFOs as holographic projections, nuclear/high-energy simulation breaks, timeline optimization, and ancient mystical parallels."
-created: 2026-04-27
-updated: 2026-04-27
 video_id: aKZ_MUbuk_Q
 title: '"Aliens Are Simulating Our Reality" -Top MIT Scientist Riz Virk'
 channel: American Alchemy

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA Director under Ford, later 41st President; per Sheehan, was present at Clint Murchison's Dallas ranch the night before JFK's assassination with pre-knowledge of the event, and gave President Carter a non-forthcoming UAP briefing."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/LnAiNChnuEQ.md]
 name: George H.W. Bush
 aliases: [Bush Sr., Bush 41, GHWB]

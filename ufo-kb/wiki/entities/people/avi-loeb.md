@@ -15,8 +15,6 @@ firsthand_claims:
   - Eyewitness testimony — including fighter pilots — is insufficient for scientific papers; only instrument-grade data counts
 first_seen_in: IWui5cBkwoE
 tags: [uap-science, academia, oumuamua, galileo-project, lightsail, interstellar, fermi-paradox, harvard]
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/_bM9eAtCOGw.md, raw/youtube-transcripts/wlsQIbpEKSM.md]
 ---
 

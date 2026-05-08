@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Therapist; Jesse Michaels's father; co-developer of 'The Tools' with Phil Stutz; endorses Graham Hancock's extended human history thesis."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/AVJEXCTAJUc.md]
 name: Barry Michaels
 aliases: []

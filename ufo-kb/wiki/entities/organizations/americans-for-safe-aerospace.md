@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Non-profit organization founded by Ryan Graves to collect and aggregate UAP reports from commercial and military aviation personnel; primary advocacy mechanism for UAP aviation safety reform."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/6WC4o2yY9Ws.md]
 name: Americans for Safe Aerospace
 aliases: [ASA]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Reported 1941 UFO crash near Cape Girardeau, Missouri — a priest was called to administer last rites to surviving diminutive non-human beings; military personnel subsequently arrived and removed the debris and bodies; cited by John Blitch as a key case supporting his radar-induced-crash hypothesis."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/yAvD5UTziTo.md]
 name: 1941 Cape Girardeau Crash
 date: "1941 (approximate)"

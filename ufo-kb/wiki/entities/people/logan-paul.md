@@ -7,8 +7,6 @@ roles: [other]
 affiliations: []
 firsthand_claims: []
 tags: [logan-paul, ufo-adjacent, chuck-clark, james-fox, area-51, pop-culture]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Logan Paul

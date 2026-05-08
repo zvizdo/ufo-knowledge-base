@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Extremely Low Frequency electromagnetic waves (3–300 Hz); the carrier medium underlying both ionospheric communication and contested neurological-influence applications"
-created: 2026-05-02
-updated: 2026-05-02
 name: ELF waves
 aliases: [extremely-low-frequency-waves, elf-radiation]
 tags: [elf, electromagnetic-spectrum, schumann-resonance, brain-entrainment, andrija-puharich, intellect, space-kids]

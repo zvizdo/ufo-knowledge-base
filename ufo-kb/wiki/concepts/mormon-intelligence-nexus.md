@@ -3,8 +3,6 @@ type: concept
 name: Mormon Intelligence Nexus
 aliases: [Mormon Church intelligence penetration, Mormon Mafia]
 first_seen_in: raw/youtube-transcripts/LpLFWdsIU7M.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 summary: "The structural observation that the Mormon Church (Church of Jesus Christ of Latter-day Saints) has for decades provided the top recruitment pipeline for US intelligence (FBI, CIA, NSA) while simultaneously having deep ties to the leading technology titans (Howard Hughes, Elon Musk) — creating a centuries-old, well-funded, ideologically cohesive institution with potential penetration of both the intelligence apparatus and the private-sector entities relevant to the UAP legacy program."
 tags: [mormon, cia, fbi, nsa, intelligence, elon-musk, howard-hughes, tech-ufo-nexus, disclosure, institutional-penetration]

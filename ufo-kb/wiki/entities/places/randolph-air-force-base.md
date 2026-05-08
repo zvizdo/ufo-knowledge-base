@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "U.S. Air Force base in San Antonio, Texas. Referenced in Whitley Strieber's accounts as a location connected to his childhood conditioning experiences — he grew up near San Antonio and believes early contact experiences were linked to the base."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Randolph Air Force Base
 aliases: [Joint Base San Antonio–Randolph, Randolph AFB]

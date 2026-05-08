@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Founder of the Arlington Institute think tank; appeared on multiple DoD Secretary of Defense shortlists; in ~1998 convened a simulation of 'a world where extraterrestrials are openly acknowledged'; connected to Catherine Austin Fitts and the breakaway civilization thesis."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: John Peterson
 aliases: []

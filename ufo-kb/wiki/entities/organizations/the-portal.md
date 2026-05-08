@@ -7,8 +7,6 @@ type_org: media
 country: USA
 active_period: "2019–present"
 tags: [podcast, eric-weinstein, media, stub]
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 summary: "Eric Weinstein's podcast, launched after ~1.5 years of persuasion by Jesse Michaels. Covers physics, politics, economics, and UAP-adjacent topics. Notable in this KB for Weinstein's geometric unity theory, his UAP physics speculation, and his appearance on American Alchemy."
 ---

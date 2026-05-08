@@ -3,8 +3,6 @@ type: concept
 name: Adjustment Bureau (UAP Framework)
 aliases: [adjustment-bureau, Adjustment Bureau, adjustment team, the Hammer]
 first_seen_in: ufo-kb/wiki/entities/organizations/nassau-group.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Framework used by Tim Taylor to describe his role to Chris Bledsoe: an agent who makes deliberate micro-adjustments to timeline variables on behalf of a higher authority ('the Hammer'), derived from Philip K. Dick's story 'The Adjustment Team'; in the KB, this framing connects the Nassau Group time-travel program, psionic asset operations, and deliberate timeline steering as claimed functions within the UAP secret program ecosystem."
 tags: [adjustment-bureau, tim-taylor, time-travel, nassau-group, philip-k-dick, timeline, psionic, classified]

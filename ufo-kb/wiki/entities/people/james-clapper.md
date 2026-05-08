@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Director of National Intelligence (DNI) 2010–2017; gave Eric Haseltine his intelligence distinguished service medal; publicly referenced an Area 51 sensor program for UFOs; called NSA Director Mike Rogers requesting all NSA UFO holdings."
-created: 2026-04-26
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 name: James Clapper
 aliases: [DNI Clapper, James R. Clapper]

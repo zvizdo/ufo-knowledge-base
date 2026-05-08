@@ -6,8 +6,6 @@ roles: []
 affiliations: [university-of-north-carolina]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/documents/stars-are-too-high.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Research institute at the University of North Carolina at Chapel Hill, funded by anti-gravity patron Agnew Bahnson and associated with the 1957 gravity conference; one of the nodes in the 1950s gravity research network that included Thomas Townsend Brown and defense contractors pursuing electrogravitics."
 tags: [gravity, anti-gravity, UNC, bahnson, electrogravitics, 1957, physics, research-institute]

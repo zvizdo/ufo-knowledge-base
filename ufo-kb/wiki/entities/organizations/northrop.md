@@ -2,8 +2,6 @@
 type: entity
 stub: true
 summary: "Northrop (later Northrop Grumman) — major US aerospace and defense contractor; connected to Thomas Townsend Brown's exotic propulsion research via the Caroline Group IP transfer; manufactured the B-2 stealth bomber whose electro-aerodynamic propulsion system is a suspected application of Biefeld-Brown physics."
-created: 2026-04-27
-updated: 2026-04-27
 name: Northrop
 aliases: [Northrop Grumman, Northrop Corporation]
 type: private-co

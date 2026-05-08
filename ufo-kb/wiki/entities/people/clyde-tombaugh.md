@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Astronomer who discovered Pluto in 1930; co-led the Near-Earth Satellite Project at White Sands in 1953–1954; remained a lifelong believer that some UFOs represent visiting alien spacecraft."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/iPxbILOMQ08.md]
 name: Clyde Tombaugh
 aliases: [Clyde Tombop (transcript phonetic)]

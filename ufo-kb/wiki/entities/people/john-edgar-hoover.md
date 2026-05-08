@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [fbi]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/abduction-research.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "First Director of the FBI (1924–1972); longest-serving head of a US intelligence agency; built the FBI's surveillance and COINTELPRO programs; appeared peripherally in UAP KB through MK-Ultra survivor research intersecting with FBI records."
 tags: [fbi, cointelpro, mk-ultra, surveillance, hoover]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "René Girard's theory that social groups discharge mimetic violence by targeting a surrogate victim (the scapegoat); applied in UAP-adjacent discourse to explain how dissidents are ritually destroyed to suppress inconvenient ideas."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KhmUixSXxDo.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md]
 tags: [girard, mimetic-theory, scapegoat, censorship, disinfo, social-control, media, alex-jones]
 ---

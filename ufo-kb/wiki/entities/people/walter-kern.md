@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Journalist and researcher who knows David Grusch; relayed Grusch's assertion that Dick Cheney was the head of the UFO legacy pyramid and that Cheney's departure in 2009 left these programs without central leadership."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Walter Kern
 aliases: []

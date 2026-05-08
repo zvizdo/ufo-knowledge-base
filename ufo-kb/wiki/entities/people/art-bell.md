@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Legendary late-night radio host of Coast to Coast AM (10–15 million nightly listeners); received alleged Roswell crash debris ('Art's Parts') due to his passionate public interest in UFOs."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Art Bell
 aliases: []

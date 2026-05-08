@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Senior scientist at Lockheed Martin Fort Worth; the first aerospace insider to discuss anti-gravity openly with Nick Cook, and who provided pointers that sent Cook toward John Hutchinson and other anti-gravity experimenters."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Boyd Bushman
 aliases: []

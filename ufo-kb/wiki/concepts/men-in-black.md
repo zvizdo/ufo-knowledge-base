@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Mysterious well-dressed individuals who appear to witnesses of UAP events with improbable speed and advance personal knowledge, delivering intimidation warnings; a recurring phenomenon across multiple UAP cases."
-created: 2026-04-26
-updated: 2026-04-26
 tags: [men-in-black, mib, intimidation, witness-suppression, surveillance, disclosure-narratives]
 sources: [raw/youtube-transcripts/hBrfe4hFuM0.md]
 ---

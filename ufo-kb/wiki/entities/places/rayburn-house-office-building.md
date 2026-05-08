@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Rayburn House Office Building: the largest House office building on Capitol Hill; where the landmark 2023/2024 Congressional UAP hearing was held; location of the key Congressional UAP disclosure moment."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: Rayburn House Office Building
 aliases: [Rayburn Building, RHOB]

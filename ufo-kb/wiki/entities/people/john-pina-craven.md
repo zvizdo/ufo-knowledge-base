@@ -6,8 +6,6 @@ roles: [official, researcher]
 affiliations: [us-navy, darpa]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/documents/4chan-whistleblower-2023.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Navy ocean engineer and deep-sea research pioneer; chief scientist of the Navy's Special Projects Office during the development of the Polaris submarine missile system; wrote a book describing classified submarine technology retrieval operations; cited as a documentary source in the 4chan whistleblower's account of underwater UAP operations."
 tags: [navy, submarine, deep-sea, polaris, classified, ocean-engineering, uso, undersea-operations]

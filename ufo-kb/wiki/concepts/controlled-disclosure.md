@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis that every major public UAP revelation — from the 2017 NYT story through Grusch's congressional testimony — is a managed, authorized release rather than genuine journalism or whistleblowing; the intelligence community controls the pace and content of what becomes public."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
 tags: [disclosure, cia, authorization, nyt-story, elizondo, grusch, managed-release, uap-politics]
 ---

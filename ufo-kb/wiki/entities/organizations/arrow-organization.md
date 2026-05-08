@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Post-program coordinating authority that Jake Barber claims to work with after leaving legacy UAP retrieval programs; provides GPS coordinates and mission briefings for retrieval operations; authorized Barber's public disclosure."
-created: 2026-04-27
-updated: 2026-04-27
 name: Arrow (organization)
 aliases: [Arrol, Arrow]
 type: gov-agency

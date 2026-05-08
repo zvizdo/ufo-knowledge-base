@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "A category of biological research that enhances a pathogen's transmissibility, virulence, or host range — framed in the KB as a euphemism for offensive bioweapon development, linked to the COVID-19 origins controversy through EcoHealth Alliance's Wuhan Institute of Virology collaboration."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [biowarfare, covid-19, wuhan, ecohealth, fauci, daszak, dual-use, lab-leak]
 ---
 

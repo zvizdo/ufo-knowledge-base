@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Austrian-British mathematician who asked the decisive question at the 1957 UNC Chapel Hill gravity conference: what if you remove the positivity conditions in Einstein's field equations? The answer — negative mass and exotic matter — is precisely what warp drives require; his question was marginalized or suppressed."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md]
 name: Herman Bondi
 aliases: []

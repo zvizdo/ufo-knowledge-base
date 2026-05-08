@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Netflix docu-series (8 episodes) by Graham Hancock presenting evidence for a pre-Ice Age advanced civilization; described by a Guardian journalist as 'the most dangerous show on Netflix'"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md]
 title: Ancient Apocalypse
 authors: [Graham Hancock]

@@ -3,8 +3,6 @@ type: concept
 name: Landing Trace Evidence
 aliases: [landing trace evidence, landing-trace-evidence, landing traces, physical landing evidence, UAP landing marks]
 first_seen_in: ufo-kb/wiki/entities/incidents/1989-voronezh-landing.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Physical evidence left at UAP landing or approach sites: soil compaction, burned vegetation, radiation elevation, crystallized soil, broken branches; investigated and catalogued by Ted Phillips; hundreds of cases documented globally; the Trans-en-Provence case (1981) is the most scientifically analyzed example."
 tags: [physical-evidence, landing, trace, soil, radiation, ted-phillips, trans-en-provence, voronezh]

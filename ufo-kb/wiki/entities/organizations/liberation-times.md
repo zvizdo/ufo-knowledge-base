@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UK-based investigative UAP journalism outlet run by Chris Sharp; broke stories on crash retrieval program gatekeeping and related disclosure politics."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: Liberation Times
 aliases: [liberationtimes.com]

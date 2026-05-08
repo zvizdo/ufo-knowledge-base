@@ -6,8 +6,6 @@ roles: [astronaut, pilot]
 affiliations: [nasa, us-air-force]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/gus-grissom.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "NASA astronaut; first American to walk in space (Gemini 4, June 3, 1965); died in the Apollo 1 fire (January 27, 1967) along with Gus Grissom and Roger Chaffee; the extravehicular activity (EVA) he performed during Gemini 4 lasted 23 minutes."
 tags: [nasa, astronaut, apollo-1, gemini, spacewalk, 1965, 1967, space-program]

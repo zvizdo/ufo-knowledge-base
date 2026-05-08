@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Hal Puthoff and Eric Weinstein in conversation with Jesse Michaels; covers Puthoff's polarizable vacuum model, the Ingo Swann quark detector origin story firsthand, AATIP's GR-as-Maxwell approach, Weinstein's multiple temporal dimensions in Geometric Unity, confirmed sequestered aerospace physics, and the weaponization of stigma."
-created: 2026-04-27
-updated: 2026-04-27
 video_id: iQOibpIDx-4
 title: "Eric Weinstein Debates CIA UFO Expert Hal Puthoff"
 channel: American Alchemy

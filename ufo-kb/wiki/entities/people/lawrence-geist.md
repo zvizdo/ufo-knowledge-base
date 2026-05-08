@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "AEC official, head of the Albuquerque Division; the man who placed recovered UAP material on a desk in front of Harald Malmgren at Los Alamos and reportedly administered a telepathic-response test."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/9QMrhcpJq8I.md]
 name: Lawrence Geist
 aliases: [Geist, Lawrence P. Geis, Lawrence Geis]

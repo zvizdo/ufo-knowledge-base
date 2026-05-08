@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Blind Bulgarian mystic (1911–1996) recognized by the French and Belgian Academies of Sciences as 'humanity's number one phenomenon'; predicted both Ilyumzhinov's presidencies; regularly conversed with invisible entities and confirmed NHI presence 'everywhere — underground, on the surface, in the sky'."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 name: Vanga Pandeva Gushterova
 aliases: [Baba Vanga, Vanga, Vangeliya Gushterova, the Nostradamus of the Balkans]

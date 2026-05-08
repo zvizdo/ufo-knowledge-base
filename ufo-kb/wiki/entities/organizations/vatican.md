@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The Holy See and Vatican City — the independent sovereign entity governing the Roman Catholic Church. Appears in this KB as a node in shadow governance theories and in the context of Jeffrey Epstein's physics-patronage network and the Knights of Malta's dual Vatican-intelligence identity."
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 name: Vatican
 aliases: [Holy See, Vatican City, Roman Curia]

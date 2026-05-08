@@ -1,10 +1,7 @@
 ---
 type: entity
 summary: "1952 joint CIA/British aircraft saucer project run by John Frost, initially based in Canada (Avro Canada) then taken over by Wright-Patterson; officially acknowledged as a saucer-shaped craft using conventional radial gas turbine propulsion."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/RTEWLSTyUic.md]
-updated: 2026-04-27
 name: Avrocar Project
 aliases: [VZ-9AV Avrocar, Project Y]
 parent_org: CIA (Office of Scientific Intelligence), Wright Air Development Center

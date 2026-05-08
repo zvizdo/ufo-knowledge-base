@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "WWII U.S. program that developed the atomic bomb (1942–1946). Key precedent for extreme compartmentalization, black budgets, and scientific secrecy; many Manhattan Project scientists and administrators later appeared in early UFO retrieval and reverse-engineering claims."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/TH10mD9hQas.md]
 name: Manhattan Project
 aliases: [Manhattan Engineering District]

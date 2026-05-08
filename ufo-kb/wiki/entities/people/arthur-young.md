@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Arthur Young: Co-inventor of the Bell helicopter; mystic; attended the 1952 Nine seance with Andrija Puharich; his daughter-in-law Ruth Payne housed Lee Harvey Oswald; his household link was cut off by Allen Dulles at the Warren Commission."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Arthur Young
 aliases: [Arthur M. Young]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "August 12, 1825 South Pacific USO: the Night Watch of HMS Blonde observed an orange spherical object rise from the ocean, illuminate the deck brilliantly, descend back, rise a second time, and descend again — recorded by ship's naturalist Andrew Bloxom in a published diary."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: "1825 HMS Blonde USO Incident"
 date: "1825-08-12"

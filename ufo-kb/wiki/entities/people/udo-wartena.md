@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1940s American miner who claimed a guided tour of a UAP craft and received a technical explanation of counter-rotating flywheel electromagnetic propulsion — cited as corroboration for the EM/anti-gravity mechanism of UAP craft."
-created: 2026-04-26
-updated: 2026-04-26
 name: Udo Wartena
 aliases: []
 roles: [witness, contactee]

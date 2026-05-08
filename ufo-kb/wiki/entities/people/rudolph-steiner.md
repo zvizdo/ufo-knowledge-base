@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Austrian esoteric philosopher (1861–1925); founder of anthroposophy ('spiritual science'); key influence on Phil Stutz and indirectly on Jesse Michaels's fringe-topic openness; predicted narcissism crisis and leadership collapse ~100 years in advance."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/AVJEXCTAJUc.md]
 name: Rudolph Steiner
 aliases: [Rudolf Steiner]

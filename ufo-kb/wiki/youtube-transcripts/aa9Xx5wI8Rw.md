@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Hereticon panel with Colonel Karl Nell and Diana Pasulka arguing that UAP are the same phenomenon as historical angels/demons, that non-disclosure is a universal constant, and that the esoteric traditions underpinning both the US and Russian space programs constitute a living cosmism."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aa9Xx5wI8Rw.md]
 video_id: aa9Xx5wI8Rw
 tags: [uap-religion, nhi, angels-demons, cosmism, karl-nell, diana-pasulka, non-disclosure, hereticon, consciousness, stigmata, pyramid-texts, plato, rene-girard, space-program-patches]

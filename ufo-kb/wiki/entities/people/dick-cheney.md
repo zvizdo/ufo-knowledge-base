@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "46th US Vice President and former Secretary of Defense; named by David Grusch (via Walter Kern) as the head of the UAP legacy program pyramid for 'quite a while'; his 2009 departure left programs without central leadership."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Dick Cheney
 aliases: [Richard Bruce Cheney]

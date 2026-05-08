@@ -11,8 +11,6 @@ duration_minutes: ~180
 tags: [nazca-mummies, tridactyl, peru, nhi, ancient-aliens, catastrophic-disclosure, american-alchemy]
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md]
 summary: "Jesse Michaels travels to Peru and Mexico City to investigate the Nazca tridactyl mummies firsthand, interviewing multiple forensic experts and researchers who consider the M-type hominid bodies real organisms. Covers DNA findings, rare-metal implants, the political battle with the Peruvian Ministry of Culture, and morphological parallels to Russian and Brazilian alien-body cases."
-created: 2026-04-26
-updated: 2026-05-06
 ---
 
 # Peru's Three Fingered "Aliens" (WTF Are These?!)

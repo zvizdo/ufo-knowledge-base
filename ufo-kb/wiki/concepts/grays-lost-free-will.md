@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Strieber's thesis that the Grays have evolutionarily transcended free will — knowing too much of past and future to make genuine choices — and seek communion with time-bound humans to experience novelty."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABOP8ZJsyIk.md]
 tags: [grays, nhi-motivations, free-will, consciousness, communion, hybrid-program, nhi-philosophy]
 ---

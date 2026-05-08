@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Small, uniform, humanoid NHI entities — the most commonly reported type in CE3 and abduction accounts; characterized by large eyes, small mouths, large heads, and gliding locomotion; seen by Mario Woods in 1977 at Ellsworth AFB."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/73YBwFvcmF8.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/QgxjtDS2sIQ.md, raw/youtube-transcripts/iPxbILOMQ08.md]
 name: Small Grays
 aliases: [Gray aliens, Grays, Small Greys, Zeta Reticulans]

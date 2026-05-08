@@ -1,8 +1,6 @@
 ---
 type: document
 summary: "Greg Malazzi documentary about Andrija Puharich; released through Age of Disclosure; central source for Puharich/Roundtable/Intellect material"
-created: 2026-05-02
-updated: 2026-05-02
 title: Mind Traveler
 authors: [greg-malazzi]
 date: 2025

@@ -6,8 +6,6 @@ roles: [researcher, author]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/ultraterrestrial-hypothesis.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "American author and blogger (1975–2009) who developed the 'cryptoterrestrial hypothesis' — the argument that NHI may be an ancient, technologically advanced humanoid civilization that evolved on Earth and went underground or into concealment rather than being extraterrestrial; published posthumously in 'The Cryptoterrestrials' (2009)."
 tags: [cryptoterrestrial, ultraterrestrial-hypothesis, nhi-origin, posthumous-publication]

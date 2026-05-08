@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Oak Ridge National Laboratory (ORNL): DoE national laboratory in Tennessee; Sean Kirkpatrick's post-AARO employer; flagged by Kirk McConnell as a potential conflict-of-interest concern regarding advisory contract routing."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KGD1nuM4MR8.md]
 name: Oak Ridge National Laboratory
 aliases: [ORNL, Oak Ridge]

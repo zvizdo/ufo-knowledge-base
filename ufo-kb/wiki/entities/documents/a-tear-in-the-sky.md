@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2023 documentary and associated scientific paper by the SCU / University at Albany team; five-day Catalina Island rooftop observation mission led by Kevin Knuth; yielded the first peer-reviewed scientific paper from a civilian UAP field observation mission."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 title: "A Tear in the Sky"
 authors: [kevin-knuth, matthew-shostakus]

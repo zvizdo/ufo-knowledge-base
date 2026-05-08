@@ -3,8 +3,6 @@ type: concept
 name: Ancient Mysteries
 aliases: [ancient mysteries, ancient-mysteries, mystery traditions, esoteric ancient knowledge]
 first_seen_in: ufo-kb/wiki/entities/organizations/freemasonry.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The body of esoteric knowledge — astronomical, cosmological, spiritual, and technological — claimed to have been preserved through mystery schools, secret societies, and initiatory traditions from antiquity to the present; central to theories that advanced ancient knowledge (including possible NHI contact) was deliberately encoded in religious, architectural, and mythological systems and transmitted through secret lineages."
 tags: [mystery-schools, esoteric, ancient-knowledge, freemasonry, templars, hermetic, initiation, astronomy]

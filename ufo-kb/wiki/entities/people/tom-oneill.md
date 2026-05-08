@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Investigative journalist who spent 20 years uncovering CIA and MK-Ultra connections to the Manson murders; author of Chaos (2019)."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: Tom O'Neill
 aliases: [Tom O'Neil]

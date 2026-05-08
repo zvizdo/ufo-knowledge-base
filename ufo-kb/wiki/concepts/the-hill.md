@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "A claimed shared mental space — 'the hill' — in which non-speaking autistic individuals reportedly communicate with each other telepathically across geographic distance, independent of their caregivers."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 tags: [telepathy, autism, non-speakers, shared-consciousness, non-local-consciousness, collective-mind]
 ---

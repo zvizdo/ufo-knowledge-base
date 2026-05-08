@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The informal private network of serious UAP researchers, cleared officials, and intelligence-adjacent scientists who share findings outside public channels — named by Jacques Vallée."
-created: 2026-04-28
-updated: 2026-04-28
 sources: [raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 tags: [invisible-college, vallee, puthoff, bigelow, network, uap-science, intelligence-community, credibility-frameworks]
 ---

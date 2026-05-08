@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chief of the medical division, Mexican Navy; imprisoned 5 days for involvement with Nazca mummy research; speculates beings are extraterrestrial based on 30% unidentifiable DNA"
-created: 2026-04-26
-updated: 2026-04-26
 name: Dr. José Zalce
 aliases: [Jose Zay, Jose Zalce Benitez]
 roles: [official, researcher, witness]

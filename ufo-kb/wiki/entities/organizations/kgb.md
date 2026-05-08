@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Soviet state security and intelligence agency (1954–1991); successor to NKVD; investigated UFO phenomena internally while publicly dismissing them; successor FSB inherited its UAP files."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 name: KGB
 aliases: [Committee for State Security, FSB]

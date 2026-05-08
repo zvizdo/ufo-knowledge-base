@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Air Force OSI Counter Intelligence officer who ran the Paul Benowitz disinformation operation; attended the 1977 Mario Woods abduction debrief at Ellsworth AFB as a brand-new agent; claims to be reformed."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/73YBwFvcmF8.md]
 name: Rick Doty
 aliases: [Richard Doty, Rick Dodie]

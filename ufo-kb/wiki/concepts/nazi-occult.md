@@ -3,8 +3,6 @@ type: concept
 name: Nazi Occult
 aliases: [Nazi occult, nazi-occult, SS occultism, Nazi mysticism, Third Reich occult, Aryan mysticism, Nazi esotericism]
 first_seen_in: ufo-kb/wiki/entities/people/heinrich-himmler.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The integration of occult, esoteric, and pseudo-scientific ideas into the Nazi ideological framework, particularly under Himmler's SS; includes the SS-Ahnenerbe institute, Thule and Vril Society influences, expeditions to Tibet, and the use of runic symbolism; relevant to UAP discourse through claims about German occult-informed advanced propulsion research."
 tags: [nazi, occult, himmler, ss, ahnenerbe, thule, vril, aryan, esoteric, wwii]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former Assistant Secretary of Housing and Urban Development (Bush Sr.) and financial investigator who documented trillions in Pentagon accounting discrepancies and independently developed the breakaway civilization hypothesis through financial forensics."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Catherine Austin Fitts
 aliases: [Katherine Austin Fitz, CAF]

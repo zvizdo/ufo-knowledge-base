@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Granddaughter of publishing magnate William Randolph Hearst; kidnapped by the Symbionese Liberation Army (SLA) in 1974; emerged weeks later with a new identity 'Tania' and participated in a bank robbery; Jolly West testified at her trial that she had been mind-controlled; eventually pardoned."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Patty Hearst
 aliases: [Patricia Hearst, Tania]

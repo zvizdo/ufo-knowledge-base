@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former western movie set in Chatsworth, CA where the Manson Family lived, rehearsed murders, and was under law-enforcement surveillance months before the 1969 Tate-LaBianca killings."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: Spahn Ranch
 aliases: [Spawn Ranch, Spahn Movie Ranch]

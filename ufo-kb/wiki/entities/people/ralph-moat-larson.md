@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former CIA case officer (1983–2016) and DOE Director of Intelligence (2005–2008); Moscow Station Chief; briefed presidents Bush on WMD threats; denies UAP retrieval knowledge; claims time travel, prophetic dreams, and Virgin Mary apparitions."
-created: 2026-04-26
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/ATJwqp5twAg.md, raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Rolf Mowatt-Larssen
 aliases: [Ralph Moat Larson, Ralph Larson, Larsson, Odius Maximus]

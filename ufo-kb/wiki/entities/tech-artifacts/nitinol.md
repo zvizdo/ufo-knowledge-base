@@ -3,8 +3,6 @@ type: entity
 entity-type: tech-artifact
 name: Nitinol
 aliases: [nickel-titanium alloy, shape-memory alloy, NiTiNOL]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 tags: [material, memory-metal, crash-retrieval, reverse-engineering]
 category: other

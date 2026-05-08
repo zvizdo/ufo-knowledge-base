@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF Master Sergeant with verifiable Area 51 service record; claimed detailed knowledge of the TR3B — a classified reverse-engineered triangular craft 200–600 ft in diameter, run by NSA/CIA/NRO and built by Northrop, Lockheed, and Boeing using Sandia/Livermore propulsion research."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/nTiFs8LudUo.md]
 name: Edgar A. Fouché
 aliases: [Edgar Fouche, Edgar Fuche, Fouché]

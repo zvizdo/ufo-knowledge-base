@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UAP researcher and YouTube content creator known as 'UAPGerb' or 'Sammy'; specializes in the organizational architecture and financial mechanisms of UAP legacy programs (FFRDCs, the pyramid model, NURO, crash-retrieval documentation)."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/nTiFs8LudUo.md, raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: UAPGerb
 aliases: [Gerb, Sammy, UAPGerb]

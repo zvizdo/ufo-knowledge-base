@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "German-American rocket scientist; led Nazi V-2 program; recruited under Operation Paperclip; directed NASA's Marshall Space Flight Center and the Saturn V program that sent Apollo to the Moon; made enigmatic statements about consciousness and entities."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/tS_64sTN5AU.md]
 name: Wernher von Braun
 aliases: [Werner von Braun]

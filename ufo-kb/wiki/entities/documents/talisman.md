@@ -2,8 +2,6 @@
 type: entity
 entity-type: documents
 summary: "Book co-authored by Graham Hancock and Robert Bauval tracing how ancient mystery-school secret societies preserved and transmitted encoded knowledge from the 'First Time' civilization through the millennia."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/dfPfPB601hw.md]
 title: "Talisman: Sacred Cities, Secret Faith"
 authors: [graham-hancock, robert-bauval]

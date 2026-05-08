@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Jesse Michels video essay arguing that the forgotten 1950s–60s anti-gravity research timeline — linking Oppenheimer, Teller, Townsend Brown, and the WADC — is the most underrated disclosure inroad."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 video_id: 5udx_SDdL3Y
 title: "Did Oppenheimer Work on UFOs?"

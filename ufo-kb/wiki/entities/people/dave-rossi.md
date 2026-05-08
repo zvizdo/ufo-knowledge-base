@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Self-taught exotic physicist and UFO researcher; former construction worker who attributes his knowledge of extended electrodynamics to a contact experience with a blue plasma humanoid being; now consults for private defense-adjacent groups."
-created: 2026-04-25
-updated: 2026-04-25
 name: Dave Rossi
 aliases: [David Rossi, Zed]
 roles: [researcher, witness, contactee]

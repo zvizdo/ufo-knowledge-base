@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Self-described contactee and author; wrote In League with a UFO (1997, subtitle: Roswell) and A Day with an Extraterrestrial; Dolan regards his work as either the best UFO fiction ever written or a genuine insider contact account — he cannot decide."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Lou Baldin
 aliases: []

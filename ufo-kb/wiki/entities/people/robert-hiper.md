@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF officer (likely Robert Hippler, Scientific Advisory Board) who intervened in the Condon Commission's investigation in 1967, writing to Edward Condon outlining the Air Force's preferred conclusion before the study was complete — a key piece of evidence for the 'Condon whitewash' thesis."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Robert Hiper
 aliases: [Robert Hippler, Lt. Col. Hiper]

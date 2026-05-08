@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1974 documentary by Bob Emenegger and Allan Sandler; produced with unprecedented US Air Force cooperation; included a deliberately veiled reference to the Holloman AFB landing ('may have already happened or may happen'); footage of the event was pulled at the last minute."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 title: "UFOs: Past, Present and Future"
 authors: [bob-emenegger, allan-sandler]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American fascist leader of the Silver Shirts who was imprisoned for Nazi collaboration; from prison wrote 'Star Guests' and founded Soulcraft religion — Nordic master-race doctrine repackaged as cosmic revelation, prefiguring the contactee wave."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: William Dudley Pelley
 aliases: [Pelley]

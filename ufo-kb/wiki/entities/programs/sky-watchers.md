@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Private UAP detection and contact company (public brand: Skywatcher) co-led by Jake Barber and James Valor; operates a mobile multi-spectrum sensor platform (radar, SWIR, MWIR, EO, RF), a dog-whistle attraction signal, and psionic assets; has documented 200+ UAPs over five years with a 9-class taxonomy; founded 2021 from accidental discovery during government war game."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/SZBI85yvV5A.md, raw/youtube-transcripts/dnnpyNuPdXs.md, raw/youtube-transcripts/y_8IKKcTntQ.md]
 name: Sky Watchers
 aliases: [Skywatcher]

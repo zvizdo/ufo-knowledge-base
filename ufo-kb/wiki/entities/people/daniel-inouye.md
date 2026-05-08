@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [us-senate]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/1f16VvXaSSE.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md]
 summary: "US Senator from Hawaii (1963–2012); Senate President pro tempore at his death; cited by Lue Elizondo as one of the three founding-funder Senators of AAWSAP alongside Harry Reid and Ted Stevens."
 tags: [aawsap, us-senate, hawaii]

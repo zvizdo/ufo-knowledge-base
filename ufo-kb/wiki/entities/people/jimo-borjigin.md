@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "University of Michigan neuroscientist who studies endogenous DMT receptors in the brain and terminal lucidity — the phenomenon of sudden conscious clarity before death."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 name: Jimo Borjigin
 aliases: ["GMO Borgagen (transcript variant)"]

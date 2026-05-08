@@ -3,8 +3,6 @@ type: concept
 name: Suppressed Technology
 aliases: [suppressed technology, suppressed-technology, free energy suppression, withheld technology, black program technology, classified technology suppression]
 first_seen_in: ufo-kb/wiki/entities/tech-artifacts/scalar-frequency-healing.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Technologies claimed to exist but withheld from public markets or knowledge — including energy generation systems, healing devices, and propulsion technologies; commonly attributed to pharmaceutical, energy industry, or national security suppression; structurally overlaps with black program technology and the transistor-Roswell thesis."
 tags: [suppression, technology, free-energy, black-program, classified, dual-use, reverse-engineering]

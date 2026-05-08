@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Three-volume history by Peter Levenda tracing the occult/intelligence/assassination nexus from WWII to the modern era; documents American Orthodox Catholic Church connections to the JFK case, Operation Paperclip, Nazi occult programs, and intelligence-front organizations."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Sinister Forces
 title: "Sinister Forces: A Grimoire of American Political Witchcraft"

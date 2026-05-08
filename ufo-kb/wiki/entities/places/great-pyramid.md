@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The Great Pyramid of Giza: largest of the three Giza pyramids; attributed to Pharaoh Khufu (Cheops); subject of Filippo Biondi's phonon SAR imaging, Jeffrey Drum's chemical manufacturing thesis, Christopher Dunn's power plant thesis, and Randall Carlson's geodetic earth-model thesis (1:43,200 scale)."
-created: 2026-04-26
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/NvQXmtcwHA8.md, raw/youtube-transcripts/R7oyZGW99os.md]
 name: Great Pyramid of Giza
 aliases: [Great Pyramid, Khufu's Pyramid, Cheops Pyramid, Pyramid of Khufu]

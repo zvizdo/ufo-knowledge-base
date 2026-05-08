@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Head neurosurgeon at Hospital Regional Varginha since 1983; spent 3–4 minutes face-to-face with the live alien being during the 1996 Varginha incident; the highest-credential direct-contact witness in the case."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UkKwa4jU0fc.md, raw/youtube-transcripts/hBrfe4hFuM0.md]
 name: Italo Venturelli
 aliases: [Dr. Italo Venturelli, Dr. Italo Ventterelli, Itali]

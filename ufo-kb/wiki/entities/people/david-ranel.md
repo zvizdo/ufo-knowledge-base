@@ -7,9 +7,7 @@ firsthand_claims:
   - "DNA of 'Maria' mummy: ~70% known (anomalous Africa/South-Asia primate combination), ~30% completely unknown"
 first_seen_in: HxQN2tkQHs8
 tags: [nazca-mummies, forensics, peru, dna, genetics]
-updated: 2026-04-26
 type: entity
-created: 2026-04-26
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md]
 ---
 

@@ -2,8 +2,6 @@
 type: entity
 stub: true
 summary: "Lockheed (later Lockheed Martin) — major US aerospace and defense contractor; operator of the Skunk Works division; alleged custodian of UAP reverse-engineering programs per multiple whistleblowers."
-created: 2026-04-27
-updated: 2026-04-27
 name: Lockheed
 aliases: [Lockheed Martin, Lockheed Corporation, Skunk Works]
 type: private-co

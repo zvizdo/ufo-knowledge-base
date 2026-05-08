@@ -3,8 +3,6 @@ type: concept
 name: UAP Physics
 aliases: [UAP physics, uap physics, UAP propulsion physics, exotic physics]
 first_seen_in: ufo-kb/wiki/concepts/gravity-electromagnetism-unification.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The physics of UAP phenomena — the theoretical frameworks needed to explain observed capabilities (instantaneous acceleration, trans-medium operation, apparent gravity manipulation, absence of sonic boom); relates to gravity-electromagnetism unification, inertial frame dragging, vacuum energy, and advanced field propulsion theories."
 tags: [uap-propulsion, physics, electrogravitics, gravity-modification, advanced-propulsion]

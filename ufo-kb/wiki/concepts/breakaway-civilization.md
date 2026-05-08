@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Hypothesis that a secret group — human or part-human — has achieved advanced technology (possibly from reverse-engineered alien craft) and operates outside all known governmental and institutional structures, constituting a 'civilization within a civilization'."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/JGE1NIGhBzw.md]
 tags: [secret-space-program, reverse-engineering, ufo-secrecy, deep-state, richard-dolan]
 ---

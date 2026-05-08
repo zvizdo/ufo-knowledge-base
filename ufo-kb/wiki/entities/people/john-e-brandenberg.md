@@ -8,8 +8,6 @@ firsthand_claims:
   - Claims the Cydonia and Galaxias Chaos regions of Mars show gamma-ray spectrometer signatures consistent with thermonuclear detonations; argues Mars was destroyed by a nuclear war by an advanced civilization
   - Was present at Sandia National Laboratories during the 1983 Able Archer crisis and was personally shaken by the near-nuclear war event
 first_seen_in: ufo-kb/wiki/entities/incidents/1983-able-archer.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Plasma physicist and Mars researcher; former Sandia National Laboratories scientist; proposes that gamma-ray spectrometry data shows thermonuclear detonation signatures in specific Martian regions; argues Mars was destroyed by an advanced civilization's nuclear war; the 1983 Able Archer crisis motivated his shift toward Martian nuclear hypothesis research."
 tags: [plasma-physics, mars, nuclear, cydonia, sandia, great-filter, extinction, researcher]

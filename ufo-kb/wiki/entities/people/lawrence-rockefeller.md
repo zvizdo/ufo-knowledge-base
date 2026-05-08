@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Philanthropist who funded UFO disclosure research in the 1990s — John Mack, Steven Greer, Princeton Parapsychology Lab — and attempted to brief Hillary Clinton via Paul Davies's book."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/areO7Mej44E.md]
 name: Lawrence Rockefeller
 aliases: []

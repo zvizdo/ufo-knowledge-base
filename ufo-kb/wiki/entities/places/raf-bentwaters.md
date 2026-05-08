@@ -3,8 +3,6 @@ type: entity
 entity-type: place
 name: RAF Bentwaters
 aliases: [RAF Woodbridge, Bentwaters-Woodbridge, Rendlesham Forest incident site]
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 tags: [military-base, uk, nato, uap-incident-site, nuclear]
 ---

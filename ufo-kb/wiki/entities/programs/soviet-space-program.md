@@ -7,8 +7,6 @@ affiliations: [ussr]
 firsthand_claims: []
 status: historical
 first_seen_in: ufo-kb/wiki/entities/people/akinashev-cosmonaut.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The USSR's space exploration and development program; ran from 1957 (Sputnik) through Soviet dissolution (1991); competed with NASA in the Space Race; produced multiple documented UAP encounters by cosmonauts, some of which were suppressed or confiscated by Soviet authorities."
 tags: [soviet, ussr, space, cosmonauts, uap, cold-war, space-race, suppression]

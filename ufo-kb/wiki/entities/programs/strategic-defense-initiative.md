@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Reagan-era missile defense program ('Star Wars') whose alleged lineage runs from the Bluegill Triple Prime UAP shootdown through Edward Teller's Project Excalibur to a dual-use anti-UAP directed-energy capability."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Strategic Defense Initiative
 aliases: [SDI, Star Wars, Project Excalibur]

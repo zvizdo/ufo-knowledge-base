@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "New York Times journalist who co-broke the December 2017 UAP story with Leslie Kean, triggering the modern disclosure arc."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md]
 name: Ralph Blumenthal
 aliases: []

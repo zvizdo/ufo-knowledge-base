@@ -3,8 +3,6 @@ type: concept
 name: UFO-Nuclear Nexus
 aliases: [ufo-nukes-connection, UFO nuclear connection, nuclear UAP correlation, UAP nuclear incidents]
 first_seen_in: ufo-kb/wiki/concepts/the-nine.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The documented correlation between UAP activity and nuclear weapons sites, nuclear testing, and missile installations; includes the 1967 Malmstrom AFB missile shutdowns, Rendlesham Forest near NATO nuclear storage, and Soviet parallel incidents; suggests NHI have a specific interest in or reaction to nuclear technology."
 tags: [nuclear, missiles, malmstrom, rendlesham, uap-nuclear, minuteman]

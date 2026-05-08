@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Palestinian-American convicted of assassinating Senator Robert F. Kennedy in 1968; to this day claims no memory of firing his weapon; his diary entries ('must kill RFK') suggest programming; Robert F. Kennedy Jr. publicly believes Sirhan's bullets never hit his father and that Lockheed bodyguard Eugene Thane Caesar fired the fatal shots."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Sirhan Sirhan
 aliases: [Sirhan Bishara Sirhan]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Methodology for imagining NHI psychology by systematically inverting human traits — developed by Eric Haseltine and Chris Gilbert in 'The New Science of UFOs'; a structured alternative to anthropomorphic NHI assumptions."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 tags: [nhi, consciousness, uap-hypotheses, intelligence-methodology, psychology]
 ---

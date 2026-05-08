@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Secondary ion mass spectrometer at Stanford's engineering department; used by Garry Nolan to measure isotope ratios in alleged UAP debris at single-element resolution."
-created: 2026-04-28
-updated: 2026-04-28
 sources: [raw/youtube-transcripts/dzTZbSNsKV8.md]
 name: NanoSIMS
 aliases: [NanoSIMS secondary ion mass spectrometer, secondary ion mass spec]

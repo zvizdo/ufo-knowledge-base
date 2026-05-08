@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Jason Reza Jorjani's sweeping philosophical synthesis: Nordic control system, Bramley's Black Plague biological warfare, spectral revolution, simulated reality, AI managing the simulacrum thesis, Mars/Moon ruins, Epstein/Atlantis nexus, contactee-fascist infiltration, and nuclear-detonations-as-matrix-breach."
-created: 2026-04-26
-updated: 2026-05-04
 video_id: EzPmG_7WhXc
 title: "Aliens Invented Religion To Control Humanity! — Top Philosopher Jason Reza Jorjani"
 channel: American Alchemy

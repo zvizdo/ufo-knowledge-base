@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis that chess was invented and/or transmitted to humanity by extraterrestrial civilizations — evidenced by its simultaneous independent appearance on every continent 5,000+ years ago, the exact correspondence between its 64 squares and the 64 DNA codons, and the universal black/white duality mirroring the yin-yang principle."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 tags: [chess, alien-transmission, ancient-astronaut, dna, claims-theses, fide, kalmykia]
 ---

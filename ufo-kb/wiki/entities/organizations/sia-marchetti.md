@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Savoia-Marchetti (SIA-Marchetti) — Italian aircraft manufacturer. In the UAP/historical context: the alleged location where the 1933 Magenta crashed craft was stored in aerospace hangars before and during WWII, making it the target of the OSS Project McGregor retrieval operation."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Savoia-Marchetti (SIA-Marchetti)
 aliases: [SIA Marchetti, Savoia-Marchetti, SIAI-Marchetti]

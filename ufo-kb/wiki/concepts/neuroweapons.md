@@ -3,8 +3,6 @@ type: concept
 name: Neuroweapons
 aliases: [neuroweapons, neuro-weapons, cognitive warfare weapons, directed neural weapons, brain weapons]
 first_seen_in: ufo-kb/wiki/entities/people/john-norsine.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Weapons and technologies designed to manipulate, degrade, or exploit human neural function — including directed energy weapons targeting brain states, RF/microwave-based cognitive disruption, pharmacological cognitive degradation, and implant-based monitoring and influence; connected to Havana Syndrome, Soviet microwave programs, and the dual-use spectrum from reconnaissance to assassination."
 tags: [neuroweapons, cognitive-warfare, DEW, RF, microwave, brain, directed-energy, havana-syndrome, mk-ultra]

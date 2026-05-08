@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ancient Egyptian city in Upper Egypt; the religious capital and burial site of the earliest pharaohs; location of the Osireion"
-created: 2026-04-26
-updated: 2026-04-26
 name: Abydos
 aliases: [Abydus]
 region: Upper Egypt (Sohag Governorate)

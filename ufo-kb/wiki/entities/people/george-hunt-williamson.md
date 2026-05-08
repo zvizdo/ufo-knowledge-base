@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1950s contactee handler and George Adamski's editor; real name Michel Drenovic, Serbian royalty; previously editor of American Silver Shirts' 'Valor' magazine; transmitted Nordic master-race doctrine as cosmic revelation."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: George Hunt Williamson
 aliases: [Michel Drenovic, George Williamson]

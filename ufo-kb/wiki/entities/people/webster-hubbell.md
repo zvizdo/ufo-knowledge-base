@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Associate Attorney General under President Clinton (1993–1994) who was reportedly tasked by Clinton personally to find out what the government knew about UFOs and who killed JFK — and reportedly found nothing."
-created: 2026-05-05
-updated: 2026-05-05
 name: Webster Hubbell
 aliases: [Webb Hubbell]
 roles: [lawyer, government official]

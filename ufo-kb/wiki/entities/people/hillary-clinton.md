@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "U.S. Senator, Secretary of State, and 2016 presidential candidate who expressed public interest in UFO disclosure during the 2016 campaign and was the target of Lawrence Rockefeller's private disclosure lobbying effort in the 1990s."
-created: 2026-05-05
-updated: 2026-05-05
 name: Hillary Clinton
 aliases: [Hillary Rodham Clinton]
 roles: [politician, Secretary of State, Senator]

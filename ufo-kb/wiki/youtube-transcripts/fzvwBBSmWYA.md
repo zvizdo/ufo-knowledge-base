@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Full Robert Hastings interview on the UFO-nuclear nexus — 167 PRP-cleared witnesses, Echo/Oscar Flight missile shutdowns, Big Sur film, Rendlesham weapon-storage beam, Soviet Ukraine missile activation, AARO betrayal, and six theories for why UAPs monitor nuclear sites."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fzvwBBSmWYA.md]
 video_id: fzvwBBSmWYA
 title: "UFOs Are Monitoring Nuclear Bases Globally (Ft. Robert Hastings)"

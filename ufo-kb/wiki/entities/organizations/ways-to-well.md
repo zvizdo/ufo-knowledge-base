@@ -8,8 +8,6 @@ parent_org: null
 country: USA
 active_period: 2020s–present
 tags: [functional-medicine, austin-texas, uap-adjacent, stem-cells, hyperbaric, red-light-therapy, peptides, hormone-optimization, maha, brigham-buhler]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "Functional medicine clinic in Austin, Texas founded by Brigham Buhler; offers stem cells, hyperbaric oxygen, red light therapy, hormone optimization, and peptide compounding — all modalities suppressed or ignored by the insurance-driven mainstream medical system; also the site of the q7Czo77qhHA American Alchemy episode recording."
 ---

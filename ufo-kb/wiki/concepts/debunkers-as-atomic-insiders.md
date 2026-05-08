@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: prominent mid-century UFO debunkers were Manhattan Project insiders who already knew about UAP crash retrievals and were motivated — or coerced — to publicly deny the phenomenon's significance."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/TH10mD9hQas.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/h0hAit-KH9A.md, raw/youtube-transcripts/kRO5jOa06Qw.md, raw/youtube-transcripts/lbGE3EC6StE.md]
 tags: [claims-thesis, condon, debunkers, manhattan-project, blackmail, ufo-secrecy, atomic-insiders]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Quantum computing entrepreneur (age 26 at time of episode); founder of Quantum Generative Materials ($15M raised); reverse-engineering UAP materials by simulating exotic metamaterials on quantum computers; believes UAP observables indicate macroscopic quantum behavior."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/qAou_h1POWs.md]
 name: Deep Prasad
 aliases: []

@@ -3,8 +3,6 @@ type: entity
 name: Able Archer 83
 aliases: [1983 Able Archer, Able Archer, Operation Able Archer]
 summary: "NATO military exercise in November 1983 that Soviet intelligence mistook for actual preparation for a nuclear first strike; brought the superpowers close to accidental nuclear war; a classified near-nuclear-war event that influenced the careers of several KB-relevant scientists and officials."
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 date: 1983-11
 tags: [nuclear, cold-war, nato, ussr, 1983, near-nuclear-war, classified]

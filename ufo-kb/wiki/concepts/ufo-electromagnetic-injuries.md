@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The cross-field parallel between historical religious accounts of injury from angel contact events (especially stigmata) and modern CIA/Nolan-documented electromagnetic radiation injuries in UAP experiencers — providing physical evidence that the same phenomenon has been occurring across centuries."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 tags: [stigmata, uap-injuries, electromagnetic, garry-nolan, cia, st-francis, angel-contact, phenomenology, historical-continuity]
 ---

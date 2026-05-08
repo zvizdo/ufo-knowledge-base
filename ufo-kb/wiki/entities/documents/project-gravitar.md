@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Upcoming documentary about Bob Lazar in production as of 2025; described by Joe Rogan as likely to confirm S4 as a real facility and present satellite imagery of the hangers."
-created: 2026-04-26
-updated: 2026-04-26
 title: Project Gravitar
 authors: []
 date: 2025

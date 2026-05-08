@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Vanderbilt-trained clinical psychologist and researcher; co-authored peer-reviewed paper showing statistically significant correlation between nuclear bomb tests and pre-Sputnik Palomar transient appearances."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 name: Steven Bruell
 aliases: [Dr. Steven Brule (transcript phonetic)]

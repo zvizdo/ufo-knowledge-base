@@ -9,8 +9,6 @@ first_seen_in: raw/youtube-transcripts/zjpvfDFc4fg.md
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 tags: [cia, nro, occult, nrol-16, walpurgisnacht, pandolfi, uap-disclosure]
 summary: "Former CIA officer who publicly described the NROL-16 (2005) launch as a deliberate occult ritual keyed to Walpurgisnacht and linked to CIA scientist Ron Pandolfi."
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # John Ramirez

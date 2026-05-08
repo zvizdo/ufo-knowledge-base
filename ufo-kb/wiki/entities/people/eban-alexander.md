@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Neurosurgeon who experienced a profound near-death experience (NDE) during a week-long bacterial meningoencephalitis coma; published 'Proof of Heaven' (2012); frequently cited in UAP discourse as empirical evidence for non-local consciousness and higher-dimensional reality."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/kRO5jOa06Qw.md]
 name: Eben Alexander
 aliases: [Eban Alexander]

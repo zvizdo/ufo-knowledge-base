@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "John Blitch's hypothesis that NHI non-intervention follows a framework analogous to a human Institutional Review Board — a galactic oversight body preventing self-disclosure because revealing themselves would invalidate the experimental conditions under which humanity is being studied."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/yAvD5UTziTo.md]
 tags: [nhi, non-intervention, experiment, ethics, irb, galactic-governance, blitch, disclosure-narratives]
 ---

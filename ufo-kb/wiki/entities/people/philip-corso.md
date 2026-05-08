@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army intelligence officer; Knight of Malta; author of The Day After Roswell (1997); claimed to have distributed recovered alien craft materials to US private industry for reverse engineering, naming Bell Labs as a recipient."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/RNjC1vLcxKo.md, raw/youtube-transcripts/nTiFs8LudUo.md]
 name: Philip Corso
 aliases: [Philip J. Corso, Col. Philip Corso, Colonel Corso]

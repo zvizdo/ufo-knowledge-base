@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Swedish treasure hunter and co-founder of Ocean X; discovered the Baltic Sea Anomaly in June 2011 via sidescan sonar; has led multiple expeditions to investigate the 60-meter-diameter anomalous seafloor object; firsthand UAP witness (1996)."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aGqFOxuYRT0.md]
 name: Dennis Asberg
 aliases: [Dennis Asperg, Dennis Asber]

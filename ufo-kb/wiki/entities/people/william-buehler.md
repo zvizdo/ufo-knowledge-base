@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: [naval-research-laboratory]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/tech-artifacts/nitinol.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Naval Research Laboratory (NRL) metallurgist who discovered nitinol (nickel-titanium shape memory alloy) in 1959; gave ambiguous answers when pressed on whether anomalous recovered materials inspired his research; associated with the claim that nitinol's unusual properties derive from or were confirmed by non-terrestrial sources."
 tags: [nitinol, NRL, metallurgy, shape-memory-alloy, reverse-engineering, whistleblower-adjacent]

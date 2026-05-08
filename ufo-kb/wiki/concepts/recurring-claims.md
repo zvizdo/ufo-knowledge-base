@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "High-frequency assertion categories in UFO/UAP discourse: crash retrievals, reverse engineering, NHI biologics, consciousness link, breakaway civilization, time-travelling humans, nuclear nexus. Not individual claims — these are *categories* of claim that recur across sources."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [CONSTITUTION.md, raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/0qlppHc3-gg.md]
 tags: [claims-taxonomy, crash-retrieval, reverse-engineering, nhi, consciousness, breakaway-civilization]
 ---

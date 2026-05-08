@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Indian Springs Gunnery Ranges in Nevada (USAF Areas 53–54, 'Dreamland') — the location of Charles Hall's 1965–67 Tall White contact; distinct from Area 51/Groom Lake; Dog Bone Lake served as the Tall White landing field."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/QgxjtDS2sIQ.md]
 name: Indian Springs
 aliases: [Indian Springs Gunnery Ranges, Indian Springs Air Base, Dreamland, Areas 53-54, Dog Bone Valley, Creech AFB]

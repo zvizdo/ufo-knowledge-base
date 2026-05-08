@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA mind-control program succeeding Project Bluebird (early 1950s); continued hypnotic courier experiments; documented creation of compartmentalized alternate identities in CIA personnel and test subjects; directly preceded MK Ultra."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Project Artichoke
 aliases: [Artichoke]

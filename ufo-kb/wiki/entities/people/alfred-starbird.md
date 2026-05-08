@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Commander of Joint Task Force 8 who was the senior officer present during Bluegill Triple Prime and departed the test site abruptly afterward in a manner noted as unusual."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Alfred Starbird
 aliases: [General Starbird]

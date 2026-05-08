@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "California Institute of Technology — elite US science and engineering university; connected to UAP discourse through alumni (Jack Parsons, Frank Malina), JPL founding, and as part of the physics establishment network."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 name: Caltech
 aliases: [California Institute of Technology]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Japan Airlines captain who piloted JAL Flight 1628 in November 1986, reporting and sketching a walnut-shaped aircraft-carrier-sized UAP that paced his 747 over Alaska for 45 minutes; lost his license for speaking publicly."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Kenju Terauchi
 aliases: []

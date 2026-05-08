@@ -3,8 +3,6 @@ type: concept
 stub: true
 name: Mandela Effect
 tags: [mandela-effect, collective-memory, simulation-theory, timeline-divergence, false-memories]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Mandela Effect

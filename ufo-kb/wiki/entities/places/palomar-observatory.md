@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Major astronomical observatory in Southern California, the dominant US observatory in use during the 1950s; its digitized photographic plate archive is the source of Villarroel's 105,000 pre-Sputnik transient discoveries."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 name: Palomar Observatory
 aliases: [Mount Palomar Observatory]

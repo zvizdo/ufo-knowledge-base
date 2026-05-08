@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chair of Harvard's Department of Chemistry and pioneer in nanotechnology; convicted of 6 federal felonies in 2021 for concealing his participation in China's Thousand Talents Program while accepting secret payments from the Wuhan Institute of Technology."
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/ePdH01pphbk.md]
 name: Charles Lieber
 aliases: []

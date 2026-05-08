@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British electrochemist who with Stanley Pons co-announced cold fusion in 1989; Fellow of the Royal Society; died 2012; icon of contested anomalous energy research"
-created: 2026-04-27
-updated: 2026-04-27
 name: Martin Fleischmann
 aliases: []
 roles: [researcher]

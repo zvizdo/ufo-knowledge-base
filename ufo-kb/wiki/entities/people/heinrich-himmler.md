@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [ss-ahnenerbe, nazi-germany, ss]
 firsthand_claims: []
 first_seen_in: raw/entities/organizations/ss-ahnenerbe.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Reichsführer-SS and head of the Nazi SS; founded and directed the SS-Ahnenerbe (ancestral heritage research organization) that pursued occult, historical, and paranormal research including potential pre-war contact with anomalous phenomena; suicide by cyanide 1945."
 tags: [nazi, ss, himmler, ahnenerbe, occult-research, world-war-ii]

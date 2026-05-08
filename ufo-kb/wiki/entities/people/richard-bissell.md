@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA Deputy Director of Plans under Allen Dulles; founder of Area 51; architect of the U-2 program; privately told Harold Malmgren that the 1962 Bluegill Triple Prime nuclear test deliberately downed a UAP, and named the 1933 Magenta crash decades before it became public."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/Sct30Qijfv8.md]
 name: Richard Bissell
 aliases: [Richard Mervin Bissell Jr., Bissell]

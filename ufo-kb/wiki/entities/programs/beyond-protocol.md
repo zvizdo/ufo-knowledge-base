@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Filippo Biondi's SAR Doppler tomography research program for scanning ancient structures; first applied to Giza; presented publicly at Malta 2024 conference"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/NvQXmtcwHA8.md, raw/youtube-transcripts/zrmG2jBckgk.md]
 name: Beyond Protocol
 aliases: [Beyond Protocol project, SAR Giza project]

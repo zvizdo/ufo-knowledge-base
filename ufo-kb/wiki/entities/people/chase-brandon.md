@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former CIA clandestine officer and official CIA Entertainment Liaison; publicly claimed in 2012 to have seen documents in a CIA archive confirming the Roswell crash was real; wrote an allegorical novel whose epigraph quotes Francis Bacon on truth needing fiction."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Chase Brandon
 aliases: [Brandon]

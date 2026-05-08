@@ -7,8 +7,6 @@ type_doc: book
 classification: public
 tags: [delonge, levenda, uap, consciousness, mystical-machines, skunkworks, aerospace-insiders, nhi]
 summary: "Book series by Tom DeLonge and Peter Levenda arguing that UAP are 'mystical machines' — advised by senior Lockheed Skunk Works executives and Air Force Research Lab commanders who consistently identified human consciousness as the key variable."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 ---
 

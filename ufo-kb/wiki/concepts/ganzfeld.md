@@ -3,8 +3,6 @@ type: concept
 name: Ganzfeld
 aliases: [ganzfeld, ganzfeld experiment, ganzfeld technique, ganzfeld protocol]
 first_seen_in: ufo-kb/wiki/concepts/synesthesia-remote-viewing.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Parapsychological experimental protocol using uniform sensory input (white noise, diffuse red light) to eliminate sensory entropy and reduce neural noise, facilitating detection of weak psi signals; meta-analysis shows statistically significant hit rates above chance; one of the most replicated findings in parapsychology."
 tags: [parapsychology, psi, telepathy, sensory-deprivation, ganzfeld, meta-analysis]

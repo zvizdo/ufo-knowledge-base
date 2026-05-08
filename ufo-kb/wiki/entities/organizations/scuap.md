@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Scientific Coalition for UAP Studies — a nonprofit organization of scientists, researchers, and engineers dedicated to rigorous empirical investigation of UAP. Advocates for peer-reviewed scientific engagement with UAP evidence."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Scientific Coalition for UAP Studies
 aliases: [SCU, SCUAP]

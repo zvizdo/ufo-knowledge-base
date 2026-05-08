@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "UAPs observed transitioning seamlessly between air, water, and space environments without visible propulsion changes — documented in GOFAST, USS Omaha cases and Ryan Graves's testimony; central to the anomalous physics discussion."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [uap-physics, transmedium, water, ocean, gravity, ryan-graves]
 ---
 

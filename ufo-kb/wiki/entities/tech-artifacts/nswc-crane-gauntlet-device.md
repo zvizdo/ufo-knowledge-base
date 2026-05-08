@@ -6,8 +6,6 @@ custodian: Naval Surface Warfare Center Crane (Off-World Technology Division)
 provenance: Retrieved from unknown source; someone harmed or killed during retrieval by energy discharge (per cadre, March 2014)
 tags: [recovered-artifact, hieroglyphics, gauntlet, energy-weapon, nswc-crane, offworld-technology, consciousness]
 sources: [raw/youtube-transcripts/Sct30Qijfv8.md]
-created: 2026-04-26
-updated: 2026-04-26
 ---
 
 # NSWC Crane Gauntlet Device

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Category of recurring visual motifs in UAP/NHI contact — glyphs on craft hulls, crop formations, contactee automatic writing, and symbols observed on recovered materials. A cross-cutting concept connecting incidents, experiencers, and document pages."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 tags: [symbols, glyphs, uap, nhi, craft-markings, crop-circles, contactee]
 ---

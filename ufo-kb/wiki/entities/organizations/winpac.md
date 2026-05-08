@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA multi-agency program: Weapons Intelligence, Non-Proliferation and Arms Control; Eric Davis was hired as its branch chief scientist in late 2003 but never started; WINPAC fuses CIA, NSA, NRO and other agencies."
-created: 2026-04-26
-updated: 2026-04-26
 name: WINPAC
 aliases: [Weapons Intelligence Non-Proliferation and Arms Control, Counter Proliferation Program, winpack]
 type: gov-agency

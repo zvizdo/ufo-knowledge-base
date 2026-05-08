@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Cosmic-ray-muon attenuation imaging used to detect voids in dense structures; the technique behind the 1970s Alvarez Khafre scan and the 2017 ScanPyramids Big Void detection — the competing technology to Biondi's [[satellite-sar|SAR phonon tomography]] for non-invasive pyramid investigation."
 tags: ["physics", "remote-sensing", "pyramids"]

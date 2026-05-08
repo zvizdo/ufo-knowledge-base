@@ -6,8 +6,6 @@ roles: ["researcher"]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/youtube-transcripts/NvqxmTCwHA8.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "German roboticist who in 1993 navigated the Queen's Chamber southern shaft with the Upuaut II robot and discovered the limestone slab door with copper fittings."
 tags: ["pyramids", "robotics", "queens-chamber"]

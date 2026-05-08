@@ -6,8 +6,6 @@ roles: [politician, official]
 affiliations: [us-department-of-justice]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/rfk-jr.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Attorney General (1961–1964) and Senator from New York; brother of President JFK; assassinated June 5, 1968; father of Robert F. Kennedy Jr.; appears in KB as a historical figure in the Kennedy family's intelligence community connections and through RFK Jr.'s political advocacy."
 tags: [kennedy, politician, attorney-general, senator, assassination, 1968, rfk-jr]

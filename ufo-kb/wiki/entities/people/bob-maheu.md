@@ -6,7 +6,6 @@ affiliations: [CIA, Howard Hughes Corporation]
 firsthand_claims: []
 first_seen_in: C4rSj5Aum7w
 tags: [cia, howard-hughes, mob-connections, jfk, s-force]
-updated: 2026-04-26
 ---
 
 # Robert Maheu

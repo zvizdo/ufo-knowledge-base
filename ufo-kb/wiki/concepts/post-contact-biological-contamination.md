@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The hypothesis that physical contact with alien beings can result in infection by exotic or alien microorganisms; the Varginha 1996 case is the primary documented instance."
-created: 2026-04-26
-updated: 2026-04-26
 tags: [nhi, biologics, varginha, alien-bacteria, contamination, post-contact]
 ---
 

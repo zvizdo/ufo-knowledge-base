@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Methodology for reverse-engineering UAP material properties without access to physical craft: solve the many-body Schrödinger equation using quantum computers to simulate exotic metamaterials whose predicted properties match the DoD's five observables."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/qAou_h1POWs.md]
 tags: [quantum-computing, uap-reverse-engineering, materials-science, schrodinger, many-body, metamaterials, five-observables]
 ---

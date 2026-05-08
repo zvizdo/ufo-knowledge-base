@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/LpLFWdsIU7M.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 summary: "Major Silicon Valley venture capital firm (a16z) co-founded by Marc Andreessen and Ben Horowitz in 2009; cited in KB for an NSC meeting in which a senior official acknowledged to Andreessen that entire physics areas had been classified before — treated by David Pines as the most significant on-record admission of secret physics programs."
 tags: [silicon-valley, venture-capital, nsc-meeting, classified-physics, andreessen, disclosure]

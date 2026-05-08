@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Buffalo soldier awarded the Medal of Honor; speculated in the Skinwalker Ranch episode as a possible carver of the 'as above so below' engraving found on the property."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 name: Augustus Wally
 aliases: []

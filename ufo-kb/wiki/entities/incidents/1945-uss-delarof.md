@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Summer 1945 USO incident near Adak Island, Aleutians: a ~200-ft disc-shaped object emerged from the Pacific Ocean and circled the US transport ship USS Delarof twice in complete silence before departing at extreme speed — the founding case in Richard Dolan's USO database."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: "1945 USS Delarof USO Incident"
 date: "1945-summer"

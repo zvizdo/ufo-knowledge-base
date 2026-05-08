@@ -6,8 +6,6 @@ roles: [witness, contactee]
 affiliations: []
 firsthand_claims: [2007-bledsoe-cape-fear-witness, multi-year-experiencer]
 first_seen_in: raw/youtube-transcripts/bM18PJY6_Zc.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [bledsoe-family, multi-witness, ce5, north-carolina, experiencer]
 ---

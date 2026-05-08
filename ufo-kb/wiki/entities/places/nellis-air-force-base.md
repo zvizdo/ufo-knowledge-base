@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Major USAF installation in Nevada and administrative parent of the Indian Springs Gunnery Ranges; in Charles Hall's account, the base commander's authority extended over Areas 1–60 including Dreamland (Areas 53–54) where the Tall White base was located."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/QgxjtDS2sIQ.md]
 name: Nellis Air Force Base
 aliases: [Nellis AFB, Nevada Test and Training Range]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Independent podcast host; associate of Jesse Michaels and Joe Rogan; known for the episode pairing moon-landing skeptic Bart Sibrel against Apollo astronaut Charlie Duke, and for hosting Bart Sibrel on moon-hoax topics."
-created: 2026-04-26
-updated: 2026-04-26
 name: Danny Jones
 aliases: []
 roles: [host]

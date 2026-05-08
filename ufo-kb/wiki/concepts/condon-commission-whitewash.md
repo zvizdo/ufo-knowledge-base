@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: The Condon Commission (1966–1968) was a pre-determined whitewash — designed to appear as an independent scientific investigation while producing a null result to justify terminating Project Blue Book and closing official UFO inquiry."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/TH10mD9hQas.md, raw/youtube-transcripts/fzvwBBSmWYA.md]
 tags: [condon-commission, whitewash, cover-up, blue-book, disclosure-narratives]
 ---

@@ -2,8 +2,6 @@
 type: synthesis
 synthesis-type: cross-cluster
 summary: "Two major KB clusters — ancient mystery traditions (Eleusis, Egyptian initiation, sacred hallucinogens) and modern consciousness research (DMT, NDE, remote viewing, quantum brain) — share a common structural claim: that consciousness can be deliberately altered to access non-ordinary information, including possible NHI contact. The ancient world operationalized this; the modern world is rediscovering the mechanism."
-created: 2026-04-27
-updated: 2026-04-27
 derived-from: [ancient-hallucinogens-religion, eleusis, mystery-schools, the-immortality-key, akhenaten-pharaoh, consciousness-non-local, near-death-experience, dmt-nhi-hypothesis, psychedelic-religion-future, remote-viewing, stargate-program, quantum-brain-precognition, the-road-to-eleusis]
 tags: [synthesis, mystery-schools, consciousness, ancient-tradition, dmt, eleusis, remote-viewing, nhi-contact, cross-cluster]
 ---

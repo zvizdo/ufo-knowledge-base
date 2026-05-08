@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The Ethiopian Jewish community whose oral and ritual tradition Graham Hancock invokes as a primary witness lineage for the historical journey of the Ark of the Covenant from Jerusalem to Aksum, Ethiopia. A factual ethnographic reference whose reading in this KB is alternative-history-tradition-adjacent."
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [ethiopia, ark-of-the-covenant, hancock, alternative-history, sign-and-the-seal]
 ---

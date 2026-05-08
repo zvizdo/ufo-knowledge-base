@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Aerospace engineer and co-curator (with son Ryan Wood) of the Majestic Documents collection; conducted forensic and historical authentication of the most extensive privately held set of alleged MJ-12 / Majestic papers."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Bob Wood
 aliases: [Dr. Bob Wood, Robert M. Wood]

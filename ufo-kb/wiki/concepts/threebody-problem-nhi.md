@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis, drawn from Liu Cixin's science fiction novel and endorsed by Harold Malmgren, that non-human intelligences systematically monitor and suppress the human scientific frontier — especially in physics, plasma, and nuclear domains — in the same way the Trisolarians monitor and disrupt human science in the Three-Body Problem."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 tags: [three-body-problem, nhi, science-suppression, harold-malmgren, liu-cixin, physics-lockdown, scientists-targeting-pattern, ufo-nuclear-nexus]
 ---

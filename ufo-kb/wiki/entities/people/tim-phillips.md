@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Disclosure researcher who appeared on the Event Horizon podcast claiming that Arrow (AARO) found Psalm 101-related passage material being used behind the scenes; connected to Rick Doty."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: Tim Phillips
 aliases: []

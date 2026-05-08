@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "A massive megalithic structure in red Aswan granite at Abydos, behind Seti I's temple; likely predates Seti I and shares a builder with the Sphinx's Valley Temple"
-created: 2026-04-26
-updated: 2026-04-26
 name: Osireion
 aliases: [Osirion, Osireion of Abydos]
 region: Abydos, Upper Egypt

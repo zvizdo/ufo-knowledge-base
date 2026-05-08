@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA mind-control program (1953–1973); 149 documented sub-projects in three tiers (chemical procurement, unwitting investigators, top-secret-cleared); used LSD, hypnosis, sensory deprivation, brain electrodes, and trauma-induced dissociation on non-consenting subjects; precursors were Bluebird (1952) and Artichoke; parallel program MK Naomi handled biological warfare; most records destroyed by Helms/Gottlieb 1973; 7 surviving boxes are the documented limited hangout."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/UrHLTFvdEZk.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/q7Czo77qhHA.md, raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: MK Ultra
 aliases: [MKULTRA, MK-Ultra, Project MK-Ultra]

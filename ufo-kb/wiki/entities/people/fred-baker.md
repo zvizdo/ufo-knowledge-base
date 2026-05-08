@@ -6,8 +6,6 @@ roles: [witness, contactee]
 affiliations: [sky-watchers]
 firsthand_claims: [psionic-sky-watching-corroboration]
 first_seen_in: raw/youtube-transcripts/y_8IKKcTntQ.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [sky-watchers, psionic-protocol, ce5, civilian-observation]
 ---

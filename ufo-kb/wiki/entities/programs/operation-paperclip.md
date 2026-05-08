@@ -7,8 +7,6 @@ affiliations: [us-army, osi, joint-intelligence-objectives-agency]
 firsthand_claims: []
 status: declassified
 first_seen_in: ufo-kb/wiki/entities/people/heinrich-himmler.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US intelligence operation (1945–1959) that recruited over 1,600 German scientists, engineers, and technicians from Nazi Germany for post-war US military and aerospace programs; included Wernher von Braun and the V-2 rocket team; relevant to UAP claims about German advanced technology transfer and the post-war aerospace secrecy architecture."
 tags: [nazi-scientists, cold-war, rockets, aerospace, intelligence, secrecy, wernher-von-braun, fort-bliss]

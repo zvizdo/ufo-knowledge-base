@@ -3,8 +3,6 @@ type: entity
 name: The Carlyle Group
 aliases: [Carlyle Group]
 summary: "Major US private equity firm with deep ties to the intelligence community and defense establishment; George H.W. Bush, James Baker, Frank Carlucci, and John Major were associated with it; cited in UAP secrecy discussions for bridging government and private aerospace interests."
-created: 2026-05-05
-updated: 2026-05-05
 type_detail: private-co
 country: US
 tags: [private-equity, intelligence, defense, bush, carlucci, secrecy, aerospace]

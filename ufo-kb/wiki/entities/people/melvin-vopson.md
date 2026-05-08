@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Physicist at the University of Portsmouth who developed the 'mass-energy-information equivalence principle'; calculates that if data continues growing at 25%/year, Earth's data centers will accumulate a moon's worth of mass in ~340 years — cited in information-cosmology and simulation theory UAP discussions."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: Melvin Vopson
 aliases: []

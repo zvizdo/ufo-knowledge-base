@@ -8,8 +8,6 @@ date: "~2020"
 type: book
 classification: public
 first_seen_in: ufo-kb/wiki/entities/people/tim-alberino.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Book by Tim Alberino presenting a Christocentric cosmological synthesis integrating angelic theology, ancient alien traditions, Mars civilization archaeology, and transhumanism; argues for a 'birthright' of humanity tied to ancient heritage and a spiritual contest between human and fallen-angelic lineages."
 tags: [tim-alberino, book, nephilim, giants, transhumanism, mars, angelic, christocentric, cosmology]

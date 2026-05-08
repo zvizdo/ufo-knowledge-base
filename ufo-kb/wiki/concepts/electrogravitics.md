@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The study of using high-voltage electrostatic fields to generate thrust or modify gravitational effects — pioneered by T. Townsend Brown through the Biefeld–Brown effect, and alleged to be the suppressed propulsion physics underlying both classified aerospace programs and UAP flight characteristics."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [physics, propulsion, townsend-brown, anti-gravity, uap-propulsion, biefeld-brown, b2-stealth, suppressed-physics]
 ---
 

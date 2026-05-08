@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Bismuth-magnesium nanolayer material allegedly from the Roswell crash, received by Art Bell; currently being studied by Matthew Shostakus (neutron-activation) and Gary Nolan (mass spec) at separate labs."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/dzTZbSNsKV8.md]
 name: Art's Parts
 aliases: [Art Bell Roswell debris, bismuth-magnesium nanolayers]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Swiss author who popularized the ancient astronaut hypothesis — that extraterrestrial visitors built ancient monuments and influenced human development; Hancock credits him with alerting the public to anomalies but rejects his conclusion."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md]
 name: Erich von Däniken
 aliases: [Erich von Daniken]

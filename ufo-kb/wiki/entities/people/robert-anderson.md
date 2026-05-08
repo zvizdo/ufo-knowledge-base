@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Deputy Secretary of War under Truman and senior partner at Brown Brothers Harriman; the Anderson Trust — the covert financial structure built around recovered Yamashita gold — was named after him."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Robert Anderson
 aliases: []

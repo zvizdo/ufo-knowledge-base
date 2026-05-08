@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Classified S4 program related to affecting or observing the flow of time; Bob Lazar read a brief overview in briefing documents but it was not his primary assignment. Scope and status unknown."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: Project Looking Glass
 aliases: [Looking Glass]

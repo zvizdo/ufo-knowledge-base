@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "DIA analyst who co-founded AAWSAP and visited Skinwalker Ranch; co-authored Skinwalkers at the Pentagon, the partially declassified account of AAWSAP's ranch investigations."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 name: James Lacatski
 aliases: [Lacatski]

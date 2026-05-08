@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged USAP (unacknowledged special access program) revealed in a 2024 whistleblower report published by Michael Shellenberger; a strategic UAP intelligence project combining SIGINT, HUMINT, imagery, and biological-effect documentation."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/aGqFOxuYRT0.md]
 name: Immaculate Constellation
 aliases: [IC (UAP context)]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Quantum vacuum effect: two closely spaced uncharged conductors experience a measurable attractive force due to virtual particle pressure differential; cited in UAP physics discussions as evidence that vacuum energy is real and potentially harvestable."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [quantum-physics, vacuum-energy, zero-point-energy, casimir, propulsion]
 ---
 

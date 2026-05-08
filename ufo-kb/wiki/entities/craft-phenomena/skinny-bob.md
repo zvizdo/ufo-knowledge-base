@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Viral video purporting to show a grey alien ('Skinny Bob') walking and making gestures; widely dismissed as a CGI hoax within the UAP community including by Jesse Michaels."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JE1oM89dpBc.md]
 name: Skinny Bob
 aliases: [Skinny Bob video, Ivan 0135]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Massive Inca fortress above Cusco with extreme-precision stone joinery; contains tunnels known internally since September 2024, announced publicly early 2026"
-created: 2026-04-26
-updated: 2026-04-26
 name: Sacsayhuaman
 aliases: [Saqsaywaman, Sacsayhuamán]
 region: Cusco, Andes

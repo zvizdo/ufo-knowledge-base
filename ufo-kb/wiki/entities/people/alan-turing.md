@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British mathematician and computer scientist who cracked the Nazi Enigma code, formalized computation, and in his 1950 paper 'Computing Machinery and Intelligence' gave the most credence to parapsychology/ESP as a genuine confound for machine consciousness — a fact that surfaces in UAP-adjacent discussions of non-local mind."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/2Mb6NPPjCyg.md]
 name: Alan Turing
 aliases: [Turing, A.M. Turing]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Co-founder of Jet Propulsion Laboratory (JPL) and pioneering American rocket engineer; also a devoted follower of Aleister Crowley's Thelema — a rarely-acknowledged fusion of cutting-edge aerospace and esoteric occultism."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 name: Jack Parsons
 aliases: [Marvel Whiteside Parsons, John Whiteside Parsons]

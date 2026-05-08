@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF missile targeting officer who was called in to restart Oscar Flight missiles on the night of March 24, 1967; independently corroborates the mass shutdown and reports a UFO trapped in a canyon near Belt, Montana."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Bob Jameson
 aliases: [Robert Jameson]

@@ -7,8 +7,6 @@ country: Russia
 coordinates: ~46°N 45°E
 type: region
 summary: "Only European Buddhist republic within Russia; only Mongolic-speaking republic in Europe; governed by Kirsan Ilyumzhinov 1993–2010; home of the Kalmyk people (descendants of Genghis Khan's Mongol empire); introduced chess as compulsory school subject and 'ethnoplanetary thinking' curriculum."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 tags: [russia, buddhism, mongol, kalmyk, chess, ethnoplanetary, ilyumzhinov]
 ---

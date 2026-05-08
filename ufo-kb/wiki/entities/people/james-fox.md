@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American documentary filmmaker specializing in UFO/UAP; director of 'The Phenomenon' (2020), 'Out of the Blue' (2003), 'I Know What I Saw' (2009), 'Moment of Contact' (2022), and forthcoming 'The Program'; credited with producing the most credible mainstream-accessible UAP documentaries."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/UkKwa4jU0fc.md, raw/youtube-transcripts/bVhSPH2A5Vw.md, raw/youtube-transcripts/hBrfe4hFuM0.md]
 name: James Fox
 aliases: []

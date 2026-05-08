@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The United States Navy; central to UAP disclosure via the Nimitz, Gimbal, Go Fast, and Roosevelt incidents; home of AATIP cooperation, Ryan Graves testimony, the UAP Task Force, and Salvatore Pais patents."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: US Navy
 aliases: [United States Navy, USN, Department of the Navy]

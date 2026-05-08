@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/sol-foundation.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Private research university in Stanford, California; home to Garry Nolan (immunologist, UAP materials researcher), Harold Puthoff (SRI remote viewing program), and the Sol Foundation; a recurring institutional node in the KB's UAP science and intelligence-adjacent research network."
 tags: [university, california, research, garry-nolan, puthoff, ssi, sol-foundation, intelligence]

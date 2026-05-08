@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged 1952 incident referenced in the Whitley Strieber American Alchemy episode — a childhood conditioning event near Randolph Air Force Base, San Antonio, involving what Strieber believes was early NHI or government contact with him as a child."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: 1952 Randolph Skinner Box Incident
 date: "1952"

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Physicist at University at Albany (formerly NASA Ames); one of the few credentialed academics to publish peer-reviewed UAP science; known for Nimitz/JAL-1628 performance analysis and the A Tear in the Sky field mission."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IWui5cBkwoE.md]
 name: Kevin Knuth
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "October 1973 CE4 abduction of Charles Hixon and Calvin Parker near Pascagoula, Mississippi; notable for the police hidden-recording credibility test, proximity to a nuclear submarine production facility, and a subsequent USO incident in the same area within weeks."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: "1973 Pascagoula Abduction"
 date: "1973-10"

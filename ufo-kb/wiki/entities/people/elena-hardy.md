@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Bioinformatics expert who found a GLI3 gene mutation (sonic hedgehog pathway) in the NCBI database for the Nazca mummies — a mutation associated with digit development changes including fusion or extra/reduced digits"
-created: 2026-04-26
-updated: 2026-04-26
 name: Elena Hardy
 aliases: []
 roles: [researcher]

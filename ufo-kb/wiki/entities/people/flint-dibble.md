@@ -2,8 +2,6 @@
 type: entity
 entity-type: people
 summary: "Archaeologist who publicly debated Graham Hancock; described by Hancock as intelligent and well-prepared but primarily oriented toward winning rather than truth-seeking."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md]
 name: Flint Dibble
 aliases: []

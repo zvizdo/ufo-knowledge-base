@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Soviet consciousness researcher (1970s–80s); independently conjectured quantum effects in cytoskeletal membranes communicate and encode semantic information; performed goldfish cytoskeleton experiment demonstrating microtubules' role in spatial cognition."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/RofQnByLwOo.md]
 name: Efim Liberman
 aliases: [Epim Liberman]

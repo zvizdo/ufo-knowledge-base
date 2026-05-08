@@ -8,8 +8,6 @@ firsthand_claims:
   - Edgar Fouché claims TR-3B is a classified USAF nuclear-powered triangular reconnaissance vehicle using a rotating plasma field to reduce effective mass by 89%, enabling extreme performance
 status: classified
 first_seen_in: ufo-kb/wiki/concepts/black-triangle-uap.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Alleged classified USAF triangular aircraft claimed by Edgar Fouché and UAPGerb; described as nuclear-powered with rotating plasma field propulsion reducing inertial mass; cited as the terrestrial explanation for black triangle UAP sightings; program status unconfirmed — no declassified documentation exists."
 tags: [tr3b, triangle, black-project, usaf, plasma-propulsion, edgar-fouche, anti-gravity, black-triangle-uap]

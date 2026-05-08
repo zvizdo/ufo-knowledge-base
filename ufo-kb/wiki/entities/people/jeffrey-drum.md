@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Researcher behind the chemical manufacturing thesis for the Great Pyramid; runs the 'Land of Chem' YouTube channel; documented hydrothermal iron ore veins with fulgurites on the Giza plateau"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/NvQXmtcwHA8.md]
 name: Jeffrey Drum
 aliases: [Jeffrey]

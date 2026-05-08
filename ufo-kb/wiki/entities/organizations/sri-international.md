@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/RofQnByLwOo.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/RofQnByLwOo.md]
 summary: "Independent research institute in Menlo Park, California (spun off from Stanford University in 1970); site of the CIA and DIA-funded remote viewing research program (1972–1985) under Hal Puthoff and Russell Targ that developed the first operational military remote viewers."
 tags: [remote-viewing, stargate-program, cia, hal-puthoff, russell-targ, psi-research, menlo-park]

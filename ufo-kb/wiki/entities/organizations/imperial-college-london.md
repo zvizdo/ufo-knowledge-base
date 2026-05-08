@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Major UK research university in London. In the UAP context, the site of the first extended DMTX (prolonged DMT infusion) trials run by Chris Timmermann and colleagues, studying what subjects encounter in sustained DMT states."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Imperial College London
 aliases: [Imperial College, ICL]

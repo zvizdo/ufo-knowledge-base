@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Aerial Phenomena Research Organization; civilian UFO investigation group founded by James and Coral Lorenzen in 1952; Dolan cites it alongside NICAP as his #2 institutional inspiration after Keyhoe."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: APRO
 aliases: [Aerial Phenomena Research Organization]

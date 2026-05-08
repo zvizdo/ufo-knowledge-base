@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Recurring claims that UAP/USO (unidentified submerged objects) emerge from specific, identified deep-ocean zones on a regular basis — implying underwater non-human installations, portals, or bases."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/LpLFWdsIU7M.md, raw/youtube-transcripts/aGqFOxuYRT0.md]
 tags: [uso, uap, ocean, portals, tim-burchett, underwater, bases]
 ---

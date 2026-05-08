@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Jesse Michels (American Alchemy) interviews UAPGerb (Sammy) on Dugway Proving Grounds as the new Area 51, Norton AFB 1988 ARV display, TR3B program, Majestic 12/ZODIAC evolution, psionic assets, Thomas Townsend Brown Paris experiments, and the complete FFRDC architecture behind legacy UAP programs."
-created: 2026-04-27
-updated: 2026-05-04
 sources: [raw/youtube-transcripts/nTiFs8LudUo.md]
 video_id: nTiFs8LudUo
 tags: [uapgerb, norton-afb-1988, tr3b, dugway, zodiac, majestic-12, psionics, thomas-townsend-brown, ffrdc, crash-retrieval, arv, reverse-engineering, jonathan-wagant, dan-sherman, bdm-working-group, ben-rich, peru-1997]

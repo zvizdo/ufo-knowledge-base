@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Retired Senate Armed Services Committee and Intelligence Committee professional staff member; key backstage figure in the 2017-onward UAP disclosure push; firsthand recipient of Harold Malmgren's Bluegill Triple Prime account; engaged deeply with exotic physics including Tesla, extended electrodynamics, and Nazi Bell connections."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/KGD1nuM4MR8.md]
 name: Kirk McConnell
 aliases: [McConnell]

@@ -3,8 +3,6 @@ type: concept
 name: Chern-Simons Gravity Connection
 aliases: [Chern-Simons QCD gravity, Lazar Chern-Simons, gravity wave A QCD, instanton gravity connection]
 first_seen_in: raw/youtube-transcripts/xnxasfyHtfo.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [chern-simons, qcd, general-relativity, bob-lazar, geometric-unity, physics-lockdown, yang-mills]
 ---

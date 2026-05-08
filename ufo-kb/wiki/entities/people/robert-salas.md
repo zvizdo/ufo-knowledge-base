@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF missile launch officer and primary firsthand witness to the 1967 Oscar Flight UFO/missile-shutdown incident at Malmstrom AFB; leading public advocate for the UFO-nuclear connection."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/h0hAit-KH9A.md]
 name: Robert Salas
 aliases: [Bob Salas, First Lieutenant Robert Salas]

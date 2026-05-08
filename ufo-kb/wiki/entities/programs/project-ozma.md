@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The first organized scientific search for extraterrestrial radio signals, launched by Frank Drake in 1961 at Green Bank, West Virginia — the founding act of SETI."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 name: Project Ozma
 aliases: []

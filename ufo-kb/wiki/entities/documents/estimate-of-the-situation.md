@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1948 USAF intelligence document produced by Project Sign concluding that UFOs are extraterrestrial in origin; rejected and suppressed by USAF Chief of Staff Vandenberg, transforming the trajectory of official UFO investigation."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 title: Estimate of the Situation
 authors: [project-sign]

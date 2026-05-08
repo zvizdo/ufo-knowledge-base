@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Canadian witness who on October 8, 1981, accidentally photographed a dome-top flying saucer on Vancouver Island while taking a landscape shot; never saw the object with the naked eye; Claus Svahn spoke with her by phone and considers her credible."
-created: 2026-04-26
-updated: 2026-04-26
 name: Hannah McRoberts
 aliases: []
 roles: [witness]

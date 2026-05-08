@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American behaviorist psychologist; developed operant conditioning and the concept of intermittent reinforcement — applied by Jacques Vallée as an explanatory model for how NHI encounters shape human behavior at civilizational scale."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
 name: B.F. Skinner
 aliases: [Burrhus Frederic Skinner, Skinner, B.F. Skinner]

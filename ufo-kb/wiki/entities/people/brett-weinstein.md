@@ -6,8 +6,6 @@ roles: [researcher, other]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/joe-rogan.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "American evolutionary biologist; former Evergreen State College biology professor; co-host of the DarkHorse Podcast with Heather Heying; prominent critic of COVID-19 vaccine policy and mRNA technology; appeared on The Joe Rogan Experience discussing UAP-adjacent topics including consciousness and anomalous experience."
 tags: [evolutionary-biology, darkhorse-podcast, covid-skeptic, consciousness, joe-rogan, heterodox]

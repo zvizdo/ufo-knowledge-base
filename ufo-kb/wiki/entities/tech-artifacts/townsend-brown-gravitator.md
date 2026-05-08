@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Thomas Townsend Brown's asymmetric high-voltage capacitor experiment that appeared to produce anomalous thrust or anti-gravity effects; witnessed by Teller, LeMay, Bill Lear, and a Wright Field technical representative."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/5OUzGygIrSw.md]
 name: Townsend Brown Gravitator
 aliases: [Biefeld-Brown Effect apparatus, gravitator experiment, fan precipitator experiment]

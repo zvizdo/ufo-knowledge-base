@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The epistemological and institutional tension between academic archaeology (sterilized, consensus-bound) and alternative archaeology (romantically motivated, text-trusting, pattern-seeking)"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/92XrddiKjHY.md, raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/zrmG2jBckgk.md]
 tags: [archaeology, epistemology, academia, alternative-archaeology, incentives, sensationalism, gatekeeping, disclosure]
 ---

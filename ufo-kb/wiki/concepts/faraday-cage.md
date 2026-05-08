@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "An electromagnetic shielding enclosure that blocks external electric fields and radio frequencies; used by Andrija Puharich in his consciousness and channeling research to isolate subjects from environmental electromagnetic noise — revealing in some cases that alleged spirit voices were actually radio transmissions."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [physics, electromagnetism, puharich, channeling, the-nine, remote-viewing, consciousness, shielding]
 ---
 

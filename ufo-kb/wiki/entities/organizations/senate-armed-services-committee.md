@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Senate Armed Services Committee (SASC); Kirk McConnell's institutional home; exercises jurisdiction over defense programs including UAP-related funding and oversight."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KGD1nuM4MR8.md]
 name: Senate Armed Services Committee
 aliases: [SASC, Senate Armed Services]

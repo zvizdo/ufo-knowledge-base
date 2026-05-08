@@ -3,8 +3,6 @@ type: concept
 name: Psychological Warfare
 aliases: [psychological warfare, psychological-warfare, psyops, PSYOP, psychological operations, PSYWAR, information operations]
 first_seen_in: ufo-kb/wiki/entities/people/cd-jackson.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The use of propaganda, deception, and information operations to influence the psychology of adversaries and civilian populations; relevant to UAP discourse through the Robertson Panel's recommendation to debunk UAP reports as a psychological defense measure, and through claims that UAP reports are actively exploited for disinformation."
 tags: [intelligence, propaganda, deception, CIA, robertson-panel, disinformation, cold-war, psyops]

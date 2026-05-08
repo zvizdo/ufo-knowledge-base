@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UAP morphology reported by US Navy pilots: a dark gray or black cube suspended inside a transparent sphere, approximately 5–15 ft in diameter; visually confirmed by multiple East Coast F/A-18 crews; one of the most geographically widespread recurring UAP shapes in recent US military testimony."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/6WC4o2yY9Ws.md]
 name: Cube-in-Sphere
 aliases: [cube inside clear sphere, black cube sphere, cube-sphere UAP]

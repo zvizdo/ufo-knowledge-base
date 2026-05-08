@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Founder and head of Bell Aircraft Corporation who publicly claimed in 1956 to be working with nuclear fuels to cancel out gravity, just years after Bell broke the sound barrier."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Lawrence Bell
 aliases: [Larry Bell, Lawrence Dale Bell]

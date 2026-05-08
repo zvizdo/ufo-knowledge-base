@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Jeffrey Epstein's accomplice and handler; convicted 2021 on six sex trafficking counts; no clients named or prosecuted despite victim testimony — interpreted as a systemic cover-up of higher-level perpetrators."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: Ghislaine Maxwell
 aliases: [Maxwell]

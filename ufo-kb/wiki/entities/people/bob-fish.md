@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Aerospace contractor who exchanged a Wikileaks-archived email with John Podesta referencing 'fast walkers' — objects transiting Earth's outer NORAD defense layer."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: Bob Fish
 aliases: []

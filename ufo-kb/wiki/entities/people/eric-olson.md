@@ -6,8 +6,6 @@ roles: [researcher, witness]
 affiliations: []
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/UrHLTFvdEZk.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 summary: "Son of Frank Olson (CIA biowarfare scientist dosed with LSD by Sidney Gottlieb and killed in 1953); proved the window his father allegedly jumped from was too small to jump through; family received $700,000 White House compensation; key figure in establishing Frank Olson's death as murder rather than suicide."
 tags: [mk-ultra, frank-olson, cia, murder, mk-naomi, fort-detrick, olson-family]

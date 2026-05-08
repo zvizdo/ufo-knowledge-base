@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UAP Task Force (UAPTF) — the Pentagon's UAP investigation office established August 2020 under the Office of Naval Intelligence; predecessor to AARO; produced the June 2021 preliminary assessment to Congress."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: UAP Task Force
 aliases: [UAPTF]

@@ -6,8 +6,6 @@ roles: [witness]
 affiliations: [nasa]
 firsthand_claims: [anomalous-hierarchy-human-intelligence-alien-god]
 first_seen_in: raw/youtube-transcripts/LpLFWdsIU7M.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 summary: "NASA mission controller who told researcher Diana Pulka that his operational hierarchy is: normal humans → elements of intelligence services → aliens → God — with intelligence services occupying a separately designated ontological tier. Claims to be part of a secret space program whose superiors don't know he's in it; reportedly flashed multiple three-letter-agency credentials to Pulka despite being a normal NASA mission controller."
 tags: [nasa, hierarchy-anomaly, nhi-embedded-humans, secret-space-program, witness, hermetic-network]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "November 2004 encounter off the coast of Southern California during USS Nimitz carrier group operations; Commander David Fravor and three other aviators observed and attempted to intercept a white Tic-Tac shaped object; FLIR footage was recorded by a separate crew."
-created: 2026-04-25
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/jMCavr3dVP0.md]
 name: 2004 Nimitz Tic-Tac Encounter
 date: 2004-11

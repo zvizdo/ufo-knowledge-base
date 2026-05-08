@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "James Fox's forthcoming documentary featuring Hal Puthoff, Gary McKinnon, Jason Sanss (Nellis 1994 face-to-face), and David Grusch; described as timely and likely to make waves; Fox says 'I would go to jail to say things I've been exposed to in the program.'"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 title: The Program
 authors: [james-fox]

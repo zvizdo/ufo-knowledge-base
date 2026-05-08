@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=DPmO-2E7Ayg
 duration_minutes: ~45
 tags: [immaculate-constellation, usap, disclosure, whistleblower, congressional-hearing, shellenberger, american-alchemy]
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
-created: 2026-04-26
-updated: 2026-04-26
 ---
 
 # Breaking UFO Story: 'Immaculate Constellation' UFO Program (Ft. Michael Shellenberger)

@@ -7,8 +7,6 @@ period: 1961–1985 (at minimum; precise end date unclear)
 status: partially declassified
 tags: [moondust, uap-recovery, wright-patterson, kissinger, cold-war, space-debris, foia, foreign-technology]
 summary: "USAF Cold War program nominally tasked with recovering foreign space debris, including Soviet satellites; declassified documents reveal the remit extended to unidentified objects and possible UAP materials."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Jpf0ZGY87c0.md]
 ---
 

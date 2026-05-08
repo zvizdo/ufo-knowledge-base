@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy long-form interview with Eric Weinstein — mostly off-domain (COVID, economics, AI, GU), but includes a significant UAP conversion account and Weinstein's argument that Geometric Unity provides a theoretical basis for non-rocket propulsion."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/ZTIO-xAP0Dw.md]
 video_id: ZTIO-xAP0Dw
 title: "Eric Weinstein Reveals UFO Physics! (Exclusive Interview)"

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Penn State history professor who wrote a serious academic history of UFOs; spent weeks at AFU researching the book; appears frequently on television as a UFO expert; endorsed by Claus Svahn as a rigorous researcher."
-created: 2026-04-26
-updated: 2026-04-26
 name: Greg Eghigian
 aliases: [Gregory Eghigian]
 roles: [researcher]

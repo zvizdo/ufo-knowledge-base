@@ -3,8 +3,6 @@ type: concept
 name: Holographic Principle and UAP
 aliases: [holographic principle, Holographic Principle, holographic-principle, AdS/CFT, holographic universe]
 summary: "Claims-thesis: UAPs may be higher-dimensional objects intersecting with 3D spacetime, appearing to observers as cross-sections, projections, or shadows — explaining reports of interiors larger than exteriors and sudden appearance/disappearance."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/kRO5jOa06Qw.md]
 tags: [holographic-principle, extra-dimensions, interdimensional, uap-propulsion, vallee, flatland, inside-bigger-than-outside]
 ---

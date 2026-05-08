@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: EMP (electromagnetic pulse) has been used as a recurring cover story to attribute UFO-caused missile shutdowns to mundane causes — deployed in 1967 by USAF Col. Robert Hiper (nuclear testing EMP) and again in 2024 by the Wall Street Journal (EMP test device)."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/h0hAit-KH9A.md]
 tags: [emp, cover-story, malmstrom, oscar-flight, wall-street-journal, 1967, 2024, hazing, psyops]
 ---

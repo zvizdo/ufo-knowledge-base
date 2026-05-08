@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Tenured history professor at Temple University and leading abduction researcher; concluded that the grey alien abduction program is a systematic hybridisation operation aimed at 'planetary acquisition by stealth'; author of Secret Life, The Threat, and Walking Among Us."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [abduction, grays, hybrids, david-jacobs, hybridisation, planetary-acquisition, temple-university]
 name: David Jacobs

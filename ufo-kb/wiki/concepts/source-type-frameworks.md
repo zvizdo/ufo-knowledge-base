@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Framework for categorizing and weighting sources in UAP discourse: Official, Leaked, Witness, Researcher, and Cultural. Each source type carries different epistemic weight, chain-of-custody characteristics, and vulnerability to contamination or disinformation."
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 tags: [epistemology, methodology, source-evaluation, credibility, discourse-analysis]
 ---

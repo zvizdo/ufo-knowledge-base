@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American UFO investigator, author of *Socorro Saucer on a Pentagon Pantry* (1976); lead investigator of the 1964 Socorro landing case; personal associate of Lonnie Zamora and family."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hBrfe4hFuM0.md]
 name: Ray Stanford
 aliases: []

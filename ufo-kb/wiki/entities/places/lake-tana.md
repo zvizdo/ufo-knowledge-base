@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ethiopia's largest lake and the source of the Blue Nile — the absolute center of the Beta Israel (Ethiopian Jewish) community, representing the intermediate transmission point on the proposed Ark of the Covenant journey from Elephantine Island to Axum"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md]
 name: Lake Tana
 aliases: [Tana, Tsana]

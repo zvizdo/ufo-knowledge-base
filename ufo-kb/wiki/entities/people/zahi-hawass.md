@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Egyptian archaeologist and former Minister of State for Antiquities; longtime gatekeeper of access to the Giza plateau and the Sphinx, accused of suppressing excavation that might predate ancient Egypt."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/SZBI85yvV5A.md, raw/youtube-transcripts/92XrddiKjHY.md, raw/youtube-transcripts/9PJJiut0Iuw.md]
 name: Zahi Hawass
 aliases: [Hawass, Zahi Hawas, zahi-hawas, Dr. Hawas]

@@ -7,8 +7,6 @@ parent_org: ""
 country: USA
 active_period: "2017–present"
 summary: "Commercial space company offering ride-share and orbital space tug services; flew John Brandenburg's patented water-based microwave electrothermal thruster on a spacecraft in orbit."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/p0S0BfoZy0w.md]
 tags: [space-company, thruster, propulsion, in-space-propulsion, water-propellant]
 ---

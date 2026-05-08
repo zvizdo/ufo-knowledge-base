@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=Qe8br8yYEDM
 duration_minutes: ~90
 tags: [american-alchemy, vandenberg, ufo-nuclear-nexus, ce3, abduction, minuteman, 1964, nuclear-surveillance]
 sources: [raw/youtube-transcripts/Qe8br8yYEDM.md]
-created: 2026-04-26
-updated: 2026-04-26
 ---
 
 # Meet the Nuclear Missile Guard Abducted by Aliens

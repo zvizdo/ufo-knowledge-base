@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Medieval Greek Orthodox monk at Mount Athos; known as the 'burner of huts' and reportedly levitated; unwittingly corroborated by Ralph Larson's 1991 time-travel dream without prior knowledge."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ATJwqp5twAg.md]
 name: Maximos Kafsokalivitis
 aliases: [St. Maximos the Monk, Maximos Kafsokalivites, the Burner of Huts]

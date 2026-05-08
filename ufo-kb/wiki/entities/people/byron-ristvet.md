@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Defense Nuclear Agency scientist and DOE official; Jeffrey Kruchshank's contact at the DOE who in 2023 told him the Kettle 2 footage from the 1962 Marshall Islands tests was 'unable to be located.'"
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Byron Ristvet
 aliases: [Ristvet]

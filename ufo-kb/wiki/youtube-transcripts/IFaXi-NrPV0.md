@@ -9,8 +9,6 @@ published: ~2024-2025
 url: https://www.youtube.com/watch?v=IFaXi-NrPV0
 duration_minutes: ~90
 summary: "Kirsan Ilyumzhinov — former president of Kalmykia and FIDE World Chess Federation — recounts his September 17 1997 alien encounter in Moscow, his debriefings of Yeltsin and Putin, a Kissinger-Gorbachev UFO disclosure story, the Nixon-Brezhnev UFO folder that stopped moon exploration, Baba Vanga's corroboration, and his theory that chess was transmitted to humanity by extraterrestrials."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 tags: [american-alchemy, contactee, kalmykia, fide, chess, baba-vanga, russia, soviet-ufo, kissinger, disclosure, nhi-telepathy, abduction, subterranean]
 ---

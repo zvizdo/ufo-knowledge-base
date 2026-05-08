@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Book by Chris Gilbert MD synthesizing body-mind medicine, written with Eric Haseltine; explores how listening — to body signals, to patients, to subtle cues — functions as a primary healing modality."
-created: 2026-05-02
-updated: 2026-05-02
 title: The Listening Cure
 authors: [chris-gilbert, eric-haseltine]
 date: "2017"

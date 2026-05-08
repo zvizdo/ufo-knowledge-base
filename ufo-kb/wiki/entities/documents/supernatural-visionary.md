@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Hancock's 2005 book (reissued as Visionary) arguing that Paleolithic cave art depicts NHI beings accessed via psychedelics — same entity types as modern DMT encounters — establishing a 30,000-year timeline for the NHI contact phenomenon"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md, raw/youtube-transcripts/8XD1ZiuhXoY.md]
 title: Supernatural (reissued as Visionary)
 authors: [Graham Hancock]

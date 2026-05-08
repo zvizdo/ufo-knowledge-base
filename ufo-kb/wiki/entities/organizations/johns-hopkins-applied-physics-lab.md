@@ -6,8 +6,6 @@ roles: []
 affiliations: [johns-hopkins-university, department-of-defense]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/hume-center.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "University-affiliated federal research and development center (FFRDC) operated by Johns Hopkins University for the US Department of Defense; conducts classified and unclassified research on national security topics including missile defense, radar systems, submarine warfare, space systems, and autonomous systems; one of the major cleared academic environments in the US defense research ecosystem."
 tags: [ffrdc, johns-hopkins, defense, classified-research, radar, missile-defense, cleared-academic]

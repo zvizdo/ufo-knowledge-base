@@ -3,8 +3,6 @@ type: concept
 name: Transmission Theory of Consciousness
 aliases: [transmission theory of consciousness, filter theory of consciousness, brain as antenna, brain as filter, James-Huxley transmission theory]
 first_seen_in: raw/youtube-transcripts/A_LsUSxTm7A.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/A_LsUSxTm7A.md]
 summary: "The philosophical theory, developed by William James (1898) and elaborated by Aldous Huxley, that the brain does not produce consciousness but transmits or filters it from a pre-existing universal consciousness field — the brain as antenna or reducing valve rather than generator; provides the philosophical foundation for claims about NHI contact via altered consciousness states."
 tags: [consciousness, william-james, aldous-huxley, brain-filter, panpsychism, psychedelics, nhi-contact]

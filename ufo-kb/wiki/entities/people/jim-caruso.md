@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chief medical examiner for Denver; former Navy medical officer; forensic pathologist with dozens of peer-reviewed papers and 300+ autopsies; co-examined Nazca mummies with John McDow"
-created: 2026-04-26
-updated: 2026-04-26
 name: Jim Caruso
 aliases: []
 roles: [researcher, official]

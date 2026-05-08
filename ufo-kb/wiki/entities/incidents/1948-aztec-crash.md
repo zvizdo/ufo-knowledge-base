@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged UFO crash near Aztec, New Mexico in March 1948; recovered by the US government according to witnesses; researched extensively by Scott and Suzanne Ramsay, who interviewed surviving witnesses and documented evidence."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: "1948 Aztec Crash"
 date: "1948-03"

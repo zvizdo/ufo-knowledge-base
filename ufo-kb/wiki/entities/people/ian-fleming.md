@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British intelligence officer and author of the James Bond series; Jorjani argues Fleming's real MI6 mission was facilitating Martin Bormann's evacuation to Argentina, and that Spectre is modeled on ODESSA."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: Ian Fleming
 aliases: [Fleming]

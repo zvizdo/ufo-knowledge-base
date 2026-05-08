@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: Jeffrey Epstein's unusual funding of leading theoretical physicists (gravity, propulsion, particle physics) was not philanthropy but a private-sector arm of classified physics research — a shadow funding mechanism for anti-gravity and spacetime-manipulation science."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 tags: [epstein, physics-funding, gravity, propulsion, particle-physics, classified-science, physics-lockdown]
 ---

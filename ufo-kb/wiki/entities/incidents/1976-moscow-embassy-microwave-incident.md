@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Soviet continuous microwave irradiation of the US Embassy in Moscow from the 1970s; Ambassador Walter Stoessel died from induced cancer; publicly acknowledged in the 1976 SALT talks; the historical precursor to Havana syndrome."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Moscow Embassy Microwave Incident
 aliases: [Moscow Signal, Soviet Microwave Beaming]

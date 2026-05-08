@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "NASA Johnson Space Center photographic specialist who disclosed that UAP images in Building 8 satellite photography were routinely airbrushed before public release; her testimony was independently corroborated by Gary McKinnon."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md]
 name: Donna Hare
 aliases: [Donair, Donna Hair]

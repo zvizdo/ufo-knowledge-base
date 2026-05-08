@@ -5,8 +5,6 @@ aliases: [Project Kona Blue, KONA BLUE]
 parent_org: dhs (alleged)
 period: 2009–~2012 (proposed; not approved)
 status: alleged
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md]
 summary: "Proposed but reportedly never-approved successor program to AAWSAP; submitted to the Department of Homeland Security around 2009–2011 to continue UAP material analysis and reverse-engineering work after the AAWSAP funding lapsed; surfaced in late-2024 declassification releases per Lue Elizondo and corroborating reporting."
 tags: [aawsap-successor, uap-program, dhs, reverse-engineering, declassified-program]

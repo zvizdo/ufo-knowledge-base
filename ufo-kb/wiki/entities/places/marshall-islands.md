@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Pacific archipelago used as the primary US nuclear weapons testing ground from 1946 to 1962; site of the 1962 Bluegill Triple Prime test during which a UAP was allegedly downed."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Marshall Islands
 aliases: [Pacific Proving Grounds, Bikini Atoll, Enewetak Atoll]

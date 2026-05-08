@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Hare Krishna scholar and co-author of *Forbidden Archaeology*; his *Alien Identities* provides empirical analysis of Ramayana and Mahabharata as records of UAP contact, arguing the Davas of Hinduism are the same class of entities as the Anunnaki and Elohim."
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: Richard Thompson
 aliases: [Sadaputa Dasa]

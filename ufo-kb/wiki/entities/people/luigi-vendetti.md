@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Canadian filmmaker who spent four years producing *S4: The Bob Lazar Story*, the most technically rigorous documentary reconstruction of Lazar's account; describes 18 months of institutional attacks on the production including debanking and legal demands."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: Luigi Vendetti
 aliases: []

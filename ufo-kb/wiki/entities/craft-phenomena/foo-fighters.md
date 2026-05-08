@@ -6,8 +6,6 @@ aliases: [foo fighters, Kraut fireballs, Fireball fighters]
 category: craft
 first_reported: "1944"
 summary: "WWII-era aerial phenomena observed by Allied and Axis pilots; luminous balls of light or metallic objects that paced aircraft, performed impossible maneuvers, and could not be shot down or outmaneuvered. The first modern documented multi-witness military UAP sightings."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [craft, wwii, historical, multi-witness, military, luminous]
 ---
 

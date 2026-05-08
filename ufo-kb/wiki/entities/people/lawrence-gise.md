@@ -6,8 +6,6 @@ roles: [official, witness]
 affiliations: [atomic-energy-commission, department-of-energy]
 firsthand_claims: [told-malmgren-us-recovering-reverse-engineering-ufo-objects-1963]
 first_seen_in: raw/youtube-transcripts/LpLFWdsIU7M.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 summary: "Head of the AEC Western Division, based in Albuquerque; maternal grandfather of Jeff Bezos; in 1963 told presidential adviser Harold Malmgren that the US had been recovering and attempting to reverse-engineer UFO objects since 1947 — constituting an AEC-lineage disclosure corroborating DOE hosting of crash-retrieved objects."
 tags: [aec, department-of-energy, crash-retrieval-research, bezos, disclosure, los-alamos, 1963]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "A dense, ecliptic-plane meteor stream crossing Earth's orbit twice yearly; Randall Carlson and Bill Napier argue it was the delivery mechanism for the Younger Dryas impact and represents an ongoing existential hazard in a quasi-periodic cycle."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JGE1NIGhBzw.md]
 tags: [taurid-meteor-stream, younger-dryas, catastrophism, comet-encke, tunguska, orbital-mechanics, randall-carlson, bill-napier, cyclical-cataclysm]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Science advisor to President Jimmy Carter, reportedly present for a classified UAP briefing Carter received. Cited in connection with Carter's 1969 UAP sighting and his post-presidential statements about being denied UAP access."
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 name: Marsha Smith
 aliases: []

@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: []
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/RTEWLSTyUic.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [electrogravitics, biefeld-brown-effect, vacuum-experiments, romanian-engineering]
 ---

@@ -7,8 +7,6 @@ affiliations: [cia, us-military, south-vietnam]
 firsthand_claims: []
 status: declassified
 first_seen_in: ufo-kb/wiki/entities/people/michael-aquino.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "CIA-coordinated counterinsurgency program in South Vietnam (1965–1972); aimed at identifying and neutralizing the Viet Cong political infrastructure through capture, defection, or killing; killed an estimated 20,000–40,000 people; cited in KB for its psychological operations component and connection to Michael Aquino's PSYOP career."
 tags: [cia, vietnam, counterinsurgency, psyops, assassination, south-vietnam, classified, aquino]

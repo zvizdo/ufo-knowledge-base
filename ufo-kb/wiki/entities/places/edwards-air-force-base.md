@@ -3,8 +3,6 @@ type: entity
 entity-type: place
 name: Edwards Air Force Base
 aliases: [Edwards AFB, Muroc Army Air Field, Muroc AAF]
-created: 2026-04-27
-updated: 2026-04-27
 sources: []
 tags: [military-base, california, test-facility, uap-incident-site]
 ---

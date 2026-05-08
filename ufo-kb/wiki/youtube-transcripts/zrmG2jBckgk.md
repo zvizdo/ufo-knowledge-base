@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 video_id: zrmG2jBckgk
 title: "Meet the Scientist Who Scanned Beneath the Pyramids"
 channel: American Alchemy

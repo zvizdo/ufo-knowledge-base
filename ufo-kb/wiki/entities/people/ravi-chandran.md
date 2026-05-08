@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Metallurgist who analyzed metal shards collected by drilling under the Mesa at Skinwalker Ranch; concluded they were manufactured rather than naturally occurring based on the presence of europium and tellurium."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 name: Ravi Chandran
 aliases: [Dr. Ravi Chandran]

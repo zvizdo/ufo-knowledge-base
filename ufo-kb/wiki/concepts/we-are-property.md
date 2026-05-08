@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The claims-thesis, originating with Charles Fort's 1919 Book of the Damned, that Earth and humanity are owned, managed, or cultivated by non-human intelligence — analogous to livestock or farm produce. Endorsed by multiple UAP researchers as a starting framework for understanding NHI relationships to Earth."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/q7Czo77qhHA.md]
 tags: [nhi, colonization-thesis, charles-fort, fortean, nhi-ownership, we-are-property, nhi-relationship-to-humanity]
 ---

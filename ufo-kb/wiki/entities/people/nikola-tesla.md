@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Serbian-American inventor and electrical engineer whose classified papers and alleged alien contact place him at the center of suppressed physics narratives."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/KGD1nuM4MR8.md]
 name: Nikola Tesla
 aliases: []

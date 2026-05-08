@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The philosophical position that consciousness is a fundamental and ubiquitous feature of nature — not confined to brains — gaining mainstream academic acceptance as the best available solution to the hard problem of consciousness."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wT5-hXWIkzM.md]
 tags: [panpsychism, consciousness, hard-problem, sun-consciousness, philosophy-of-mind, galactic-mind, nhi]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ubatuba, Brazil: a fisherman witnessed a glowing object explode over the ocean and collected magnesium fragments; Garry Nolan's NanoSIMS analysis found isotope ratios impossible in nature."
-created: 2026-04-28
-updated: 2026-04-28
 sources: [raw/youtube-transcripts/dzTZbSNsKV8.md]
 name: Ubatuba Orb Incident
 aliases: [Ubatuba magnesium, Brazil orb explosion]

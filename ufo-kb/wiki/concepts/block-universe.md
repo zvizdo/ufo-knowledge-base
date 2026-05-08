@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The physical model in which past and future events are equally real and fixed — the 'block' of spacetime contains all events simultaneously. Wargo's precognition model depends on it: a fixed future can send information backward; an open future cannot."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hXYdkcv5TtY.md]
 tags: [block-universe, spacetime, retrocausality, free-will, time-travel, physics, precognition, wargo]
 ---

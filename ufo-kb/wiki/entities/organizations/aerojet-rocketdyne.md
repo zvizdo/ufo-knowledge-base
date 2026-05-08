@@ -7,8 +7,6 @@ parent_org: l3harris-technologies
 country: USA
 active_period: 1942–present
 tags: [aerospace, propulsion, defense-contractor, classified-programs]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

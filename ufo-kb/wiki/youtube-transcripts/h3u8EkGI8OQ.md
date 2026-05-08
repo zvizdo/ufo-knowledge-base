@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=h3u8EkGI8OQ
 duration_minutes: ~120
 sources: [raw/youtube-transcripts/h3u8EkGI8OQ.md]
 tags: [remote-viewing, stargate, consciousness-uap, nhi-genetics, zoo-hypothesis, magic-misdirection, 4chan-whistleblower, mobile-construction-unit, synesthesia, abduction-protocol, occult-aerospace, chris-ramsay, american-alchemy, area-52]
-created: 2026-04-27
-updated: 2026-05-04
 ---
 
 # "Aliens Are Accelerating Human Evolution!" (Ft. Chris Ramsay)

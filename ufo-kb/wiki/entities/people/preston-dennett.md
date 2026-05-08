@@ -6,8 +6,6 @@ roles: [researcher, author]
 affiliations: [mufon]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/places/nassau-bahamas.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "California-based UAP researcher and prolific author; MUFON field investigator; specializes in USO (Unidentified Submerged Object) sightings and underwater UAP phenomena; author of 'Undersea UFO Base' documenting anomalous activity in the Catalina Channel region."
 tags: [researcher, mufon, uso, underwater-uap, catalina-island, author, california]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Deep Prasad's speculative theory: individual UAP sighting events are not random one-offs but cells in a cellular automata system orchestrated by a more intelligent entity, with the emergent goal of pushing Earth civilization toward a complex societal state it has not yet achieved."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/qAou_h1POWs.md]
 tags: [cellular-automata, uap-sightings, emergent-civilization, nhi-strategy, control-system, simulation]
 ---

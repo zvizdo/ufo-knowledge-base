@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Quantum magnetometer developed by Lockheed ~2018, inspired by the robin bird's cry4 cryptochrome quantum magnetic navigation; provides GPS-precision positioning without satellites, including underwater — a direct technological application of quantum biology."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/qAou_h1POWs.md]
 name: Dark Ice Magnetometer
 aliases: [DARK ICE]

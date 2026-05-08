@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Electrical engineer and astronomer at Stanford who proposed in 1960 that interstellar civilizations would send autonomous robotic probes to target star systems rather than use radio beacons — a concept that may explain pre-Sputnik orbital transients."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 name: Ronald Bracewell
 aliases: []

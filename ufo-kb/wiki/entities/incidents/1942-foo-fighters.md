@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "World War II encounters by Allied and Axis pilots with seemingly controlled ball-lightning-like objects that flew in formation with aircraft; named 'Foo Fighters' after the Smoky Stover comic strip; a potential data point for advanced German (or unknown-origin) craft."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/KGD1nuM4MR8.md]
 name: WWII Foo Fighters
 date: 1942–1945

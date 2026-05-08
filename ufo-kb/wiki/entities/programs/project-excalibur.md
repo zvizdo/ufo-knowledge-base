@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Classified US nuclear X-ray laser weapons program at Lawrence Livermore; part of the SDI constellation; allegedly evolved directly from the 1962 Bluegill Triple Prime discovery that nuclear X-rays can affect UAP."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Project Excalibur
 aliases: [Excalibur, X-ray laser program]

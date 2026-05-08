@@ -8,8 +8,6 @@ type_field: legislation
 classification: public
 aliases: [Atomic Energy Act of 1946, McMahon Act, Public Law 585]
 tags: [nuclear, classification, secrecy, condon, uap-secrecy, aec, doe, david-grusch, bob-maguire]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "The Atomic Energy Act of 1946, co-authored by Edward Condon, which created the AEC and established the classification framework that David Grusch and Bob Maguire independently identify as the legal hook governing all recovered UAP material secrecy — even today, through its successor the DOE classification regime."
 ---

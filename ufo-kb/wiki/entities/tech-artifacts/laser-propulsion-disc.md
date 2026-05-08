@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Flying-saucer-shaped disc propelled by a ground-based pulse laser; demonstrated by an unnamed Sandia National Lab scientist at White Sands; the craft's shape is not incidental — it is optimal for laser propulsion geometry."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Laser Propulsion Disc
 aliases: []

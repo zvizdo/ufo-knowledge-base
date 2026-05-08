@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former CIA Director and US Secretary of State (Trump administration); claimed to have 'seen the UAP files' and has made statements suggesting awareness of UAP evidence; also connected to JFK files disclosure discussions."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/kRO5jOa06Qw.md]
 name: Mike Pompeo
 aliases: [Michael Richard Pompeo]

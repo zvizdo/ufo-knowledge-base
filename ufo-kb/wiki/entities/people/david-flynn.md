@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Late researcher and author whose book Sidonia argued that Mars hosted an ancient extraterrestrial civilisation and that the ancient mystery schools aim to recover its lost knowledge; described by Tim Alberino as the most influential book he has ever read."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [mars, sidonia, mystery-schools, ancient-civilisation, biblical-research, david-flynn]
 name: David Flynn

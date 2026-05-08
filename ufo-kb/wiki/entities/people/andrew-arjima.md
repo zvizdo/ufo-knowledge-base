@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Engineer with 35+ years experience; co-founder of Exodus Propulsion Technologies; independently developed electrovitics experiments before connecting with Charles Buhler around 2016; has built and tested 2,000+ electrostatic thrust variants."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/mOWwdIuyaQA.md]
 name: Andrew Arjima
 aliases: [Drew Arjima, Drew]

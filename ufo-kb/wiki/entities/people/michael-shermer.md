@@ -3,8 +3,6 @@ type: entity
 entity-type: people
 name: Michael Shermer
 summary: "American science writer, historian of science, and founder of the Skeptics Society and Skeptic magazine; prominent public skeptic who applies systematic debunking methods to UAP and paranormal claims."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md, raw/youtube-transcripts/wT5-hXWIkzM.md]
 tags: [debunker, researcher]
 aliases: []

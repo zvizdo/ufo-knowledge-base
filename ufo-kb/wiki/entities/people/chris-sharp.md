@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UK investigative journalist; founder of Liberation Times; broke the story of Glenn Gaffney as CIA gatekeeper who blocked crash retrieval program transfer."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: Chris Sharp
 aliases: []

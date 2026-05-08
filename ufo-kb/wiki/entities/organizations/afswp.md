@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Armed Forces Special Weapons Project — established 1947 at Sandia Base, Albuquerque, co-founded by James Forrestal; managed nuclear weapons programs and allegedly managed early Roswell retrieval operations; evolved into the Defense Threat Reduction Agency (DTRA)."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
 name: AFSWP
 aliases: [Armed Forces Special Weapons Project]

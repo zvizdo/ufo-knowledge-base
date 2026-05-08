@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "German technician recruited by Hans Kammler who claims to have worked on a disc-shaped craft in Prague that made its first test flight in February 1945, reaching 40,000 feet in 3 minutes."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: Rudolph Schriever
 aliases: []

@@ -9,8 +9,6 @@ date: 1910
 type_doc: report
 classification: public
 tags: [medical-suppression, carnegie, rockefeller, ama, fda, holistic-medicine, open-source-suppression, institutional-capture]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/_CBtd8Om-hU.md, raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "1910 Carnegie/Rockefeller-commissioned report by Abraham Flexner that restructured American medical education and practice, eliminating osteopaths, homeopaths, and holistic practitioners and creating the FDA/AMA framework that today only incentivizes patentable-drug development — cited in UAP-adjacent discourse as the origin of the same institutional suppression pattern applied to non-patentable technologies."
 ---

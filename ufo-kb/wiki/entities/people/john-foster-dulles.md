@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "U.S. Secretary of State (1953–1959) under Eisenhower; brother of CIA Director Allen Dulles. Appears in UAP/deep-state discourse as part of the Dulles brothers' joint control over intelligence and foreign policy during the critical 1947–1959 UAP cover-up formation period."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: John Foster Dulles
 aliases: [JF Dulles]

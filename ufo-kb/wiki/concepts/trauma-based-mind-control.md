@@ -3,8 +3,6 @@ type: concept
 name: Trauma-Based Mind Control
 aliases: [trauma-based mind control, TBMC, Monarch programming, trauma-induced DID]
 first_seen_in: ufo-kb/wiki/concepts/dissociative-identity-disorder.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The hypothesis that severe repetitive trauma — particularly childhood trauma — can be used deliberately to produce Dissociative Identity Disorder as a mechanism for compartmentalizing information and creating programmable alter personalities; associated with alleged MK-Ultra subprojects and 'Project Monarch' claims."
 tags: [mk-ultra, did, trauma, monarch, mind-control, dissociation]

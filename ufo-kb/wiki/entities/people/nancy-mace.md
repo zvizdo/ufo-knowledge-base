@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Congresswoman (R-SC); chair of the House subcommittee that held the November 2024 UAP oversight hearing at Rayburn House Office Building."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
 name: Nancy Mace
 aliases: []

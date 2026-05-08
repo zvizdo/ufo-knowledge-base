@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American physicist and inventor who pioneered electrogravitics research and claimed contact with extraterrestrials via radio."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/RTEWLSTyUic.md, raw/youtube-transcripts/SZBI85yvV5A.md, raw/youtube-transcripts/TH10mD9hQas.md, raw/youtube-transcripts/areO7Mej44E.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/kRO5jOa06Qw.md, raw/youtube-transcripts/mOWwdIuyaQA.md, raw/youtube-transcripts/nTiFs8LudUo.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 name: Thomas Townsend Brown
 aliases: [T.T. Brown, T. T. Brown, t-k-townsend-brown, Thomas T. Brown, Townsend Brown]

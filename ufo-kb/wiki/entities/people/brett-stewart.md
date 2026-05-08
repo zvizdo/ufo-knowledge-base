@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Professional remote viewer retained by a hedge fund to train candidates in associative remote viewing (ARV) for stock market prediction; introduced the practice to Nelson Dellis, who in turn introduced Chris Ramsay."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/h3u8EkGI8OQ.md]
 name: Brett Stewart
 aliases: []

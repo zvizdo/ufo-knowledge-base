@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Air Force unit that administers Cape Canaveral Air Force Station and Patrick Air Force Base on Florida's Space Coast; [[greg-rogers]] served as its chief of aerospace medicine 1989–~1994."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/TNtlzEnl8rA.md]
 name: 45th Space Wing
 aliases: [45th SW, 45th Medical Group]

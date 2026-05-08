@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The Nevada Test and Training Range (NTTR), the largest contiguous air and ground space in the U.S. Department of Defense; encompasses Area 51 (Groom Lake); in the KB as the location of Jason Sands's claimed encounter with a blue alien being while on perimeter security duty for a classified UAP program."
-created: 2026-05-05
-updated: 2026-05-05
 name: Nellis Test Range
 aliases: [Nevada Test and Training Range, NTTR, Nellis Range Complex]
 region: Nevada

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Sci-fi author; coined 'cyberspace'; wrote The Peripheral (2014), whose central premise — a quantum computer server enabling communication and drone operation across a century of time — is cited by Eric Wargo as the best existing narrative model for how quantum temporal communication will reshape UAP and human civilization."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hXYdkcv5TtY.md]
 name: William Gibson
 aliases: []

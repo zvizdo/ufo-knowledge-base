@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "A class of disclosure-adjacent claims asserting the US (and/or allies) operates a clandestine advanced space program far beyond publicly disclosed capabilities — from classified human spaceflight to reverse-engineered alien craft; McKinnon's Non-Terrestrial Officers spreadsheet is one of the most-cited primary evidence items."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md]
 tags: [disclosure, breakaway-civilization, solar-warden, mckinnon, ben-rich, black-budget]
 ---

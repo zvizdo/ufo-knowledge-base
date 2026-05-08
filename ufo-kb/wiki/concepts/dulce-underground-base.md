@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Contested claim that a joint human-alien underground base exists beneath Archeleta Mesa near Dulce, New Mexico; originated from Myrna Hansen's hypnotic regression and amplified by the AFOSI disinformation operation against Paul Benowitz; key elements have been admitted as fabricated by John Lear."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/WBTqsbwJyqU.md]
 tags: [dulce, underground-base, paul-benowitz, myrna-hansen, john-lear, afosi, disinformation, new-mexico, deep-underground-military-bases]
 ---

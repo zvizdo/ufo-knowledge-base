@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Nordic-type humanoid aliens called 'Norwegians with 24 teeth' by Charles Hall; the least technologically advanced of the three ET groups using Earth — barely space-capable, requiring diplomatic patience; some can pass as humans."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/QgxjtDS2sIQ.md]
 name: Nordics / Norwegians
 aliases: [Nordic aliens, Space Nordics, Pleiadians, Norwegians with 24 teeth]

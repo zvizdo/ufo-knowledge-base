@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Joint Special Operations Command; elite US military command overseeing special operations forces; referenced in UAP research as a potential operational arm for crash retrieval and materials transport."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Joint Special Operations Command
 aliases: [JSOC]

@@ -8,8 +8,6 @@ firsthand_claims: []
 first_seen_in: A_LsUSxTm7A
 sources: [raw/youtube-transcripts/KRDE1i3LDuU.md]
 tags: [ancient-philosophy, greece, atlantis, solon, cave-allegory, epistemology]
-created: 2026-04-26
-updated: 2026-04-26
 ---
 
 # Socrates

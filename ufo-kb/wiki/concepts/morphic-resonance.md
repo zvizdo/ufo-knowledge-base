@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Rupert Sheldrake's hypothesis that self-organizing systems inherit behavioral and structural patterns via a non-local field-memory linking similar systems across time — distinct from genetic inheritance and not mediated by any known physical signal."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wT5-hXWIkzM.md]
 tags: [morphic-resonance, sheldrake, consciousness, non-local, epigenetics, inheritance, field-theory, collective-memory]
 ---

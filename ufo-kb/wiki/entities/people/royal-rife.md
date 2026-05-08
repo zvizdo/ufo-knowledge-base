@@ -8,8 +8,6 @@ affiliations: []
 firsthand_claims: []
 first_seen_in: null
 tags: [rife-machine, frequency, healing, suppressed-technology, human-energy-field, lyme-disease]
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/_CBtd8Om-hU.md, raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "American inventor (1888–1971) who developed a frequency-based microscope and Rife Machine, claimed to destroy pathogens with resonant frequencies; his work was suppressed by the medical establishment and is now cited in both legitimate frequency medicine research and fringe healing communities."
 ---

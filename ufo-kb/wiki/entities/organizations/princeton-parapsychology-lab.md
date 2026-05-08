@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Princeton Engineering Anomalies Research (PEAR) lab — Robert Jahn's Princeton University program that studied human-machine consciousness interactions for ~28 years (1979–2007). Produced statistically significant data on psychokinesis and remote perception."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/eQIMantuasQ.md]
 name: Princeton Engineering Anomalies Research (PEAR)
 aliases: [PEAR lab, Princeton parapsychology lab, Princeton PEAR]

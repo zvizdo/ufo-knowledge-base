@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The civilian and academic field that investigates alleged recovery of non-human craft; pioneered by Leonard Stringfield's 'Status Reports'; includes case documentation, source protection, and pattern analysis across multiple alleged incidents."
-created: 2026-04-26
-updated: 2026-04-26
 tags: [crash-retrieval, leonard-stringfield, stan-gordon, physical-evidence, research, nhi, cover-up, atomic-energy-act, doe-jurisdiction, davis-claims]
 sources: [raw/youtube-transcripts/xnxasfyHtfo.md]
 ---

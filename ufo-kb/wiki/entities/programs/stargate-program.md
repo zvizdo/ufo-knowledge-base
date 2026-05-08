@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA/DIA remote viewing program founded by Hal Puthoff and Russell Targ at SRI; produced operationally validated intelligence and connects to UAP-associated telepathic phenomena."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/iQOibpIDx-4.md]
 name: Stargate Program
 aliases: [Project Stargate, SCANATE, Gondola Wish, Grill Flame, Center Lane, Sun Streak, Star Gate]

@@ -7,8 +7,6 @@ roles: [witness]
 affiliations: []
 firsthand_claims: [observed-craft-at-papoose-lake-march-1989]
 tags: [bob-lazar, s4, papoose-lake, black-mailbox, area-51, witness]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Gene Huff

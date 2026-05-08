@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "1982 Soviet Ukraine incident in which a huge disc-shaped UAP hovered over a Soviet missile base and triggered a 15-second unprompted missile launch countdown that then deactivated without human intervention — documented in still-classified Soviet military records obtained by George Knapp."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fzvwBBSmWYA.md]
 name: 1982 Soviet Ukraine Missile Activation
 date: ~1982

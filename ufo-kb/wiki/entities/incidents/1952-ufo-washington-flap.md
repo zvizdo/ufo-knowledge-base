@@ -3,8 +3,6 @@ type: entity
 name: 1952 Washington UFO Flap
 aliases: [Washington DC UFO flap, 1952 Washington sightings, Capitol Hill UFOs 1952]
 summary: "July 1952 wave of UAP sightings over Washington DC, including objects tracked simultaneously on multiple radar systems (including Andrews AFB and National Airport) and witnessed visually by pilots; produced the largest UFO-related press conference in US history and directly influenced the Robertson Panel."
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 date: 1952-07
 tags: [uap, 1952, washington-dc, radar, multi-sensor, nuclear-nexus, project-blue-book, robertson-panel]

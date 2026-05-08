@@ -6,8 +6,6 @@ roles: [other]
 affiliations: [world-economic-forum]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/conspiratorial-frame.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [world-economic-forum, davos, globalist-discourse, conspiracy-figure]
 ---

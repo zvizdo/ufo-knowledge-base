@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [cia, carlyle-group, department-of-defense]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/LpLFWdsIU7M.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/LpLFWdsIU7M.md]
 summary: "CIA Deputy Director under Jimmy Carter; Secretary of Defense under Reagan; co-founder of the Carlyle Group — the private defense-finance conglomerate Jack Vallee's diaries repeatedly flag as the locus of post-CIA-purge legacy-program activity. Suspected by UAP researcher contacts (per Matthew Pines) to be the 'prominent Italian defense financier' who took Brad Sorenson to Palmdale to view three bell/acorn-shaped alien reproduction vehicles with visible wear and tear."
 tags: [carlyle-group, cia, cia-purge, alien-reproduction-vehicles, crash-retrieval-research, private-legacy-network]

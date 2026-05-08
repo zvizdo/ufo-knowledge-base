@@ -3,8 +3,6 @@ type: concept
 name: Umwelt
 aliases: [Umwelt, umwelt, sensory world, phenomenal world, perceptual world]
 first_seen_in: ufo-kb/wiki/concepts/exo-psychology.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Jakob von Uexküll's concept of the species-specific subjective universe: each organism only perceives and responds to the subset of environmental signals that its sensory apparatus can detect, creating a species-defined 'umwelt'; used in exo-psychology to frame the radical cognitive difference problem when considering NHI."
 tags: [umwelt, uexkull, perception, cognition, sensory-world, exo-psychology, species-cognition]

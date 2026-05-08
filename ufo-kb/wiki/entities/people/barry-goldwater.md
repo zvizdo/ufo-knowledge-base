@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Senator from Arizona and 1964 Republican presidential candidate who repeatedly sought access to Wright-Patterson's restricted UAP storage areas and was rebuffed by Curtis LeMay."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Barry Goldwater
 aliases: [Barry Morris Goldwater]

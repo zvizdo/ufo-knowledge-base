@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "German physicist who extends Maxwell's original equations to derive scalar wave theory; self-described as the 'modern Tesla'; studies biological effects of scalar/helicoidal waves."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/5OUzGygIrSw.md]
 name: Konstantin Meyl
 aliases: [Constantine Meyl, Konstantin Meyl]

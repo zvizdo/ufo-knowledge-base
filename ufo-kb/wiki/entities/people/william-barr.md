@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Attorney General under Bush 41 and Trump; CIA Senate intern in 1974–75 during the Church Committee investigations (when MK Ultra records were being selectively destroyed or withheld); personally visited Jeffrey Epstein's jail cell as AG; his father Donald Barr hired Epstein at the Dalton School."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: William Barr
 aliases: [Bill Barr, William P. Barr]

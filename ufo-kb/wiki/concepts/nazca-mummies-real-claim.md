@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis: the Nazca M-type tridactyl mummy bodies are genuine biological organisms, not fabrications — supported by three independent forensic teams, CT/DICOM evidence, osseointegrated metal implants, GLI3 mutation, and fetal inheritance"
-created: 2026-04-26
-updated: 2026-04-26
 synthesis-type: ""
 tags: [nazca-mummies, claims-theses, nhi-biologics, forensics, tridactyl]
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md]

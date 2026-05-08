@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Five US Navy patent applications filed by Salvatore Pais (2016–2019): three granted (high-energy EM field generator, high-frequency gravitational wave generator, craft using inertial mass reduction device) and two denied (room-temperature superconductor, hybrid craft) — forming an interdependent propulsion architecture."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/8TYMQOUDQBo.md]
 name: Pais Patents
 category: patent

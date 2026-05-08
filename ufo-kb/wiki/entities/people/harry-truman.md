@@ -3,8 +3,6 @@ type: entity
 entity-type: people
 name: Harry S. Truman
 summary: "33rd President of the United States (1945–1953); in office during the 1947 Roswell crash, the emergence of modern UFO sightings, and the establishment of the National Security Act institutions; alleged signatory of the MJ-12 documents."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [official, president, roswell, mj-12]
 aliases: []
 roles: [other]

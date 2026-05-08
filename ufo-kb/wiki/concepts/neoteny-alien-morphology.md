@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The biological argument that Gray alien morphology — large heads, small sensory organs, reduced musculature, child-like proportions — is predicted by the evolutionary neoteny trajectory of modern humans, supporting the future-humans hypothesis."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Y26iMB0r-f8.md]
 tags: [neoteny, paedomorphosis, evolution, gray-aliens, future-humans, biological-anthropology, michael-p-masters]
 ---

@@ -9,8 +9,6 @@ published: unknown
 url: https://www.youtube.com/watch?v=Y26iMB0r-f8
 duration_minutes: unknown
 summary: "Dr. Michael P. Masters lays out the Extratemporalis model — that UAP/NHI phenomena are best explained as humans from the future who have mastered time travel and are visiting the past for genetic sampling, research, and timeline management. David Grusch contributes material-science claims about recovered craft via clips."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Y26iMB0r-f8.md]
 tags: [future-humans, time-travel, extratemporalis, michael-p-masters, david-grusch, intertemporal-breeding, neoteny, tipler-cylinder, skinwalker-ranch, remote-viewing]
 ---

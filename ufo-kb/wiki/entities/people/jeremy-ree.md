@@ -6,8 +6,6 @@ roles: [researcher]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/edgar-fouche.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "YouTube physics and UAP researcher operating under the handle 'Alien Scientist'; known for detailed technical analysis of UAP propulsion hypotheses, advanced physics claims, and reverse-engineering assertions; independently maintained a relationship with Edgar Fouché and corroborated aspects of his TR-3B account through independent research."
 tags: [researcher, youtube, alien-scientist, tr3b, edgar-fouche, uap, physics, reverse-engineering]

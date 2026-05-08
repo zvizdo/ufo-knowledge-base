@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Bigelow Aerospace Advanced Space Studies — the AAWSAP contract entity; attempted (and failed) to access Lockheed Martin crash retrieval materials via DIA; Gaffney blocked the transfer."
-created: 2026-04-26
-updated: 2026-04-26
 name: BASS
 aliases: [Bigelow Aerospace Advanced Space Studies, BAASS, Bigelow Advanced Aerospace Studies]
 type: private-co

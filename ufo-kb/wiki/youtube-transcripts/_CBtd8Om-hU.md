@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=_CBtd8Om-hU
 duration_minutes: 35
 tags: [american-alchemy, wim-hof, breathwork, consciousness, autonomic-nervous-system, dna, mystery-schools, suppressed-healing, flexner-report, big-pharma, light-import]
 sources: [raw/youtube-transcripts/_CBtd8Om-hU.md]
-created: 2026-04-27
-updated: 2026-04-27
 summary: "Jesse Michaels interviews Wim Hof (the Iceman) on breathwork, cold exposure, autonomic nervous system control, DNA reprogramming, and the parallel between the Flexner Report's suppression of holistic medicine and broader institutional suppression of open-source knowledge. Light import — primarily off-domain health/wellness content with significant adjacent touchpoints."
 ---
 

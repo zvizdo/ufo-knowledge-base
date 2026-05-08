@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Claims-thesis that the 1985 film Back to the Future encodes real elements of Thomas Townsend Brown's life and work: the character name, the Pasadena setting, and the 'flux capacitor' device all map onto Brown's biography."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/SZBI85yvV5A.md]
 tags: [townsend-brown, hollywood-encoding, synchronicity, exotic-propulsion, time-travel]
 ---

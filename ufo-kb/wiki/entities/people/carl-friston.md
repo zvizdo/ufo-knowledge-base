@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Probably the greatest living neuroscientist (per Jesse Michaels); creator of the free energy principle — neurons are attracted to low entropy and order rather than chaos, suggesting Consciousness is an entropy-reducing force, not a byproduct of thermodynamic decay."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md]
 name: Carl Friston
 aliases: [Karl Friston]

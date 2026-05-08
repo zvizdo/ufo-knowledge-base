@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Iranian-American philosopher, author, and political thinker; argues for a comprehensive philosophical synthesis connecting UFO/UAP, consciousness, Nazi secret programs, and temporal causality into a coherent worldview."
-created: 2026-04-26
-updated: 2026-04-26
 books: [Prometheus and Atlas (2016), Closer Encounters (2021), Prometheism, World State of Emergency, Lovers of Sophia, Thanosis (forthcoming)]
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/EzPmG_7WhXc.md]
 name: Jason Reza Jorjani

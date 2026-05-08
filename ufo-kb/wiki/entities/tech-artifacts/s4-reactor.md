@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The power plant of the S4 sport model craft; a hemisphere approximately basketball-sized on a 15-inch square plate; operates at room temperature; produces an elastic, logarithmic repulsive force without polarity; demonstrated to freeze a candle flame, create a lightless black ball, and stop a mechanical watch."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: S4 Reactor
 aliases: [the reactor, element 115 reactor]

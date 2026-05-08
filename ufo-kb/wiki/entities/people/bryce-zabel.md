@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Television writer/producer and UFO author; co-creator of the 1990s TV series Dark Skies (MJ-12 drama); co-authored After Disclosure with Richard Dolan, exploring what the post-disclosure world would look like."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Bryce Zabel
 aliases: []

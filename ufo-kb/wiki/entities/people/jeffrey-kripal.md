@@ -9,8 +9,6 @@ first_seen_in: raw/youtube-transcripts/zjpvfDFc4fg.md
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 tags: [philosophy, religious-studies, levitation, skunkworks, uap-adjacent, consciousness, rice]
 summary: "Chair of philosophy and religious studies at Rice University; invited by Lockheed Skunk Works director Charles Chase to brief top engineers on levitation claims from religious traditions — indicating Skunk Works' interest in consciousness-based propulsion."
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Jeffrey Kripal

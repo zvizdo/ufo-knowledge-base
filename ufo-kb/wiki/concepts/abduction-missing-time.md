@@ -3,8 +3,6 @@ type: concept
 name: Missing Time
 aliases: [abduction missing time, time anomaly, unexplained time loss]
 summary: "The phenomenon in which UAP encounter witnesses find more time has passed than their conscious experience accounts for — the defining anomaly of the alien abduction experience; first systematically documented by Budd Hopkins and documented in landmark cases including Betty and Barney Hill (1961) and the Bledsoe family."
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 tags: [abduction, missing-time, time-anomaly, uap, experiencer, betty-hill, bledsoe]
 ---

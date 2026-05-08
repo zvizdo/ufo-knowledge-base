@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Pioneer crash-retrieval researcher who systematically collected military insider testimony about UFO recoveries from the late 1970s onward; the first person to interview Jesse Marcel Sr. about Roswell."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Leonard Stringfield
 aliases: []

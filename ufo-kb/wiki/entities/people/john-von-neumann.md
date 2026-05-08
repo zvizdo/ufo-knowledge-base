@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Hungarian-American mathematician (1903–1957); foundational contributor to quantum mechanics, computer science, and game theory. Alleged in UFO research (Whitley Strieber, Wilson-Davis network) to have been briefed on recovered craft and to have written a suppressed paper on NHI wave-function manifestation."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: John von Neumann
 aliases: [János Lajos Margittai Neumann, Johnny von Neumann]

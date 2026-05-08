@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Recurring NHI entity type encountered in both DMT states and alien abduction accounts: insectoid or mantid-like beings associated with medical examination, scanning, and surgical procedures; matched by Yanomami 'wusinari' beings going back thousands of years."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/yAvD5UTziTo.md]
 name: Insectoid Beings
 aliases: [mantids, mantid beings, insectoids, wusinari (Yanomami), insect beings, ant beings, praying mantis beings]

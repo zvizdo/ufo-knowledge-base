@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged Nazi SS antigravity device ('The Bell'); electrogravidic electromagnetic propulsion system reportedly developed at Kammler-Stab/SCOD Works near Prague; Jorjani claims it was combined with a saucer airframe to produce the Nazi flying saucer."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/hXYdkcv5TtY.md]
 name: Die Glocke
 aliases: [The Bell, Nazi Bell, die Glocke]

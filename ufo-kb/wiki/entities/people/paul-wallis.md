@@ -4,8 +4,6 @@ entity-type: people
 name: Paul Wallis
 aliases: []
 summary: "Biblical scholar and author who re-reads ancient texts as records of non-human intelligence contact; member of Matt Lroy's Lake Van research team."
-created: 2026-04-26
-updated: 2026-04-26
 roles: [researcher]
 affiliations: []
 firsthand_claims: []

@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "4-hour interview with former CIA case officer and DOE intelligence director Ralph Moat Larson on mystical experiences, prophetic dreams, time travel at Mount Athos, Virgin Mary apparitions, and his first-hand assessment of UAP at DOE."
-created: 2026-04-26
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/ATJwqp5twAg.md]
 video_id: ATJwqp5twAg
 tags: [cia, doe, time-travel, virgin-mary, prophetic-dreams, ufo-nuclear-nexus, disclosure, mount-athos, numerology, mysticism, russia, zarqawi, 9-11, roswell]

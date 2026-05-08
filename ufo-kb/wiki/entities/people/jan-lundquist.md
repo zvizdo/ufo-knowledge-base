@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Independent researcher on Thomas Townsend Brown; described as having an eidetic memory; sits down for an extended interview in the RTEWLSTyUic documentary, offering deep contextual analysis of Brown's Germany mission and career."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RTEWLSTyUic.md]
 name: Jan Lundquist
 aliases: []

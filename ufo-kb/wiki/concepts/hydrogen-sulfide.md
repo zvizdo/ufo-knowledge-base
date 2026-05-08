@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "H2S — toxic, corrosive gas documented in the Giza subsurface; the primary feedstock in Jeffrey Drum's chemical-manufacturing thesis for the pyramid complex's industrial function."
 tags: ["chemistry", "pyramids", "drum-thesis"]

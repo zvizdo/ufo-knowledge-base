@@ -8,8 +8,6 @@ country: Germany
 active_period: 1918–1933
 tags: [nazi, occult, germany, atlantis, aryan, nhi-contact, seance, pagan, pre-history]
 summary: "German völkisch secret society (1918–1933) that combined Germanic paganism, Atlantis myths, and Aryan esoteric beliefs; held séances to contact non-human intelligences believed to be Aryan progenitors from the circumpolar north; the Nazi party emerged partly from its network."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 ---
 

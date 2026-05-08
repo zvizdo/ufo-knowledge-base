@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "January 27, 1967 Apollo 1 capsule fire that killed Gus Grissom, Ed White, and Roger Chaffee during a launch-pad test; cited in moon-landing skepticism as a possible deliberate elimination of Grissom, who had publicly criticized NASA and reported CIA presence on the launch pad the day before."
-created: 2026-04-26
-updated: 2026-04-26
 name: Apollo 1 Fire
 date: 1967-01-27
 location: Launch Complex 34, Cape Kennedy, Florida

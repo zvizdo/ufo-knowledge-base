@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The esoteric philosophical and religious movement founded by Helena Blavatsky and Henry Steel Olcott in New York in 1875 — synthesizing Eastern religious traditions, occultism, and spiritualism into a cosmological framework that influenced modern esotericism, New Age thought, and indirectly the early contactee and UFO cultural milieu."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [esotericism, blavatsky, spiritualism, mystery-schools, new-age, occult, cosmology, consciousness]
 ---
 

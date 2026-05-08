@@ -1,8 +1,6 @@
 ---
 type: concept
 name: Nazi Anti-Gravity Program
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/ABw7EsWh2Us.md]
 tags: [nazi-anti-gravity, kammler-stab, die-glocke, operation-paperclip, schauberger, schriever, miethe, coanda, anti-gravity-manhattan-project, claims-thesis]
 summary: "The thesis that the Nazi SS, principally through Kammler-Stab in Czechoslovakia, ran an advanced-propulsion / anti-gravity research program from roughly 1942–1945 whose personnel and findings were absorbed into the United States via Operation Paperclip — providing the technical and historical backbone for postwar US classified anti-gravity work."

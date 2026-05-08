@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Savant who inspired the Rain Man character; could memorize ~12,000 books word-for-word despite having no corpus callosum, posing fundamental questions about where information is stored."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/JpLThEF2dTM.md]
 name: Kim Peek
 aliases: [Rain Man (inspiration)]

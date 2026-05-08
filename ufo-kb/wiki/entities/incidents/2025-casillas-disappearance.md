@@ -8,8 +8,6 @@ witnesses: []
 craft_type: N/A
 corroboration: contested
 first_seen_in: ufo-kb/wiki/entities/people/melissa-casillas.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Disappearance of Melissa Casillas, a Los Alamos National Laboratory administrative assistant, on June 26, 2025 from the Ranchos de Taos area; circumstances suggest possible voluntary departure under financial stress but include unexplained anomalies (factory-reset phone, badge swipe discrepancy); case remains unresolved."
 tags: [missing-person, los-alamos, lanl, new-mexico, scientists-targeting-pattern, administrative, 2025]

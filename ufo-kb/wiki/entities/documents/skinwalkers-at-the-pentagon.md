@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2021 book by Kelleher, Knapp, and Lacatski; a partially declassified account of AAWSAP's Skinwalker Ranch investigations, most notable for documenting the hitchhiker effect."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 title: Skinwalkers at the Pentagon
 authors: [Colm Kelleher, George Knapp, James Lacatski]

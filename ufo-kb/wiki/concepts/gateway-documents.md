@@ -3,8 +3,6 @@ type: concept
 name: Gateway Documents
 aliases: [gateway documents, gateway-documents, gateway texts, UAP disclosure gateway, entry-point texts]
 first_seen_in: ufo-kb/wiki/entities/documents/behold-a-pale-horse.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Books, documents, and texts that have served as the primary entry points for readers into UAP disclosure and related conspiracy frameworks — including Behold a Pale Horse, The Day After Roswell, Above Top Secret, and the MJ-12 documents; characterized by dense cross-referencing, alleged classified documents, and insider whistleblower accounts."
 tags: [books, gateway, disclosure, uap, conspiracy, entry-point, whistleblower-documents, texts]

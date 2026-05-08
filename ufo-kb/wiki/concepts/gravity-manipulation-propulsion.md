@@ -1,10 +1,7 @@
 ---
 type: concept
 summary: "The hypothesis that UAP craft do not use conventional thrust but manipulate the local space-time metric — creating a propulsion bubble via enormous energy expenditure — consistent with general relativity."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/IWui5cBkwoE.md]
-updated: 2026-04-26
 tags: [propulsion, gravity, spacetime, general-relativity, warp-drive, uap-physics]
 ---
 

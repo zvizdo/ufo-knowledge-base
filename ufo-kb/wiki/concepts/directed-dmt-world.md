@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Andrew Gallimore's model that the DMT state is not a world the user enters but a directed performance staged by external intelligences that commandeer the brain's world-modeling machinery — the entities break through into the user, not vice versa."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 tags: [dmt, andrew-gallimore, nhi, consciousness, directed-world, world-model, brain, transmission-theory, commandeering]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "John Brennan — CIA Director 2013–2017; publicly stated he cannot rule out that some UAP reports represent technology from another civilization; cited in Age of Disclosure and disclosure discussions."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: John Brennan
 aliases: [CIA Director Brennan, John O. Brennan]

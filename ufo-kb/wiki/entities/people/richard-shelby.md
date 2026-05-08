@@ -6,8 +6,6 @@ roles: [official]
 affiliations: [us-senate]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/jay-rockefeller.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Senator from Alabama (1987–2023); long-serving member and former chairman of the Senate Intelligence Committee and Senate Appropriations Committee; cited alongside Ron Wyden and Mario Biaggi as a congressional figure who used intelligence oversight positions to seek information about UAP programs."
 tags: [senator, alabama, senate-intelligence-committee, oversight, disclosure-politics, us-senate]

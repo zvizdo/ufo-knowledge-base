@@ -1,10 +1,7 @@
 ---
 type: concept
 summary: "UAPs systematically monitor and engage with nuclear weapons development and human technological frontiers, to the point of normalization among senior US military officials."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/ATJwqp5twAg.md, raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/Qe8br8yYEDM.md, raw/youtube-transcripts/TH10mD9hQas.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/dnnpyNuPdXs.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/h0hAit-KH9A.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/iPxbILOMQ08.md, raw/youtube-transcripts/kRO5jOa06Qw.md]
-updated: 2026-04-27
 tags: [ufo-nuclear-nexus, tag-alongs, bluegill, nuclear-tests, military]
 ---
 

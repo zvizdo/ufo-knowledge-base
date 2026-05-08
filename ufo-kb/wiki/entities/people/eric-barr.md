@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Surveillance infrastructure director on Brandon Fugel's Skinwalker Ranch team; experienced a direct interactive encounter with the ranch phenomenon via his control-room monitoring system."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
 name: Eric Barr
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Rosicrucian scholar and nuclear chemist based in Asheville, NC, who helped Chris Bledsoe decode Egyptian imagery from Bledsoe's post-contact visions; recently deceased (2025/2026)."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bM18PJY6_Zc.md]
 name: Robert Gilbert
 aliases: [Dr. Robert Gilbert]

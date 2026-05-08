@@ -6,8 +6,6 @@ roles: []
 affiliations: [us-house-of-representatives]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/dick-billings.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US House of Representatives Select Committee on Assassinations (1976–1979); investigated the JFK and MLK assassinations; concluded JFK was 'probably' killed as the result of a conspiracy based on acoustic evidence; disputed by later investigations but remains the only official government body to reach a conspiracy conclusion."
 tags: [jfk, assassination, congress, conspiracy, 1970s, house-committee, mlk, investigation]

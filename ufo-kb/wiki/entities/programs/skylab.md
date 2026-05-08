@@ -7,8 +7,6 @@ affiliations: [nasa]
 firsthand_claims: []
 status: historical
 first_seen_in: ufo-kb/wiki/entities/people/alan-bean.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "NASA's first space station (1973–1979); crewed by three missions totaling 171 days in orbit; site of Alan Bean's firsthand account of a red flashing light photographed by crew during orbit — one of the few astronaut UAP accounts where the witness claims photographs are publicly available."
 tags: [nasa, space-station, skylab, uap, astronaut, 1973, orbit, alan-bean]

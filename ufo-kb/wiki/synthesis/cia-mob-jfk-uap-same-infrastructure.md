@@ -2,8 +2,6 @@
 type: synthesis
 synthesis-type: pattern
 summary: "The CIA-mob network that ran Castro assassination plots, eliminated JFK, and enforced Watergate silence is structurally identical to the covert infrastructure required to enforce UAP secrecy — the same personnel, the same deniability architecture, and the same pattern of witness elimination."
-created: 2026-04-25
-updated: 2026-04-27
 derived-from: [1963-jfk-assassination, jfk-assassination-ufo, ufo-secrecy-cabal, operation-mongoose, danny-sheehan, deep-state-continuity, robert-maheu, johnny-roselli, sam-giancana, santos-trafficante, howard-hughes, carlos-marcello, mark-felt, jolly-west, jack-ruby, 75Je_0hZovQ]
 tags: [cia, mob, jfk, ufo-secrecy, deep-state, covert-action, synthesis]
 ---

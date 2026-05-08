@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Whitley Strieber's initial contact/abduction experience at his upstate New York cabin, Christmas Eve 1985 — the foundational event documented in Communion (1987)."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: 1985 Strieber Abduction
 date: "1985-12-26"

@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 video_id: hXYdkcv5TtY
 title: "UFOs, Synchronicities & Prophetic Dreams (Ft. Eric Wargo)"
 channel: American Alchemy

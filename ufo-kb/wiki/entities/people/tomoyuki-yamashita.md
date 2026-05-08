@@ -6,8 +6,6 @@ roles: [other]
 affiliations: [imperial-japanese-army]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/C4rSj5Aum7w.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [wwii, japan, looted-gold, philippines, war-criminal, yamashita-gold]
 ---

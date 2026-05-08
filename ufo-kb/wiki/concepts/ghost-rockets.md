@@ -3,8 +3,6 @@ type: concept
 name: Ghost Rockets
 aliases: [Ghost Rockets, ghost-rockets, ghost rockets, Scandinavia ghost rockets, 1946 ghost rockets, foo fighters rockets]
 first_seen_in: ufo-kb/wiki/entities/organizations/ufo-sweden.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Wave of unidentified flying object sightings over Scandinavia (primarily Sweden) in 1946; objects described as rocket-like, often seen entering or emerging from lakes; officially attributed to Soviet V-1/V-2 variants but never explained; one of the first major modern UFO waves and a precursor to the 1947 US flying saucer era."
 tags: [1946, sweden, scandinavia, rockets, wave, cold-war, soviet, unidentified, lakes]

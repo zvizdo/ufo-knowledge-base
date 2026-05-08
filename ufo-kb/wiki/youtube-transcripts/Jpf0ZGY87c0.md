@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy episode investigating Henry Kissinger's possible role in US UAP crash retrieval and oversight programs; traces his CIC career, Harvard intelligence ties, and proximity to MJ12-linked figures."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Jpf0ZGY87c0.md]
 video_id: Jpf0ZGY87c0
 tags: [kissinger, majestic-12, cic, operation-paperclip, kingman-crash, operation-moondust, psychological-strategy-board, pi-40, anti-gravity, cold-war-uap, american-alchemy]

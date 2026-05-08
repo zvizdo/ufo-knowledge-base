@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Parapsychologist who led the Stargate program's research arm through its final decade (c. 1985-1995); developed 'decision augmentation theory' — the hypothesis that micro-PK experimental results may be explained by researcher precognition guiding trial start-times rather than mind-over-matter."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hXYdkcv5TtY.md]
 name: Ed May
 aliases: [Edwin May]

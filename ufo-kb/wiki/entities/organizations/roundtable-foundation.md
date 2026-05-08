@@ -4,8 +4,6 @@ subtype: organization
 name: Roundtable Foundation
 aliases: [Round Table Foundation]
 summary: "Andrija Puharich's research laboratory in Rockland, Maine, established ~1948 with secret government funding; conducted ESP experiments, Faraday cage tests, psychedelic research, and hosted the first channeling of 'The Nine' in 1952; visitors included Aldous Huxley, Henry A. Wallace, and elite financial backers."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/2-GeTxXi670.md]
 tags: [andrija-puharich, esp, cia, mk-ultra, the-nine, faraday-cage, psychedelics, maine]
 ---

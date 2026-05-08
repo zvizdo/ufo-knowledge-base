@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "UFO filmmaker and close friend of Bill Moore who received the anonymously mailed MJ12 documents in 1984; his own intelligence connections are noted by multiple researchers."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Jamie Shandera
 aliases: [Jaime Shandera]

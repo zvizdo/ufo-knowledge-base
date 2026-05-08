@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis that the US government deliberately permits or encourages private civilian companies to independently observe, analyze, and publicly explain UAP phenomena as a mechanism for releasing classified science without exposing classified technology — achieving disclosure through the civilian back-channel."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/y_8IKKcTntQ.md]
 tags: [soft-disclosure, disclosure, government-secrecy, sky-watchers, civilian-research, physics-lockdown, secret-physics]
 ---

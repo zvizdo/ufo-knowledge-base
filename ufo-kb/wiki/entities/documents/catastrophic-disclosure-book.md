@@ -6,8 +6,6 @@ date: 2024
 type_field: book
 classification: civilian-publication
 tags: [disclosure, mazzola, witness-compilation, primary-document]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

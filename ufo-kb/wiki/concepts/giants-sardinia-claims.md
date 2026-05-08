@@ -8,8 +8,6 @@ witnesses: []
 craft_type: N/A
 corroboration: contested
 first_seen_in: ufo-kb/wiki/entities/incidents/2002-kandahar-giant.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Claims and archaeological accounts of anomalously large skeletal remains associated with Sardinia's ancient Nuragic civilization; cited as parallel archaeological evidence for the 'giant phenomenon' alongside the Kandahar giant military encounter; evidence quality varies from highly contested claims to documented but ambiguously interpreted archaeological findings."
 tags: [sardinia, giants, nephilim, nuragic, italy, archaeology, skeletal-remains, ancient-history]

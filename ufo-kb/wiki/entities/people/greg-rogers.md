@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Retired NASA/USAF chief flight surgeon and director of aerospace medicine who came forward in 2024 with a firsthand 1992 account of watching a reverse-engineered saucer craft hover and rotate via a closed-circuit TV feed at Cape Canaveral Air Force Station."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/TNtlzEnl8rA.md]
 name: Greg Rogers
 aliases: [Gregory Rogers, Dr. Greg Rogers, Dr. Gregory Rogers]

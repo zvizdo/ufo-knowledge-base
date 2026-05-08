@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American parapsychologist, author, and host of the New Thinking Allowed Foundation; holds the only doctoral degree in parapsychology from UC Berkeley; interviewed Jacques Vallée; referenced by Michaels in context of biosensor/perception sensitivity hypothesis."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
 name: Jeffrey Mishlove
 aliases: [Jeff Mishlove]

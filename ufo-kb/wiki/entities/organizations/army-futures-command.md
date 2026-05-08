@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: raw/entities/people/carl-nell.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "US Army command established in 2018 to modernize Army capabilities and accelerate technology adoption; stood up at Austin, Texas by General John 'Mike' Murray; in the KB through Carl Nell, who established it and used its mandate to create space for unconventional science discussions including UAP."
 tags: [us-army, carl-nell, modernization, technology, afc, austin]

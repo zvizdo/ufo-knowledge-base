@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The full constellation of U.S. government programs — acknowledged and unacknowledged — that have investigated UAP: from Project Blue Book through AATIP, AAWSAP, and the alleged unacknowledged special access programs described by David Grusch."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [uap, programs, aatip, aawsap, blue-book, grusch, compartmentalization, disclosure]
 ---
 

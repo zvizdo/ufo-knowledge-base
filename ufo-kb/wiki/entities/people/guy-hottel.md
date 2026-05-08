@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "FBI field agent who authored the most-read FOIA document on the FBI website — a 1952 memo describing an Air Force officer's account of a crashed flying saucer with an alien crew — while simultaneously building a blackmail dossier on Edward Condon."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/TH10mD9hQas.md]
 name: Guy Hottel
 aliases: [Hottel]

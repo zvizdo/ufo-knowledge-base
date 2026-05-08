@@ -8,8 +8,6 @@ witnesses: []
 craft_type: N/A
 corroboration: documented
 first_seen_in: ufo-kb/wiki/entities/incidents/2025-lorero-murder.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "December 13, 2025 mass shooting at Brown University's Barus and Holley engineering building during final exams by Portuguese national Claudio Valente; two students killed, nine wounded; directly connected to the Nuno Lorero murder two days later — both attacks attributed to Valente."
 tags: [shooting, brown-university, claudio-valente, nuno-lorero, 2025, providence, scientists-targeting-pattern]

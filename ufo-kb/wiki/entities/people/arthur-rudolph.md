@@ -6,8 +6,6 @@ roles: [researcher, official]
 affiliations: [nasa, marshall-space-flight-center, peenemunde, ss]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/1f16VvXaSSE.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md]
 summary: "Nazi-era German rocket engineer, operations director of the V-2 production line at the Mittelwerk slave-labor facility; transferred to the US under Operation Paperclip; named project director of NASA's Saturn V program — making him, alongside Wernher von Braun, the chief Paperclip transferee responsible for the Apollo-era US space program."
 tags: [operation-paperclip, nazi-aerospace, saturn-v, peenemunde, mittelwerk, apollo, nasa]

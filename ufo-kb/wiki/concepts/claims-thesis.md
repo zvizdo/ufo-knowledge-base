@@ -3,8 +3,6 @@ type: concept
 name: Claims-Thesis (Epistemological Status)
 aliases: [claims-thesis, claims thesis, contested claims-thesis]
 first_seen_in: ufo-kb/wiki/entities/incidents/1954-eisenhower-ufo-meeting.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "KB epistemological designation for incidents or claims that rest entirely on secondhand and tertiary testimony without chain-of-custody documentation; distinguished from 'established incident' (primary documentation exists) and 'fabrication' (positive evidence of falsification); the most common category for historic UAP contact claims."
 tags: [epistemology, claims, testimony, secondhand, evidence, kb-methodology, contested]

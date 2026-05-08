@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Andrew Gallimore's forthcoming book on the history of science's struggle to understand DMT; the title is an homage to Terence McKenna and William Burroughs; foreword by Graham Hancock."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 title: Death by Astonishment
 authors: [Andrew Gallimore]

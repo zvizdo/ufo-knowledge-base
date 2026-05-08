@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The 'Square Mile' financial district and City Corporation — a unique self-governing entity within London with its own police force, lord mayor, and historical autonomy from the UK Parliament. Appears in this KB as a node in shadow governance and blackmail network theories."
-created: 2026-04-25
-updated: 2026-04-25
 sources: []
 name: City of London
 aliases: [the City, Square Mile, City of London Corporation]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Bible teacher and friend of Tim Alberino from an aerospace-connected family; experienced a positive UFO encounter while flying a Cessna in which an unknown craft guided him safely to landing despite a potentially fatal aircraft malfunction, transforming his life trajectory."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [ufo-encounter, bible-teacher, positive-encounter, aerospace-family, cessna, arv]
 name: Gary Sterman

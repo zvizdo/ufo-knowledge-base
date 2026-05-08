@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Retired US Army Colonel and non-lethal weapons researcher who investigated UAP phenomena at NIDS and wrote 'UFOs: Myths, Conspiracies, and Realities' (2011). A rare figure who operated inside military and intelligence UAP research without finding evidence of a government cover-up of recovered craft."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 name: John Alexander
 aliases: [John B. Alexander]

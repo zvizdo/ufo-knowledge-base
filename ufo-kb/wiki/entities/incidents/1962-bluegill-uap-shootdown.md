@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "October 1962 incident in which a UAP monitoring the Bluegill Triple Prime nuclear test was allegedly downed by the X-ray pulse and recovered by the US Navy near Johnston Island."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/KGD1nuM4MR8.md]
 name: 1962 Bluegill UAP Shootdown
 date: 1962-10-26

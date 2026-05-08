@@ -8,8 +8,6 @@ affiliations: []
 firsthand_claims: []
 first_seen_in: null
 tags: [ufo-journalism, greg-rogers, cape-canaveral, 1992-cape-canaveral-saucer, letto-files]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "UFO journalist associated with 'Letto Files'; one of the first journalists to interview Greg Rogers about the 1992 Cape Canaveral saucer incident after Rogers's initial disclosure via Daily Mail."
 ---

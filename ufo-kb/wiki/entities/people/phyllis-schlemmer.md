@@ -8,8 +8,6 @@ affiliations: []
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/2-GeTxXi670.md
 tags: [the-nine, channeling, andrija-puharich, gene-roddenberry, space-kids]
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/2-GeTxXi670.md]
 summary: "Channeler who worked with Andrija Puharich in the mid-1970s; hypnotically regressed by Puharich to channel 'The Nine'; present at Gene Roddenberry's Nine sessions."
 ---

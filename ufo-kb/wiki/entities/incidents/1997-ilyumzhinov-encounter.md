@@ -7,8 +7,6 @@ witnesses: [kirsan-ilyumzhinov, vasili-chief-of-staff, driver, friend]
 craft_type: Large spacecraft (interior "several football fields," porthole visible)
 corroboration: multi-witness (three witnesses confirmed Ilyumzhinov was missing for 1+ hour; reappeared from a room they had already checked repeatedly)
 summary: "Sitting president of Kalmykia and FIDE is transported via translucent glowing tube from his Moscow apartment onto a large alien spacecraft; three witnesses confirm his unexplained absence and reappearance; he is debriefed by Yeltsin and Putin."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 tags: [contactee, ussr, russia, nhi-contact, nhi-telepathy, spacecraft, moscow, kalmykia, 1997]
 ---

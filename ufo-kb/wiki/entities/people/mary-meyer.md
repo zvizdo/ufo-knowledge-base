@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "JFK's mistress; wife of CIA Operation Mockingbird chief Cord Meyer; did LSD with Kennedy using Timothy Leary-supplied material; murdered October 1964; her diary disappeared."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Mary Meyer
 aliases: [Mary Pinchot Meyer]

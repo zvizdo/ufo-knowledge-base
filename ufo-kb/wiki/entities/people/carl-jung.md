@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Swiss psychiatrist; coined 'synchronicity'; the scarab beetle case study (patient dreams of a golden scarab, a real scarab appears during the session) is Wargo's canonical example of a self-fulfilling time loop."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hXYdkcv5TtY.md]
 name: Carl Jung
 aliases: [C.G. Jung]

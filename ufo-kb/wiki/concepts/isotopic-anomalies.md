@@ -3,8 +3,6 @@ type: concept
 name: Isotopic Anomalies
 aliases: [isotopic anomalies, isotopic ratio anomalies, unusual isotopic ratios]
 first_seen_in: ufo-kb/wiki/concepts/metamaterials.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "Isotopic ratios in alleged UAP-derived materials that deviate from naturally occurring terrestrial ratios; the most empirically specific claim about recovered materials; if genuine, would constitute strong evidence of non-terrestrial manufacture, since natural and industrial processes produce characteristic isotopic signatures."
 tags: [materials, isotopes, uap-evidence, crash-retrieval, metamaterials, spectroscopy]

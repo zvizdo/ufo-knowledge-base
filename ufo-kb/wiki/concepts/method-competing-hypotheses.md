@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Intelligence community analytical technique that enumerates all plausible explanations for a phenomenon, tests each against the evidence, and eliminates rather than confirms — the standard IC alternative to Bayesian updating on a single favored hypothesis."
-created: 2026-05-02
-updated: 2026-05-02
 tags: [analytical-method, intelligence-community, epistemology, uap-analysis]
 ---
 

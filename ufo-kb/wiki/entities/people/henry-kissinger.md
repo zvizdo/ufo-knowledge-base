@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "U.S. Secretary of State (1973–1977) and National Security Advisor (1969–1975); architect of Cold War detente policy. Appears in UFO/UAP discourse through alleged direct oversight of Eric Wang's crash-retrieval program at Wright-Patterson, CIC service at Oberammergau, PSB consulting, Rockefeller-MJ12 network ties, and the January 1977 Operation Moondust telegram."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md, raw/youtube-transcripts/Jpf0ZGY87c0.md, raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Henry Alfred Kissinger
 aliases: [Heinz Alfred Kissinger, HAK, Kissinger]

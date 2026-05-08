@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "New Mexico state police officer who investigated cattle mutilations near Dulce; a primary firsthand source for Greg Bishop on Paul Benowitz's behavior and the AFOSI decoy operation at Archeleta Mesa."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/WBTqsbwJyqU.md]
 name: Gabe Valdez
 aliases: []

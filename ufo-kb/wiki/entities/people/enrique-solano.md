@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Spanish astronomer at the Spanish Virtual Observatory who discovered the July 19, 1952 multi-transient example — three extremely bright objects in the Palomar plates — coinciding with the Washington D.C. UFO flap."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 name: Enrique Solano
 aliases: []

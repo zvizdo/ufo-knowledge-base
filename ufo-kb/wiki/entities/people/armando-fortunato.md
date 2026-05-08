@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Forensic physician in Varginha who performed the official autopsy on Marcos Charez — the military police soldier who died after capturing an alien being; key witness linking alien contact to an unprecedented bacterial infection."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UkKwa4jU0fc.md]
 name: Armando Fortunato
 aliases: [Dr. Armando Fortunato, Dr. Armando Fortonado, Ahmed Foratu]

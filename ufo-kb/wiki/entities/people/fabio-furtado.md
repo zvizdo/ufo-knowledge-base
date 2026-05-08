@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Brazilian farmer who witnessed the Varginha UFO craft fly low over his farm and land, providing the first-time testimony of the craft's final approach and landing; new witness in the 2025 updated Moment of Contact."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hBrfe4hFuM0.md]
 name: Fabio Furtado
 aliases: [Fabio Fertada]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Vigilante archaeologist, protégé of Ed Barnhart, inspired by Graham Hancock and Randall Carlson; real surname Reagan"
-created: 2026-04-26
-updated: 2026-04-26
 name: Luke Caverns
 aliases: [Luke Reagan]
 roles: [researcher]

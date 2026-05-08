@@ -7,8 +7,6 @@ witnesses: [Antonio Villas Boas]
 craft_type: landed craft (red star-like descent)
 corroboration: firsthand
 summary: "Brazilian farmer reports the earliest documented sexual contact abduction in UFO literature; physical after-effects consistent with radiation exposure; entity described as anatomically fully human with minor feature differences."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Y26iMB0r-f8.md]
 tags: [abduction, brazil, 1957, sexual-contact, reproductive-compatibility, ce4]
 ---

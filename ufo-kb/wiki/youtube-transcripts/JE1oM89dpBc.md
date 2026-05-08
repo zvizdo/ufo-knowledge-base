@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=JE1oM89dpBc
 duration_minutes: ~180
 sources: [raw/youtube-transcripts/JE1oM89dpBc.md]
 tags: [american-alchemy, flying-lotus, extradimensional-beings, bob-lazar, eric-hecker, skinny-bob, time-travel, spielberg, thomas-townsend-brown, back-to-the-future, matthew-brown, immaculate-constellation, ufo-community, hip-hop]
-created: 2026-04-26
-updated: 2026-05-04
 ---
 
 # Legendary Hip Hop Artist Reveals UFO Obsession (Ft. Flying Lotus)

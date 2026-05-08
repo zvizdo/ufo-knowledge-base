@@ -1,7 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
-updated: 2026-05-06
 video_id: RNjC1vLcxKo
 title: '"Artificial Intelligence Is An Alien Life Form" — Google Whistleblower Blake Lemoine'
 channel: American Alchemy

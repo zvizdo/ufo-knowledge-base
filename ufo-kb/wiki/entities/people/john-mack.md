@@ -1,10 +1,7 @@
 ---
 type: entity
 summary: "Harvard Psychiatry Department chair who moved into anomalous-phenomena research (alien abductions) late in career, faced institutional censure, and is cited as a prototype for researchers who cross into forbidden territory."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/C4rSj5Aum7w.md, raw/youtube-transcripts/_bM9eAtCOGw.md, raw/youtube-transcripts/areO7Mej44E.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/dzTZbSNsKV8.md]
-updated: 2026-04-27
 name: John Mack
 aliases: [John E. Mack]
 roles: [researcher, other]

@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The hypothesis that ancient myths encode real historical, astronomical, or scientific information — capable of surviving millennia without the transmitting culture understanding the data embedded in the story."
-created: 2026-04-26
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md, raw/youtube-transcripts/R7oyZGW99os.md]
 tags: [mythology, oral-tradition, precession, encoded-knowledge, hamlet's-mill, graham-hancock, ancient-history]
 ---

@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Limestone slab with copper fittings discovered in 1993 by [[rudolf-gantenbrink]]'s [[upuaut-ii|Upuaut II]] robot at ~65 m depth in the Queen's Chamber's southern shaft; second door behind it found in 2002 by Pyramid Rover but never penetrated."
 tags: ["pyramids", "queens-chamber", "robotics"]

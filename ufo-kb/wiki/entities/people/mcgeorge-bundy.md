@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "National Security Adviser to JFK and LBJ; central figure in the Cuban Missile Crisis; part of the inner national security circle with likely access to UAP briefings."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: McGeorge Bundy
 aliases: [Mac Bundy, Bundy]

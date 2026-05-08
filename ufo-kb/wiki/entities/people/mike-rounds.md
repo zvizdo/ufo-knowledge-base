@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Mike Rounds — US Senator (R-SD); co-authored the 2023 UAP Disclosure Act with Chuck Schumer; member of Senate Armed Services Committee; proponent of mandatory declassification of UAP records."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Mike Rounds
 aliases: [Senator Rounds, Michael D. Rounds]

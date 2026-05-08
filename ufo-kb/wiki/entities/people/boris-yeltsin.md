@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "First President of the Russian Federation (1991–1999); privately told Ilyumzhinov 'I know, I heard about it' regarding the 1997 alien encounter and gave him a pat on the shoulder before saying 'carry on with work.'"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/IFaXi-NrPV0.md]
 name: Boris Nikolayevich Yeltsin
 aliases: [Yeltsin, Yelton, Boris Yeltsin]

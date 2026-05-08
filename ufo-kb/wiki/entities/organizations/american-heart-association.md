@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/brigham-buhler.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Major US nonprofit health organization focused on cardiovascular disease prevention and research; in the KB, referenced by Brigham Buhler as an example of a health organization whose dietary guidance has been compromised by corporate funding from PepsiCo and Coca-Cola, paralleling the KB's broader theme of institutional capture in medicine."
 tags: [health, cardiovascular, nonprofit, institutional-capture, diet, sugar, buhler, corporate-funding]

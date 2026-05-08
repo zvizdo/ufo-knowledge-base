@@ -9,8 +9,6 @@ published: ~2024
 url: https://www.youtube.com/watch?v=Rfmy5oW_r9c
 duration_minutes: ~120
 summary: "Long-form interview with retired USAF technical sergeant Dan Sherman, who claims he served as an NSA 'intuitive communicator' (IC) under Project Preserve Destiny — telepathically receiving transmissions from alien beings and relaying abduction data to NSA handlers."
-created: 2026-04-27
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/Rfmy5oW_r9c.md]
 tags: [american-alchemy, nsa, project-preserve-destiny, telepathy, intuitive-communicator, abduction, whistleblower, elint, dan-sherman]
 ---

@@ -3,8 +3,6 @@ type: entity
 name: Operation Katana
 aliases: []
 summary: "Alleged classified UAP retrieval operation referenced by Michael Herrera in his Indonesia 2009 account and Chris Ramsay's psionic MCU discussion; associated with psionic asset deployment and UAP management protocols."
-created: 2026-05-05
-updated: 2026-05-05
 parent_org: unknown
 period: alleged 2009+
 status: alleged

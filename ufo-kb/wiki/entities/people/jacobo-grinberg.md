@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Mexican neurophysiologist and psychologist who proposed the 'syntergic theory' — that perception is shaped by the brain's interaction with a universal energy matrix he called 'the lattice'; disappeared 1994 after what his associates describe as his most significant discovery; lab was cleared and records erased."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
 name: Jacobo Grinberg
 aliases: [Jacobo Grinberg-Zylberbaum]

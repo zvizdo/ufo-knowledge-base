@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Quantum mechanical effect demonstrating that charged particles are affected by electromagnetic potentials (not just E and B fields) even in regions where those fields are zero; Puthoff cites it as the engineering analogy for how spacetime metric can in principle be manipulated without conventional field presence, and as evidence that vector/scalar potentials — not fields — are the primary physical actors."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/iQOibpIDx-4.md]
 tags: [physics, electromagnetism, vector-potential, scalar-potential, metric-engineering, quantum-mechanics, holonomy, uap-propulsion]
 ---

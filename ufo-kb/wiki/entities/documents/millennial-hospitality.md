@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Charles Hall's 6-volume book series documenting his firsthand 1965–67 interactions with the Tall White alien species at Indian Springs Gunnery Ranges, Nevada; the longest and most detailed firsthand contact account in print."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/QgxjtDS2sIQ.md]
 title: "Millennial Hospitality"
 authors: [Charles Hall]

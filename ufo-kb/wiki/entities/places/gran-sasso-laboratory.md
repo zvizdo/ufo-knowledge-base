@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Underground physics laboratory 1.4 km below the Gran Sasso mountain (Italy); primary target of Filippo Biondi's best SAR proof-of-concept scan"
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/NvQXmtcwHA8.md, raw/youtube-transcripts/zrmG2jBckgk.md]
 name: Gran Sasso Laboratory
 aliases: [Laboratori Nazionali del Gran Sasso, LNGS, Grand Sasso Laboratory]

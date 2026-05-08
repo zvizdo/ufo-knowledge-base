@@ -3,8 +3,6 @@ type: concept
 name: Craft as Biological Entity
 aliases: [craft as biological entity, craft-as-biological-entity, biological craft hypothesis, living craft hypothesis, biological UAP]
 first_seen_in: ufo-kb/wiki/entities/people/david-fravor.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The hypothesis that some UAP are living organisms rather than mechanical vehicles — suggested by behavioral patterns (responsive, adaptive, erratic maneuvers) that parallel biological rather than mechanical systems; distinct from but overlapping with the conscious-craft hypothesis."
 tags: [uap, biological, living-craft, nhi, david-fravor, garry-nolan, hypothesis]

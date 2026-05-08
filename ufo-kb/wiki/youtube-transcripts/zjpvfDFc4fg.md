@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 video_id: zjpvfDFc4fg
 title: "NASA & UFOs: Pagan Rituals, Secret Science & Time Travel"
 channel: American Alchemy

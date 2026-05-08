@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "French philosopher and Nobel laureate; co-founding president of the Society for Psychical Research (1910s); debated Einstein; represents the era when paranormal research had mainstream scientific respectability."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABw7EsWh2Us.md]
 name: Henri Bergson
 aliases: [Henry Bergson, Bergson]

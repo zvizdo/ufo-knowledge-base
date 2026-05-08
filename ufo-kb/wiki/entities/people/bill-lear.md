@@ -1,10 +1,7 @@
 ---
 type: entity
 summary: "Aviation pioneer and inventor (autopilot, Learjet) whose offices were adjacent to Thomas Townsend Brown's Guidance Technologies in 1950s Santa Monica; a close collaborator and witness to Brown's gravitator experiments."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/RTEWLSTyUic.md]
-updated: 2026-04-27
 name: Bill Lear
 aliases: [William Powell Lear, William Lear]
 roles: [researcher, other]

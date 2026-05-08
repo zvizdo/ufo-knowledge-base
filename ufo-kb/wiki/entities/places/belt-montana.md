@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Small town ~35 miles southeast of Great Falls, Montana; site of a UFO landing in a canyon on the night of March 24, 1967, corroborated by a truck driver, highway patrol, county sheriff, and later Air Force personnel who observed the craft from the canyon rim."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Belt, Montana
 aliases: [Belt Canyon]

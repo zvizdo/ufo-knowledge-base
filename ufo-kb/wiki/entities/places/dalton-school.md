@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Elite Manhattan private preparatory school where Donald Barr — former OSS officer, William Barr's father, and author of the science fiction novel 'Space Relations' — served as headmaster; notable for having hired Jeffrey Epstein as a math teacher on Barr's recommendation."
-created: 2026-05-05
-updated: 2026-05-05
 name: Dalton School
 aliases: []
 region: Manhattan, New York

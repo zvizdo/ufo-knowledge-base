@@ -7,8 +7,6 @@ parent_org: cia
 period: 1962–late 1970s
 status: terminated (transitioned to private sector)
 tags: [cia, mk-ultra, behavioral-control, mind-control, brain-electrodes, psychosurgery, holmesburg-prison, steven-aldrich, scientific-engineering-institute, post-mkultra, continuation, birds-crows, biological-weapons]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/q7Czo77qhHA.md]
 summary: "CIA's Office of Research and Development — the successor to MK-Ultra that continued behavioral control research into the 1970s under Steven Aldrich, with better funding and technology; expanded into brain electrodes, psychosurgery, memory erasure, and animal remote control; created the Scientific Engineering Institute as its research vehicle; source: John Marx, 'The Search for the Manchurian Candidate'."
 ---

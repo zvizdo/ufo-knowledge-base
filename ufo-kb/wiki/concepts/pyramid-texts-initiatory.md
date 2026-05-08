@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The reading of the Egyptian Pyramid Texts (Old Kingdom, ~2400–2200 BCE) as encoded initiatory or technical instructions rather than purely funerary liturgy — Diana Pasulka's framing in the cosmism-and-Catholic-Egypt thread, paralleling Eleusinian-mysteries readings of Greek mystery-school texts."
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [egypt, pyramid-texts, mystery-schools, diana-pasulka, cosmism, claims-thesis]
 ---

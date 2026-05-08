@@ -4,8 +4,6 @@ entity-type: places
 name: Mount Nemrut
 aliases: [Nemrut Dağı]
 summary: "Two mountains of this name in Turkey; the one southwest of Lake Van features a massive ancient crater from a volcanic explosion during the Older/Younger Dryas period; another in southeastern Turkey has giant ancient statues on its summit."
-created: 2026-04-26
-updated: 2026-04-26
 region: Eastern Anatolia
 country: Turkey
 type: incident-site

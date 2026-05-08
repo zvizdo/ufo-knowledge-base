@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American theoretical physicist who shared the 1979 Nobel Prize in Physics for his contribution to the electroweak unification theory; participated in the Research Institute for Advanced Study (RIAS) alongside T. Townsend Brown and other researchers at the intersection of advanced physics and black-program adjacent networks."
-created: 2026-05-05
-updated: 2026-05-05
 name: Sheldon Lee Glashow
 aliases: [Sheldon Glashow, S.L. Glashow]
 roles: [physicist, professor]

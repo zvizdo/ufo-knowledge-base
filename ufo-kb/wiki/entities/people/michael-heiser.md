@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Late evangelical biblical scholar who provided academic corroboration for the supernatural interpretation of Genesis 6 and the Nephilim/Watchers narrative; author of The Unseen Realm and Reversing Hermon; co-presented with David Flynn and Richard Hoagland on Mars/Sidonia."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md]
 tags: [biblical-scholarship, nephilim, watchers, genesis-6, unseen-realm, reversing-hermon]
 name: Michael Heiser

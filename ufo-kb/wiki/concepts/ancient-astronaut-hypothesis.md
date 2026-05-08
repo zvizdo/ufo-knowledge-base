@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Hypothesis that extraterrestrial beings visited or influenced early human civilizations — associated with Erich von Däniken's Chariots of the Gods; applied to the Nazca lines (only visible from the air), skull elongation rituals (imitating gods), and tridactyl cave art"
-created: 2026-04-26
-updated: 2026-04-26
 tags: [ancient-aliens, nazca, von-daniken, skull-elongation, claims-theses, ufo-history]
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md, raw/youtube-transcripts/IFaXi-NrPV0.md]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Washington Post foreign policy journalist and author of Chaos Under Heaven (US-China relations); appeared on Jesse Michaels' podcast discussing US-China geopolitics, which touched on CCP interest in UAP and Three-Body Problem."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/ePdH01pphbk.md]
 name: Josh Rogin
 aliases: []

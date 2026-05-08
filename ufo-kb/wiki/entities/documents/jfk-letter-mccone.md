@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "A letter from President Kennedy to CIA Director John McCone, referenced in UAP research as evidence of JFK's active push to access UAP/UFO intelligence files shortly before his assassination."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/TH10mD9hQas.md, raw/youtube-transcripts/fzvwBBSmWYA.md]
 title: JFK Letter to McCone (UAP access request)
 authors: [John F. Kennedy]

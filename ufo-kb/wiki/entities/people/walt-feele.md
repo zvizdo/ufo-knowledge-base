@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF Lieutenant and crew commander at Echo Flight, Malmstrom AFB; primary witness to the March 16, 1967 missile shutdown during UFO activity — eight days before the Oscar Flight incident."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Walt Feele
 aliases: [Walter Feele]

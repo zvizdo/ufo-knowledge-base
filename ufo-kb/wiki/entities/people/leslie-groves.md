@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Army general who commanded the Manhattan Project; clashed with Edward Condon over secrecy transparency within the first six weeks, forcing Condon out."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/TH10mD9hQas.md]
 name: Leslie Groves
 aliases: [General Groves]

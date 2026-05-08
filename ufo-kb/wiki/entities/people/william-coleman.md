@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "USAF Colonel; had a dramatic close-encounter with a UAP while piloting a B-55 over Alabama; later became the public spokesman for Project Blue Book."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/hBrfe4hFuM0.md]
 name: William Coleman
 aliases: [Colonel William Coleman]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "WWII science administrator who directed the Office of Scientific Research and Development; widely alleged to have chaired MJ-12 and supervised post-Roswell UAP research."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/09KP8XVf5nY.md]
 name: Vannevar Bush
 aliases: [Bush, Van Bush]

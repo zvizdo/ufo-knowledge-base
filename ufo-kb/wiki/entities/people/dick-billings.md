@@ -6,8 +6,6 @@ roles: [journalist, researcher]
 affiliations: [life-magazine, house-select-committee-on-assassinations]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/C4rSj5Aum7w.md
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 tags: [jfk-assassination, hsca, life-magazine, journalist]
 ---

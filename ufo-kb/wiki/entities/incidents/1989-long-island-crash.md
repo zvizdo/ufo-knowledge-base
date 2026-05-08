@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Alleged 1989 UFO crash near Brookhaven National Laboratory on Long Island; investigated by John Ford (Long Island UFO Network); Ford was subsequently incarcerated on apparently fabricated charges. Dolan believes the crash was probably real."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: "1989 Long Island UFO Crash"
 date: "1989"

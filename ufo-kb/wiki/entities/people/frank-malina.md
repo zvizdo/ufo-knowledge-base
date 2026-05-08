@@ -6,8 +6,6 @@ roles: [engineer, artist]
 affiliations: [caltech, jpl, unesco]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/caltech.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "American rocket engineer and kinetic artist; co-founder of Caltech's GALCIT rocket group and JPL; documented Communist Party member whose political affiliations effectively ended his US aerospace career in the 1950s; subsequently moved to Paris and became a prominent kinetic light artist."
 tags: [caltech, jpl, rocket, communist, galcit, aerospace, artist, paris, cold-war]

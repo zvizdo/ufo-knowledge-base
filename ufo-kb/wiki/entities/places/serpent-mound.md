@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Prehistoric effigy mound in Adams County, Ohio; largest known serpent effigy in the world; visited by Viktor Hovland during a golf tournament; associated with ancient Adena or Fort Ancient cultures."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/SZBI85yvV5A.md]
 name: Serpent Mound
 aliases: [Great Serpent Mound]

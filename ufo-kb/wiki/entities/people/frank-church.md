@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "U.S. Senator from Idaho who chaired the 1975 Church Committee investigation into intelligence community abuses — uncovering MK-Ultra, assassination plots, and NSA surveillance, all domains that overlap with UAP secrecy infrastructure."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KGD1nuM4MR8.md]
 name: Frank Church
 aliases: []

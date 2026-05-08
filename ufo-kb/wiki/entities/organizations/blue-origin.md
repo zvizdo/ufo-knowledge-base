@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Jeff Bezos's private aerospace company, founded 2000; in the KB through the connection between Bezos's maternal family (Lawrence Geist, AEC Albuquerque director) and the founding UAP custodian network — raising the question of whether Blue Origin's trajectory reflects inherited knowledge of classified propulsion research."
-created: 2026-05-05
-updated: 2026-05-05
 name: Blue Origin
 aliases: []
 type_detail: private-aerospace

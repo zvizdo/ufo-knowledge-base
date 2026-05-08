@@ -2,8 +2,6 @@
 type: entity
 name: "Pyramid Rover"
 category: device
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "2002 robotic mission that drilled a small hole through Gantenbrink's Door in the Great Pyramid's Queen's Chamber southern shaft and inserted a fiber-optic camera, finding a 21 cm cavity and a second door behind it."
 tags: ["pyramids", "robotics"]

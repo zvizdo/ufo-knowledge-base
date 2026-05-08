@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy episode featuring Eric Davis (EarthTech/IASA) and Eric Weinstein on crash retrievals, Roswell, Bob Lazar, physics lockdown, traversable wormholes, the Atomic Energy Act, the Epstein/Los Alamos connection, Chern-Simons gravity, and the Renaissance Technologies UAP hypothesis."
-created: 2026-04-27
-updated: 2026-05-03
 video_id: xnxasfyHtfo
 title: "Eric Weinstein Demands UFO Secrets From Pentagon Scientist"
 channel: American Alchemy

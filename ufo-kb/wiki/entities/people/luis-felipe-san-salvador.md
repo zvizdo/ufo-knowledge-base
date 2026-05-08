@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ecuadorian filmmaker with conquistador lineage who searches annually for El Dorado and claims to have the real location of the Tayos Cave/Library"
-created: 2026-04-26
-updated: 2026-04-26
 name: Luis Felipe San Salvador
 aliases: [Jamaica No Problem]
 roles: [researcher]

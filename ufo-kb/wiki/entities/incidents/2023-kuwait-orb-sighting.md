@@ -8,8 +8,6 @@ witnesses: []
 craft_type: orb
 corroboration: single-source
 first_seen_in: ufo-kb/wiki/entities/people/michael-shellenberger.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "A high-definition, full-color helicopter video reported by Michael Shellenberger (from a single source) showing an orb exiting the ocean approximately 20 miles off the coast of Kuwait and being joined by a second orb; the helicopter platform would support high-quality imaging, but the video has not been publicly released."
 tags: [orb, uap, kuwait, ocean, helicopter, single-source, shellenberger, video-evidence, unreleased]

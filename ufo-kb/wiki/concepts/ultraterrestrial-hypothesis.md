@@ -3,8 +3,6 @@ type: concept
 name: Ultraterrestrial Hypothesis
 aliases: [ultraterrestrials, ultraterrestrial, cryptoterrestrial hypothesis]
 summary: "The hypothesis that non-human intelligence interacting with humanity is not extraterrestrial (from other star systems) but indigenous to Earth — whether subterranean, interdimensional, temporal, or co-evolutionary — making 'alien' a misnomer and challenging the spatial framing of the ET hypothesis."
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 tags: [nhi, ultraterrestrial, cryptoterrestrial, hypothesis, interdimensional, subterranean, temporal]
 ---

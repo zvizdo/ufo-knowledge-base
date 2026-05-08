@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Queen consort of Akhenaten; her death triggered Tutankhamun's accession and the collapse of the Amarna revolution"
-created: 2026-04-26
-updated: 2026-04-26
 name: Nefertiti
 aliases: []
 roles: [other]

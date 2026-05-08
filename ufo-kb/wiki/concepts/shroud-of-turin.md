@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "A medieval linen cloth bearing the negative image of a tortured man whose wounds match the passion narrative precisely; its historical provenance runs through the Knights Templar and its scientific status remains contested after multiple dating controversies."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/JGE1NIGhBzw.md]
 tags: [shroud-of-turin, jesus, templars, crucifixion, carbon-dating, vatican, mystery-traditions, forensic-evidence]
 ---

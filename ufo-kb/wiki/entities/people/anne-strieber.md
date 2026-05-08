@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Whitley Strieber's wife for 45 years; spiritual anchor of his contact experiences; believed to have activated his implant and continued communicating after her death."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABOP8ZJsyIk.md]
 name: Anne Strieber
 aliases: [Anne Maddox]

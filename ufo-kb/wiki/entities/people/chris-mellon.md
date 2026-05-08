@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former Deputy Assistant Secretary of Defense for Intelligence under Clinton and W. Bush; co-architect with Lue Elizondo of the 2017 NYT UAP story; represents the authorized government-insider disclosure pipeline."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
 name: Chris Mellon
 aliases: [Christopher Mellon]

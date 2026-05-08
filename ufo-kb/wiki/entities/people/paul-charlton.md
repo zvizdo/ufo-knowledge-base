@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Officer at Norton Air Force Base who processed (developed) film of the Holloman AFB landing and showed it to Allan Sandler; subsequently told by men in suits to 'never talk about it'; died in a head-on collision with his wife."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
 name: Paul Charlton
 aliases: []

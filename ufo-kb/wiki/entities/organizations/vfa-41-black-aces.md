@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Navy strike fighter squadron based on the West Coast; VFA-41 Black Aces was Commander David Fravor's unit during the 2004 Nimitz Tic-Tac encounter."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md]
 name: VFA-41 Black Aces
 aliases: [VFA-41, Black Aces]

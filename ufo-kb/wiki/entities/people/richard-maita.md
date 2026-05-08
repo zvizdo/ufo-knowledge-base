@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "German high-voltage physicist who worked on Nazi exotic propulsion at Schota Works; targeted by the Allied Taom mission in 1945 and apparently captured by Townsend Brown's task force; later appeared in Canada working on the Avrocar project."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RTEWLSTyUic.md]
 name: Richard Maita
 aliases: []

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Michael Herrera's firsthand encounter with a ~300ft octagonal craft in a jungle clearing in western Sumatra, Indonesia, during a Marine humanitarian deployment; craft was loading psionic human assets in refrigerated containers; six Marines were apprehended at gunpoint by American-speaking operators."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/D2tKCFmJjks.md]
 name: 2009 Indonesia UFO Encounter
 date: 2009

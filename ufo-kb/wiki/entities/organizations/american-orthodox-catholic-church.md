@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American Orthodox Catholic Church: Intelligence-front religious organization operating in the US; connected to Jim Garrison's JFK assassination investigation through Jack Martin and David Ferrie; Peter Levenda was briefly a member as a teenager seeking draft deferment."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: American Orthodox Catholic Church
 aliases: [AOCC]

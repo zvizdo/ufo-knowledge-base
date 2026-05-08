@@ -2,8 +2,6 @@
 type: entity
 entity-type: people
 summary: "MIT professor of History of Science who co-authored Hamlet's Mill (1969) with Hertha von Dechend, demonstrating that ancient myths encode precise astronomical knowledge of precession dating back thousands of years."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9PJJiut0Iuw.md]
 name: Giorgio de Santillana
 aliases: [Giorgio de Santillana]

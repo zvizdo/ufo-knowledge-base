@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Vanishing and Appearing Sources during a Century of Observations — the research project led by Beatriz Villarroel that produced 105,000 pre-Sputnik light transients from Palomar Observatory plates."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 name: VASCO
 aliases: [Vanishing and Appearing Sources during a Century of Observations]

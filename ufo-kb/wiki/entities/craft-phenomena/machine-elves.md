@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Most commonly encountered DMT entity type — jovial, multitudinous beings that perform impossible higher-dimensional geometric objects; traced across cultures from Terence McKenna's coinage back through Yanomami mythology and to Stephen Szara's 1956 first DMT trials."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 name: Machine Elves
 aliases: [DMT elves, self-transforming machine elves, harlequins, jokers, jesters, heura (Yanomami)]

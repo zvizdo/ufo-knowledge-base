@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Air Force base in South Dakota hosting ICBM silos and nuclear weapons; site of the Mario Woods abduction account."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/73YBwFvcmF8.md]
 name: Ellsworth Air Force Base
 aliases: [Ellsworth AFB]

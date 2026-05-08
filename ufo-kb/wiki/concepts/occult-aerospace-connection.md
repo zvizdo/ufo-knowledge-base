@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The recurring pattern connecting founders and key figures of early aerospace development to esoteric and occult traditions — most prominently Jack Parsons (JPL) and Aleister Crowley's Thelema."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
 tags: [occult, aerospace, parsons, crowley, thelema, freemasonry, nasa, jpl]
 ---

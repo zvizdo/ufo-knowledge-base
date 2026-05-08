@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Secret U.S. government trust established in 1945 in Houston, Texas, to hold proceeds from 12 of Yamashita's 176 Philippine treasure troves (~$1.2T at $32/oz); used as off-books covert operations funding; unrelated to UFO programs per Sheehan."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
 name: Anderson Trust
 aliases: ["Yamashita's Gold (partial)", "Black gold (covert funding)"]

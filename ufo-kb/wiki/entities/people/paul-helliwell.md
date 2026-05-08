@@ -3,8 +3,6 @@ type: entity
 entity-type: people
 name: Paul Helliwell
 summary: "CIA officer and OSS veteran who helped establish covert financial infrastructure — including Castle Bank & Trust — used to fund off-books CIA operations; a key figure in the network linking CIA covert finance, organized crime, and Caribbean operations."
-created: 2026-04-25
-updated: 2026-04-25
 tags: [cia, covert-finance, mob-cia-nexus]
 aliases: []
 roles: [other]

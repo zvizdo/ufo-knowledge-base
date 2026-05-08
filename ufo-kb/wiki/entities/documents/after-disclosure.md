@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "2010 book by Richard Dolan and Bryce Zabel exploring the sociological, political, economic, and psychological implications of formal UAP disclosure; treats disclosure not as a question of 'if' but 'when' and models its immediate aftermath."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 title: "After Disclosure: The People's Manual for the Postdisclosure World"
 authors: [richard-dolan, bryce-zabel]

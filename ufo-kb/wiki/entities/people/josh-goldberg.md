@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Syracuse University PhD physicist who led the Aerospace Research Laboratory at Wright Air Development Center, whose sole mandate was to develop a theoretical framework for beating gravity."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Josh Goldberg
 aliases: [Joshua Goldberg]

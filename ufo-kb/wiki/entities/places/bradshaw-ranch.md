@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former working ranch near Sedona, Arizona, allegedly now a fenced federal facility; site of a photographed interdimensional portal, underground GPR-confirmed tunnel, and anomalous infrastructure including underground power and a camera aimed at the portal location."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Bradshaw Ranch
 aliases: []

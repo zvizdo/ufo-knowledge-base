@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Guy Banister: Former FBI Special Agent-in-Charge (Pacific Northwest); ran the 544 Camp Street office in New Orleans used by Oswald, Ferrie, and Martin; in 1947 reported UFO sightings to J. Edgar Hoover via 'Mission X' telegram designations — Levenda's candidate for the original 'X-Files.'"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
 name: Guy Banister
 aliases: [William Guy Banister]

@@ -3,8 +3,6 @@ type: concept
 name: Quantum Mechanics
 aliases: [quantum mechanics, Quantum Mechanics, quantum physics, QM, quantum theory]
 first_seen_in: ufo-kb/wiki/entities/people/john-von-neumann.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "The fundamental physical theory describing matter and energy at atomic and subatomic scales; introduces wave-particle duality, superposition, entanglement, and the measurement problem; foundational to UAP physics speculation about non-local propulsion, consciousness-matter interaction, and exotic material properties."
 tags: [physics, quantum, wave-function, entanglement, measurement, consciousness, uap-physics]

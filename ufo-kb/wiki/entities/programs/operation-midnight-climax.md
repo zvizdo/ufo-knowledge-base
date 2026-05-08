@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA MK-Ultra sub-program that set up safe houses in San Francisco and New York City where prostitutes lured men in, dosed them with LSD without consent, and observed behavior through two-way mirrors."
-created: 2026-04-25
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/UrHLTFvdEZk.md, raw/youtube-transcripts/tOPF8uCYZr0.md]
 name: Operation Midnight Climax
 aliases: []

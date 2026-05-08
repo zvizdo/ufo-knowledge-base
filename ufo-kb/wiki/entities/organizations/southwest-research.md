@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Southwest Research Institute (SwRI) — independent, nonprofit research organization in San Antonio, Texas. In the UAP context, analyzed Whitley Strieber's alleged 1989 implant, finding an anomalous metallic object with cilia-like structures."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Southwest Research Institute
 aliases: [SwRI, Southwest Research]

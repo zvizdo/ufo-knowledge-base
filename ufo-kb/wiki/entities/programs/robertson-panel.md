@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "CIA-convened scientific panel (January 1953) that reviewed UFO evidence and recommended a public debunking campaign to reduce public interest; a key node in the UFO-secrecy history."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
 name: Robertson Panel
 aliases: [Scientific Advisory Panel on Unidentified Flying Objects, Durant Report Panel]

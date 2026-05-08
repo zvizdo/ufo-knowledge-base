@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Diana Pasulka's 2023 follow-up to American Cosmic; documents the fourth UAP research tradition, the 'simulacrum' joke from an alleged secret-space-program family, a chapter on Simone (AI and power redistribution), and the colonial framing of disclosure."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/tS_64sTN5AU.md]
 title: "Encounters: Experiences with Nonhuman Intelligences"
 authors: [Diana Pasulka]

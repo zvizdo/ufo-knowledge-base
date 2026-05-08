@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Researcher and author whose thesis holds that the brain is a hybrid quantum/classical system capable of temporal non-locality — sending future knowledge states backward in time, explaining precognition in materialist terms."
-created: 2026-04-26
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/hXYdkcv5TtY.md]
 name: Eric Wargo
 aliases: []

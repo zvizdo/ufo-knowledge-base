@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=eQIMantuasQ
 duration_minutes: ~60
 sources: [raw/youtube-transcripts/eQIMantuasQ.md]
 tags: [stargate-program, remote-viewing, parapsychology, consciousness, random-event-generators, pear-lab, cia]
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Why The CIA Ran A Psychic Spy Program

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "American investigative journalist; author of Area 51, Operation Paperclip, Phenomena; Pulitzer finalist; key reporter on classified national-security history"
-created: 2026-05-02
-updated: 2026-05-02
 name: Annie Jacobsen
 aliases: [annie-jacobson]
 roles: [journalist, researcher]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "On July 11, 1961, Jacques Vallée and colleagues at the Paris Observatory observed an unidentified object in retrograde orbit — as bright as Sirius — that was photographed by multiple observatories and US tracking stations before the data was confiscated and destroyed by observatory director Paul Mueller."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
 name: 1961 Vallée Retrograde Orbit Observation
 date: 1961-07-11

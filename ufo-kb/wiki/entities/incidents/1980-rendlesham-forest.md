@@ -7,8 +7,6 @@ witnesses: [Jim Penniston, John Burroughs, Charles Halt]
 craft_type: landed craft (triangular, metallic, with engravings)
 corroboration: multi-witness, military
 summary: "Major UK military UAP incident in which USAF personnel physically examined a landed craft; Jim Penniston later recalled contact beings identifying themselves as humans from 8,000 years in the future collecting genetic material."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/fzvwBBSmWYA.md]
 tags: [rendlesham, military-uap, uk, 1980, future-humans, jim-penniston, gamete-extraction, ce4, time-dilation]
 ---

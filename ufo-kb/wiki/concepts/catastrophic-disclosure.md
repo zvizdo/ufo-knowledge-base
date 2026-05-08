@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Framing by Jaime Maussan and Jesse Michaels that UAP/NHI disclosure is already happening in Latin America through physical evidence (Nazca mummies), independent of US government-controlled disclosure — challenging the idea that disclosure requires official sanction"
-created: 2026-04-26
-updated: 2026-04-26
 tags: [disclosure, latin-america, nazca-mummies, catastrophic-disclosure, nhi, claims-theses]
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md]
 ---

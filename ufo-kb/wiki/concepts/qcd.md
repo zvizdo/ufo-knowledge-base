@@ -3,8 +3,6 @@ type: concept
 name: Quantum Chromodynamics
 aliases: [Quantum Chromodynamics, QCD, qcd, strong force, strong nuclear force, color force]
 first_seen_in: ufo-kb/wiki/concepts/chern-simons-gravity-connection.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: []
 summary: "The quantum field theory of the strong nuclear force; describes quarks bound by gluons; a Yang-Mills SU(3) gauge theory; the Chern-Simons term appears in the QCD Lagrangian as the theta term, connecting QCD to topological mathematics relevant to UAP physics research."
 tags: [physics, qcd, strong-force, yang-mills, quarks, gluons, chern-simons]

@@ -7,8 +7,6 @@ witnesses: [henry-kissinger, anatoly-dobrynin, walter-stoessel]
 craft_type: "high-frequency microwave-beam phenomena (Moscow embassy)"
 corroboration: instrumented
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/lbGE3EC6StE.md, raw/youtube-transcripts/1f16VvXaSSE.md]
-created: 2026-05-03
-updated: 2026-05-03
 aliases: [SALT II Unknowns Discussion, Kissinger-Dobrynin Microwave Exchange]
 tags: [salt-talks, kissinger, dobrynin, moscow-embassy-microwave, havana-syndrome, soviet-microwave-weapons, ufo-coordination, declassified-transcripts]
 summary: "On-record discussion between Kissinger and Soviet Ambassador Dobrynin during the SALT II negotiation period in which Kissinger raised, in seriousness, the issue of Soviet microwave beams targeting US Embassy staff in Moscow — a precedent for state-level discussion of phenomena that were publicly characterized as fictional."

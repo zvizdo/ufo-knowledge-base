@@ -8,8 +8,6 @@ witnesses: [remy-baca, jose-padilla]
 craft_type: avocado-shaped metallic object
 corroboration: multi-witness
 tags: [crash-retrieval, 1945, trinity, new-mexico, pre-roswell, pre-flying-saucer, avocado-craft, nhi-entities, ufo-nuclear-nexus, trinity-best-kept-secret, paola-harris, jacques-vallee]
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
 summary: "Alleged UFO crash near San Antonio, New Mexico, approximately 20 days after the Trinity nuclear test and 2 days after Japan's surrender — documented by Jacques Vallée and Paola Harris in Trinity: The Best Kept Secret; notable for predating the term 'flying saucer' by two years and for residing in a separate DOE/AEC clearance track unknown to Pentagon-level cleared officials."
 ---

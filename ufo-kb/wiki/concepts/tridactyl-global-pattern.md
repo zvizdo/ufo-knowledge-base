@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Recurring pattern: three-fingered, three-toed beings appear in cave art, woven fabrics, geoglyphs, and legends globally — Nazca, Chile, Hopi (ant people), Close Encounters-type grays, Varginha/Brazil — suggesting either a culturally transmitted archetype or actual contact with a real three-fingered species"
-created: 2026-04-26
-updated: 2026-04-26
 tags: [tridactyl, global-pattern, cave-art, nazca, hopi, nhi, claims-theses]
 sources: [raw/youtube-transcripts/HxQN2tkQHs8.md, raw/youtube-transcripts/JE1oM89dpBc.md]
 ---

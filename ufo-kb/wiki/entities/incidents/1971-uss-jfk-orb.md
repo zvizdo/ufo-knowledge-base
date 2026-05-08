@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "July 2, 1971: a glowing orange orb appeared above the USS John F. Kennedy aircraft carrier, disabling all ship communications and weapons systems, sending the vessel to general quarters for ~20 minutes; covered up by captain's order."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: "1971 USS JFK Orb Incident"
 date: "1971-07-02"

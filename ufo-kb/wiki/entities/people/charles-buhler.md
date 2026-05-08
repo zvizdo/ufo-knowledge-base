@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "NASA physicist specializing in electrostatics and electrogravitics; co-founder of Exodus Propulsion Technologies and incoming president of the American Electrostatics Society; 2,000+ experiments confirming asymmetric capacitor thrust in hard vacuum; personal UFO witness."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/mOWwdIuyaQA.md]
 name: Charles Buhler
 aliases: [Charles Buer (transcript phonetic)]

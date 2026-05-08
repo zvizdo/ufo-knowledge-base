@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Plato's allegory of the cave — prisoners seeing only shadows on a wall, requiring an external puller for liberation — applied in this KB as the primary framework for understanding human perceptual imprisonment, the UAP phenomenon as a prior-busting catalyst, and why top-down disclosure is epistemically insufficient."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KRDE1i3LDuU.md, raw/youtube-transcripts/tS_64sTN5AU.md]
 tags: [plato, epistemology, consciousness, cave, philosophy, disclosure, perception, uap-framework]
 ---

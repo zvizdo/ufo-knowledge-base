@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Former New Zealand Prime Minister who hinted to Ross Coulthart that the Americans had pressured New Zealand to shut down the 1978 Kaikoura UFO investigation."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Robert Muldoon
 aliases: [Sir Robert Muldoon]

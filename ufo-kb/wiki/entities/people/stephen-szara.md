@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Hungarian physician who discovered DMT in 1956 by synthesizing and self-injecting it while working in communist Hungary; the first scientist to document the DMT experience."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 name: Stephen Szara
 aliases: [Szara, Stephen Szára]

@@ -8,8 +8,6 @@ date: "1979"
 type: book
 classification: public
 first_seen_in: ufo-kb/wiki/entities/people/claus-svahn.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "1979 book by Jacques Vallée arguing that a significant portion of the UFO phenomenon involves deliberate manipulation and deception of contactees by an unknown intelligence (possibly human-origin) — and that UFO cults were being used as social control vectors; a major departure from the standard extraterrestrial hypothesis."
 tags: [vallee, book, deception, manipulation, cults, social-control, contactees, 1979]

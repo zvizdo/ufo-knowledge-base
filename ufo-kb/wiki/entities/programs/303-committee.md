@@ -7,8 +7,6 @@ period: 1955–1976 (in various named forms)
 status: declassified (existence); activities partially classified
 tags: [303-committee, covert-ops, cia, kissinger, mj12-adjacent, plausible-deniability, nixon]
 summary: "Secret inter-agency body that oversaw all CIA covert operations under successive administrations; Kissinger chaired it during the Nixon era; sometimes identified by UAP researchers as overlapping with or interchangeable with MJ12-successor oversight structures."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/Jpf0ZGY87c0.md]
 ---
 

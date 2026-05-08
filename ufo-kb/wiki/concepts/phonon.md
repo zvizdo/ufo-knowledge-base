@@ -1,7 +1,5 @@
 ---
 type: concept
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/NvqxmTCwHA8.md]
 summary: "Quantized elastic micro-vibration wave in a solid material; the physical basis of Filippo Biondi's SAR Doppler tomography technique for detecting subterranean structure beneath the Giza plateau."
 tags: ["physics", "remote-sensing", "sar"]

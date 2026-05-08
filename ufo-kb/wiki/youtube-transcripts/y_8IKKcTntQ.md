@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Interview with James Valor (Skywatcher Lead Operations Officer) detailing five years of multi-spectrum UAP detection, classification into 9 classes, dog-whistle technology, psionic asset double-blind testing, helicopter interceptions, four alleged crashes, and the February 2025 'conflict in the sky' event."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/y_8IKKcTntQ.md]
 video_id: y_8IKKcTntQ
 tags: [skywatcher, sky-watchers, uap-detection, james-valor, jake-barber, psionics, dog-whistle, multi-spectrum, uap-taxonomy, soft-disclosure, 2025]

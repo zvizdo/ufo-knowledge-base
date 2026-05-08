@@ -9,8 +9,6 @@ first_seen_in: raw/youtube-transcripts/zjpvfDFc4fg.md
 sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
 tags: [cia, exotic-physics, uap-insider, nrol-16, weird-desk, jason, mitre]
 summary: "CIA scientist connected to exotic physics research, JASON advisory group, and MITRE Corporation; linked by John Ramirez to the occult-themed NROL-16 launch (2005); reportedly runs the CIA's 'weird desk.'"
-created: 2026-04-27
-updated: 2026-04-27
 ---
 
 # Ron Pandolfi

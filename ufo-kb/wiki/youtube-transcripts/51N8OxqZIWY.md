@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "Jay Anderson (Project Unity) and Kurt Metzger connect Jeffrey Epstein's eugenics/physics obsessions to particle accelerator programs, UFO crashes, shadow governance via blackmail, and alleged underground cloning labs."
-created: 2026-04-25
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md]
 video_id: 51N8OxqZIWY
 title: "Jeffrey Epstein & Aliens: The Global Satanic Cabal"

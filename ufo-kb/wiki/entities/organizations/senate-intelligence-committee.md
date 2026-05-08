@@ -3,8 +3,6 @@ type: entity
 name: Senate Select Committee on Intelligence
 aliases: [Senate Intelligence Committee, SSCI]
 summary: "US Senate oversight body for the intelligence community; key venue for UAP legislation including the UAPDA (Schumer/Rounds); site of classified UAP briefings; Marco Rubio and Kirsten Gillibrand led UAP-related legislation through this committee."
-created: 2026-05-05
-updated: 2026-05-05
 type_detail: gov-agency
 country: US
 tags: [congress, intelligence, oversight, uap-disclosure, schumer, rubio, gillibrand, ssci]

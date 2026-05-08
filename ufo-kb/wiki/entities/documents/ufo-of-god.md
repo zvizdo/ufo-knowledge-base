@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Chris Bledsoe's memoir documenting his January 2007 Cape Fear River encounter, subsequent 5 years of community persecution, 2012 Easter encounter with the Lady, and ongoing relationship with NASA personnel, Tim Taylor, and prophetic visions."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/bM18PJY6_Zc.md]
 title: UFO of God
 authors: [Chris Bledsoe]

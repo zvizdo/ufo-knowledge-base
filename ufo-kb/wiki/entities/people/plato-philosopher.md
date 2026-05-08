@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Ancient Greek philosopher (c. 428–348 BC); primary ancient source for the Atlantis story via Timaeus/Critias; and author of the cave allegory in the Republic — now applied as a UAP epistemology framework by philosopher Jim Madden."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/A_LsUSxTm7A.md, raw/youtube-transcripts/KRDE1i3LDuU.md]
 name: Plato
 aliases: [Platon]

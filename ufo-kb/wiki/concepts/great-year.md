@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The ~25,920-year cycle of Earth's axial precession; in Randall Carlson's model, each subdivision of the Great Year (6,480 / 2,160 / 720 years) maps exactly to the total angular degrees of one of the five Platonic solids — a non-coincidental encoding of astronomical cycles in sacred geometry."
-created: 2026-04-26
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/A_LsUSxTm7A.md, raw/youtube-transcripts/R7oyZGW99os.md]
 tags: [precession, great-year, binary-star, civilizational-cycles, astronomy, ancient-knowledge, yuga-cycles, platonic-solids, sacred-numbers, randall-carlson]
 ---

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Individual referenced in American Alchemy transcripts (2Xxmguz0GEQ and atomic-energy-act-classification context). Context suggests connection to UAP or intelligence research."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: Linda Thompson
 aliases: []

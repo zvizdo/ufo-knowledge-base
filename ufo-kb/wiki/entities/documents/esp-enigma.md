@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Book by Diane Powell on ESP and consciousness; its publication triggered the revocation of her medical license, making it a focal instance of institutional suppression of anomalous research."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 title: The ESP Enigma
 authors: [Diane Powell]

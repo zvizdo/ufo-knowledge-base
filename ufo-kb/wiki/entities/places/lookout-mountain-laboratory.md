@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Classified film laboratory in Laurel Canyon, Los Angeles; officially described as a WWII radar command but now known to have been the primary film laboratory for nuclear test footage from the Manhattan Project; Thomas Townsend Brown lived nearby (on Wonderland Drive) 1942–1945 while working at Martin Vega Corporation."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/RTEWLSTyUic.md]
 name: Lookout Mountain Laboratory
 aliases: [Lookout Mountain Air Force Station, Laurel Canyon film lab]

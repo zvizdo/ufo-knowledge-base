@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The set of construction achievements from antiquity — the pyramids, Göbekli Tepe, Sacsayhuamán, Puma Punku — whose precision, scale, and material demands appear to exceed the capabilities attributed to their builders by mainstream archaeology."
-created: 2026-05-05
-updated: 2026-05-05
 tags: [ancient-history, pyramids, lost-civilization, archaeology, anti-gravity, sacred-geometry, graham-hancock, randall-carlson]
 ---
 

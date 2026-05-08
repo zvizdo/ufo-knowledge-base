@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "The United States Air Force (USAF), one of the six branches of the U.S. Armed Forces; historically the primary military service responsible for investigating and suppressing UAP information through Project Blue Book, and the institutional home of many UAP witnesses and whistleblowers."
-created: 2026-05-05
-updated: 2026-05-05
 name: United States Air Force
 aliases: [USAF, U.S. Air Force, Air Force]
 type_detail: military-branch

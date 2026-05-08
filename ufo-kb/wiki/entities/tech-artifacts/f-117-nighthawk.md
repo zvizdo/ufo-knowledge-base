@@ -6,8 +6,6 @@ category: device
 custodian: usaf
 provenance: Lockheed Skunk Works development; operational 1983–2008; based at Tonopah Test Range
 first_seen_in: ufo-kb/wiki/entities/places/tonopah-test-range.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "USAF stealth ground-attack aircraft (operational 1983–2008); first operational stealth aircraft; developed by Lockheed Skunk Works under extreme secrecy; based at Tonopah Test Range from 1982–1992; its existence was publicly denied for years despite thousands of civilian sightings, making it the canonical example of a classified aircraft program generating UFO reports."
 tags: [f-117, stealth, classified, skunk-works, tonopah, ufo-misidentification, black-program, lockheed]

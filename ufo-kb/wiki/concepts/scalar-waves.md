@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Wave solutions predicted by Maxwell's original electromagnetic equations but eliminated by Heaviside's simplification; include helicoidal and longitudinal wave types absent from standard EM theory, with claimed biological and consciousness-relevant properties."
-created: 2026-04-25
-updated: 2026-04-25
 
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/iQOibpIDx-4.md]
 tags: [physics, extended-electrodynamics, maxwell, ether, tesla, consciousness-mechanism, scalar-physics, physics-lockdown]

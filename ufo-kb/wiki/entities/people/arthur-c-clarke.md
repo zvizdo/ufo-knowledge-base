@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "British science fiction author and futurist (2001: A Space Odyssey, Childhood's End); described a portal on a Sri Lanka mountain to Whitley Strieber; Jesse Michaels speculates he may have had MI6 connections."
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/dzTZbSNsKV8.md]
 name: Arthur C. Clarke
 aliases: [Arthur Charles Clarke]

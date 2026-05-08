@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "FBI Director under Trump (2025–); mentioned by Ross Coulthart as one of the Trump-era officials who has previously expressed a desire to reach the truth of the UAP mystery."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
 name: Kash Patel
 aliases: []

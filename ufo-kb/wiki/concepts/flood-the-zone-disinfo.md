@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Dolan's model for the US shift from pure denial (~1950s–1970s) to strategic information management (~1980s onward): release partial truths embedded with at least one provably false element, 'inoculating' the public against believing the true parts."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/KhmUixSXxDo.md]
 tags: [disinformation, richard-dolan, mj12, richard-doty, paul-bennewitz, inoculation, intelligence, 1980s]
 ---

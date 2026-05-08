@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Disappearance of Malaysian Airlines Flight MH370 on March 8, 2014, with 239 people aboard; Ashton Forbes claims video evidence shows the plane was teleported by UAP orbs — and Salvatore Pais confirmed he recognized the Pais effect in the orb videos when Forbes showed them to him."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md]
 name: 2014 MH370 Disappearance
 date: 2014-03-08

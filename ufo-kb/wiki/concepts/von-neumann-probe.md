@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "Self-replicating autonomous spacecraft that explores the galaxy by building copies of itself at each destination; proposed by mathematician John von Neumann; frequently cited as the most plausible NHI technology hypothesis."
-created: 2026-05-02
-updated: 2026-05-02
 tags: [nhi, technology, fermi-paradox, self-replication, astroengineering]
 ---
 

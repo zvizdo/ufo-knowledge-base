@@ -6,8 +6,6 @@ roles: [other]
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/documents/death-by-astonishment.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "American Beat Generation author (1914–1997); wrote Naked Lunch; experimented extensively with cut-up technique, psychedelics, and consciousness alteration; close associate of Allen Ginsberg and Jack Kerouac; has been attributed (alongside Terence McKenna) with the phrase 'death by astonishment' used by Andrew Gallimore as his DMT history book title."
 tags: [beat-generation, author, psychedelics, consciousness, burroughs, terence-mckenna, dmt, cut-up]

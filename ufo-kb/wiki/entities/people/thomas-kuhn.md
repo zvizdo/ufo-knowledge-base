@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Philosopher and historian of science; author of 'The Structure of Scientific Revolutions'; personal friend of John Mack; encouraged Mack's alien abduction research."
-created: 2026-04-28
-updated: 2026-04-28
 sources: [raw/youtube-transcripts/dzTZbSNsKV8.md]
 name: Thomas Kuhn
 aliases: [Thomas S. Kuhn]

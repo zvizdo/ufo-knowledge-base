@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Mathematician and economist who developed the 'glass wall' hypothesis explaining why fundamental physics breakthroughs ceased around 1973; claims there is a lineage of secret science in the US with John Wheeler at its center; Bob Maguire endorses his analysis."
-created: 2026-04-25
-updated: 2026-04-27
 
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/ZTIO-xAP0Dw.md, raw/youtube-transcripts/_bM9eAtCOGw.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/p0S0BfoZy0w.md, raw/youtube-transcripts/qAou_h1POWs.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 name: Eric Weinstein

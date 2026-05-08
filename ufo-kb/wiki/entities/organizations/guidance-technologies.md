@@ -1,10 +1,7 @@
 ---
 type: entity
 summary: "Thomas Townsend Brown's Santa Monica-based anti-gravity research company, funded solely by Floyd Odlum (majority owner of Northrop); shut down by Brown in fall 1967 with no public explanation — just three months before Northrop published a paper on electrogravitics that used terminology previously exclusive to Brown's work."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/RTEWLSTyUic.md]
-updated: 2026-04-27
 name: Guidance Technologies
 aliases: []
 type: research-group

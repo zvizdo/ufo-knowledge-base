@@ -6,8 +6,6 @@ roles: []
 affiliations: [us-navy]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/Rfmy5oW_r9c.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: [raw/youtube-transcripts/Rfmy5oW_r9c.md]
 summary: "US Navy ELF (Extremely Low Frequency) submarine communication system; transmitted at 76 Hz using underground antenna buried in Wisconsin's bedrock; designed to communicate with submerged nuclear submarines; cited in KB in connection with ELF effects on consciousness and Andrija Puharich's prosthetic ELF device."
 tags: [navy, elf, submarine-communication, wisconsin, 76hz, clam-lake, puharich]

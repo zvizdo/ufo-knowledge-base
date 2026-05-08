@@ -8,8 +8,6 @@ affiliations: [daily-mail]
 firsthand_claims: []
 first_seen_in: null
 tags: [ufo-journalism, daily-mail, greg-rogers, cape-canaveral, 1992-cape-canaveral-saucer]
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 summary: "UK Daily Mail journalist who broke the Greg Rogers story on May 4, 2024 — the first public account of the 1992 Cape Canaveral saucer incident."
 ---

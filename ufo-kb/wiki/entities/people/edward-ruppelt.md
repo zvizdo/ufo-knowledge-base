@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "First director of Project Blue Book; confirmed the existence and ET-conclusion of the 1948 Estimate of the Situation; pressured to reverse his findings in a 1960 revised edition; died at 37."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/GQlWf54K_7Y.md]
 name: Edward Ruppelt
 aliases: [Edward Rupelt (phonetic)]

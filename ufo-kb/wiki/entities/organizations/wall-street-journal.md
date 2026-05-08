@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Major U.S. business/news daily whose 2024 article by Joel Shectman — sourced from former AARO director Sean Kirkpatrick — revived the EMP cover story for the 1967 Malmstrom missile shutdowns. Cited by Salas and Michaels as an example of establishment media serving as a vector for official UAP cover stories."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/h0hAit-KH9A.md]
 name: Wall Street Journal
 aliases: [WSJ]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Neurologist and author known for case studies of anomalous neurological conditions; an early influence on Diane Powell's interest in savant abilities."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/0qlppHc3-gg.md]
 name: Oliver Sacks
 aliases: []

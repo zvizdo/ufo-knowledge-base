@@ -6,8 +6,6 @@ date: 2024
 type_field: book
 classification: civilian-publication
 tags: [future-humans, michael-p-masters, religion, revelation, primary-document]
-created: 2026-05-03
-updated: 2026-05-03
 sources: []
 ---
 

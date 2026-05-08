@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/places/chimney-rock-colorado.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Major Ancestral Puebloan cultural center in northwestern New Mexico (850–1150 CE); hub of a regional network of roads, outlier sites, and astronomical alignments; its construction incorporated precise solar and lunar astronomical orientations suggesting sophisticated observational astronomy."
 tags: [ancient, ancestral-puebloan, astronomy, new-mexico, chaco, sacred-sites, ancient-mysteries, lunar]

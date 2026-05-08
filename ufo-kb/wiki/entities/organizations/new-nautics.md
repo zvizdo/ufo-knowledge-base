@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Florida-based research organization working with Andrew Gallimore on endogenous DMT research and the Eleusis Mind DMTX retreat center in St. Vincent and the Grenadines."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md]
 name: New Nautics
 aliases: [New Nautics, newnautics.org]

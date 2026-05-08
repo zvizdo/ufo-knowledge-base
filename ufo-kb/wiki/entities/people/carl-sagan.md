@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Astronomer and science communicator who privately expressed belief in UFOs in early diaries, publicly pivoted to skepticism, and — per Bob Maguire's firsthand account — held a classified NSA contractor badge; his works Contact and The Demon-Haunted World may encode disclosure through fiction."
-created: 2026-04-25
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/p0S0BfoZy0w.md]
 name: Carl Sagan
 aliases: []

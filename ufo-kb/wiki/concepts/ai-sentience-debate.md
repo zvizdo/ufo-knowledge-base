@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The contested question of whether artificial AI systems like LaMDA are genuinely sentient/conscious — philosophically unresolvable with current tools; a new front in the hard problem of consciousness with UFO-adjacent implications via psi experiments and the hive-mind parallel."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/RNjC1vLcxKo.md]
 tags: [ai, sentience, consciousness, lamda, turing-test, hard-problem, parapsychology, hive-mind, psi, claims-theses]
 ---

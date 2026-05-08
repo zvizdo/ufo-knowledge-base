@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Hancock's 2019 book arguing for a pre-Columbian lost civilization in the Americas — using lidar evidence and Amazon earthwork discoveries to argue a forgotten chapter of human history exists in the New World"
-created: 2026-04-27
-updated: 2026-04-27
 sources: [raw/youtube-transcripts/dfPfPB601hw.md]
 title: America Before
 authors: [Graham Hancock]

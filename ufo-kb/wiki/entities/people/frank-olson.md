@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Fort Detrick biological warfare researcher and MK Naomi scientist who was developing a crisis of conscience in 1953; Sidney Gottlieb dosed him with LSD at a party, then Pierre Lafitte allegedly pushed him from the 10th floor of New York's Statler Hotel. His son Eric Olson eventually proved the window was too small to jump through; the family received a $700,000 White House compensation check."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
 name: Frank Olson
 aliases: []

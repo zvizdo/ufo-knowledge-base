@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "NASA physicist who led the Eagle Works experimental warp-drive program at Johnson Space Center, attempting to detect spacetime metric distortions consistent with an Alcubierre bubble; went quiet on publications after reported null results, then reappeared with DARPA funding at a company called Limitless Space."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/mOWwdIuyaQA.md]
 name: Harold White
 aliases: [Sonny White, Harold "Sonny" White]

@@ -9,8 +9,6 @@ guest: [Kirk McConnell]
 published: ~2025
 url: https://www.youtube.com/watch?v=KGD1nuM4MR8
 duration_minutes: ~90
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/KGD1nuM4MR8.md]
 tags: [american-alchemy, senate, uap-disclosure, tesla, extended-electrodynamics, nazi-bell, ufo-nuclear-nexus, whistleblowers, robertson-panel, foo-fighters, consciousness, telepathy]
 ---

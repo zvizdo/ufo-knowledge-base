@@ -6,8 +6,6 @@ roles: []
 affiliations: [usaf, us-army]
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/organizations/509th-bomb-group.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "US Army Air Forces base at Roswell, New Mexico; home of the 509th Bomb Group — the only nuclear-capable bomber unit in the world in 1947; site of the Roswell UFO incident; later renamed Walker Air Force Base; the combination of extreme security culture (nuclear weapons) and proximity to crash sites makes it central to the Roswell evidence record."
 tags: [roswell, army-air-field, 509th, nuclear, crash-retrieval, new-mexico, 1947, walker-afb]

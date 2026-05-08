@@ -1,8 +1,6 @@
 ---
 type: concept
 summary: "The thesis — attributed to John von Neumann via General Exon — that accepting NHI into shared human reality is irreversible: the door opens in one direction only and forever."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/ABOP8ZJsyIk.md]
 tags: [von-neumann, disclosure-suppression, wave-function, consciousness, nhi-manifestation, irreversibility, disclosure-narratives]
 ---

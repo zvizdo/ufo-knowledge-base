@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/51N8OxqZIWY.md
-created: 2026-05-05
-updated: 2026-05-05
 sources: [raw/youtube-transcripts/51N8OxqZIWY.md, raw/youtube-transcripts/fZvWBBSmwYa.md]
 summary: "Informal DoD/DoE working group studying the physics of UAP phenomena; members included Hal Puthoff, Oke Shannon, John Alexander, Eric Davis, and Joseph McMoneagle; operated through the 1980s–1990s as an unofficial physics review body adjacent to AATIP's predecessor programs."
 tags: [uap-programs, physics, hal-puthoff, john-alexander, eric-davis, dod, doe, interdimensional]

@@ -6,8 +6,6 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/documents/the-road-to-eleusis.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Greek deity of wine, ecstasy, and transformation; associated with the Eleusinian Mysteries and Dionysian rites; reinterpreted by Carl Ruck and Brian Muraresku as potentially the god of psychedelic experience rather than wine specifically; his mythology of death and resurrection parallels consciousness themes relevant to UAP encounter phenomenology."
 tags: [greek-mythology, dionysus, psychedelics, eleusinian-mysteries, ecstasy, rebirth, carl-ruck]

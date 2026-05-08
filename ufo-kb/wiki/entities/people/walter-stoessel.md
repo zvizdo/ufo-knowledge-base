@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Ambassador to Moscow who developed a rare blood cancer attributed to Soviet microwave beaming of the US Embassy; died 1986; cited as the historical precedent for Havana syndrome."
-created: 2026-05-02
-updated: 2026-05-02
 sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
 name: Walter Stoessel
 aliases: []

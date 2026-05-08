@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US Air Force head of research and development until his 1998 retirement; in a filmed interview with Nick Cook on his retirement day, gave an oblique puzzle about a 'gap' between the retiring SR-71 and new satellite coverage that 'something' had to fill — widely interpreted as an indirect confirmation of the Aurora hypersonic aircraft."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md]
 name: George Muellner
 aliases: []

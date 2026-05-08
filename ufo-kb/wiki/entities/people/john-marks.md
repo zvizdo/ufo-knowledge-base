@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "State Department official who found surviving MK-Ultra financial files in 1974, brought them to Congress, and triggered the Church Committee hearings that exposed the program."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/75Je_0hZovQ.md]
 name: John Marks
 aliases: []

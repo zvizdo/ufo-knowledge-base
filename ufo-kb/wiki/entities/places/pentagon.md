@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Headquarters of the U.S. Department of Defense, Arlington, Virginia. Central node in UAP secrecy — home of multiple UAP-adjacent programs including AATIP, UAPTF, AARO, and the offices responsible for classification decisions about UAP-related Special Access Programs."
-created: 2026-04-26
-updated: 2026-04-26
 sources: []
 name: The Pentagon
 aliases: [DoD headquarters, OSD]

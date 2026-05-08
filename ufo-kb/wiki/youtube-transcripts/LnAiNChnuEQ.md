@@ -10,8 +10,6 @@ url: https://www.youtube.com/watch?v=LnAiNChnuEQ
 duration_minutes: ~90
 sources: [raw/youtube-transcripts/LnAiNChnuEQ.md]
 tags: [eric-davis, aawsap, aatip, david-grusch, arv, crash-retrieval, sap, pead, russia-uap, china-uap, exotic-propulsion, hw-bush, whistleblower, classification]
-created: 2026-04-26
-updated: 2026-04-26
 ---
 
 # Eric Davis: "A US President Was Briefed on UFOs!"

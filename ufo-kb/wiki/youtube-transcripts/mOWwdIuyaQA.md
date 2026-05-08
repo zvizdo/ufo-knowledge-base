@@ -1,8 +1,6 @@
 ---
 type: source-summary
 summary: "American Alchemy episode with NASA electrostatics lead Dr. Charles Buhler and MIT/UCLA physicist David Chester; covers Exodus Propulsion Technologies' 2,000+ vacuum thrust experiments, QED theory of the 'Exodus force,' personal UFO experiences at Brewster NY and Cocoa Beach, Townsend Brown connection, Gary McKinnon non-terrestrial officers, and space manufacturing hypothesis for high-K dielectrics."
-created: 2026-04-27
-updated: 2026-05-03
 sources: [raw/youtube-transcripts/mOWwdIuyaQA.md]
 video_id: mOWwdIuyaQA
 tags: [biefeld-brown-effect, electrogravitics, propulsion, exodus-propulsion, nasa, vacuum-thrust, qed, townsend-brown, ufo-personal-experience, electrostatics, non-terrestrial-officers, space-manufacturing]

@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "US-based policy organization advocating for Bitcoin adoption at the national and international level; headed by Matthew Pines."
-created: 2026-04-26
-updated: 2026-04-26
 sources: [raw/youtube-transcripts/9QMrhcpJq8I.md]
 name: Bitcoin Policy Institute
 aliases: [BPI]

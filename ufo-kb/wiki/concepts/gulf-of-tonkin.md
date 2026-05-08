@@ -3,8 +3,6 @@ type: concept
 name: Gulf of Tonkin Incident
 aliases: [Gulf of Tonkin incident, gulf-of-tonkin, Gulf of Tonkin, Tonkin Gulf incident, USS Maddox incident]
 first_seen_in: ufo-kb/wiki/entities/programs/operation-northwoods.md
-created: 2026-05-06
-updated: 2026-05-06
 sources: []
 summary: "Alleged North Vietnamese naval attacks on US destroyers in August 1964 that provided the pretext for the Gulf of Tonkin Resolution and full US military intervention in Vietnam; the second attack (August 4) almost certainly did not occur; cited as the most consequential documented false-flag incident in US history."
 tags: [vietnam, false-flag, congress, 1964, johnson, mcnamara, naval, deception, historical]

@@ -4,8 +4,6 @@ entity-type: tech-artifacts
 name: Pioneer 10/11 Data
 aliases: [Pioneer Anomaly Data, Pioneer Dead Star Data]
 summary: "Gravitational anomaly data from NASA's Pioneer 10 and 11 probes (1970s–80s), interpreted by Thomas Van Flandern and Robert Harrington as evidence of a dead stellar companion; subsequently discredited officially and allegedly scrubbed from the internet."
-created: 2026-04-26
-updated: 2026-04-26
 category: device
 custodian: NASA
 provenance: Pioneer 10 launched 1972; Pioneer 11 launched 1973; outer solar system traversal 1980s

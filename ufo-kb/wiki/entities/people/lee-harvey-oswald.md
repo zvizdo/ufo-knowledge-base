@@ -3,8 +3,6 @@ type: entity
 entity-type: people
 name: Lee Harvey Oswald
 summary: "Accused assassin of President John F. Kennedy (November 1963); his murky intelligence background and connections to both CIA networks and the Soviet Union make him a recurring figure in deep-state-continuity narratives that intersect with UAP secrecy theories."
-created: 2026-04-25
-updated: 2026-04-26
 tags: [person, jfk, intelligence]
 aliases: []
 roles: [other]

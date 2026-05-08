@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Mathematical physicist whose 1970s work on rotating cylinders showed that a finite rapidly-rotating disc can produce closed timelike curves within general relativity — the theoretical basis for disc-shaped UAP as functional time machines."
-created: 2026-04-26
-updated: 2026-04-26
 name: Frank Tipler
 aliases: [Frank J. Tipler]
 roles: [researcher]

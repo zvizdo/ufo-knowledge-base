@@ -1,8 +1,6 @@
 ---
 type: entity
 summary: "Theoretical physicist who attended the 1957 UNC Chapel Hill gravity research conference, nearly joined Martin Corporation's anti-gravity division, and later formulated the Wheeler-DeWitt equation for quantum gravity."
-created: 2026-04-25
-updated: 2026-04-25
 sources: [raw/youtube-transcripts/5udx_SDdL3Y.md]
 name: Bryce DeWitt
 aliases: [Bryce Seligman DeWitt]

@@ -1,6 +1,5 @@
 ---
 type: source-summary
-created: 2026-05-04
 summary: "Jesse Michaels systematically dismantles the Wall Street Journal's 2024 article claiming UFO/nuclear-shutdown cases are explained by secret EMP tests and Air Force hazing rituals; exposes the article's primary source as a Booz Allen Hamilton psyops consultant."
 video_id: h0hAit-KH9A
 title: "The Wall Street Journal Is Lying About UFOs"
