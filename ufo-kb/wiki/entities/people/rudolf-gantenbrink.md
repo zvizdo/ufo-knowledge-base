@@ -33,3 +33,4 @@ Stub. See [[NvqxmTCwHA8]] for context.
 - [[pyramid-purpose-debate]] — related concept
 - [[upuaut-ii]]
 - [[gantenbrinks-door]]
+- [[pyramid-rover]] — 2002 robotic successor mission that drilled through Gantenbrink's Door; Gantenbrink designed Upuaut II which first photographed the door; Jaccard 0.75

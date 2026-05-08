@@ -74,33 +74,11 @@ Bismuth specifically:
 ### The 1957 UNC Conference as Watershed
 The 1957 Gravity Research Conference at UNC Chapel Hill (funded by Agnew Bahnson) is identified by Bob as the historical moment where the productive physics direction (anti-gravity/electrogravitics) was shut down and replaced by string theory funding. [[herman-bondi]]'s question about removing the positivity conditions in Einstein's equations — which yields negative mass/energy — was marginalized. Researchers who attended (including [[lewis-whitten]]) subsequently went dark.
 
-## Kevin Knuth's Quantitative Analysis (IWui5cBkwoE)
+## Kevin Knuth's Quantitative Analysis
 
-[[kevin-knuth]] (physicist, UAlbany, ex-NASA) provides the most publicly cited quantitative performance envelopes:
+[[kevin-knuth]] (physicist, UAlbany, ex-NASA) has quantified the performance envelopes for three documented cases: Nimitz Tic-Tac (~5,000 G, ~1,100 gigawatt energy budget), JAL 1628 (~9,000–11,000 G, ~250,000 mph), and HMNZS Southland USO (~3,500 mph underwater with no water displacement despite sonar reflection). All three establish that conventional thermodynamics cannot account for the observations; warp/metric manipulation is "certainly on the table."
 
-### Nimitz Tic-Tac (2004)
-- Drop from 28,000 ft to sea level in **0.78 seconds**
-- Minimum acceleration: **~5,000 Gs**
-- Energy required: **~1,100 gigawatts** — more than total US nuclear power output — in a craft the size of an F-18
-- At 1% thermodynamic inefficiency: 11 gigawatts of waste heat → craft would melt
-- Conclusion: requires either >99.99% thermodynamic efficiency OR a mechanism where energy is not thermally expressed in the conventional way (warp/metric manipulation)
-
-### JAL Flight 1628 (1986)
-- [[daniel-koumbi]] (Niels Bohr Institute) analyzed the actual military radar data preserved by [[john-callahan]]
-- Three separate acceleration events each **>9,000 Gs**; one reaching **~11,000 Gs**
-- Top speed: **~250,000 mph** (moon transit in ~54 minutes)
-- Object size: aircraft-carrier scale (~4 × 747 lengths)
-- A structure that large accelerating at 11,000 G is not merely an engineering challenge — it requires physics we do not possess
-
-### HMNZS Southland USO
-- 800 ft cylindrical object, 150 ft diameter (30% larger than Soviet Typhoon submarine)
-- Closed 2 km distance in 25 seconds underwater
-- Top speed: ~3,500 mph (underwater)
-- To move this mass at this speed, a 2 km × 150 ft cylinder of water must be cleared — water is incompressible; this would produce enormous waves
-- **No waves were produced** — yet sonar returned a signal (water molecules are interacting with the hull)
-- Implication: the craft interacts with sonar (acoustic reflections) while somehow not mechanically displacing bulk water — a physics contradiction with no known mechanism
-
-Knuth's assessment: warp drive is "certainly on the table" but admits the atmospheric interaction problem (no sonic boom, no friction wake) is separately unexplained.
+See [[uap-performance-envelopes]] for the full analysis with case-by-case figures.
 
 ## Key Figures
 
@@ -117,6 +95,8 @@ Knuth's assessment: warp drive is "certainly on the table" but admits the atmosp
 
 ## Connections
 
+- [[uap-performance-envelopes]] — Knuth's quantitative case-by-case analysis: Nimitz 5,000 G / 1,100 GW, JAL 9,000–11,000 G, HMNZS Southland USO water-displacement paradox
+- [[pais-schwinger-limit-pathway]] — Pais's first-person Schwinger-limit wormhole pathway; distinct from the Alcubierre metric approach
 - [[tic-tac]] — paradigm craft whose performance profile motivates this model
 - [[aawsap]] — program that produced technical reports on this physics
 - [[lue-elizondo]] — primary source describing this model
@@ -166,34 +146,16 @@ Knuth's assessment: warp drive is "certainly on the table" but admits the atmosp
 - [[6WC4o2yY9Ws]] — source for Graves's inertial manipulation framing and the high-gravity-planet evolutionary speculation
 - [[david-grusch]] — his insider testimony implies the US government has recovered craft using propulsion physics consistent with this framework; his account is the primary governmental corroboration of exotic propulsion recovery
 
-## Pais First-Person Account — Schwinger Limit Pathway (8TYMQOUDQBo)
+## Pais First-Person Account — Schwinger Limit Pathway
 
-In his first in-person interview, [[salvatore-pais]] provides the clearest first-person description of the propulsion mechanism:
+[[salvatore-pais]] describes the mechanism in his first in-person interview: breaking the Schwinger limit (~10³³ W/m²) causes spontaneous pair production and micro black hole formation; a wormhole forms between that locality and elsewhere, enabling displacement without local FTL violation. This contrasts with the Alcubierre model (stays within GR, requires externally supplied exotic matter); Pais's mechanism generates its own exotic matter internally via ω² field amplification, with [[room-temperature-superconductivity]] as the enabling technology.
 
-### The Super-Force Equation
-The **super-force equation** (C⁴/G acting as a linear operator on the quantum vacuum's spacetime geometry) encodes how energy density determines the shape of spacetime. Pais connects this to Bob Wheeler's notion and to [[bob-lazar]]'s description of the sports model as appearing "3D printed out of the spacetime fabric itself" — implying the craft was manufactured at Planck-scale control of the quantum vacuum, not via conventional chemistry.
+See [[pais-schwinger-limit-pathway]] for Pais's full first-person description including the super-force equation, Alcubierre contrast, and fifth-dimension terahertz coupling.
 
-### Schwinger Limit as Propulsion Threshold
-At the Schwinger limit (~10³³ W/m², ~10²⁵ J/m³):
-- The quantum vacuum breaks apart into particle-antiparticle pairs (spontaneous pair production)
-- A micro black hole forms in the local space
-- Pais believes every black hole has a corresponding white hole and a wormhole connecting the two
-- The craft uses this wormhole for propulsion / displacement — without violating special relativity in any local frame
-
-> "Once you form this black hole, I truly believe every black hole has a white hole — there's a wormhole that forms between whatever locality where you've broken the Schwinger limit and somewhere else."
-
-### Contrast with Alcubierre
-Pais explicitly contrasts his approach with the [[miguel-alcubierre]] warp drive:
-- **Alcubierre**: stays entirely within GR; requires exotic negative-energy matter supplied from outside the system; provides no new physics guideposts
-- **Pais**: requires new physics (breaking Schwinger limit) but *generates* its own exotic matter via the EM amplification mechanism; provides physics guideposts via the Heaviside / harmonic oscillator pathway
-
-### Terahertz Frequency and Fifth Dimension
-Pais cites [[eric-davis]]'s DIA teleportation report as connecting terahertz frequency fields to a **fifth-dimension coupling factor**. Slides 4–9 of the 2019 AIAA SciTech presentation contain what Pais calls "something of incredibly important substance" that most viewers miss — connecting the ω² field amplification to this dimensional coupling.
-
-- [[pais-effect]] — the specific mechanism (Heaviside + harmonic oscillator → ω² field amplification → Schwinger limit) described first-hand by Pais
-- [[room-temperature-superconductivity]] — the enabling technology (high-Q resonator) for the propulsion system
-- [[harold-white]] — NASA Eagle Works; attempted experimental Alcubierre metric detection; Pais endorses "Dr. White is right on the money"
-- [[mark-millis]] — co-edited *Frontiers of Propulsion Science* with Davis; NASA BPP program
-- [[victor-lachinov]] — endorsed the room-temperature superconductor enabling technology
-- [[eugene-podkletnov]] — rotating superconductor precursor; Pais's vibration approach as engineering pivot from Podkletnov's RPM-limited spin approach
+- [[pais-effect]] — the specific mechanism (Heaviside + harmonic oscillator → ω² → Schwinger limit) described first-hand by Pais
+- [[pais-schwinger-limit-pathway]] — standalone concept page for Pais's full propulsion pathway account
+- [[room-temperature-superconductivity]] — the enabling technology for reaching Schwinger-limit field strengths
+- [[eugene-podkletnov]] — rotating superconductor precursor; Pais's vibration approach as engineering pivot
 - [[8TYMQOUDQBo]] — Pais first in-person interview; fullest self-description of the propulsion pathway
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[Hc6pbG4wICA]]

@@ -14,4 +14,8 @@ A fulgurite is the natural glass produced when a high-voltage electric discharge
 ## Connections
 
 - [[NvqxmTCwHA8]] — source where this term appears
-- [[pyramid-purpose-debate]] — related concept
+- [[pyramid-purpose-debate]] — sealed fulgurites in the ore veins are physical evidence for the industrial electrical hypothesis
+- [[jeffrey-drum]] — the researcher who recovered ore samples with internal fulgurites from beneath the plateau
+- [[hydrothermal-vents]] — the geological source of the iron ore veins in which the fulgurites were found
+- [[acid-mine-drainage]] — the electrochemical metal-recovery process that high-voltage current would have supported
+- [[tethys-sea]] — the ancient ocean whose vents created the mineral matrix now containing the fulgurites

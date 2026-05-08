@@ -38,3 +38,5 @@ Republican Congressman from Missouri's 7th Congressional District; former Missou
 - [[credibility-frameworks]] — relevant to evaluating the Grusch hearsay
 - [[DPmO-2E7Ayg]] — source transcript (2024 UAP hearing)
 - [[HxQN2tkQHs8]] — source transcript (Nazca mummies episode, name appears as "Eric Berles")
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett describes Burlison's whistleblower protection bill as "the way you need to go about it" — blocked in Senate; Rogan names him as "Eric Berles" (mispronounced)
+- [[tim-burchett]] — ally on UAP whistleblower protection legislation

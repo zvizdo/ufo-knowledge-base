@@ -94,3 +94,4 @@ Graves started a small company building next-generation **space-situational awar
 - [[gravity-manipulation-propulsion]] — raises inertial reference frame manipulation as necessary explanation for instantaneous stops
 - [[1iaH1a3A4Lk]] — [[mick-west]] vs [[marik-von-rennenkampff]] debate; his GoFast formation account (4 objects in line-abreast, against 120-knot wind) and cube-in-sphere near-miss are discussed; GoFast filmed ~10 min before Gimbal; the Wizo who filmed Gimbal is described as a friend of Graves who has not yet come forward publicly
 - [[6WC4o2yY9Ws]] — primary source
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Rogan cites Graves alongside Fravor as "too many credible people" making the case for UAP reality

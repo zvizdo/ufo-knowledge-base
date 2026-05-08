@@ -84,3 +84,5 @@ This reframes the ranch from a "paranormal hotspot" to a **temporal transit poin
 - [[7W7iOt57fOo]] — American Alchemy visit with Brandon Fugel; Fugel era findings
 - [[tS_64sTN5AU]] — Jesse Michaels recounts smelling sulfur at the ranch; was followed by his worst month; then felt "saved by God"; now wears a hydrogen-sulfide gas monitor at anomalous sites
 - [[jesse-michaels]] — personal sulfur-smell experience at the ranch
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[Hc6pbG4wICA]]

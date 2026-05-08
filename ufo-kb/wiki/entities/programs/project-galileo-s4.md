@@ -52,3 +52,4 @@ Lazar believes the program long ago left [[s4]] and [[area-51]]. He speculates t
 - [[egng]] — the contractor through which Lazar was employed
 - [[d9tdJ2SkBKQ]] — source episode
 - [[reverse-engineered-craft]] — the broader concept this program exemplifies
+- Mentioned in [[BEWz4SXfyCQ]]

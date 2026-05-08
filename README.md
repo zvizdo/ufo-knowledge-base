@@ -42,7 +42,7 @@ This repo ships with three Claude Code skills that together let an LLM walk the 
 **Setup:**
 
 1. Install [Claude Code](https://www.anthropic.com/claude-code).
-2. Install [`qmd`](https://github.com/anthropics/qmd) (the embeddings index used for cold seed-finding):
+2. Install [`qmd`](https://github.com/tobi/qmd) (the embeddings index used for cold seed-finding):
    ```bash
    pip install qmd
    ```

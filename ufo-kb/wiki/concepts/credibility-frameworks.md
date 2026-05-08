@@ -85,6 +85,9 @@ Every person page ends with a Connections section that implicitly applies this l
 - [[cia]] — institutional actor whose documented track record (MK-Ultra, Operation CHAOS, COINTELPRO) is essential context for credibility-weighting of any insider source
 - [[physics-lockdown]] — the suppression of physics research is itself a credibility-relevant fact: researchers who departed academia after anomalous results are not self-discrediting, they are conforming to the documented institutional pattern
 - [[ufos-disable-nuclear-weapons]] — nuclear-site incidents provide the highest-credibility tier: instrumented readings, multi-witness, duty-assignment documentation, and PRP psychological screening
+- [[american-alchemy]] — primary KB platform whose episode-by-episode source triage applies the credibility framework; 43 shared context nodes
+- [[majestic-12]] — MJ-12 document authentication is the paradigm case for credibility triage in UAP: contested provenance, multiple chain-of-custody claims, apparent anachronisms — all canonical examples of source assessment under the framework; 42 shared neighbors
+- [[stargate-program]] — government validation of remote viewing (CIA/DIA funding, operational use, congressional termination record) is the clearest credentialed institutional endorsement of an anomalous phenomenon in the KB; 40 shared neighbors
 
 - Synthesized in [[ic-uap-retrieval-contradiction]]
 
@@ -92,3 +95,7 @@ Every person page ends with a Connections section that implicitly applies this l
 
 - Synthesized in [[gimbal-rotation-debate]]
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[Hc6pbG4wICA]]
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Sitting congressman Tim Burchett; overhead-committee access; active briefings; named military sources; TMZ origin story
+- Mentioned in [[vZEcVY2iZsk]]

@@ -14,5 +14,10 @@ Pre-dynastic Egypt is the long stretch before the unification of Upper and Lower
 ## Connections
 
 - [[NvqxmTCwHA8]] — source where this term appears
-- [[saharan-humid-period]] — related concept
-- [[archaeology-mainstream-vs-alternative]] — related concept
+- [[saharan-humid-period]] — the climatic window (8500–5300 BCE) when a pre-dynastic population could have inhabited and built at Giza
+- [[archaeology-mainstream-vs-alternative]] — the methodological dispute; pre-dynastic construction dates are the central contested claim
+- [[sphinx-water-erosion-theory]] — Schoch's dating of the Sphinx to pre-dynastic times via rainfall-weathering analysis
+- [[lost-civilization-hypothesis]] — the broader thesis that pre-dynastic Egypt was home to an advanced civilization
+- [[ancient-egypt]] — the dynastic civilization that inherited pre-dynastic infrastructure
+- [[filippo-biondi]] — his SAR subterranean data (deep tubular shafts) supports a pre-dynastic construction timeline
+- [[pyramid-purpose-debate]] — pre-dynastic dating is incompatible with the conventional tomb hypothesis; supports industrial or unknown-function readings

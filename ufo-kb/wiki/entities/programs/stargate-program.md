@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "CIA/DIA remote viewing program founded by Hal Puthoff and Russell Targ at SRI; produced operationally validated intelligence and connects to UAP-associated telepathic phenomena."
-sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/iQOibpIDx-4.md]
+sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
 name: Stargate Program
 aliases: [Project Stargate, SCANATE, Gondola Wish, Grill Flame, Center Lane, Sun Streak, Star Gate]
 parent_org: CIA / Defense Intelligence Agency (DIA)
@@ -89,6 +89,7 @@ Sheehan saw these reports directly inside Scientology's Florida HQ files while r
 - [[RofQnByLwOo]] — source; TU-22/Smith/Dozier/Puthoff feedback model described
 - [[iQOibpIDx-4]] — source: Puthoff's firsthand account of the Swann quark detector session as Stargate origin; stock market application ($260K, 70/30, stopped after 30 days due to exhaustion); submarine RV eliminating EM as mechanism; confirmed 20-year/$20M scope; Scientology check-in in mid-1970s
 - [[jesse-michaels]] — American Alchemy has covered Stargate extensively via McMoneagle, Puthoff, and Dan Sherman; Jesse frames remote viewing as institutional proof of consciousness-NHI interface
+- [[vZEcVY2iZsk]] — Vallée describes working directly with Ingo Swann for ~1 year at SRI; the coordinate remote viewing system developed from Vallée's computer-addressing analogy; Swann used CRV to locate a Russian spacecraft in an African jungle for the CIA
 
 - Synthesized in [[physics-consciousness-suppression-unified]]
 

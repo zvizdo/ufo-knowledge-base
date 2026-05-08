@@ -47,3 +47,4 @@ The documents were provided to [[george-knapp]] by [[vladimir-plantonov]] during
 - [[nuclear-uap-multilateral-evidence]] — adds Soviet institutional evidence to the multilateral pattern
 - [[credibility-frameworks]] — classified Soviet documentation obtained by a credible journalist; still-unverified authenticity
 - [[fzvwBBSmWYA]] — source
+- Mentioned in [[Hc6pbG4wICA]]

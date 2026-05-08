@@ -46,3 +46,4 @@ Each pathway faces resistance from overlapping structures: legal classification 
 - [[danny-sheehan]] — legal strategist who has theorized and pursued multiple pathways simultaneously
 - [[credibility-frameworks]] — each pathway produces evidence of different types requiring different credibility assessments
 - [[ufo-secrecy-cabal]] — the entity whose resistance each pathway must overcome
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett's legislative pathway; Florida subpoena threat as proof the mechanism works; whistleblower protection bills

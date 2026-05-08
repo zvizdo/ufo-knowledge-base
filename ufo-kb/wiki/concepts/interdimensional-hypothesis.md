@@ -41,3 +41,4 @@ This connects to Vallée's general thesis: UAP operating from a dimensional subs
 - [[credibility-frameworks]]
 - [[flatland-abbott]] — Edwin Abbott's 1884 book; primary geometric analogy for the "bigger inside than outside" hyperdimensional model
 - [[eric-davis]] — his "space-time as epiphenomenon" framing provides the physics foundation for the interdimensional model; space and time are "arbitrary" constructs, not absolute constraints
+- Mentioned in [[vZEcVY2iZsk]]

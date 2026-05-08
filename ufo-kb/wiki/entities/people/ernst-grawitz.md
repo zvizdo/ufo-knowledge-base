@@ -30,3 +30,4 @@ Ernst-Robert Grawitz (1899–1945) was a senior SS medical officer who served as
 - [[kammler-stab]] — SS advanced weapons organizational umbrella
 - [[nazi-occult]] — the SS esoteric science context
 - [[operation-paperclip]] — the US program that evaluated (and in some cases recruited) German scientists from this milieu
+- [[uranverein]] — German nuclear program; shares organizational context (kammler-stab, SS advanced weapons) with Die Glocke accounts involving Grawitz; Jaccard 0.833

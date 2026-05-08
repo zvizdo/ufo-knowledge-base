@@ -62,3 +62,5 @@ AATIP and [[aawsap]] are often conflated but were related, partially overlapping
 - [[hal-puthoff]] — served as senior adviser to AATIP; in [[iQOibpIDx-4]] describes the program's physics approach (GR-as-Maxwell) and the missing key for metric engineering
 - [[aharonov-bohm-effect]] — Puthoff's analogy for the AATIP metric engineering approach
 - [[iQOibpIDx-4]] — source: Puthoff's firsthand description of AATIP's physics methodology
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[Hc6pbG4wICA]]

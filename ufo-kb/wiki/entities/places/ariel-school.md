@@ -28,3 +28,4 @@ The children described a being with large eyes that communicated what some inter
 - [[non-human-intelligence]] — the beings described; large eyes, apparent telepathic communication
 - [[credibility-frameworks]] — mass child-witness close encounter as high-credibility case
 - [[uap-testimonial-evidence]] — the Ariel School case is among the strongest testimonial evidence in the KB
+- Mentioned in [[Hc6pbG4wICA]]

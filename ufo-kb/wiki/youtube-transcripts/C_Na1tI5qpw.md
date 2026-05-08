@@ -331,6 +331,7 @@ Rogan's unified theory (end of episode):
 - [[jfk-assassination-ufo]] — Guy Banister X-Files connection, Fred Crisman Maury Island, Harold Malmgren deathbed testimony, Dulles/Warren Commission conflict of interest
 - [[epstein-physics-nexus]] — scientists compromised = control over reality; reverse Ponzi scheme methodology
 - [[ufo-disclosure-pathways]] — amnesty requirement; US-China race; Age of Disclosure documentary
+- [[ufo-secrecy-cabal]] — 38 shared neighbors; the episode covers UAP secrecy architecture and legacy programs in depth; Grusch's testimony is framed against the structural secrecy apparatus
 - [[morphic-resonance]] — Sheldrake via Rogan; rat maze, Bannister effect, gene encoding
 - [[nazca-tridactyl-mummies]] — Peru legislation response; CT confirmed real beings; Close Encounters morphology
 
@@ -403,3 +404,4 @@ Rogan's unified theory (end of episode):
 - [[transmedium-objects]] — Burchett's five deep-ocean emergence zones; possible undersea installations; breakaway civilization
 - [[battle-space-preparation]] — [[dan-farah|Dan Farah]]: China parallel back-engineering; US-China race as urgency driver
 - [[recurring-claims]] — crash retrieval, reverse engineering, NHI; Grusch witnesses; Age of Disclosure corroborations
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Prior Rogan appearance where Burchett first disclosed five ocean emergence zones; sKwq7mpBTrY extends and corroborates

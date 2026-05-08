@@ -97,3 +97,4 @@ Dolan's view on USO retrieval: "I believe that's probably a yes" — citing the 
 ## Matthew Pines: DoD Intel Water Emergence Attack (~2025)
 
 [[matthew-pines]] opened [[LpLFWdsIU7M]] with a significant claim: DoD Intelligence contacts told him that, recently, a non-human craft emerged from a water medium and discharged directed energy that struck ("zapped") a person. See [[2025-dod-intel-nhi-water-zap]] for the full incident analysis. This claim, if accurate, would be the most recent and operationally significant NHI water emergence event in the KB — and the only one involving apparent hostile action against a US government-connected person. Corroboration: none; hearsay via DoD Intel contacts through Pines.
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett + admiral confirm four of five deep-ocean USO emergence zones; football-field-size USOs at 200+ mph

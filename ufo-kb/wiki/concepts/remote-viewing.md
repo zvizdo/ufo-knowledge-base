@@ -134,3 +134,4 @@ Puthoff references (without naming the specific session) that remote viewers pla
 - Synthesized in [[physics-consciousness-suppression-unified]]
 
 - Synthesized in [[mystery-school-consciousness-bridge]]
+- Mentioned in [[vZEcVY2iZsk]]

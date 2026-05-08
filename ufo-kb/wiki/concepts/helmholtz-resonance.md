@@ -14,5 +14,7 @@ Helmholtz resonance occurs when a cavity with a constricted opening is excited a
 ## Connections
 
 - [[NvqxmTCwHA8]] — source where this term appears
-- [[acoustic-power-plant]] — related concept
-- [[pyramid-purpose-debate]] — related concept
+- [[acoustic-power-plant]] — Christopher Dunn's power-plant hypothesis is the prior art for Helmholtz-resonator interpretation of the King's Chamber
+- [[pyramid-purpose-debate]] — Helmholtz resonance bridges two competing hypotheses (power plant vs. chemical factory) via shared acoustic infrastructure
+- [[jeffrey-drum]] — proposes the King's Chamber functions as a Helmholtz resonator accelerating chemical reaction rates
+- [[christopher-dunn]] — earlier acoustic-power-plant hypothesis that Drum's reading partially incorporates

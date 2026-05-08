@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Physicist; co-founder of the CIA/DIA Stargate remote viewing program at SRI; referenced in context of George W. Bush administration UAP disclosure discussions alongside NSA Steven Hadley."
-sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/Rfmy5oW_r9c.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/p0S0BfoZy0w.md, raw/youtube-transcripts/qAou_h1POWs.md, raw/youtube-transcripts/tS_64sTN5AU.md]
+sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/Rfmy5oW_r9c.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/p0S0BfoZy0w.md, raw/youtube-transcripts/qAou_h1POWs.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
 name: Hal Puthoff
 aliases: [Harold E. Puthoff, Harold Puthoff, Puthoff]
 roles: [researcher, official]
@@ -179,6 +179,7 @@ When [[bob-lazar]] is raised, Puthoff notes he has reason to be skeptical of Laz
 - [[1996-varginha]] — Fox mentioned discussing the Varginha sulfur odor with Puthoff and Chase Brandon at a gathering
 - [[bVhSPH2A5Vw]] — source for The Program / screening context
 - [[eric-weinstein]] — iQOibpIDx-4: extended technical conversation; Weinstein tests Puthoff on sequestered physics (Puthoff confirms), metric engineering, multiple temporal dimensions, string theory stagnation
+- [[vZEcVY2iZsk]] — Vallée describes Puthoff arriving at SRI with Russell Targ ~1974 to propose a parapsychology program; Vallée was already at SRI; Vallée critiques the BAASS/DIA investigation template (trajectory/composition/luminosity/radiation) as box-checking rather than genuine scientific inquiry into the contact phenomenon
 - [[aharonov-bohm-effect]] — Puthoff's primary engineering analogy for metric manipulation; holds two patents on vector/scalar potential engineering
 - [[polarizable-vacuum-model]] — Puthoff's published approach to GR-as-dielectric-medium; manipulates ε, μ to alter c and produce GR effects
 - [[stigma-weaponization]] — Puthoff has been subject to manufactured stigma; describes the government language for stigma operations; cites Jean Seberg as paradigm case
@@ -187,3 +188,4 @@ When [[bob-lazar]] is raised, Puthoff notes he has reason to be skeptical of Laz
 - [[cia]] — CIA funded the SRI remote-viewing program Puthoff ran; his status as a long-term CIA-adjacent contractor is the essential credibility context for all his UAP claims and TTSA roles
 - [[iQOibpIDx-4]] — source: Weinstein/Puthoff conversation; most extensive on-record technical exposition
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[BEWz4SXfyCQ]]

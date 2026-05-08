@@ -126,16 +126,11 @@ This analogy maps directly onto the William James "transmission" thesis (see [[t
 - [[eQIMantuasQ]] — source; TV receiver model; binding problem; sheep/goat epistemology; PEAR REG methodology
 
 - Synthesized in [[mystery-school-consciousness-bridge]]
+- Mentioned in [[vZEcVY2iZsk]]
 
-## Temporal Non-Locality: Wargo's Extension (RofQnByLwOo)
+## Temporal Non-Locality
 
-[[eric-wargo]]'s thesis adds a critical dimension: non-locality is not only *spatial* (remote viewing of distant locations) but **temporal** — the brain as a quantum system can access its *future knowledge state* via retrocausality. The popular presentation of quantum non-locality focuses on spatial entanglement (Einstein's "spooky action at a distance"), but quantum mechanics equally implies **temporal entanglement**: delayed-choice experiments with entangled photon pairs show that a future measurement retroactively determines an earlier outcome.
+[[eric-wargo]] extends spatial non-locality to temporal: the brain as a quantum system can access its *future knowledge state* via retrocausality — experienced as precognition, intuition, or confirmatory feedback in remote viewing. [[hal-puthoff]] confirmed this as consistent with Stargate's mechanics. See [[quantum-brain-precognition]] for the full model.
 
-If the brain is a quantum system (Penrose-Hameroff), this temporal non-locality applies to mental states. A future knowledge state can send a signal backward in time — experienced as intuition, precognition, or a "gut feeling" that a decision is correct despite insufficient current evidence. Remote viewers on this model are perceiving their own future confirmatory feedback, not the present target directly. [[hal-puthoff]] confirmed this model as consistent with his understanding of Stargate's mechanics.
-
-This temporal extension converges the non-local consciousness thesis with [[quantum-brain-precognition]] and gives a physical mechanism for the phenomenon [[jessica-utts]] statistically validated.
-
-## Matthew Pines: Quantum Brain Thesis (LpLFWdsIU7M)
-
-[[matthew-pines]] in [[LpLFWdsIU7M]] introduces a concise version of the quantum brain thesis: "I think the brain itself is probably, you know, maybe a room temperature quantum system." This aligns with the Penrose-Hameroff Orchestrated Objective Reduction (Orch-OR) framework, which proposes that quantum processes in neural microtubules underlie conscious experience. Pines links this directly to the NHI communication question: if the brain operates quantum mechanically, then NHI telepathic communication may require a quantum channel rather than electromagnetic signaling — which would explain why it is invisible to conventional instrumentation and why it cannot be engineered conventionally. The quantum consciousness framework becomes load-bearing for the broader Triangle thesis (AI + quantum + Grusch), since understanding NHI interaction may require cracking quantum consciousness before or alongside cracking UAP propulsion. See [[ai-as-cosmic-gateway]].
+[[matthew-pines]] in [[LpLFWdsIU7M]] independently introduces the quantum brain thesis: *"I think the brain itself is probably a room temperature quantum system."* This makes NHI telepathic communication via quantum channels natural rather than anomalous — load-bearing for the Triangle thesis (AI + quantum + Grusch). See [[ai-as-cosmic-gateway]].
 - Mentioned in [[KhmUixSXxDo]] — Jones endorses Penrose quantum observer effect; consciousness non-locality as politically suppressed knowledge

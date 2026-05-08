@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Handwritten notes allegedly taken by Dr. Eric Davis from a conversation with Admiral Thomas R. Wilson in a Las Vegas parking lot on October 16, 2002. Wilson allegedly confirmed knowledge of a private-sector crash-retrieval and reverse-engineering program that he was denied access to as DIA Director. One of the most significant alleged documents in UAP disclosure history."
-sources: []
+sources: [raw/youtube-transcripts/BEWz4SXfyCQ.md]
 title: Wilson-Davis Memo
 authors: [eric-davis]
 date: "2002-10-16 (alleged)"
@@ -35,3 +35,6 @@ The document appeared online in June 2019, leaked from the estate of astronaut [
 - [[disclosure-narratives]] — the Wilson-Davis memo as a key document in controlled-disclosure debate
 - [[david-grusch]] — Grusch's allegations in 2023 corroborate the broader pattern Wilson described
 - [[source-type-frameworks]] — classified as leaked/alleged; provenance disputed
+- [[jeremy-corbell]] — authenticated on camera in [[BEWz4SXfyCQ]]: "I'm in a position to know and it is a real document"; confirmed EG&G meeting location and private-industry SAP denial
+- [[egng]] — the meeting location per Corbell's authentication: EG&G Special Projects, Las Vegas
+- [[BEWz4SXfyCQ]] — source where Corbell authenticates it on camera (JRE #1315, 2019)

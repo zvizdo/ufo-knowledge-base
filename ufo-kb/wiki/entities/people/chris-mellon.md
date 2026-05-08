@@ -54,3 +54,5 @@ This is significant for two reasons: (1) it corroborates Vallée's thesis that U
 
 - Synthesized in [[ic-uap-retrieval-contradiction]]
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[Hc6pbG4wICA]]
+- [[vZEcVY2iZsk]] — JRE #2288 (2025-03-12); told Vallée there are high-resolution photographs and video of UAP but has not provided them; cited as source of Rogan's frustration with perpetual near-disclosure

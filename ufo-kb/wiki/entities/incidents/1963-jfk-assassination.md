@@ -75,3 +75,4 @@ Sheehan's critical insight: the JFK assassination doesn't end in 1963. The S For
 - [[cia]] — CIA involvement in Kennedy assassination
 
 - Synthesized in [[cia-mob-jfk-uap-same-infrastructure]]
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett explicitly parallels UAP cover-up with JFK file suppression; Schumer UAP bill modeled on JFK records act

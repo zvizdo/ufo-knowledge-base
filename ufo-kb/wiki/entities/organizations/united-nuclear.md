@@ -30,3 +30,4 @@ United Nuclear represents Lazar's post-S4 career trajectory: he pivoted from exo
 - [[bob-lazar]] — founder and operator
 - [[d9tdJ2SkBKQ]] — source episode
 - [[ufo-secrecy-cabal]] — the CPSC raid is cited by Lazar as part of ongoing post-disclosure harassment
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett references Lazar running United Nuclear Labs as credibility evidence

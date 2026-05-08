@@ -64,3 +64,4 @@ DeLonge's public statements about the phenomenon are often more cosmological and
 - [[Y7PLeu5rTv4]] — Levenda's account of their collaboration, Austin TTSA meeting, Prometheus insider, and TTSA physical material
 - [[chris-bledsoe]] — Bledsoe brought DeLonge to Zanesville, Ohio to receive a piece of the recovered glowing red metal; same source as Taylor and Puthoff
 - [[bM18PJY6_Zc]] — Zanesville metal receipt confirmed
+- Mentioned in [[Hc6pbG4wICA]]

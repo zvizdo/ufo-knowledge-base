@@ -38,3 +38,6 @@ She identified the beings as potentially **interdimensional** (consistent with c
 - [[kash-patel]] — FBI Director; recipient of implied resource/authority transfer from AARO
 - [[jake-barber]] — murder allegations Barber raised are the nexus of the FBI investigation Luna appears to be pointing toward
 - [[V00WcEiKRAY]] — source for AARO defunding tweet and FBI transfer implication
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); named by Burchett as part of the core UAP legislative group; joined Florida pilot briefing trip with Burchett and Gaetz
+- [[matt-gaetz]] — traveled together to Florida for the blocked-then-forced pilot briefing
+- [[tim-burchett]] — co-legislator; named her as a consistent UAP transparency partner

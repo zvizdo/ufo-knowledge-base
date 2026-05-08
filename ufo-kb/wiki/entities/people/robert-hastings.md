@@ -98,3 +98,4 @@ In his [[sean-ryan]] interview, [[jake-barber]] explicitly cites *UFOs and Nukes
 - [[09KP8XVf5nY]] — Malmgren endorses UFOs and Nukes as the authoritative document of nuclear-site UAP activity; cites ~170 Q-clearance whistleblowers
 - Mentioned in [[1f16VvXaSSE]]
 - [[1iaH1a3A4Lk]] — Merrick read the book on the flight to the debate; Hastings later emailed to correct Merrick's on-air misstatement about witness composition; cited as evidence of his credibility that he corrects errors immediately
+- Mentioned in [[Hc6pbG4wICA]]

@@ -41,3 +41,4 @@ Lazar believes Dennis died not long before the episode was filmed ("I think he's
 - [[d9tdJ2SkBKQ]] — source episode
 - [[ufo-secrecy-cabal]] — the casino incident is consistent with a surveillance-and-intimidation operation around Lazar post-disclosure
 - [[credibility-frameworks]] — another missing potential corroborating witness; reportedly deceased
+- Mentioned in [[BEWz4SXfyCQ]]

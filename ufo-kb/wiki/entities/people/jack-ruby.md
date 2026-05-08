@@ -44,3 +44,4 @@ West's documented area of specialty included **inducing insanity in a person wit
 - [[credibility-frameworks]] — his mob connections and FBI informant status are documented; conspiracy coordination role is inferred from the HSCA conclusion and access anomaly
 
 - Synthesized in [[cia-mob-jfk-uap-same-infrastructure]]
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Rogan describes Jolly West's post-Oswald-shooting visit and Ruby's subsequent psychotic breakdown; was sane before the visit

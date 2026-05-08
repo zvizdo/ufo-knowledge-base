@@ -14,4 +14,8 @@ ScanPyramids announced the Big Void in 2017 based on muon tomography data: a rou
 ## Connections
 
 - [[NvqxmTCwHA8]] — source where this term appears
-- [[muon-tomography]] — related concept
+- [[muon-tomography]] — the detection technique used by ScanPyramids to identify the Big Void
+- [[scan-pyramids-project]] — the 2017 project that announced the Big Void detection
+- [[satellite-sar]] — Biondi's competing method whose SAR reconstruction challenges the Big Void interpretation
+- [[filippo-biondi]] — argues the Big Void is a mis-localization of the Grand Gallery, not a new chamber
+- [[pyramid-purpose-debate]] — the Big Void debate is a live data point in the broader dispute over internal pyramid architecture

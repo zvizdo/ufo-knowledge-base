@@ -14,5 +14,10 @@ SAR (Synthetic Aperture Radar) is an active microwave imaging technique that syn
 ## Connections
 
 - [[NvqxmTCwHA8]] — source where this term appears
-- [[phonon]] — related concept
-- [[muon-tomography]] — related concept
+- [[phonon]] — the elastic micro-vibration mechanism SAR exploits to image subsurface structure
+- [[muon-tomography]] — the competing non-invasive imaging method; SAR phonon imaging yields significantly higher resolution
+- [[filippo-biondi]] — developed the Giza SAR application using COSMO-SkyMed data
+- [[beyond-protocol]] — Biondi's published framework describing the SAR tomography methodology
+- [[cosmos-skymed]] — the Italian satellite constellation providing the SAR data
+- [[gran-sasso-laboratory]] — 1.4 km underground validation site confirming SAR phonon depth capability
+- [[big-void]] — a disputed 2017 muon detection that Biondi's SAR reinterprets as the Grand Gallery mislocalized

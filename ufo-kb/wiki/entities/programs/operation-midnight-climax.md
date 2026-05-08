@@ -43,3 +43,4 @@ The San Francisco safe houses overlapped geographically and chronologically with
 - [[charles-manson]] — possible subject or product of the broader SF MK-Ultra milieu
 - [[colin-ross]] — added George White's identity and quote as the head of the operation
 - [[deep-state-continuity]] — non-consensual experimentation on civilians as a documented CIA practice
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Rogan describes Operation Midnight Climax (CIA LSD brothel); connects to modern CIA domestic capability

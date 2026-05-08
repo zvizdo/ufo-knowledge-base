@@ -32,3 +32,4 @@ UAP suppression refers to the systematic and deliberate concealment of UAP evide
 - [[uap-disclosure-act]] — legislative response to suppression
 - [[whistleblower-protection-gap]] — the structural inadequacy protecting UAP whistleblowers
 - [[robertson-panel]] — 1953 CIA panel that institutionalized debunking policy
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett identifies Trump as 'enemy number one' with the UAP secrecy faction; theatrical disclosure prediction

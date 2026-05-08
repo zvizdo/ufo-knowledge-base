@@ -139,3 +139,4 @@ This FFRDC conduit architecture is the operational mechanism by which RE program
 - [[disclosure-narratives]] — core disclosure-narrative claim
 - [[credibility-frameworks]] — REC insiders (Davis, Grusch, Herrera, Barber) each require credibility analysis; NDA structure means silenced ≠ discredited
 - [[thomas-townsend-brown]] — if reverse-engineered craft use electrogravitic propulsion, Brown's 1950s work is the prototype lineage: the B-2/Northrop connection and the classified program that went dark in 1957 are the human-origin half of the same physics program
+- Mentioned in [[BEWz4SXfyCQ]]

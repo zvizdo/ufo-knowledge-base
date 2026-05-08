@@ -134,3 +134,5 @@ This adds a new dimension to Nolan's CIA-adjacent research brief on UAP biologic
 - [[jesse-michaels]] — overlapping KB neighborhood; both are central nodes connecting UAP materials science, the invisible college, and scientific credibility discourse
 - [[james-valor]] — met Valor in early, secretive Skywatcher meetings; spoke at USS Hornet UAP hackathon about difficulty and expense of UAP data analysis; [[y_8IKKcTntQ]]
 - Mentioned in [[u7g5Sn1DJF4]]
+- [[vZEcVY2iZsk]] — JRE #2288 (2025-03-12); Vallée describes giving all his UAP samples to Nolan; Nolan using Stanford machines (some invented by Nolan) for isotope analysis; red-deposit sample compromised by prior labs; results to be published as they go; Nolan and Vallée discussed whether Grays are biological or artificial life
+- [[peter-sturrock]] — the Stanford lineage: Sturrock collected UAP materials → donated to Vallée → Vallée donated to Nolan; Nolan is the third node in this Stanford UAP materials science chain

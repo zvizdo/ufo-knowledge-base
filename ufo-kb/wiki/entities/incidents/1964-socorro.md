@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "April 24, 1964 landing case in Socorro, New Mexico; police officer Lonnie Zamora witnessed an egg-shaped craft and two beings; physical evidence documented in Project Blue Book files; caused Dr. Hynek to reverse his view on Close Encounters of the Third Kind."
-sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
+sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
 name: 1964 Socorro Landing
 date: 1964-04-24
 location: Socorro, New Mexico
@@ -58,4 +58,8 @@ Fox became deeply involved:
 - [[phenomenology-categories]] — CE3 (Hynek scale)
 - [[ray-stanford]] — lead Socorro investigator; wrote *Socorro Saucer on a Pentagon Pantry* (1976); Fox met Stanford during his 5-year investigation; Stanford's archives led Fox to Holloman
 - [[credibility-frameworks]] — police officer witness; documented physical evidence
+- [[trinity-best-kept-secret]] — one of three egg-shaped cases in the republished book alongside Trinity (1945) and Valensole (1965)
+- [[1965-valensole-case]] — third egg-shaped case in the same trilogy; same being description and witness paralysis
+- [[1945-san-antonio-trinity-crash]] — first egg-shaped case in the trilogy
 - [[bVhSPH2A5Vw]] — source transcript
+- [[vZEcVY2iZsk]] — Vallée states he has the complete official Socorro file; FBI was in the area for an unrelated case and helped preserve physical trace evidence; one of three egg-shaped cases in the republished Trinity book

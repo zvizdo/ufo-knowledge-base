@@ -14,4 +14,9 @@ Muon tomography measures the absorption of cosmic-ray muons by dense materials; 
 ## Connections
 
 - [[NvqxmTCwHA8]] — source where this term appears
-- [[satellite-sar]] — related concept
+- [[satellite-sar]] — Biondi's competing method; SAR phonon imaging offers finer resolution than muon attenuation
+- [[big-void]] — the 2017 ScanPyramids detection made via muon tomography; disputed by Biondi's SAR data
+- [[scan-pyramids-project]] — the international consortium that conducted the 2017 muon survey
+- [[luis-alvarez]] — Nobel laureate who led the first muon scan of Khafre's pyramid in the 1970s
+- [[filippo-biondi]] — argues the Big Void muon result is a mislocalization artifact, not a new chamber
+- [[pyramid-purpose-debate]] — muon tomography and SAR are the two primary non-invasive tools for resolving the interior-structure question

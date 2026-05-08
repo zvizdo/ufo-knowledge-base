@@ -350,6 +350,7 @@ Future episode teased:
 
 ## Connections
 
+- [[u7g5Sn1DJF4]] — companion American Alchemy episode with 53 shared context nodes; both cover overlapping legacy program territory (BDM, Operation Laser Strike, Office of Global Access, crash retrievals)
 - [[1988-norton-afb]] — central incident; most operationally detailed public account in this episode
 - [[dugway-proving-grounds]] — thesis of the episode title; Battelle, Weinbrenner, Boeing corroboration
 - [[zodiac-program]] — Majestic 12 evolution traced; [[kit-green|Kit Green]]/Puthoff/Davis email chain cited

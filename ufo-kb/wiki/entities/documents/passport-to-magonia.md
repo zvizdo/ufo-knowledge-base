@@ -51,3 +51,4 @@ Hancock extends the analysis even further back: shamanic cave art (30,000+ years
 - [[control-system-hypothesis]] — *Magonia*'s historical continuity argument underpins the control-system model: millennia of consistent encounter patterns suggest deliberate, managed contact
 - [[noble-myth-cultural-filter]] — the book's core thesis is the cultural-filter argument: same phenomenon, different packaging across eras
 - [[fyX8V1XXmQM]] — Vallée discusses *Magonia*'s reception ("people said Vallée has gone off the deep end") and affirms its core thesis in dialogue with Michaels
+- Mentioned in [[vZEcVY2iZsk]]

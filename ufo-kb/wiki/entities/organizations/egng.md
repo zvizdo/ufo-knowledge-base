@@ -103,3 +103,4 @@ EG&G's "no records" of Lazar is consistent with the systematic credential and em
 - [[ufo-nuclear-nexus]] — EG&G is the organizational bridge between nuclear programs and UAP management
 - [[deep-state-continuity]] — EG&G's continuous presence across AEC → DOE → Area 51 → Cape Canaveral → private labs makes it a primary vehicle for institutional knowledge transmission
 - [[TNtlzEnl8rA]] — Primary source for this record
+- Mentioned in [[BEWz4SXfyCQ]]

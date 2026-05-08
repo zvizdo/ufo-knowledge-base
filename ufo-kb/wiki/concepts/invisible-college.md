@@ -75,3 +75,4 @@ The Invisible College is, in Vallée's framing, a Rosicrucianism-inspired attemp
 - [[tS_64sTN5AU]] — Jesse explicitly connects the current Invisible College to the Rosicrucian roots of the Enlightenment; Pasulka's "fourth research tradition" (accidental insider-civilian collaborations) is described as a new form of the Invisible College
 - [[encounters-pasulka]] — the fourth research tradition is documented in *Encounters*; Pasulka and Tyler as its exemplars
 - [[john-blitch]] — self-identifies as a member of the Invisible College in [[yAvD5UTziTo]]; military/DARPA node bringing combat intelligence experience and firsthand experiencer testimony
+- Mentioned in [[vZEcVY2iZsk]]

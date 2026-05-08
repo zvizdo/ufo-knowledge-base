@@ -43,3 +43,4 @@ Based on Lacatski's direct insider position as a DIA official who co-founded AAW
 - [[hunt-for-the-skinwalker]] — the predecessor book covering NIDS investigations
 - [[bigelow-aerospace]] — operated the AAWSAP contract; FOIA-exempt data structure
 - [[uap-private-sector-foia-exemption]] — the book's existence as a partially declassified document underscores how tightly the full record is held
+- Mentioned in [[Hc6pbG4wICA]]

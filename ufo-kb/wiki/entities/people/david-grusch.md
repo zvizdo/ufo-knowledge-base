@@ -217,3 +217,5 @@ This framing offers independent corroboration (from an operational peer) that Gr
 - [[holographic-principle-uap]] — Grusch explicitly raises inside-bigger-than-outside pattern as evidence for higher-dimensional craft shadow-casting
 - [[hBrfe4hFuM0]] — Fox cites Grusch confirming the tridactyl Peru mummies "look like things he's seen in classified settings"; Fox draws connection to Varginha (also three-fingered)
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[BEWz4SXfyCQ]]
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Congressional UAP disclosure ecosystem Burchett operates in; Grusch's 'get me in a SCIF' posture cited

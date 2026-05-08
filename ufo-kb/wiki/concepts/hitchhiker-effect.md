@@ -49,3 +49,4 @@ It overlaps with:
 - [[basal-ganglia-uap-predisposition]] — possible individual-difference predictor of susceptibility
 - [[consciousness-non-local]] — one theoretical frame that could accommodate a non-site-specific phenomenon
 - [[recurring-claims]] — paranormal phenomena following researchers is a recurring claim across multiple traditions
+- Mentioned in [[Hc6pbG4wICA]]

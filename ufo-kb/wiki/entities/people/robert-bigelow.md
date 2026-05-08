@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Aerospace entrepreneur and UAP researcher; founder of NIDS (National Institute for Discovery Science); much of AATIP's early investigative activity occurred at his facilities, including Skinwalker Ranch."
-sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/iPxbILOMQ08.md]
+sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/iPxbILOMQ08.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
 name: Robert Bigelow
 aliases: [Bigelow]
 roles: [researcher, other]
@@ -59,3 +59,6 @@ Bigelow was also at one point going to **hire Steve Coburn** for his company. Th
 - [[steve-coburn]] — Leir told Coburn that Bigelow had an alien encounter in the desert; Bigelow was going to hire Coburn (fell through; suspected government pressure)
 - [[iPxbILOMQ08]] — source (secondhand via Coburn/Leir)
 - [[hBrfe4hFuM0]] — Fox recalls 2009 lunch at Bigelow's Las Vegas home where Bigelow told him "they're walking among us"
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[Hc6pbG4wICA]]
+- [[vZEcVY2iZsk]] — Vallée critiques the DIA/BAASS investigation template (trajectory, composition, luminosity, radiation) as designed to check boxes for Pentagon investigators rather than provide genuine scientific analysis of the contact phenomenon

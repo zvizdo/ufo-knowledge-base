@@ -49,3 +49,7 @@ The video was recorded alongside [[2015-gofast]] during a series of encounters b
 - [[ralph-blumenthal]] — journalist whose reporting released the video
 
 - Synthesized in [[uap-camera-evasion-problem]]
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[Hc6pbG4wICA]]
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Gimbal footage cited as corroboration of Lazar's 1989 craft-rotation description (Rogan's argument for Lazar credibility)
+- Mentioned in [[vZEcVY2iZsk]]

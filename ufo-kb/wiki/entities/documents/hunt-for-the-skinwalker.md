@@ -40,3 +40,4 @@ Based on NIDS investigation records to which Kelleher had direct access, and on 
 - [[skinwalkers-at-the-pentagon]] — the successor book covering AAWSAP findings and the hitchhiker effect
 - [[recurring-claims]] — cattle mutilation, orbs, UAP, poltergeist activity, NHI encounters all appear
 - [[hitchhiker-effect]] — introduced as a pattern in NIDS investigations; documented more fully in the sequel
+- Mentioned in [[Hc6pbG4wICA]]

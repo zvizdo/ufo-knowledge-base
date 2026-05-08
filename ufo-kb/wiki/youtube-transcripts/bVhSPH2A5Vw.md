@@ -436,6 +436,7 @@ his entry into UAP research in the early 1990s through the forthcoming [[the-pro
 
 - [[james-fox]] — primary subject; full career retrospective
 - [[the-program-fox]] — forthcoming documentary screened the night prior
+- [[credibility-frameworks]] — Fox's career approach (authenticating the Robertson Panel debunking document, tracing the Holloman footage chain, validating Socorro physical evidence) models the credibility framework methodology in practice; 42 shared context nodes
 - [[the-phenomenon-fox]] — prior masterwork; eight-year production
 - [[robertson-panel]] — Fox's root cause for UAP ridicule culture
 - [[project-blue-book]] — identified as sham; real program ran parallel at CIA/OSI

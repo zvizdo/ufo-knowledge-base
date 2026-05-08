@@ -33,3 +33,4 @@ The existence of Sidekick, alongside the high-priority "remote disable" directiv
 - [[project-looking-glass]] — companion program focused on time observation/influence
 - [[d9tdJ2SkBKQ]] — source episode
 - [[recurring-claims]] — weaponized UAP technology is a recurring claim across multiple disclosure sources
+- Mentioned in [[BEWz4SXfyCQ]]

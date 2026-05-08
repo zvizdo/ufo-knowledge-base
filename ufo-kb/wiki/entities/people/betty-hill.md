@@ -67,3 +67,4 @@ Vallée favors interpretation (2) as more epistemically interesting: the experie
 - [[Rjr3Yq-dMUE]] — source (Svahn's disclosure of Betty's crash + buried debris)
 - [[noble-myth-cultural-filter]] — the Hills' Outer Limits detail is Vallée's paradigm case for cultural mediation of NHI encounters
 - [[fyX8V1XXmQM]] — source; Vallée's Outer Limits discussion and noble-myth reading
+- Mentioned in [[Hc6pbG4wICA]]

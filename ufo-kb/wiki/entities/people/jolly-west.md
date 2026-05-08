@@ -88,3 +88,4 @@ He was a "Zelig" figure — appearing at critical junctures throughout the assas
 
 - Synthesized in [[mk-ultra-mind-control-ecosystem]]
 - [[2SQXAPCdmPE]] — Sheehan describes West spending 24 unrecorded hours with Ruby in jail; West's Jolly West's post-visit report of Ruby's 'psychotic break' assessed as post-hoc brainwashing
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Rogan describes West visiting Jack Ruby after Oswald shooting and Ruby going "insane" (psychotic breakdown, "lighting Jews on fire"); contrasts with Ruby's documented sanity before the visit; framed as evidence CIA can conduct mental coercion even today

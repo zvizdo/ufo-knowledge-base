@@ -31,3 +31,4 @@ Republican Congresswoman from South Carolina's 1st Congressional District; elect
 - [[uap-disclosure-act]] — the legislative framework she was enforcing oversight of
 - [[disclosure-narratives]] — bipartisan UAP oversight push she represents
 - [[DPmO-2E7Ayg]] — source transcript
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Part of bipartisan UAP oversight coalition Burchett identifies; Republican oversight chair

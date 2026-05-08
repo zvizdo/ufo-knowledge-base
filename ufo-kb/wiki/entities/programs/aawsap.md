@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Advanced Aerospace Weapons Systems Application Program — a classified Pentagon program (2007–2012) that studied UAPs and anomalous phenomena, including operations at Skinwalker Ranch."
-sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/LnAiNChnuEQ.md]
+sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/LnAiNChnuEQ.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
 name: AAWSAP
 aliases: [Advanced Aerospace Weapons Systems Application Program]
 parent_org: Pentagon / Defense Intelligence Agency (DIA)
@@ -53,3 +53,6 @@ The program produced a series of Defense Intelligence Reference Documents (DIRDs
 - [[harry-reid]] — attempted SAP elevation via wrong channel
 - [[special-access-programs]] — AAWSAP needed SAP elevation to access crash retrieval materials
 - [[LnAiNChnuEQ]] — source for Davis's AAWSAP operational account
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[Hc6pbG4wICA]]
+- [[vZEcVY2iZsk]] — Vallée critiques the BAASS/DIA investigation template: Pentagon investigators requested trajectory, composition, luminosity, and radiation data — not witness contact quality or consciousness effects; template served bureaucratic accountability over genuine scientific inquiry into the phenomenon

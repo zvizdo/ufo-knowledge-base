@@ -56,3 +56,4 @@ The cultural filter is tightly coupled to the [[control-system-hypothesis]]: if 
 - [[trickster-phenomenon]] — the cultural filter is part of the trickster's adaptive presentation
 - [[interdimensional-hypothesis]] — IDH explains why the phenomenon can adapt its presentation: it is not physically constrained by a particular form
 - [[fyX8V1XXmQM]] — source episode
+- Mentioned in [[vZEcVY2iZsk]]

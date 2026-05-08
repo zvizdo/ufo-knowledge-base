@@ -83,3 +83,4 @@ All nine craft simultaneously present at [[s4]] had identical reactors. This is 
 - [[charles-buhler]] — NASA electrostatics research relevant to the hull electret and force-field behavior
 - [[d9tdJ2SkBKQ]] — source episode with most detailed reactor description to date
 - [[reverse-engineered-craft]] — the reactor is the core of the reverse-engineering challenge
+- Mentioned in [[BEWz4SXfyCQ]]

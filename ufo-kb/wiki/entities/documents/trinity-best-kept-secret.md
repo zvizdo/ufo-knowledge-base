@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "2021 book by Jacques Vallée and Paola Harris documenting the alleged 1945 San Antonio, NM UFO crash — 20 days after the Trinity atomic test and two years before Roswell; argues UFO history predates the postwar 'flying saucer' era."
-sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
+sources: [raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
 title: "Trinity: The Best Kept Secret"
 authors: [Jacques Vallée, Paola Harris]
 date: "2021"
@@ -37,4 +37,7 @@ Primary witnesses [[remy-baca]] and [[jose-padilla]] (ages 7 and 9 at the time) 
 - [[ufo-nuclear-nexus]] — Trinity crash is a key early data point for the nuclear-UAP correlation
 - [[atomic-energy-act-classification]] — the classification track Vallée hypothesizes holds these materials
 - [[passport-to-magonia]] — companion theoretical framework: UFOs predate the postwar era
+- [[1964-socorro]] — second egg-shaped case in the republished trilogy
+- [[1965-valensole-case]] — third egg-shaped case in the republished trilogy
 - [[fyX8V1XXmQM]] — source episode where Vallée discusses the book
+- [[vZEcVY2iZsk]] — Vallée discusses the republished second edition on JRE #2288; explains the three-case structure (Trinity 1945, Socorro 1964, Valensole 1965) — all egg-shaped craft with ~3-ft air-breathing humanoids, physical traces, and witness paralysis; a new motor pool report was found for the republication

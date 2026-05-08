@@ -14,4 +14,8 @@ Khemet (km.t in Egyptian transliteration) is conventionally read as 'the Black L
 ## Connections
 
 - [[NvqxmTCwHA8]] — source where this term appears
-- [[pyramid-purpose-debate]] — related concept
+- [[pyramid-purpose-debate]] — the industrial-function reading that Drum's etymology supports
+- [[jeffrey-drum]] — the researcher who proposes the "land of chemistry" reinterpretation
+- [[acid-mine-drainage]] — the chemical process whose gypsum byproduct created the fertile black soil
+- [[ancient-egypt]] — the civilization whose self-name Khemet encodes either soil color or industrial function
+- [[lost-civilization-hypothesis]] — broader framework: Khemet as a name inherited from an older technical civilization

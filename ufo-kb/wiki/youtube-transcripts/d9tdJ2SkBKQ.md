@@ -456,3 +456,4 @@ Luigi Vendetti describes the production of *[[s4-the-bob-lazar-story|S4: The Bob
 - [[mike-mcconnell]] — possibly the "Admiral Mlen" cited in John Lear's account of the S4 program chain of custody; former NSA director
 - [[s4-the-bob-lazar-story]] — Luigi Vendetti's documentary; 4-year production; institutional attacks (debanking, court subpoena for all Lazar communications) during production
 - s4 archway — at least one internal archway becomes fully transparent when the reactor is active; Lazar's interpretation: navigation display using gravity-lensed view of the exterior
+- Mentioned in [[BEWz4SXfyCQ]]

@@ -14,4 +14,8 @@ The Osiris Shaft contains brackish water whose chemistry does not match Nile-der
 ## Connections
 
 - [[NvqxmTCwHA8]] — source where this term appears
-- [[pyramid-purpose-debate]] — related concept
+- [[pyramid-purpose-debate]] — hydraulic isolation is a key element of the chemical-factory and underground-city hypotheses
+- [[osiris-shaft]] — the subterranean shaft where the brackish independent water was found
+- [[karst-cave-system]] — the deep cave network beneath Giza that may connect to the aquifer source
+- [[filippo-biondi]] — documents the waterproofed shafts whose isolation corroborates a separate water system
+- [[hydrogen-sulfide]] — another subsurface fluid rising through the karst system, consistent with an independent subterranean circulation

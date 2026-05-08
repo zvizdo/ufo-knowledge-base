@@ -14,5 +14,8 @@ A phonon is a quantized vibrational mode in a crystalline lattice or solid mediu
 ## Connections
 
 - [[NvqxmTCwHA8]] — source where this term appears
-- [[satellite-sar]] — related concept
-- [[muon-tomography]] — related concept
+- [[satellite-sar]] — the macro-scale application that exploits phonon responses for subterranean imaging
+- [[muon-tomography]] — the competing detection method; phonon-SAR offers higher resolution and greater depth
+- [[filippo-biondi]] — the researcher who applies phonon physics to Giza via COSMO-SkyMed SAR data
+- [[beyond-protocol]] — Biondi's published methodology describing the phonon-SAR technique
+- [[gran-sasso-laboratory]] — validation site where phonon-SAR resolved structure at 1.4 km depth

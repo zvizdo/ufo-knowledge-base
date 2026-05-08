@@ -48,3 +48,4 @@ This incident — if the documents are authentic — is the single most alarming
 - [[ufos-disable-nuclear-weapons]] — this case goes further: missiles *activated* then deactivated
 - [[robert-hastings]] — cites Plantonov/Knapp documents in his nuclear-UAP corpus
 - [[credibility-frameworks]] — documents are reportedly still classified; provenance unverified by Western sources
+- Mentioned in [[Hc6pbG4wICA]]

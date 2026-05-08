@@ -69,3 +69,4 @@ Nine craft were simultaneously present at S4, all structurally different in shap
 - [[d9tdJ2SkBKQ]] — source episode with most detailed physical description to date
 - [[reverse-engineered-craft]] — this is the canonical exemplar of the concept
 - [[disc-shaped-craft]] — the craft type classification
+- Mentioned in [[BEWz4SXfyCQ]]

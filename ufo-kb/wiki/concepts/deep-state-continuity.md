@@ -102,3 +102,4 @@ Additional connections from [[9QMrhcpJq8I]]:
 - [[harold-malmgren]] — continuous witness across four administrations; "living legend" corroborating institutional continuity
 - [[matthew-pines]] — analyst who adds the PSB node to the lineage
 - [[9QMrhcpJq8I]] — source
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Rogan raises MK Ultra / CIA / Jolly West / Jack Ruby as evidence of deep-state capability continuous to today

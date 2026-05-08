@@ -3,7 +3,7 @@ type: concept
 name: Control System Hypothesis
 aliases: [control mechanism hypothesis, NHI control system, Vallée control system]
 tags: [jacques-vallee, intermittent-reinforcement, skinner, behaviorism, trickster, nhi-behavior, uap-ontology, civilizational-control, consciousness, claims-theses]
-sources: [raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/tS_64sTN5AU.md]
+sources: [raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
 ---
 
 # Control System Hypothesis
@@ -70,3 +70,4 @@ The control-system hypothesis provides the *functional purpose* behind what the 
 - [[diana-pasulka]] — cites the control system in context of Vallée's lunch and Satan book; endorses the "both-and" (real phenomenon + manipulation) framing
 - [[antonio-villas-boas]] — cited alongside Betty/Barney Hill as an example of targeted individuals in the control system
 - [[contact-forcing-function]] — the forcing function may be a specific tool within the control system
+- [[vZEcVY2iZsk]] — JRE #2288; Vallée elaborates the control system framing: grays discussed as possibly artificial life built specifically to operate the control mechanism; the Valensole case cited as evidence of behavioral modification — beings communicated "bigger meaning for life" to the witness, sworn to secrecy about the content

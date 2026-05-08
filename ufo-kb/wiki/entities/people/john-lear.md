@@ -73,3 +73,4 @@ Bill Lear's Lear Corporation was located directly across the street from Brown's
 - [[mike-mcconnell]] — [[uap-gerb]] speculates that "Mike Mlelen" (Lear's named MJ-12 contact who arranged Lazar's S4 access) may be Admiral Mike McConnell, NSA director — which would link McConnell to both the Lazar and [[dan-burish]] S4 access chains
 - [[u7g5Sn1DJF4]] — source (McConnell/Mlelen speculation)
 - [[d9tdJ2SkBKQ]] — Lazar recounts how he met Lear through [[gene-huff]] (house appraisal); describes Lear's extreme credulity ("no filter") alongside genuine aviation credentials; Lear first suggested Lazar contact [[george-knapp]]; Lear's father Bill Lear (inventor of autopilot, 8-track tape, radio direction finder) removed John entirely from his will
+- Mentioned in [[Hc6pbG4wICA]]

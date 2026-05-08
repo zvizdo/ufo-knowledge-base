@@ -39,3 +39,4 @@ The Uranverein (German: "uranium club") was Germany's nuclear weapons research p
 - [[nazi-occult]] — the broader context of SS science programs and esoteric research
 - [[los-alamos-national-laboratory]] — the successful American program that superseded the Uranverein
 - [[kammler-stab]] — SS organizational umbrella for advanced weapons programs including alleged Die Glocke
+- [[ernst-grawitz]] — SS doctor alleged to have been involved in Die Glocke testing; shared organizational context via kammler-stab and nazi-occult; Jaccard 0.833

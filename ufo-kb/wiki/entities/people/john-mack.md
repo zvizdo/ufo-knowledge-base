@@ -134,3 +134,4 @@ A recorded conversation between Mack and [[terence-mckenna]] is cited in [[0qlpp
 - [[michael-oconnell]] — Mack's direct clinical heir; worked for years with Chris Bledsoe using Mack's memory-recovery protocol
 - [[chris-bledsoe]] — O'Connell's primary patient; the Mack lineage reaches Bledsoe's case
 - [[bM18PJY6_Zc]] — O'Connell as Mack's heir confirmed
+- Mentioned in [[Hc6pbG4wICA]]

@@ -39,3 +39,4 @@ RFK Jr. is not a direct UAP witness or insider, but his position in the KB refle
 - [[open-source-healing-suppressed]] — MAHA movement alignment
 - [[jfk-assassination-ufo]] — Kennedy family assassinations as a node in the deep-state-UAP nexus
 - [[credibility-frameworks]] — prominent public figure; firsthand claims on assassination limited to secondhand family information
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett draws parallel between UAP disclosure suppression and attacks on RFK Jr. as institutional retaliation

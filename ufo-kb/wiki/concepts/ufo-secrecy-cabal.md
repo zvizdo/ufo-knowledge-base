@@ -105,3 +105,7 @@ See [[astronomical-data-suppression]] for the full pattern.
 - [[LpLFWdsIU7M]] — source for Pines's cargo cult framing
 - [[john-blitch]] — frames the cabal's crimes as murders or condoned murders to protect the abduction secret; offers conditional amnesty if leaders publicly admit they cannot protect citizens from abductors; specifically names [[richard-doty]] and [[afosi]]; [[yAvD5UTziTo]]
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[Hc6pbG4wICA]]
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); 'War pimps at the Pentagon'; presidential exclusion; military stonewalling Florida pilots; members being compromised
+- Mentioned in [[vZEcVY2iZsk]]

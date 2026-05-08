@@ -53,5 +53,7 @@ Long-form interview format; typically 1.5–3 hours per episode. Michaels brings
 - [[area-52]] — Chris Ramsey's home podcast; sister show
 - [[source-type-frameworks]] — Cultural source type; the raw import material
 - [[disclosure-narratives]] — the podcast's editorial frame
+- [[credibility-frameworks]] — the show explicitly applies source credibility analysis as its editorial frame; Michaels's triage approach across all episodes is a core application of the credibility framework
+- [[david-grusch]] — the most consequential single source in the American Alchemy corpus; kRO5jOa06Qw covers his congressional testimony and personal background in depth
 - [[index]] — full episode index for all imported transcripts
 - Mentioned in [[u7g5Sn1DJF4]]

@@ -152,6 +152,7 @@ In response to Jesse's coinage of "forcing function," Pasulka endorses it fully:
 - [[aKZ_MUbuk_Q]] — source episode
 - [[carl-nell]] — Hereticon co-panelist; Army UAP Task Force; four-heresy taxonomy
 - [[cosmism]] — Pasulka's central contribution in this KB: both space programs rooted in NHI-belief traditions
+- [[catholic-aerial-phenomena-medieval]] — her archival corpus of 1200–1800 CE European aerial phenomena; St. Francis 1224 stigmata as electromagnetic injury; 1947 dividing line
 - [[ufo-electromagnetic-injuries]] — stigmata as UAP radiation burns; her primary-source analysis
 - [[space-program-patches]] — first-century Latin mission patches; "sponsors" oral tradition
 - [[chris-bledsoe]] — 2017 Vatican ceremony organized around him; his photo placed between Galileo and Copernicus

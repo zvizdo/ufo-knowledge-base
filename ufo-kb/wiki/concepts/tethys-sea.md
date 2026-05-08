@@ -14,4 +14,8 @@ The Tethys Sea was a Mesozoic-era ocean that covered much of the present-day Med
 ## Connections
 
 - [[NvqxmTCwHA8]] — source where this term appears
-- [[pyramid-purpose-debate]] — related concept
+- [[pyramid-purpose-debate]] — industrial-function thesis that depends on Tethys-deposited ore veins
+- [[hydrothermal-vents]] — the specific geological mechanism that deposited the ore
+- [[jeffrey-drum]] — researcher who builds the chemical-factory thesis on Tethys-era geology
+- [[acid-mine-drainage]] — the extraction process applied to the Tethys-deposited iron ore
+- [[ancient-egypt]] — civilization that allegedly inherited infrastructure built atop the Tethys deposits

@@ -39,3 +39,4 @@ Angela Hill is the only known public figure with a direct biological connection 
 - [[joe-rogan]] — regrets not knowing about the connection during the recording
 - [[abduction-phenomena]] — extends the Hill case into the present generation
 - [[C_Na1tI5qpw]] — source
+- Mentioned in [[Hc6pbG4wICA]]

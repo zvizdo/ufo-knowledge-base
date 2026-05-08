@@ -57,3 +57,4 @@ O'Neill explicitly does not claim to have proven CIA involvement beyond doubt. H
 - [[credibility-frameworks]] — primary-source archival research; no smoking gun; Glomar responses confirm CIA interest
 - [[colin-ross]] — corroborates O'Neill's Manson/MK Ultra thesis independently from the CIA Doctors archive
 - [[UrHLTFvdEZk]] — American Alchemy episode; Ross cites Chaos as "very amazing book"
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Rogan recommends Chaos to Burchett (refers to author as "Tom O'Neal" — mispronounced); framed in context of CIA's modern capacity for covert behavioral manipulation paralleling its 1960s honeypot/LSD era

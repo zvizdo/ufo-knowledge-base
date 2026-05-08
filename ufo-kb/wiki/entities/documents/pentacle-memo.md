@@ -40,3 +40,4 @@ Found in Project Blue Book files by Vallée.
 - [[robertson-panel]] — the forum from which it was deliberately withheld
 - [[ufo-secrecy-cabal]] — the memo is evidence of a deliberate parallel structure
 - [[ufos-disable-nuclear-weapons]] — the pattern of nuclear-site hotspots described in the memo aligns with this claim
+- Mentioned in [[vZEcVY2iZsk]]

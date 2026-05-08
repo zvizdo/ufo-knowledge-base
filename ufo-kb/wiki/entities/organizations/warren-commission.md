@@ -28,3 +28,4 @@ In the KB, the Warren Commission is a primary exhibit in the [[deep-state-contin
 - [[danny-sheehan]] — continues to challenge Commission findings through Romero Institute
 - [[deep-state-continuity]] — the Commission as institutional cover for covert-action capabilities
 - [[mk-ultra]] — CIA activities the Commission did not investigate that were active during the same period
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett cites accountant who audited the Warren Commission report and found inconsistencies; JFK parallel for UAP cover-up

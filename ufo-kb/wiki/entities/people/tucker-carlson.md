@@ -28,3 +28,4 @@ Tucker Swanson McNear Carlson (born 1969) is an American political commentator a
 - [[lue-elizondo]] — former AATIP director interviewed
 - [[uap-suppression]] — the cover-up narrative Carlson's coverage emphasized
 - [[controlled-disclosure]] — Carlson's platform as part of the media ecosystem through which disclosure occurs
+- Mentioned in [[Hc6pbG4wICA]]

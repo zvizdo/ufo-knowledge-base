@@ -107,3 +107,4 @@ Sheehan also notes that Elizondo and [[steven-greer]] have deep mutual antagonis
 - [[bechtel]] — alleged Monsanto-Bechtel connection in UAP/biological specimen storage context
 - [[q7Czo77qhHA]] — Monsanto/Bechtel connection cited by Jesse Michaels as part of the pharma-UAP-secrecy nexus
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[Hc6pbG4wICA]]

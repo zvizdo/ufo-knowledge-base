@@ -72,6 +72,7 @@ Key implication: neither the government nor the public "owns" the disclosure tra
 - [[ralph-blumenthal]] · [[leslie-kean]] — Narrative 4 actors (journalist-forced release)
 - [[marco-rubio]] · [[john-ratcliffe]] — Narrative 4 political actors
 - [[aaro]] — officially Narrative 1; behaviorally consistent with Narrative 2 per critics
+- [[jacques-vallee]] — 38 shared context nodes; his 50-year direct field investigation represents the Narrative 4 alternative to waiting for government release; his frustration with the DIA/BAASS template (trajectory/composition) is a canonical critique of Narrative 1's limitations
 - [[condon-commission-whitewash]] — historical example of Narrative 2 (managed null result)
 - [[astronomical-data-suppression]] — evidence pattern that fits Narrative 1 or 2 depending on interpretation
 - [[project-blue-book]] — official Narrative 1/2 vehicle in its era
@@ -112,3 +113,7 @@ Key implication: neither the government nor the public "owns" the disclosure tra
 - Mentioned in [[ePdH01pphbk]] — Jesse's 'dark forest benevolent partner' closing framing is a novel first-contact disclosure narrative
 - Mentioned in [[KhmUixSXxDo]] — Jones/Michaels speciation thesis as disclosure frame: consciousness bifurcation as NHI selection pressure
 - Mentioned in [[Y7PLeu5rTv4]] — Levenda's Fight Club thesis and 'you are the disclosure' formulation; TTSA managed-culture-disclosure approach
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[Hc6pbG4wICA]]
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett's disclosure prediction: report will be theatrical, loaded with redactions; congressional exposure tradition
+- Mentioned in [[vZEcVY2iZsk]]

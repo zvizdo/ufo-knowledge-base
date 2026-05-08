@@ -35,3 +35,4 @@ Co-authored [[skinwalkers-at-the-pentagon]] with [[colm-kelleher]] and [[george-
 - [[skinwalkers-at-the-pentagon]] — the book documenting AAWSAP's findings
 - [[hitchhiker-effect]] — documented in the book as one of AAWSAP's most disturbing findings
 - [[credibility-frameworks]] — DIA insider with direct program access; firsthand experience; constrained by classification
+- Mentioned in [[Hc6pbG4wICA]]

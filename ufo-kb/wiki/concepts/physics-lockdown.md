@@ -87,22 +87,17 @@ Bob adds that the [[string-theory-as-deflection]] hypothesis goes beyond the Wei
 - [[tesla-papers]] — the unreleased corpus; the most significant single gap in public physics knowledge
 - [[thomas-townsend-brown]] notebooks — now publicly available; relevant as a partial analog to the suppressed domain
 
-## Academia vs. Aerospace vs. Startup (Graves / Michaels, 2026)
+## Academia vs. Aerospace vs. Startup
 
-[[ryan-graves]] and [[jesse-michaels]] independently articulate a present-tense version of the lockdown dynamic that does not require top-down suppression — only institutional incentive structures:
+[[ryan-graves]] and [[jesse-michaels]] articulate a present-tense version of the lockdown operating through institutional incentives rather than top-down suppression: academia penalizes anomalous physics research; defense contractors have no mechanism for unexpected discoveries; only the private/startup sector provides an environment for genuine exotic propulsion research. Legislative instruments (Mansfield Amendments, Invention Secrecy Act 1952, [[atomic-energy-act-classification|AEA 1954]]) created the structural conditions for a classified domain to advance while the public domain was constrained. [[carl-nell]] proposes a Bell Labs model as the resolution; [[matthew-pines]] adds that AI cannot be suppressed the same way, creating a strategic asymmetry.
 
-- **Academia**: grant competition → career risk of exploring anomalous physics → publish only within the consensus window → the productive directions remain unexplored
-- **Big primes (defense contractors)**: project timelines are 10–15 years; exotic physics is not incentivized in a contracting structure
-- **Startups / private sector**: no publication pressure, no career risk, outcome-oriented funding → the only environment where anomalous propulsion, materials, and energy physics is actively being pursued
-
-Michaels adds a historical pivot: the **Mansfield Amendments** disentangled military and academic funding, and the **Invention Secrecy Act of 1952** created a mechanism by which military-relevant patents can be classified from filing. The 1954 **Atomic Energy Act** (see [[atomic-energy-act-classification]]) operates in parallel. Together these legislative acts created the structural conditions for a private/classified domain to advance while the public domain was limited.
-
-[[carl-nell]] argues the resolution is a return to the **Bell Labs model** — quasi-public/private funding for high-risk, long-timeline physics — possibly with nationalized support given the geopolitical urgency. Graves notes that private capital is available and interested; the challenge is matching it to research with sufficiently wide commercial application to justify the investment horizon.
+See [[propulsion-physics-institutional-divide]] for the full three-sector analysis and legislative architecture.
 
 ---
 
 ## Connections
 
+- [[propulsion-physics-institutional-divide]] — Graves/Michaels analysis of academia/contractor/startup incentive structures as the present-tense form of the lockdown; Nell's Bell Labs resolution; Pines's AI asymmetry
 - [[directed-energy-uap-weapon]] — The X-ray laser physics underlying Project Excalibur and SDI is one of the most operationally significant classified physics domains; its classification directly contributed to the glass wall by removing a productive thread from open research.
 - [[nhi-telepathic-communication]] — The physics of non-local consciousness — whatever the mechanism underlying remote viewing and UAP material telepathy — is almost certainly part of the classified domain; its absence from public physics is a direct consequence of the lockdown.
 - [[time-travel-uap]] — Brown's gravitational time-travel theory and whatever Tesla's papers contain on temporal effects represent the most speculative but potentially most consequential portion of the suppressed physics; the glass wall prevents any public verification or falsification.

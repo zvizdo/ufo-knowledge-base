@@ -50,3 +50,4 @@ Jesse Michaels notes a striking divergence: Carl Sagan and Hynek operated in the
 - [[donald-menzel]] — indirect mentor via the Menzel → Whipple → Hynek lineage
 - [[carl-sagan]] — went opposite direction on UFOs at the same time Hynek became a believer
 - [[lbGE3EC6StE]] — Operation Moonwatch role and Hynek/Sagan divergence discussed
+- Mentioned in [[vZEcVY2iZsk]]

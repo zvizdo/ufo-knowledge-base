@@ -68,3 +68,4 @@ Graves's biggest disappointment: that panel provision was **removed** from the f
 - Mentioned in [[u7g5Sn1DJF4]]
 - Mentioned in [[LpLFWdsIU7M]]
 - [[1iaH1a3A4Lk]] — [[mick-west]] and [[marik-von-rennenkampff]] debate AARO's record: got the Gimbal date wrong, never interviewed GoFast air crew; [[sean-kirkpatrick]]'s analytical failures (Aguadilla, star misidentification); [[jon-kosloski]] admitted "true anomalies" he cannot explain and pledged to release footage; Susan Goff "handler" dynamic visible at both George Mason (Nov 2023) and congressional testimony
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett critiques AARO's structural limitations as DoD-answering body unable to act on congressional disclosure

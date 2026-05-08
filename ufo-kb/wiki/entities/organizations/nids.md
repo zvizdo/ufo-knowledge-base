@@ -46,4 +46,4 @@ Much of AATIP's early investigative activity occurred at Bigelow facilities. The
 - [[bass]] — NIDS's AAWSAP-era successor contractor entity
 - [[LnAiNChnuEQ]] — Davis names NIDS as one of the three data sources he transferred to Grusch
 - [[recurring-claims]] — auto-added during 2026-05-03 maintenance pass for constitution compliance; verify and refine
-
+- Mentioned in [[Hc6pbG4wICA]]

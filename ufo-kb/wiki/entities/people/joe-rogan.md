@@ -75,3 +75,5 @@ Rogan tentatively frames these beings as **future humans** — post-reproductive
 - [[SZBI85yvV5A]] — [[jesse-michaels]] appeared on JRE (episode live at air time); Rogan had been texting Jesse about binging American Alchemy; Jesse describes Rogan as "a hero of mine" and "a strong force for good and free thought"; [[jamie-vernon]] (Young Jamie) was also present in the episode's context as Rogan's producer and Jesse's friend
 
 - Synthesized in [[apollo-skepticism-cluster]]
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[vZEcVY2iZsk]]

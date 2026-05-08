@@ -32,3 +32,4 @@ UAP disclosure legislation refers to the accumulated body of US Congressional ac
 - [[uap-suppression]] — the classification architecture these laws are attempting to pierce
 - [[controlled-disclosure]] — the executive-managed pace of disclosure the legislation is partly responding to
 - [[aaro]] — the All-domain Anomaly Resolution Office established by this legislation
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett describes congressional UAP legislative landscape; Burlison whistleblower bill kept being killed in Senate

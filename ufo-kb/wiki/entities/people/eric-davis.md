@@ -143,17 +143,7 @@ Davis provided an extensive review of exotic propulsion concepts that were inves
 
 ## Space-Time as Epiphenomenon (fyX8V1XXmQM)
 
-In [[fyX8V1XXmQM]], [[jacques-vallee]] relays a key physics position from Davis concerning a witness account in which an NHI entity contested the witness's sense of both time and location — telling them they were wrong about what time it was and where they were.
-
-Davis's framing (as relayed by Vallée):
-
-> "Those dimensions like space and time — they're arbitrary. There's something deeper that creates the illusion of space and time in humans. We really don't have a good idea of what reality is. It's not even obvious that we can stop it long enough to look at it."
-
-Davis frames reality as **quantum foam** — not tied to any particular space-time frame, with space and time as emergent epiphenomena of something more fundamental. The entity's challenge to the witness ("you're wrong about time, you're wrong about space") is not an impossibility but a *demonstration* of perceiving from outside the emergent space-time layer.
-
-This position is directly relevant to [[interdimensional-hypothesis]]: if space-time is a human-constructed epiphenomenon, craft that appear to move impossibly or exist "inside 4D space" are not violating physics — they are operating from the substrate level at which the physics parameters are defined.
-
-Vallée uses this in his "bigger inside than outside" discussion (see [[flatland-abbott]] for the geometric analogy), and Davis's physics framing provides the theoretical grounding: what humans perceive as the craft's exterior is only the cross-section of a higher-dimensional object intersecting the space-time epiphenomenon layer.
+Davis frames reality as **quantum foam** — space and time are arbitrary emergent epiphenomena of something more fundamental, not fundamental dimensions themselves. Relayed by [[jacques-vallee]] in [[fyX8V1XXmQM]] after a witness account in which an NHI entity corrected the witness's sense of both time and location. The implication: NHI operating from the substrate level at which space-time parameters are defined would perceive those parameters as conventional approximations, not constraints. See [[spacetime-as-epiphenomenon]] for the full framing and its implications for the [[interdimensional-hypothesis]] and [[flatland-abbott]] geometry.
 
 [[james-fox]] cites Davis in [[hBrfe4hFuM0]] on the Holloman AFB landing (President Bush Sr. was briefed on or shown the footage as CIA Director) and includes Davis on camera in *Moment of Contact New Revelations* demanding presidential immunity to testify on crash retrievals and alien bodies.
 
@@ -198,6 +188,7 @@ Vallée uses this in his "bigger inside than outside" discussion (see [[flatland
 - [[sole-source-contracts]] — Davis explained the contracting mechanism for black programs
 - [[LnAiNChnuEQ]] — major interview; source for AAWSAP role, ARV refutation, Russia/China retrievals, HW Bush account
 - [[invisible-college]] — identified by Garry Nolan as one of the five members he was introduced to by the CIA; [[dzTZbSNsKV8]]
+- [[spacetime-as-epiphenomenon]] — standalone concept page for Davis's full epiphenomenon framing and its implications
 - [[flatland-abbott]] — the geometric analogy Vallée uses alongside Davis's space-time epiphenomenon framing
 - [[interdimensional-hypothesis]] — Davis's "space-time is arbitrary / epiphenomenal" position is the physics foundation for the interdimensional model
 - [[fyX8V1XXmQM]] — source for the space-time epiphenomenon quote section above

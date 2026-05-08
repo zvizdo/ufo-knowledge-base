@@ -78,3 +78,5 @@ The debate remains unresolved. The question of a stable isotope is the load-bear
 - [[d9tdJ2SkBKQ]] — source episode with updated details on characterization methods and the isotope question
 - [[reverse-engineered-craft]] — element 115 is the central material in the most detailed reverse-engineering account
 - [[recurring-claims]] — element 115 / heavy super-elements as UAP propellant is a recurring claim in disclosure discourse
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[Hc6pbG4wICA]]

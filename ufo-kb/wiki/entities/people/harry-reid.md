@@ -55,3 +55,5 @@ Davis does not question Reid's sincerity — he understands Reid genuinely wante
 - [[steven-hadley]] — Bush's NSA; the clearing house Reid should have worked through
 - [[special-access-programs]] — the classification mechanism Reid was attempting to use
 - [[bass]] — the AAWSAP contractor that would have benefited from SAP elevation
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[Hc6pbG4wICA]]

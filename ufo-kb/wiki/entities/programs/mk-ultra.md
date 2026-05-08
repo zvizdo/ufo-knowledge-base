@@ -96,3 +96,4 @@ In the late 1970s, SEI was privatized, rebranded as SURL Metadata, acquired by p
 - [[scientific-engineering-institute]] — CIA proprietary created by OARD; privatized → GD SURL (Rumsfeld) → Monsanto
 - [[donald-rumsfeld]] — chaired GD SURL; brokered 1985 Monsanto acquisition of the MK-Ultra research apparatus continuation
 - [[monsanto]] — corporate endpoint of MK-Ultra's behavioral research via the OARD/SEI/Rumsfeld chain
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Rogan raises MK Ultra through Jolly West/Jack Ruby/Operation Midnight Climax/Chaos thread

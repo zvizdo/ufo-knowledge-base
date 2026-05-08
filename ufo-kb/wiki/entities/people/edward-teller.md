@@ -88,3 +88,4 @@ Brandenburg also describes Teller's curiosity about controlled fusion — Teller
 - [[john-brandenberg]] — worked under Teller at Lawrence Livermore; multiple direct conversations; found him "creative and enlightened"
 - [[andrei-sakharov]] — Teller's Soviet counterpart; confirmed Teller's H-bomb reasoning was correct; both converged on same vacuum physics insights
 - [[p0S0BfoZy0w]] — Brandenburg's direct personal account
+- Mentioned in [[BEWz4SXfyCQ]]

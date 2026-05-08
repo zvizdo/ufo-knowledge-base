@@ -460,6 +460,7 @@ Second major [[american-alchemy]] episode featuring [[uap-gerb]]. UAPGerb's most
 
 - [[uap-gerb]] — primary guest; advances pyramid model, whistleblower documentation
 - [[jesse-michaels]] — host
+- [[nTiFs8LudUo]] — companion American Alchemy episode with 53 shared context nodes; both cover overlapping legacy program territory (BDM, Operation Laser Strike, Office of Global Access, Battelle, crash retrieval infrastructure)
 - [[ufo-legacy-program-pyramid]] — framework detailed here; most complete single-source description in KB
 - [[nuro]] — 6th intel agency, expanded discussion; Navy/CIA DS&T tug-of-war for control
 - [[derivative-technology]] — UAPGerb's preferred term over ARV; electrooptic cloaking + mass reduction

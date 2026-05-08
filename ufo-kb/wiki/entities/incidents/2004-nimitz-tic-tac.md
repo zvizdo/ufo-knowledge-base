@@ -51,3 +51,5 @@ In [[jMCavr3dVP0]], [[eric-haseltine]] (NSA Director of Research, developed free
 - [[ufo-nuclear-nexus]] — proximity to Point Mugu Naval Air Weapons Station and California nuclear infrastructure is noted in some analyses
 - [[eric-haseltine]] — assessed plasma hypothesis; concluded it doesn't account for visual signature; "something real going on there"
 - [[jMCavr3dVP0]] — source for Haseltine plasma analysis
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[Hc6pbG4wICA]]

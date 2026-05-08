@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Self-described physicist who claims to have worked at S4, a facility near Area 51, reverse-engineering recovered alien propulsion systems. His claims introduced 'Element 115' into UFO discourse and remain the most influential and contested whistleblower account in ufology."
-sources: [raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JE1oM89dpBc.md, raw/youtube-transcripts/RTEWLSTyUic.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/q7Czo77qhHA.md, raw/youtube-transcripts/xnxasfyHtfo.md]
+sources: [raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/BEWz4SXfyCQ.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JE1oM89dpBc.md, raw/youtube-transcripts/RTEWLSTyUic.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/q7Czo77qhHA.md, raw/youtube-transcripts/xnxasfyHtfo.md]
 name: Bob Lazar
 aliases: [Robert Scott Lazar]
 roles: [whistleblower, researcher]
@@ -67,6 +67,22 @@ Lazar says he was given briefing documents asserting that humans were geneticall
 - **Janet Airlines**: Area 51's classified commuter airline (flying workers between Las Vegas and the base) was not in the public zeitgeist until Lazar named it — a detail confirmed by subsequent journalism.
 - Area 51 itself was not officially confirmed to exist until the Obama administration needed to expand the security perimeter and was forced to acknowledge the base.
 - [[joe-rogan]] frames Lazar as the figure the entire modern disclosure wave is "playing catch-up to" — [[david-grusch]], [[hal-puthoff]], and others confirm Lazar's broad framework decades later.
+
+## Russian Scientists at S4 (BEWz4SXfyCQ)
+
+In [[BEWz4SXfyCQ]], Lazar confirms that during the early phase of the S4 project (while he was there in 1988–1989), **Soviet scientists were present at the facility**. Barry Castillo referred to them as "the commies." At some point — during Lazar's tenure or shortly after — **another team made a significant discovery**, and the Russians were **permanently expelled** from the base. Lazar does not know what the discovery was or which team made it.
+
+## Craft With Projectile Damage (BEWz4SXfyCQ)
+
+One of the nine craft at S4 was a very flat disc — "like a straw hat" — sitting on its edge. It had what appeared to be a **hole punched through the edge**, as if a projectile had been fired through it. Lazar could not determine whether this was weapons testing by the U.S. program or damage the craft arrived with from its original context.
+
+## Corona Discharge and Silent Flight (BEWz4SXfyCQ)
+
+During the one flight test Lazar witnessed from outside the hangar: during liftoff, a **blue corona discharge** (high-voltage brush discharge) appeared at the bottom of the craft — a slight hissing sound accompanied it. At approximately 5–10 feet altitude, both the discharge and the hissing stopped instantly. The craft then hovered in complete silence. Lazar's inference: whatever electrostatic mechanism operates during liftoff (possibly related to the [[biefeld-brown-effect]] and hull electret hypothesis) dissipates once the craft is clear of the ground.
+
+## Getting Caught (BEWz4SXfyCQ)
+
+After Lazar obtained the Wednesday test flight schedule, he took friends to watch three separate times from outside the perimeter. On the **third observation**, his group arrived in a motor home — a conspicuous mistake. Security guards with night-vision scopes were standing 20 feet away in pitch darkness; one guard dropped a scope and it rolled into the light. Guards surrounded the group. Lazar was debriefed the following day at Indian Springs Air Force Base, where security presented him with transcript records of his wife's affair (his calls were being monitored). He was released that night, then immediately contacted [[george-knapp]].
 
 ## Project Gravitar (Upcoming)
 
@@ -152,6 +168,10 @@ The episode notes the [[doe-secret-science-nexus]]: the Department of Energy (a 
 - [[1992-cape-canaveral-saucer]] — Rogers' sighting; the craft described
 - [[egng]] — EG&G routed Lazar's employment and Janet flights; also ran Area 51 security; EG&G's fingerprints connect the Lazar account to broader contractor management of the program
 - [[TNtlzEnl8rA]] — Source for Rogers' Sport Model comparison
+- [[BEWz4SXfyCQ]] — JRE #1315 (2019); Russian scientists at S4; projectile-damaged craft; blue corona discharge; getting-caught motor-home incident; Project Looking Glass time-weapon confirmation on camera
+- [[mike-thigpen]] — security clearance officer Lazar named publicly in 1989; confirmed by Corbell after 30 years
+- [[dr-krangle]] — came forward to confirm being in security briefings with Lazar at Los Alamos
+- [[tyler-rogoway]] — journalist who independently confirmed the S4-era biometric bone-scanner at Tonopah Test Range
 - [[ning-lee]] — Lee's AC/DC gravity types are a potential physical basis for Lazar's gravity A/B wave claims
 - [[5OUzGygIrSw]] — Rossi discusses Lazar's credibility and the A/B wave correlation
 - [[8TYMQOUDQBo]] — Pais validates the sports-model "3D printed from spacetime" description via super-force equation; cites Teller connection as credibility anchor
@@ -186,3 +206,5 @@ The episode notes the [[doe-secret-science-nexus]]: the Department of Energy (a 
 - [[d9tdJ2SkBKQ]] — deepest technical interview to date; structural analysis; Teller tape; Dr. Buer surprise confrontation
 - [[coast-to-coast-am]] — platform where Lazar first reached mass audiences after the George Knapp KLAS broadcasts
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[Hc6pbG4wICA]]
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Rogan watched the S4 documentary with Lazar and director Luigi; Lazar emotional watching CGI recreation of craft; corroborated by Nimitz footage matching his 1989 craft movement descriptions; Burchett knows the story through George Knapp

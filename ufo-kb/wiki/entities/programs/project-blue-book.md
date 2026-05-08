@@ -45,6 +45,7 @@ Investigate UFO reports; maintain public confidence that the USAF took the issue
 - [[1952-washington-dc-flyover]] — the July 1952 DC sightings directly prompted General Samford's press conference debunking; the "temperature inversion" explanation is a canonical early example of Blue Book's debunking posture
 - [[ufo-nuclear-nexus]] — Rupelt's nuclear-proximity finding and Battelle involvement tie Blue Book directly to the nuclear nexus
 - [[james-mcdonald]] — his *[[science-in-default]]* analyzed Blue Book's case files and found systematic failure to investigate best cases
+- Mentioned in [[vZEcVY2iZsk]]
 
 ## The Sheehan Photo Viewing — January 1977
 
@@ -80,3 +81,4 @@ Full account: [[1977-sheehan-blue-book-photos]]
 - [[5udx_SDdL3Y]] — Jesse Michels uses the Australian memo as the central evidence for Blue Book as a front program
 - [[william-coleman]] — USAF Colonel who had a personal UAP encounter while flying a B-55 over Alabama, then became Project Blue Book's public spokesman
 - [[credibility-frameworks]] — Blue Book is the canonical case study for institutionalized credibility suppression: the program's own files contained classified evidence it publicly dismissed
+- Mentioned in [[vZEcVY2iZsk]]

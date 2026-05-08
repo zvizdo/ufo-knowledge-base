@@ -24,3 +24,4 @@ The Pentagon's role in UAP is dual: (1) as the institutional driver of UAP class
 - [[david-grusch]] — filed his whistleblower complaint about Pentagon-linked programs
 - [[uap-private-sector-foia-exemption]] — Pentagon contractors claiming exemptions
 - [[skinwalkers-at-the-pentagon]] — book title; documents AAWSAP/Pentagon link
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett: 'war pimps at the Pentagon' won't give up UAP secrecy

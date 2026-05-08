@@ -115,3 +115,4 @@ Long-form interview between [[jesse-michaels]] (host, *American Alchemy*) and [[
 - [[bureau-of-simulation]] — the parable as a free-standing concept page
 - [[skinwalker-ranch]] — repeat-experiencer Army officers carrying phenomenon home
 - [[diana-pasulka]] — hierophany framework for positive vs. trickster contact
+- Mentioned in [[vZEcVY2iZsk]]

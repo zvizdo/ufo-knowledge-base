@@ -91,3 +91,4 @@ When a new source asserts a claim:
 - [[harold-malmgren]] — spans categories 1, 2, 5, and 6
 - [[bob-lazar]] — spans categories 1 (crash retrieval) and 2 (reverse engineering); his claims introduced Element 115 as a recurring-claims anchor point
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[BEWz4SXfyCQ]]

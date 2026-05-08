@@ -37,3 +37,4 @@ New details from the Ross interview ([[UrHLTFvdEZk]]):
 - [[1963-jfk-assassination]] — the central event; Oswald as the alleged lone gunman
 - [[ufo-secrecy-cabal]] — some accounts allege Kennedy's knowledge of or intentions regarding UAP programs were a factor in his assassination
 - [[colin-ross]] — source for Pierre Lafitte / Hydell alias and mother's impersonation letter
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Jack Ruby shot Oswald; Jolly West's post-shooting psychiatric visit to Ruby; MK Ultra connection raised by Rogan

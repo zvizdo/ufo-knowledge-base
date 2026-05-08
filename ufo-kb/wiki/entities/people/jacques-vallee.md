@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "French-American computer scientist, venture capitalist, and pioneering UFO researcher; discovered the Pentacle Memo in Project Blue Book files; worked alongside J. Allen Hynek."
-sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/dfPfPB601hw.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/kRO5jOa06Qw.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
+sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/dfPfPB601hw.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/kRO5jOa06Qw.md, raw/youtube-transcripts/zjpvfDFc4fg.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
 name: Jacques Vallée
 aliases: [Jacqu Valet (transcript phonetic)]
 roles: [researcher]
@@ -86,7 +86,7 @@ While working with IBM's first computer in France in the early computer era, Val
 
 ## Eric Davis on Space-Time (fyX8V1XXmQM)
 
-Vallée relays [[eric-davis]]'s position on a witness account where an NHI entity contested the witness's sense of time and location: *"You're wrong about time. You're wrong about space. You don't know where you are. You don't know what time it is — in fact, you don't know what *time* is."* Davis's physics framing (per Vallée): space and time are arbitrary; *something deeper creates the illusion of space and time in humans*. Reality is quantum foam — not tied to any particular space-time frame.
+Vallée relays [[eric-davis]]'s framing of NHI testimony: space and time are arbitrary epiphenomena of something more fundamental — quantum foam — and NHI are not bound by them. See [[spacetime-as-epiphenomenon]] for the full model.
 
 ## Project Rulebook (fyX8V1XXmQM)
 
@@ -135,6 +135,7 @@ Vallée is a fan of [[philip-k-dick]] — specifically *VALIS* — and endorses 
 - [[invisible-college]] — he coined the name; referencing Boyle/Rosicrucianism as a model for science-spirit integration
 - [[ufo-religion-convergence]] — in [[fyX8V1XXmQM]] Vallée frames UFO research as potentially re-merging the science/spirit schism from the Enlightenment
 - [[eric-davis]] — relays Davis's position that space and time are "arbitrary" — something deeper creates their illusion
+- [[spacetime-as-epiphenomenon]] — the standalone concept extracted from this testimony; Davis's quantum-foam framing
 - [[philip-k-dick]] — Vallée is a fan; endorses VALIS and the anamnesis/Gnostic-wound framing; *Invisible College* (1975) and Dick's *Radio Free Albemuth* were written concurrently and independently share the "teaching satellite/awakened recipients" structure — a precognitive convergence per Wargo
 - [[eric-wargo]] — identifies the *Invisible College* / *Radio Free Albemuth* 1974–75 convergence as a mutual precognitive event; Jesse encountered Vallée who showed him VALIS as his favorite book
 - [[hXYdkcv5TtY]] — source for the Dick-Vallée convergence discussion
@@ -149,3 +150,9 @@ Vallée is a fan of [[philip-k-dick]] — specifically *VALIS* — and endorses 
 - [[big-dipper-nhi-nexus]] — Betty Hill began reporting seeing one too many stars in the Big Dipper before her encounter (per Vallée)
 - [[consciousness-non-local]] — Vallée's control-system and interdimensional frameworks require NHI operating through a non-local consciousness medium; his inside-bigger-than-outside empirical case implies hyperdimensional, non-local properties
 - [[zjpvfDFc4fg]] — source; Mojave Nordic rumor; Betty Hill dipper observation
+- [[vZEcVY2iZsk]] — JRE #2288 (2025-03-12); ARPANET/SRI origin; personal RV sessions with Swann (Andes peak experience); Russian spacecraft in Africa; Trinity republication (3 egg-shaped cases); Valensole visit; Nolan materials analysis; Raytheon FLIR memo; Federico Faggin OBE; Redwood Forest contact experiences (first public disclosure); Rogan frustration with disclosure non-delivery
+- [[ingo-swann]] — worked with Swann in structured RV sessions for ~1 year at SRI; Vallée's computer-addressing analogy contributed to coordinate RV development; Swann trusted and admired by Vallée
+- [[peter-sturrock]] — was on Sturrock's astrophysics staff; inherited Sturrock's UAP material collection on retirement; passed to Nolan
+- [[1965-valensole-case]] — visited the site with French government diplomat; heard communication claim sworn to secrecy; included in Trinity republication
+- [[federico-faggin]] — peer in Silicon Valley; Faggin disclosed OBE experiences to Vallée; Vallée considers him a mentor
+- [[geipan]] — French government UAP investigation body Vallée was connected to; discussed in context of five-agency Valensole investigation

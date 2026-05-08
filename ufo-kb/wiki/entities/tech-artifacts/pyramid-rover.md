@@ -26,3 +26,5 @@ Stub. See [[NvqxmTCwHA8]] for context.
 - [[NvqxmTCwHA8]] — source where this term appears
 - [[pyramid-purpose-debate]] — related concept
 - [[gantenbrinks-door]]
+- [[rudolf-gantenbrink]] — engineer who built Upuaut II and first photographed the door that the Pyramid Rover drilled through; Jaccard 0.75
+- [[upuaut-ii]] — Gantenbrink's predecessor robot that discovered the door; Jaccard 0.75

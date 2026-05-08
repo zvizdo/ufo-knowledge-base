@@ -68,7 +68,7 @@ This is not the conversion-experience parallel (structural similarity) but a **d
 
 ## Catholic Aerial Phenomena 1200–1800
 
-Pasulka's archival research (found while researching purgatory, not UAPs) documents European Catholic reports from 1200–1800 of: discs, orbs, luminous phenomena, "flying houses." Multiple aerospace company employees independently contacted Pasulka specifically asking for this data — particularly the injury reports — confirming active cross-field interest.
+[[diana-pasulka]]'s archival research documents European Catholic reports of discs, orbs, luminous phenomena, and "flying houses" from 1200–1800 CE, including the 1224 St. Francis stigmata event — interpreted as an electromagnetic radiation injury matching modern UAP injury cases. Multiple aerospace company employees independently sought her injury data. See [[catholic-aerial-phenomena-medieval]] for the full corpus and the 1947 dividing line thesis.
 
 ## Independent Convergence as Evidence
 
@@ -83,35 +83,13 @@ Two routes to the same thesis — via UAP phenomenology (Vallée) and via philos
 - [[jacques-vallee]] — pioneer of the conversion-experience parallel; his control-system hypothesis is structurally the secular equivalent of Shkreli's Gnostic framing
 - [[occult-aerospace-connection]] — the Gnostic framework has been explicitly used in occult circles adjacent to aerospace research; [[jack-parsons]] and the Thelemic milieu are one bridge point
 
-## Pasulka's 1947 Dividing Line
+## Pasulka's 1947 Dividing Line and Bridging Cases
 
-[[diana-pasulka]] (*[[american-cosmic]]*, 2019) adds a historical dimension to the convergence thesis, cited by [[brian-muraresku]] in [[I9VyyV4-3Js]]:
+The 1947 Roswell event is a cultural dividing line: before it, contact phenomena presented in pre-modern idioms (angels, fairies, genies); after 1947, the idiom switched to aliens and spacecraft. The phenomenon may be continuous; the packaging is culturally adaptive. [[brian-muraresku]] adds 19th-century American airship sightings as a bridging case. See [[catholic-aerial-phenomena-medieval]] for the full 1200–1800 CE corpus.
 
-> **1947 (Roswell) is a dividing line.** Before 1947, the same ancient contact phenomenon presented in pre-modern cultural idioms: angels, demons, genies, sylphs, fairies, gnomes, elves, leprechauns. After 1947, the idiom switched to aliens and spacecraft — the technological vocabulary of the postwar era.
+## Vallée: UAP Research as Healing the Enlightenment Schism
 
-The underlying phenomenon may be continuous; the packaging is culturally adaptive.
-
-### Bridging Case: 19th-Century Airship Sightings
-
-[[brian-muraresku]] adds an intermediate case in [[I9VyyV4-3Js]]: **late 19th-century American airship sightings**. Before Betty and Barney Hill, before Roswell, people reported encounters with dirigible-like craft piloted by humanoid beings who descended on ladders, engaged in brief conversations, and departed. The technology was period-cognizable (airship era); the encounter structure and transformative aftermath were identical to later UFO contact accounts.
-
-These witnesses sometimes emerged transformed in a positive way — "not too different from some of the clinical literature on psychedelics and other breakthrough moments." This connects the historical-continuity thesis to the mystery-religion/psychedelic thread running through this KB.
-
-## Vallée: UFO Research as Healing the Enlightenment Schism (fyX8V1XXmQM)
-
-In [[fyX8V1XXmQM]], [[jacques-vallee]] provides his most explicit articulation of why the Invisible College and UFO research represent a potential re-merger of science and spirit.
-
-[[jesse-michaels]] asks Vallée directly: "Do you think UFOs will become a modern religion? The science and the spirit have been bifurcated since the Enlightenment."
-
-Vallée's response frames UAP research as uniquely positioned to heal this schism because empirical inquiry into UAP — a reproducible physical observation — unavoidably forces empirical science into metaphysical territory it has systematically avoided since the 17th century. If UAP are real:
-- Biblical literalism becomes scientifically defensible
-- Past religious conversion experiences may have been alien contacts
-- The Wheels of Ezekiel may have been UAP
-- The events of scripture may still be ongoing
-
-He contrasts this with the failure mode: organizations that tried to build **UFO-based religions** (he wrote about them in *Messages of Deception*) took the wrong route, treating the phenomenon as a dogmatic foundation rather than an empirical inquiry that naturally opens onto meaning-questions.
-
-Vallée's preferred model: the night-sky experience. When you go out into the desert and see the galaxy spread before you, "you don't think of equations." You think: "Who am I? What am I doing here?" The reaction is either terror (why most people avoid looking at the night sky) or fusion with the universe — the kind of experience astronauts describe. This is not religion in an institutional sense; it is inquiry that cannot avoid depth.
+[[jacques-vallee]] argues UAP research is uniquely positioned to re-merge the science/spirit split of the Enlightenment: empirical inquiry into reproducible physical UAP observations unavoidably forces science into metaphysical territory it has systematically avoided since the 17th century. His preferred model is not institutionalized UFO religion but the night-sky experience — inquiry that naturally opens onto depth questions without requiring dogma. See [[vallee-enlightenment-schism-uap]] for the full argument.
 
 ## Key Proponents (in this KB)
 
@@ -127,6 +105,8 @@ Vallée's preferred model: the night-sky experience. When you go out into the de
 
 ## Connections
 
+- [[catholic-aerial-phenomena-medieval]] — Pasulka's 1200–1800 CE corpus; St. Francis stigmata as electromagnetic injury; 1947 dividing line; aerospace industry interest in injury reports
+- [[vallee-enlightenment-schism-uap]] — Vallée's thesis that UAP research is uniquely positioned to heal the Enlightenment science/spirit split
 - [[1917-fatima-miracle-of-the-sun]] — paradigmatic incident where a UAP-type aerial event was interpreted through a Catholic marian framework by 30,000–70,000 witnesses
 - [[simulation-theory]] — Gnostic-UFO synthesis; archons as NHI within the simulation substrate
 - [[consciousness-non-local]] — substrate intrusions as the mechanism for both UAP encounters and religious experiences

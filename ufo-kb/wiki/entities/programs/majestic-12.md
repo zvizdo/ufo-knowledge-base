@@ -90,6 +90,7 @@ If the MJ-12 documents are accurate, the alleged alien biological specimen handl
 - [[reverse-engineered-craft]] — MJ-12's primary alleged function is the oversight of reverse-engineering programs using recovered non-human craft.
 - [[jfk-assassination-ufo]] — JFK's June 28 1961 MJ12 inquiry; possible connection between cleaning house at CIA and confrontation over MJ12.
 - [[henry-kissinger]] — Alleged to have been embedded in MJ12 or its PI-40 successor through CIC, PSB, CFR, and Rockefeller networks
+- [[credibility-frameworks]] — MJ-12 document authentication is the paradigm case for credibility triage in UAP discourse: contested provenance, multiple claimed chain-of-custody sources, apparent anachronisms — all canonical examples of applying the credibility framework under adversarial conditions
 - [[interplanetary-phenomenon-unit]] — IPU field report (July 1947) describes AFSWP SED conducting the Roswell retrieval; IPU circulates in the same MJ-12 document cluster; Eisenhower Briefing Doc dates align with verifiable Forrestal/Smith/Truman meeting records per UAPGerb
 - [[james-forrestal]] — named as first MJ-12 member; co-founded [[afswp]] in 1947; death at Bethesda Naval Hospital 1949 coincides with Walter Bedell Smith's alleged MJ-12 replacement
 - [[mike-mcconnell]] — named by [[john-lear]] as "Mike Mlelen," the MJ-12 member who arranged [[bob-lazar]]'s S4 access; [[uap-gerb]] speculates Mlelen = McConnell

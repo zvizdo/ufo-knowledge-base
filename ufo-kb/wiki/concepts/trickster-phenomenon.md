@@ -48,3 +48,4 @@ This reframes the trickster phenomenon from a *description* (encounters are weir
 - [[bf-skinner]] — intermittent reinforcement mechanism; Vallée's mechanistic explanation for why the trickster pattern is optimal for civilizational-scale behavior change
 - [[control-system-hypothesis]] — the trickster is the delivery mechanism for the control system
 - [[fyX8V1XXmQM]] — source; Vallée's most explicit mechanistic articulation
+- Mentioned in [[vZEcVY2iZsk]]

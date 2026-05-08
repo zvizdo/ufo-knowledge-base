@@ -8,7 +8,7 @@ witnesses: [remy-baca, jose-padilla]
 craft_type: avocado-shaped metallic object
 corroboration: multi-witness
 tags: [crash-retrieval, 1945, trinity, new-mexico, pre-roswell, pre-flying-saucer, avocado-craft, nhi-entities, ufo-nuclear-nexus, trinity-best-kept-secret, paola-harris, jacques-vallee]
-sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
+sources: [raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
 summary: "Alleged UFO crash near San Antonio, New Mexico, approximately 20 days after the Trinity nuclear test and 2 days after Japan's surrender — documented by Jacques Vallée and Paola Harris in Trinity: The Best Kept Secret; notable for predating the term 'flying saucer' by two years and for residing in a separate DOE/AEC clearance track unknown to Pentagon-level cleared officials."
 ---
 
@@ -66,3 +66,6 @@ The absence of any Pentagon awareness suggests a strict compartmentalization by 
 - [[arts-parts]] — Michaels attributes a separate **larger** Nolan-held metal sample to this crash in [[dzTZbSNsKV8]] — distinct from the Roswell-attributed bismuth piece
 - [[dzTZbSNsKV8]] — Michaels names this crash as the source of the "larger piece" framing the closing question on NHI interest in atom-splitting
 - [[fyX8V1XXmQM]] — source episode
+- [[1965-valensole-case]] — second egg-shaped case in the three-case republication structure
+- [[1964-socorro]] — third egg-shaped case in the three-case republication structure
+- [[vZEcVY2iZsk]] — Vallée discusses a previously unknown motor pool report found for the republished edition; confirms the three-case egg-shaped structure (Trinity/Socorro/Valensole); all share ~3-ft air-breathing beings, physical traces, and witness paralysis

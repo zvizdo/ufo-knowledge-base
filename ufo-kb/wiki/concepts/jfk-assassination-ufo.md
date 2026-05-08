@@ -107,17 +107,11 @@ See [[1963-jfk-assassination]] for the full operational account.
 
 > ⚠ The Malmgren UAP-motive thesis (from [[09KP8XVf5nY]]) and Sheehan's S Force thesis (from [[2SQXAPCdmPE]]) are compatible but have different evidentiary bases. Malmgren provides the motive; Sheehan provides the operational mechanism. Neither fully corroborates the other.
 
-## Nixon–Brezhnev UFO Folder and the Moon Program Halt (Ilyumzhinov / Gorbachev / Andropov)
+## Nixon–Brezhnev UFO Folder and the Moon Program Halt
 
-A structurally important corroborating data point comes from [[kirsan-ilyumzhinov]] in [[IFaXi-NrPV0]]:
+At Nixon's first summit with Brezhnev, Nixon opened a folder after the formal session; both superpowers immediately and permanently halted their lunar programs. Account relayed by Andropov eyewitness → Gorbachev → Ilyumzhinov. This is Kennedy's scenario in reverse: Kennedy wanted to share UAP intelligence with the Soviets; Nixon apparently did share something — and the moon programs stopped.
 
-[[yuri-andropov]] (KGB chairman, eyewitness) told [[mikhail-gorbachev]] (close friend) that at Nixon's first major meeting with [[leonid-brezhnev]], after the formal session ended, Nixon opened a small folder and showed its contents to Brezhnev. Andropov was present. The folder's contents are unspecified. **Immediately after this meeting, all Soviet and US funding for lunar exploration was completely and permanently halted.** Both sides simultaneously abandoned Moon missions that were already in preparation. No credible alternative explanation for this simultaneous, permanent stoppage has been advanced.
-
-Gorbachev relayed this account to Ilyumzhinov in a private three-way meeting that also included [[henry-kissinger]], and it was at that same meeting that Gorbachev pushed Kissinger to "tell him everything" about UAP documents. Kissinger smiled and said nothing — but in a later meeting spoke professionally about NSC/CIA/NASA UAP documentation.
-
-This is Kennedy's scenario running in reverse: whereas Kennedy wanted to *share* UAP intelligence with the Soviets as a unifying framework, Nixon apparently did share something — and the result was that both superpowers simultaneously stood down from their moon programs. The implication: whatever was in the folder was alarming enough, or was accompanied by a mutual agreement, that made continued lunar exploration by either side undesirable.
-
-> ⚠ This account is hearsay × 3 (Andropov → Gorbachev → Ilyumzhinov → public record). However, the policy outcome — the actual halt of US and Soviet lunar programs — is historically documented and remains one of the more puzzling decisions of the space race era.
+See [[nixon-brezhnev-ufo-folder]] for the full account chain and structural analysis.
 
 ## Trump's Embedded Cognitive Link (2025)
 
@@ -129,36 +123,16 @@ This is structural corroboration: a sitting president with intelligence access a
 
 Pines also connects the assassination's institutional context to the **Psychological Strategy Board** (comprising [[gordon-gray]], [[charles-douglas-jackson]], and [[philip-corso]]) — the Eisenhower-era body that formalized UAP information management as a psychological warfare asset. Kennedy's intent to share this with the Soviets would have dismantled not merely a classification regime but a weaponized psyop infrastructure — a far more threatening target for the institutional actors involved.
 
-## Levenda's Network Reconstruction (Y7PLeu5rTv4)
+## Levenda's Network Reconstruction
 
-[[peter-levenda]] contributes the richest single-episode expansion of this thesis in the KB through three overlapping arguments:
+[[peter-levenda]] provides three overlapping network chains connecting 1947 UFO witnesses to the 1963 assassination: (1) the Arthur Young / Nine séance / Dulles cutoff chain, linking the 1952 NHI contact event through Ruth Payne (Oswald's handler) to Allen Dulles suppressing her Warren Commission testimony; (2) the Banister / Chrisman / Clay Shaw chain, showing figures physically present at the 1947 Maury Island incident reappearing in the 1963 assassination network; (3) the Maeterlinck synchronicity — a pre-Kennedy novel precisely anticipating the assassination in details including the "Alek" pseudonym. Levenda's interpretive frame: the level of coordination exceeds individual human agency, implying a control mechanism.
 
-### The Arthur Young / Nine Seance / Dulles Cutoff Network
-
-From his reading of Warren Commission transcripts:
-- [[arthur-young]] (Bell helicopter co-inventor) attended the [[1952-nine-seance]] with [[andrija-puharich]]
-- Young's wife [[ruth-forbes-payne-young]] was best friends with [[mary-douglas]] — Allen Dulles's mistress
-- Young's daughter-in-law [[ruth-payne]] housed Lee Harvey Oswald and his wife Marina in Texas; she obtained Oswald his job at the Texas School Book Depository
-- [[allen-dulles]] — CIA director fired by JFK, sitting on the Warren Commission — personally cut off Ruth Payne's testimony at the moment she was about to describe her recent visit to Arthur Young's household
-
-This creates a through-line from the Nine seance (NHI contact event) → blue-blooded intelligence-adjacent occult network → Oswald handler → Dulles suppression of testimony. Levenda's framing: "the level of coordination is above the heads of all participants."
-
-### The Maury Island / Banister / Chrisman / Shaw Chain
-
-[[guy-banister]] (FBI Pacific Northwest) was reporting UFO sightings to Hoover via "Mission X" telegram designations in 1947 — during the [[1947-maury-island]] incident supervised by [[fred-chrisman]]. Chrisman had a documented relationship with [[clay-shaw]] — whom [[jim-garrison]] brought to trial for JFK conspiracy. Banister ran the Camp Street operation alongside [[david-ferrie]] and [[jack-martin]] — the same network that housed Oswald's leafleting operation.
-
-Result: figures physically present at the 1947 UFO flap (Banister, Chrisman) reappear 16 years later in the JFK assassination network.
-
-### The Maeterlinck Synchronicity
-
-Belgian playwright Maurice Maeterlinck wrote *The Cloud That Lifted* before Kennedy was born. It describes a political leader assassinated from a grassy knoll, with the shooter named "Alec" (Lee Harvey Oswald's Minsk pseudonym was "Alek"), possibly connected to Russia. This precognitive/synchronistic literary anticipation is Levenda's example of his broader thesis: reality may be "choreographed" by a control mechanism operating above the level of individual conspirators.
-
-### E. Howard Hunt Deathbed Claim (Primary Source)
-
-Levenda regards Hunt's deathbed statement — relayed by [[douglas-caddy]] to Dark Journalist — as a "distinct possibility." Hunt's institutional proximity to the CIA's Bay of Pigs structure (the same apparatus that, in Sheehan's account, was reoperationalized against Kennedy) gives his claim structural weight.
+See [[levenda-jfk-uap-network]] for the full reconstruction.
 
 ## Connections
 
+- [[nixon-brezhnev-ufo-folder]] — the full account of Nixon showing a folder to Brezhnev and both superpowers halting lunar programs immediately after
+- [[levenda-jfk-uap-network]] — Levenda's three-chain reconstruction: Arthur Young/Dulles cutoff, Banister/Chrisman/Shaw, Maeterlinck synchronicity
 - [[1963-jfk-assassination]] — the operational incident page with Sheehan's S Force account
 - [[ufo-nuclear-nexus]] — The nuclear-UAP monitoring pattern is central to what Kennedy wanted to share with the Soviets
 - [[catastrophic-disclosure-fear]] — Kennedy's fear was the inverse of modern catastrophic-disclosure concern; the CIA's fear was that *any* disclosure would collapse their control architecture
@@ -209,3 +183,4 @@ Levenda regards Hunt's deathbed statement — relayed by [[douglas-caddy]] to Da
 - Synthesized in [[cia-mob-jfk-uap-same-infrastructure]]
 
 - Synthesized in [[apollo-skepticism-cluster]]
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Schumer modeled UAP Disclosure Act on JFK records act; same 60-year suppression mechanism; Burchett JFK parallel

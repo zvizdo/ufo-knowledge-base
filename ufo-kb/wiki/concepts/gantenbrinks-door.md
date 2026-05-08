@@ -14,4 +14,8 @@ Gantenbrink's Door is a limestone slab with two copper fittings (originally desc
 ## Connections
 
 - [[NvqxmTCwHA8]] — source where this term appears
-- [[pyramid-purpose-debate]] — related concept
+- [[pyramid-purpose-debate]] — the door's unknown function is a live data point in debates about the pyramid's interior purpose
+- [[rudolf-gantenbrink]] — German roboticist who discovered the door with Upuaut II in 1993
+- [[upuaut-ii]] — Gantenbrink's robot that first photographed the door
+- [[pyramid-rover]] — 2002 successor mission that drilled through the door and found the 21 cm cavity and second door
+- [[scan-pyramids-project]] — subsequent non-invasive investigation program operating in the same shafts

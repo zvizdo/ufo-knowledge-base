@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Classified S4 program related to affecting or observing the flow of time; Bob Lazar read a brief overview in briefing documents but it was not his primary assignment. Scope and status unknown."
-sources: [raw/youtube-transcripts/d9tdJ2SkBKQ.md]
+sources: [raw/youtube-transcripts/BEWz4SXfyCQ.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md]
 name: Project Looking Glass
 aliases: [Looking Glass]
 parent_org: unknown (S4 / Navy-controlled black program)
@@ -34,5 +34,8 @@ Lazar himself has increasingly come to believe the [[s4-reactor]]'s force affect
 - [[project-sidekick]] — the other companion program
 - [[s4-reactor]] — Lazar speculates the reactor's effects may relate to time as well as space
 - [[d9tdJ2SkBKQ]] — source episode
+- [[BEWz4SXfyCQ]] — Lazar explicitly confirms on JRE #1315: "small, intentional distortions of time" were the subject, explored as a weapon application; potentially connected to the Tic-Tac appearing at Fravor's waypoint before Fravor knew the waypoint
+- [[david-fravor]] — his Tic-Tac observation (craft at cap point before Fravor knew his own waypoint) is consistent with time-distortion effects Lazar describes
+- [[2004-nimitz-tic-tac]] — the Fravor observation that may reflect time-distortion rather than instantaneous translocation
 - [[recurring-claims]] — time manipulation / Looking Glass appears across multiple disclosure-adjacent sources
 - Mentioned in [[u7g5Sn1DJF4]]

@@ -14,5 +14,8 @@ Christopher Dunn's *The Giza Power Plant* (1998) argues the Great Pyramid was en
 ## Connections
 
 - [[NvqxmTCwHA8]] — source where this term appears
-- [[pyramid-purpose-debate]] — related concept
-- [[helmholtz-resonance]] — related concept
+- [[pyramid-purpose-debate]] — the power-plant hypothesis is one of three major alternative-function readings of the Great Pyramid
+- [[helmholtz-resonance]] — the acoustic mechanism common to both Dunn's power-plant and Drum's chemical-factory readings
+- [[christopher-dunn]] — originator of the acoustic power-plant hypothesis (*The Giza Power Plant*, 1998)
+- [[jeffrey-drum]] — chemical-factory reading that incorporates the same acoustic infrastructure, treating the resonance as a reaction accelerator rather than power output
+- [[filippo-biondi]] — accepts the acoustic power-plant reading as consistent with his SAR substructural data

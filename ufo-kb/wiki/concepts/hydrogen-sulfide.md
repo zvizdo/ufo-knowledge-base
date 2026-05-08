@@ -14,6 +14,9 @@ Hydrogen sulfide rising from the [[karst-cave-system]] beneath Giza is, in [[jef
 ## Connections
 
 - [[NvqxmTCwHA8]] — source where this term appears
-- [[karst-cave-system]] — related concept
-- [[acid-mine-drainage]] — related concept
-- [[pyramid-purpose-debate]] — related concept
+- [[karst-cave-system]] — the subterranean system from which H2S rises beneath the Giza plateau
+- [[acid-mine-drainage]] — the downstream process: H2S oxidized → sulfuric acid → metal leaching
+- [[pyramid-purpose-debate]] — H2S as the raw industrial feedstock is the cornerstone of Drum's chemical-factory reading
+- [[jeffrey-drum]] — proposes the H2S-to-sulfuric-acid oxidation chain as the pyramid's core chemistry
+- [[hydrothermal-vents]] — the Tethys-era geological structures whose iron-oxide deposits catalyze H2S oxidation
+- [[independent-aquifer]] — co-located subsurface fluid system; both H2S and brackish water indicate an active subterranean circulation

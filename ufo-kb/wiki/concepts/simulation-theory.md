@@ -121,3 +121,4 @@ See [[ufo-religion-convergence]] for the full concept page.
 - [[encounters-pasulka]] — SSP insider who used the word "simulacrum" casually at lunch; the most eerie corroboration in the KB of the simulation thesis from a classified-adjacent source (hearsay)
 - [[tS_64sTN5AU]] — Pasulka and Jesse discuss the simulacrum account; Jesse describes it as permanently chilling
 - Mentioned in [[KhmUixSXxDo]] — Jones speculates 'maybe we're another species having a hallucination'; simulation as live cosmological possibility adjacent to NHI
+- Mentioned in [[vZEcVY2iZsk]]

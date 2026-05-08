@@ -243,6 +243,7 @@ Taylor was simultaneously helping Linda Brown write her biography of her father 
 - [[1985-brewster-ny-ufo-flap]] — Buhler's parallel formative sighting; the Brown–Buhler parallel is explicit in [[mOWwdIuyaQA]]
 - [[kRO5jOa06Qw]] — Grusch/Jesse discuss Brown's B2 connection (Aviation Week March 1992 electrostatic wave surfing story); Northrop Grumman investor Floyd Odom = Brown's Guidance Technologies investor; confirms Sarbacher connection; Brown's daughter Linda requested Navy records and Navy hinted work still classified; Paul Schatzkin biography sources; Nick Cook's account of frightened George Trimble; the NICAP founding and Foo Fighter investigation in Germany
 - [[tim-taylor]] — claimed to be part of a secret Nassau time travel group of which Brown was president; told Christopher Bledsoe's son Ryan this; Tim Taylor helped Linda Brown write her father's biography
+- [[nassau-group]] — the secret time travel program Brown allegedly presided over; headquartered in the Bahamas
 - [[nassau-bahamas]] — Brown spent significant time in the Bahamas; the alleged time travel group was based there
 - [[time-travel-uap]] — Brown's gravity/time work is the theoretical substrate for the Nassau time travel group claim
 - [[zjpvfDFc4fg]] — source; Nassau group; Brown as president; time travel connection; Linda Brown Amazon review of Tim Taylor's book

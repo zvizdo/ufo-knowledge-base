@@ -41,3 +41,4 @@ As of the episode's recording, the Act had gone up for a vote at least once and 
 - [[government-suppression-ufo]] — the Act is a response to documented suppression patterns
 - [[disclosure-narratives]] — the Act is a focal point in the controlled vs. genuine disclosure debate
 - [[h0hAit-KH9A]] — source
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Schumer 60-page UAP Disclosure Act vs Burchett's 2-page bill; Schumer modeled on JFK records act

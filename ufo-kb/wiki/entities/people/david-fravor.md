@@ -61,3 +61,6 @@ This is a second-hand quote (Nolan relaying Fravor) but consistent with the reac
 - [[craft-as-biological-entity]] — Fravor's description and Nolan's interpretation suggest the possibility that some UAP are living organisms rather than mechanical craft
 - [[eric-haseltine]] — NSA Director of Research; cites Fravor's "breathing" observation as evidence plasma doesn't explain the Tic Tac; that observation also helps distinguish Tic Tac from glowing-orb phenomena
 - [[jMCavr3dVP0]] — Haseltine references Fravor's observation
+- Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[Hc6pbG4wICA]]
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Rogan cites Fravor as credibility benchmark; raises the "if it was our technology in 2004, why hasn't it leaked into civilian infrastructure in 22 years?" argument; 50,000 ft to sea level in under a second

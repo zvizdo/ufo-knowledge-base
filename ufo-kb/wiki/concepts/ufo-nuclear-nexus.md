@@ -121,14 +121,8 @@ A town in Fukushima Prefecture, Japan ([[iino]], referenced in [[5udx_SDdL3Y]]) 
 [[david-grusch]] told [[jesse-michaels]] in a private car ride (relayed in [[TH10mD9hQas]]): "The Manhattan Project — they were kind of the first Blue Book. They were getting UFO reports back in the day." He noted colleagues with grandparents who were the UFO report handlers on the Manhattan Project. This extends the nuclear-UFO nexus to the very founding of the nuclear weapons program, not just the Cold War operational period.
 
 ### Villarroel / Bruell — Palomar Transient Statistical Correlation (2026)
-The first peer-reviewed statistical quantification of the nuclear-UAP correlation using *instrumental* data. [[steven-bruell]] and [[beatriz-villarroel]] analyzed 2,700 days of [[vasco]] transient data against nuclear test records and CUFOS UAP sightings. Key findings (accepted at *Scientific Reports*):
 
-- **68% relative increase** in transient-observation days the day after a nuclear test (11% → ~19%; p = 0.008)
-- All three pairings in the nuclear/transient/UAP triad are statistically significant
-- The correlation cannot be explained by plate defects, cosmic rays, or local observatory effects — because UAP sightings (civilian reports from around the country) also correlate
-- The last nuclear-correlated transient was **March 17, 1956**; 38 additional tests across the following year yielded zero correlated transients — implying deliberate withdrawal, not instrument failure
-
-This corroborates the anecdotal nuclear nexus with the first archival statistical evidence. The Palomar plates predate Sputnik — placing anomalous mirror-like objects in orbit before any human satellite existed. See [[pre-sputnik-uap-transients]] and [[vasco-nuclear-transients-paper]].
+[[beatriz-villarroel]] and [[steven-bruell]] provide the first peer-reviewed statistical quantification of the nuclear-UAP correlation using Palomar plate data: a 68% relative increase in transient-observation days after nuclear tests (p = 0.008), with a deliberate withdrawal pattern after March 1956. The Palomar plates predate Sputnik. See [[vasco-nuclear-transients-paper]] for the full findings.
 
 ## Key Incidents
 
@@ -255,6 +249,7 @@ Nuclear engineer John Anderson witnessed a green-glowing angular UAP at [[savann
 These are explicitly not mutually exclusive — multiple theories could be simultaneously operative across different UAP factions.
 
 - Synthesized in [[knuth-academic-uap-science-cluster]]
+- Mentioned in [[vZEcVY2iZsk]]
 
 ## 2024 New Jersey Drone Flap as Nuclear-Facility Extension (dnnpyNuPdXs)
 
@@ -315,3 +310,5 @@ This also adds a new dimension to Coburn's claim that NHI communications disrupt
 - [[david-grusch]] — characterizes nuclear tech as "an attractant — like a fly or mosquito to a blue light"; notes interest may extend to SpaceTime manipulation proximity; [[kRO5jOa06Qw]]
 - [[robert-hastings]] — *UFOs and Nukes*; 120+ military testimonies; PRP credibility floor argument (missile key-turners as most psychologically vetted US personnel); [[kRO5jOa06Qw]]
 - [[kRO5jOa06Qw]] — Grusch/Jesse: most detailed public discussion of Hastings book, Oscar Flight, Vandenberg 1964 Jacobs case, PRP credibility floor, and nuclear-site Men in Black suppression pattern
+- Mentioned in [[Hc6pbG4wICA]]
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett confirms from briefings that UAP are consistently present near nuclear weapons; Navy 1950s nuclear arming sighting reported to him

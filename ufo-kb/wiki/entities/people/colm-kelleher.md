@@ -37,3 +37,4 @@ Scientific background in biochemistry. Worked as a senior researcher at NIDS dur
 - [[skinwalkers-at-the-pentagon]] — second book; partially declassified AAWSAP findings
 - [[credibility-frameworks]] — biochemist with direct investigative access; institutional affiliation with NIDS; constrained by classification
 - [[invisible-college]] — identified by Garry Nolan as one of the five members he was introduced to by the CIA; [[dzTZbSNsKV8]]
+- Mentioned in [[Hc6pbG4wICA]]

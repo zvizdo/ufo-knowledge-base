@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "MIT- and Stanford-educated computer scientist, video-game entrepreneur, and author of The Simulation Hypothesis — the KB's primary articulator of an RPG-based, life-affirming simulation model of reality; adviser to the Galileo Project."
-sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md]
+sources: [raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
 name: Riz Virk
 aliases: [Rizwan Virk, RZ Virk]
 roles: [researcher, other]
@@ -78,3 +78,4 @@ Vallee told Virk he had found a flaw-free argument in his books and wrote the fo
 - [[the-simulation-hypothesis-virk]] — primary book
 - [[simulated-multiverse-virk]] — second book; many-worlds = simulated multiverse
 - [[aKZ_MUbuk_Q]] — source episode
+- [[vZEcVY2iZsk]] — Vallée names Virk as a personal friend (VTT: "ran work"); Vallée wrote the foreword to the French edition of *The Simulation Hypothesis*; simulation theory discussed alongside Vallée's interdimensional/consciousness model for UAP

@@ -178,6 +178,7 @@ Filmed in the weeks surrounding Grusch's July 26 2023 Congressional testimony, t
 - [[american-alchemy]] — channel platform
 - [[omar-candal]] — Yes Theory co-host; organized DC public hearing with 20 fans post-testimony
 - [[j-robert-oppenheimer]] — named by Grusch as UAP classification architect alongside Sarbacher; Grusch's hypothetical interviewee
+- [[ufo-secrecy-cabal]] — 38 shared context nodes; UAP secrecy structure is Grusch's central claim and the episode's thematic core
 - [[robert-sarbacher]] — co-architect of UAP secrecy standup; Oppenheimer's partner in overlaying Manhattan Project secrecy onto UAP programs
 - [[lewis-whitten]] — Martin Corp anti-gravity division; described anti-gravity as "in the wind" in 1950s; contracted by Wright Field
 - [[george-trimble]] — Lewis Whitten's boss; said anti-gravity conquest achievable "in about the time of the atom bomb"; frightened by Nick Cook's contact attempt

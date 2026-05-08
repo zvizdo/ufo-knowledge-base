@@ -46,3 +46,4 @@ Barney Hill's granddaughter is **[[angela-hill]]** — UFC strawweight fighter. 
 - [[intertemporal-breeding-program]] — Masters cites semen extraction from Barney (reluctantly disclosed) as evidence of the ancestral genetic banking program
 - [[michael-p-masters]] — uses Barney's reproductive procedure disclosure as a data point
 - [[Y26iMB0r-f8]] — source (Masters episode)
+- Mentioned in [[Hc6pbG4wICA]]

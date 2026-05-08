@@ -52,3 +52,4 @@ Lazar cannot locate Barry Castillo. His disappearance is an open question: he co
 - [[gravity-manipulation-propulsion]] — Gravity A/B framework came from Barry's notes
 - [[d9tdJ2SkBKQ]] — source episode where Lazar discusses Barry in depth
 - [[credibility-frameworks]] — critical missing corroborating witness; Lazar's inability to locate him is a significant gap in corroboration
+- Mentioned in [[BEWz4SXfyCQ]]

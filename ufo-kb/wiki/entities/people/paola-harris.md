@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Italian-American UFO investigative journalist and author; co-authored Trinity: The Best Kept Secret with Jacques Vallée about the 1945 San Antonio, NM crash; attended CE-5 events with Steven Greer including the Sedona event witnessed by Michael Herrera."
-sources: [raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/fyX8V1XXmQM.md]
+sources: [raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
 name: Paola Harris
 aliases: [Paula Harris]
 roles: [journalist, researcher]
@@ -37,5 +37,7 @@ Harris attended a CE-5 event in Sedona, Arizona organized by [[steven-greer]], t
 - [[steven-greer]] — CE-5 events; Sedona contact operation
 - [[michael-herrera]] — both present at the Sedona CE-5 event
 - [[disclosure-narratives]] — witness-evidence compilation approach
+- [[1965-valensole-case]] — third egg-shaped case she and Vallée added to the republished Trinity book
 - [[D2tKCFmJjks]] — source
 - [[fyX8V1XXmQM]] — source; Vallée describes her investigative role
+- [[vZEcVY2iZsk]] — Vallée credits Harris with four years of independent research on the Trinity case before he joined; together four years after; she identified the three-case egg-shaped structure (Trinity, Socorro, Valensole) for the republication

@@ -139,6 +139,7 @@ This is notable as a contemporary firsthand dream account from a highly public f
 - [[ralph-moat-larson]] — mystical/dream-state time travel (1991 Mount Athos); corroborated by historical discovery 2005
 - [[mount-athos]] — site of Larson's time-travel dream
 - [[maximos-kafsokalivitis]] — historical figure corroborating Larson's dream character
+- [[vacuum-memory-time-model]] — Rossi's quantum-vacuum "saved game" mechanism for temporal observation; Virk's timeline-optimization simulation extension
 
 ## Michael P. Masters' Extratemporalis Model (Y26iMB0r-f8)
 
@@ -182,19 +183,9 @@ Bledsoe confirmed in [[bM18PJY6_Zc]] that Taylor mentioned the Nassau Group to h
 
 Masters discloses a firsthand encounter at a Phoenix conference (c. 2025) where two future humans confirmed his identity, knew his unexpressed thought about quitting UAP research, and telepathically loaded three partitioned pieces of information into his brain — which he cannot consciously access. Communication became entirely telepathic; both beings shared the same voice (hive-mind consciousness). See [[michael-p-masters]].
 
-## Dave Rossi's Vacuum Memory Model (5OUzGygIrSw)
+## Dave Rossi's Vacuum Memory Model
 
-[[dave-rossi]] adds a distinct mechanism for temporal effects, derived from his [[extended-electrodynamics]] framework:
-
-**Movie-reel model**: Each loop of a longitudinal scalar wave represents one entropy step — one "frame" of the present. The quantum vacuum retains the potentials of every past state as a "saved game." A device using pure scalar/vector potentials (no E/B fields) pointed at any location could, in principle, observe past events at that location.
-
-> "Imagine you pick up a water bottle and put it down. That action forever exists in the vacuum waiting to be replayed — like a saved game state." — Rossi, confirmed by [[salvatore-pais]] at a panel (Pais applauded).
-
-**Charge parity inversion as temporal reflection**: In the quantum vacuum, charge parity inversion is mathematically equivalent to time reflection — allowing time to be "polarized" independently of space.
-
-**Toronto newspaper clipping**: Rossi references a scanned 2-page article (late 1950s/early 1960s, Toronto) describing a man who built a "death ray" device. Visiting Mossad agents experienced 25 minutes of subjective time while 2 hours passed externally. The device was reportedly sold to Israel.
-
-**Bhagavad Gita connection**: Rossi notes the original Sanskrit translation of what Oppenheimer quoted may be "I am *time*, the destroyer of worlds" rather than "I am *death*, the destroyer of worlds" — suggesting the original nuclear program was already aware of a time-physics connection.
+[[dave-rossi]]'s [[extended-electrodynamics]] framework holds that the quantum vacuum permanently retains the potential fields of every past state — a "saved game" observable by any device using pure scalar/vector potentials, confirmed by [[salvatore-pais]] at a joint panel. [[riz-virk]] extends this into a simulation framework where the substrate optimizes parallel timelines by pruning suboptimal branches, with human intuitions as "future memories" of optimal timelines. See [[vacuum-memory-time-model]] for the full model.
 
 - [[michael-p-masters]] — Extratemporalis model: the richest combined biological + physics argument for the future-humans variant
 - [[frank-tipler]] — Tipler disc as the GR time-machine with UAP disc form factor
@@ -210,19 +201,13 @@ Masters discloses a firsthand encounter at a Phoenix conference (c. 2025) where 
 - [[george-hoover]] — Roswell beings as time-traveling humans (pre-Masters corroboration)
 - [[herman-oberth]] — time-space coordinate jumping statement
 - [[Y26iMB0r-f8]] — source
-- [[dave-rossi]] — vacuum memory model and temporal polarization mechanism
-- [[scalar-waves]] — the longitudinal waves whose loop structure Rossi says encodes time states
-- [[extended-electrodynamics]] — the physics framework enabling this temporal model
-- [[salvatore-pais]] — confirmed Rossi's model at a joint panel
-- [[5OUzGygIrSw]] — source
-- **Virk's timeline-optimization model** (from [[aKZ_MUbuk_Q]]): [[riz-virk]] proposes the most systematic timeline-manipulation model in this KB: the simulation runs multiple parallel timelines (via [[hugh-everett]]'s many-worlds branches), saves game states, runs branches forward to evaluate outcomes, prunes suboptimal timelines, and advances the best. UFOs may be "entities from the future sending back clues about where they want us to go" — multiple such entities may be sending clues from different potential futures, all competing to optimize timelines. Human intuitions are "future memories" — faint resonances of experiences in optimal timelines that haven't happened yet.
-- **Philip K. Dick's timeline rerun** (from [[aKZ_MUbuk_Q]]): Dick believed simulators chose the Allied-victory WWII timeline over his German-victory *Man in the High Castle* timeline as preferable — a direct narrative instance of timeline optimization.
-- **Deja vu as timeline trace** (from [[aKZ_MUbuk_Q]]): Dick argued deja vu occurs when a variable is changed in the timeline and the simulation rerun — the deja vu is the memory of the pre-change run. See [[mandela-effect]] for related concept.
-- [[riz-virk]] — timeline optimization; save-state model; future memories; [[aKZ_MUbuk_Q]]
-- [[hugh-everett]] — many-worlds as save-states; foundation of Virk's simulated multiverse
+- [[vacuum-memory-time-model]] — Rossi's movie-reel model and Virk's simulation timeline-optimization extension
+- [[dave-rossi]] — vacuum memory model; temporal polarization via charge parity inversion
+- [[riz-virk]] — timeline optimization; save-state model; future memories
 - [[simulated-multiverse-virk]] — Virk's book formalizing this model
 - [[philip-k-dick]] — timeline rerun belief; deja vu as trace; Metz speech
-- [[aKZ_MUbuk_Q]] — source episode
+- [[aKZ_MUbuk_Q]] — source for Virk's extension
+- [[5OUzGygIrSw]] — source for Rossi's model
 - [[eric-wargo]] — endorses Masters' Extratemporalis model; quantum Tesseract model; Die Glocke as time-dilation device; multiple future factions; nuclear sites as leverage points; block universe prerequisite
 - [[william-gibson]] — *The Peripheral* as quantum temporal communication archetype; craft built in present from future-transmitted designs
 - [[block-universe]] — fixed future as the physics prerequisite for all time-travel and retrocausal models

@@ -30,3 +30,4 @@ The security architecture principle by which classified programs are divided int
 - [[david-grusch]] — described fine-grained UAP compartmentalization as preventing him from accessing programs he had a statutory need to know about
 - [[lue-elizondo]] — described encountering compartmented UAP access structures that exceeded his clearances
 - [[classification-system]] — the broader system within which compartmentalization operates
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Federal employee told Burchett the president is on need-to-know basis — formal presidential exclusion from UAP compartments

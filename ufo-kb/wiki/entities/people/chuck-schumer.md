@@ -26,3 +26,5 @@ The Schumer-Rounds UAP Disclosure Act is considered the most significant legisla
 - [[dan-farah]] — documentary context
 - [[new-paradigm-institute]] — advocacy organization engaged with the legislative effort
 - [[dan-crenshaw]] — House Intelligence Committee chair; counterpart in the bipartisan UAP legislative push
+- [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett describes Schumer's 60-page bill modeled on JFK records act, contrasted with Burchett's 2-page bill; notes JFK records still haven't been fully released after 60+ years
+- [[tim-burchett]] — contrasts Burchett's simpler 2-page disclosure bill with Schumer's 60-page version
