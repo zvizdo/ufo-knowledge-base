@@ -1,6 +1,12 @@
 # UFO/UAP Knowledge Base
 
-A connected wiki of the UFO/UAP discourse. **2,258 pages, ~29,000 connections, growing.**
+A connected wiki of the UFO/UAP discourse. **2,307 pages, ~29,900 connections, growing.**
+
+<p align="center">
+  <img src="docs/graph.png" alt="Force-directed graph of the UFO/UAP knowledge base — 2,421 nodes, 24,468 wikilinks. Top 25 hubs are labeled around the ring; the rest fade into the long tail." width="100%">
+  <br>
+  <sub><i>The full graph: every page is a node, every <code>[[wikilink]]</code> an edge. Top hubs (CIA, Hal Puthoff, Jacques Vallée, MK-Ultra, JFK-assassination/UFO, …) glow at the centre; the long tail fans out around them.</i></sub>
+</p>
 
 The goal: map *who is who, where things happened, what concepts recur, and how they all link* across a fragmented field whose sources rarely cite each other directly. Most UFO content lives in long podcasts, books, and obscure documents that never connect to one another. This KB does the connecting.
 
@@ -8,18 +14,19 @@ The goal: map *who is who, where things happened, what concepts recur, and how t
 
 | | Count |
 |---|---|
-| People (witnesses, researchers, officials, contactees, journalists) | 957 |
-| Concepts & frameworks (claims-theses, disclosure-narratives, etc.) | 406 |
-| Organizations (agencies, programs, occult orders, media) | 260 |
-| Incidents (sightings, hearings, leaks, public events) | 138 |
-| Places (bases, incident sites, regions) | 129 |
+| People (witnesses, researchers, officials, contactees, journalists) | 970 |
+| Concepts & frameworks (claim-thesis pages, disclosure-narratives, etc.) | 431 |
+| Organizations (agencies, programs, occult orders, media) | 262 |
+| Incidents (sightings, hearings, leaks, public events) | 140 |
+| Places (bases, incident sites, regions) | 130 |
 | Documents (FOIA, books, memos, leaks) | 103 |
 | Programs (AAWSAP, Stargate, MK-Ultra, ATIP, …) | 84 |
-| Tech artifacts (alleged materials, patents, implants) | 36 |
+| Tech artifacts (alleged materials, patents, implants) | 38 |
 | Craft & entity phenomena (Tic-Tac, Greys, Mantids, …) | 18 |
+| Symbols & glyphs | 3 |
 | Synthesis pages (cross-source comparisons, gap analyses) | 13 |
-| Source summaries (mostly YouTube transcripts) | 110 |
-| Raw transcripts | 116 |
+| Source summaries (mostly YouTube transcripts) | 115 |
+| Raw transcripts | 120 |
 
 Every page lives in `ufo-kb/wiki/` as plain Markdown with structured YAML frontmatter and `[[wikilinks]]` between pages. Every claim cites its raw source in `ufo-kb/raw/`.
 
@@ -152,9 +159,25 @@ ufo-knowledge-base/
 │   ├── kb-query/          ← graph walker for question-answering
 │   ├── kb-maintain/       ← audit + auto-fix
 │   └── kb-evolve/         ← schema/rule changes (rare)
-├── scripts/               ← youtube_import.py (fetch + batch + run-imports + clean)
+├── docs/
+│   └── graph.png          ← the hero graph rendered above
+├── scripts/
+│   ├── youtube_import.py  ← fetch + batch + run-imports + clean
+│   └── graph_viz/         ← build_graph.py + render_graph.py for the README image
 └── requirements.txt       ← yt-dlp, qmd
 ```
+
+## Regenerate the graph image
+
+The hero image at the top is produced by two scripts in `scripts/graph_viz/`:
+
+```bash
+pip install matplotlib networkx numpy
+python scripts/graph_viz/build_graph.py     # walks ufo-kb/wiki/, parses [[wikilinks]] → graph.json
+python scripts/graph_viz/render_graph.py    # force-directed layout, hub halos, ring labels → docs/graph.png
+```
+
+The layout is cached at `scripts/graph_viz/layout.npz`; delete it to recompute. `--help` on the renderer exposes knobs for size, DPI, label count, edge weight, etc.
 
 ## Design principles
 

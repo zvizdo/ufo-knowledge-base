@@ -122,6 +122,7 @@ This is notable as a contemporary firsthand dream account from a highly public f
 - [[tim-taylor]] — claimed member of the Nassau time travel group; told Pasulka and Ryan Bledsoe
 - [[bob-maguire]] — adds the Nash/Gates GR time travel mechanism and the Tim Taylor/Nassau claim
 - [[joe-rogan]] — future-humans dream account; independent interpretation converges with the civilizational self-actualization model
+- [[jacques-vallee]] — interdimensional/extratemporal variant: argues UAP operators may be temporally adjacent to us rather than spatially distant ("not from another planet, but from another *now*"); his control-system framing is the canonical philosophical antecedent of the time-travelling-humans hypothesis
 
 ---
 

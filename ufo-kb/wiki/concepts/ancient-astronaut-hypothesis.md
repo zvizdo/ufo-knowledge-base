@@ -54,3 +54,5 @@ Jesse explicitly states: "I have no idea if von Däniken is right, and I don't r
 - [[NvQXmtcwHA8]] — Jesse Michaels invokes alien construction when faced with 20 m diameter tubes extending 1 km below Giza: "I'm going with aliens — how do we explain that?"
 
 - Synthesized in [[ancient-nonhuman-physical-evidence]]
+- [[ufo-religion-convergence]] — sibling hypothesis on the religious/mythological residue of NHI contact in deep antiquity
+- [[1f16VvXaSSE]] — Jack Parsons / occult-aerospace transcript that motivates the ancient-contact framing in the recurring-claims taxonomy

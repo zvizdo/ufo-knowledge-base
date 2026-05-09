@@ -17,6 +17,12 @@ The breakaway civilization concept differs from simple "deep state" theories: it
 
 [[catherine-austin-fitts]] independently arrived at the same concept through financial forensics — Pentagon accounting "discrepancies" of $2.3 trillion (announced September 10, 2001) and the global financial system operating as an "open window" rather than a closed accounting system. She concluded: some of this money is "going to that" — the breakaway infrastructure. She cited Dolan's work publicly (Tucker Carlson interview).
 
+## Notable Claimants
+
+- [[danny-sheehan]] — long-running thesis that crash-retrieval custodial structures have grown into a self-funded transnational entity legally and operationally separate from the public state
+- [[lue-elizondo]] — public statements imply an institutional structure that withholds AAWSAP-class information from elected oversight; structurally consistent with the breakaway thesis even when not named as such
+- [[harold-malmgren]] — described an AEC compartment "above presidential clearance" — a concrete example of the institutional separateness the breakaway thesis posits
+
 ## Variants
 
 - **Human-origin**: Reverse-engineered alien tech, Nazi advanced physics (Die Glocke, [[kammler-stab]]), or black-budget continuity across administrations.

@@ -85,17 +85,15 @@ Lenses applied when analyzing sources. Each gets a page in `wiki/concepts/`.
 - Apply to incident pages and entity-encounter descriptions.
 
 ### recurring-claims
-- High-frequency assertions in the discourse (reverse engineering, crash retrievals, NHI biologics, consciousness link, breakaway civilization, time-travelling humans). Differs from claims-theses below: these are *categories* of claim.
-- Apply when categorizing what a source is asserting.
+- The single index for assertion-shaped content in the KB. Two layers in one page:
+  1. The nine high-frequency *categories* of claim (crash retrieval, reverse engineering, NHI biologics, consciousness link, nuclear nexus, breakaway civilization, time-travelling humans, ancient contact, suppression). Categories are thin pointers into claim-thesis pages — never the canonical aggregator for claimants/instances.
+  2. The alphabetical list of every *claim-thesis* page in the KB. Each claim-thesis page is the canonical aggregator for one specific, discrete proposition ("Moon is artificial," "Mars had nuclear war," "NHI are interdimensional," "Consciousness is non-local," etc.) — who asserts it, who disputes it, what evidence cuts which way. This is the primary unit of "how is everything connected" — links converge on claim-thesis pages.
+- Apply when (a) categorising what a source is asserting, and (b) extending or creating the claim-thesis page that owns the discrete proposition.
+- *Historic note*: a separate `claims-theses.md` page existed as a parallel index until 2026-05-08; it was absorbed into `recurring-claims.md` to avoid two competing indexes for the same content. The aliased slug `claims-theses` still resolves to `recurring-claims`.
 
 ### source-type-frameworks
 - Official / leaked / witness / researcher / cultural — and how each is weighted against the others.
 - Apply at import time and on document pages.
-
-### claims-theses
-- Specific, recurring discrete assertions ("Moon is artificial," "Mars had nuclear war," "Aliens are interdimensional," "NHI = future humans," "Consciousness is non-local"). Each gets its own page aggregating who makes it, who pushes back, supporting/refuting evidence.
-- This is the primary unit of "how is everything connected" — links converge on claims-theses pages.
-- Apply when a source advances a discrete, repeatable claim.
 
 ## Extraction Rules
 
@@ -112,7 +110,7 @@ For every source the LLM processes, extract:
 
 - Every entity page MUST link to at least one concept page (typically `credibility-frameworks` for people, `recurring-claims` for documents, `phenomenology-categories` for incidents).
 - Every concept page MUST link to related entities that exemplify it.
-- `claims-theses` pages MUST link to: every entity that asserts the claim, every entity that disputes it, and every document that adduces evidence.
+- Claim-thesis pages (the discrete-proposition pages indexed from `recurring-claims`) MUST link to: every entity that asserts the claim, every entity that disputes it, and every document that adduces evidence.
 - Synthesis pages link to everything they reference.
 - Contradictions between pages MUST be flagged explicitly with a `> ⚠ Conflict:` callout.
 - **Ambiguous-name resolution**: auto-link only when the existing page is the unique plausible match in the KB; otherwise flag for review (e.g. "Greer" auto-links to `steven-greer.md` only while no other Greer exists).

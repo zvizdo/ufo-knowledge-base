@@ -91,7 +91,6 @@ American Alchemy episode featuring [[michael-p-masters]] (biological anthropolog
 - [[disclosure-narratives]] — Masters believes future humans themselves are guiding disclosure
 - [[phenomenology-categories]] — CE4/CE5 abduction cases with reproductive procedures
 - [[consciousness-non-local]] — quantum brain/precognition connection; remote viewing as retrocausal
-- [[claims-theses]] — future humans as claims-thesis aggregator
 
 ## Notable Quotes
 

@@ -22,6 +22,14 @@ Crash retrieval research is the investigative discipline focused on alleged reco
 - [[1965-kecksburg]] — acorn-shaped object; military retrieval documented; [[donald-hornig]] (presidential science advisor) appears in official documents as present
 - [[1989-long-island-crash]] — multiple witnesses; [[john-ford]] investigated
 - [[1933-magenta-crash]] — alleged Italian government recovery; [[james-angleton]]'s father present in Italy
+- [[1962-bluegill-uap-shootdown]] — high-altitude nuclear test that allegedly downed a UAP; recovered material handled by [[harold-malmgren]]
+
+## Direct-Handling Claimants
+
+- [[philip-corso]] — claimed firsthand handling of recovered material as Pentagon FTD desk officer; framework codified in [[day-after-roswell]]
+- [[harold-malmgren]] — late-life testimony of direct handling of Bluegill-shootdown material; described AEC compartment above presidential clearance
+- [[chase-brandon]] — CIA officer who described seeing recovered material in the Agency's secure-storage area; corroborates Roswell as a real recovery
+- [[david-grusch]] — Congressional testimony (2023) of multi-decade retrieval programs (see Government Acknowledgment above)
 
 ## Government Acknowledgment
 
@@ -91,3 +99,4 @@ Additional Davis claims from [[xnxasfyHtfo]]:
 - [[radar-induced-uap-crashes]] — Blitch's hypothesis providing a mechanism for the 1930s–1940s crash wave
 - [[john-blitch]] — independently endorses the crash-retrieval canon; proposes radar as the causal mechanism
 - Mentioned in [[LpLFWdsIU7M]]
+- [[day-after-roswell]] — Corso's published account of the recovered-material program; primary text for the desk-officer-handling claim

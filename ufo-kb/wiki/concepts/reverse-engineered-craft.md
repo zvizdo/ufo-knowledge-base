@@ -44,6 +44,9 @@ This is currently the most technically detailed public argument that the Pais pa
 - [[edgar-mitchell]] — reportedly claimed von Braun came to him and shared knowledge about UFO/ET matters
 - [[wernher-von-braun]] — alleged source of back-engineering claims (via Cooper and Mitchell)
 - Other unnamed Operation Paperclip scientists — allegedly corroborated in von Braun's astronaut gatherings
+- [[philip-corso]] — Pentagon FTD desk officer; claimed in [[day-after-roswell]] that recovered material was deliberately seeded into US industry as the basis for the transistor, fibre optics, integrated circuits, and night vision
+- [[hal-puthoff]] — long-running thesis-holder of US back-engineering activity; provided the DIA briefing on Russia/China RE programs that Davis cites
+- [[lue-elizondo]] — public claim that the US has held legacy retrieval-and-analysis programs across multiple administrations, with recovered material analysed at private contractors
 
 ## Evidence (weak/hearsay chain)
 

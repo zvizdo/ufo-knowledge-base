@@ -1,91 +1,81 @@
 ---
 type: concept
-summary: "High-frequency assertion categories in UFO/UAP discourse: crash retrievals, reverse engineering, NHI biologics, consciousness link, breakaway civilization, time-travelling humans, nuclear nexus. Not individual claims — these are *categories* of claim that recur across sources."
+summary: "Two-layer index for the UFO/UAP discourse: the nine recurring claim *categories* (crash retrieval, reverse engineering, NHI biologics, consciousness link, nuclear nexus, breakaway civilization, time-travelling humans, ancient contact, suppression) AND every discrete *claim-thesis* page in the KB. Categories are coarse buckets; claim-thesis pages aggregate evidence for individual propositions like 'Moon is artificial' or 'Element 115 powers the Lazar craft'."
 sources: [CONSTITUTION.md, raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/0qlppHc3-gg.md]
-tags: [claims-taxonomy, crash-retrieval, reverse-engineering, nhi, consciousness, breakaway-civilization]
+tags: [claims-taxonomy, claims-theses, crash-retrieval, reverse-engineering, nhi, consciousness, breakaway-civilization]
+aliases: [claims-theses]
 ---
 
 # Recurring Claims
 
-**Type**: meta-framework / taxonomy  
-**Applied to**: every import — categorize the claim type before creating a specific claims-thesis page
+**Type**: meta-framework / taxonomy + claim-thesis index
+**Applied to**: every import — categorize the claim type before creating (or extending) a specific claim-thesis page
 
-These are the *categories* of assertions that recur across sources in the UAP/UFO domain. Each category gathers evidence from multiple, often unconnected sources. Specific individual claims within each category get their own `claims-theses` pages.
+This page is the single index for assertion-shaped content in the KB:
+
+1. **Categories** — the nine high-frequency assertion buckets that recur across sources in the UAP/UFO domain. Each category is a thin pointer; the canonical evidence/claimant aggregation lives on the linked claim-thesis page(s).
+2. **Claim-thesis pages** — every specific, discrete proposition (e.g. *"the Moon is artificial"*, *"Roswell-derived material seeded the transistor"*) gets its own page that aggregates who makes the claim, who disputes it, and what evidence cuts which way. The full alphabetical list is at the bottom of this page.
+
+> **Editorial rule**: do not duplicate claimant or instance lists here. Add new claimants, instances, and documents to the relevant claim-thesis page directly. This page exists to *index*, not to *aggregate*.
 
 ## Categories
 
 ### 1. Crash Retrieval
-Non-human craft (and sometimes occupants) have been physically recovered by human governments, most often the U.S. military.
-
-- Key instances: [[1947-roswell]], [[1933-magenta-crash]], [[1962-bluegill-uap-shootdown]]
-- Key claimants: [[philip-corso]] (direct handling), [[harold-malmgren]] (direct handling of Bluegill material), [[chase-brandon]] (CIA agent; confirmed Roswell recovery), [[david-grusch]] (UAP Legacy Program)
-- Corroborating documents: [[day-after-roswell]], [[day-after-roswell]]
+Non-human craft (and sometimes occupants) physically recovered by human governments — most often the U.S. military.
+→ [[crash-retrieval-research]] · [[transistor-roswell-thesis]] · [[nazi-ufo-hypothesis]]
 
 ### 2. Reverse Engineering
-Recovered craft and materials are being actively studied and reverse-engineered, with technology spin-offs into private defense contractors.
-
-- Key claimants: [[philip-corso]], [[robert-salas]] (classmate claim), [[hal-puthoff]], [[lue-elizondo]]
-- Concept page: [[reverse-engineered-craft]]
+Recovered craft and materials are studied and back-engineered, with technology spin-offs into private defense contractors.
+→ [[reverse-engineered-craft]] · [[reverse-engineering-hypothesis]]
 
 ### 3. NHI Biologics
-Non-human biological entities (bodies) have been recovered alongside craft.
-
-- Key claimants: [[david-grusch]] (testified under oath), [[chase-brandon]], [[robert-sarbacher]] (early source)
-- Key physical evidence: [[nazca-tridactyl-mummies]] — 200+ bodies examined by forensic experts from 3 countries; strongest material instance of this claim in the KB
-- Key researchers: [[john-mcdow]], [[jim-caruso]], [[david-ruiz]], [[jose-zalce]]
-- Connects to: [[multiple-alien-groups]], [[majestic-12]], [[nazca-mummies-real-claim]]
+Non-human biological entities (live or dead) have been recovered alongside craft. The most materially falsifiable category.
+→ [[nhi-biologics]] · [[nazca-mummies-real-claim]] · [[multiple-alien-groups]]
 
 ### 4. Consciousness / NHI Link
-The UAP phenomenon is fundamentally linked to consciousness — either the craft respond to consciousness, the operators communicate telepathically, or the phenomenon is partially non-physical.
-
-- Key claimants: [[lue-elizondo]], [[hal-puthoff]], [[whitley-strieber]], [[john-mack]], [[edgar-mitchell]]
-- Concept pages: [[consciousness-non-local]], [[nhi-telepathic-communication]], [[transmission-theory-consciousness]]
+The UAP phenomenon is fundamentally linked to consciousness — craft respond to it, operators communicate telepathically, or the phenomenon is partially non-physical.
+→ [[consciousness-non-local]] · [[nhi-telepathic-communication]] · [[transmission-theory-consciousness]] · [[conscious-craft-hypothesis]]
 
 ### 5. Nuclear Nexus
-UFOs/UAP demonstrate particular interest in nuclear weapons and facilities; some have disabled or interfered with nuclear systems.
-
-- Key instances: [[1967-oscar-flight]], [[1967-echo-flight]], [[1966-minot-ufo-missiles]], [[1962-bluegill-uap-shootdown]]
-- Key document: [[ufos-and-nukes]] (Hastings)
-- Concept page: [[ufos-disable-nuclear-weapons]], [[ufo-nuclear-nexus]]
+UAP demonstrate particular interest in nuclear weapons and facilities; some have disabled or interfered with nuclear systems.
+→ [[ufo-nuclear-nexus]] · [[ufos-disable-nuclear-weapons]] · [[nuclear-bait-hypothesis]]
 
 ### 6. Breakaway Civilization
-A secret technical civilization — using off-books funding and alien-derived technology — has branched off from the public state and now operates largely independently.
-
-- Key claimants: [[danny-sheehan]], [[lue-elizondo]] (implicitly), [[harold-malmgren]] (structurally consistent with AEC compartment above presidential clearance)
-- Cross-link: [[disclosure-narratives]] (Narrative 6)
+A covert technical civilization — using off-books funding and alien-derived technology — has branched off from the public state and now operates largely independently.
+→ [[breakaway-civilization]] · cross-cuts [[disclosure-narratives]] (Narrative 6)
 
 ### 7. Time-Travelling Humans
 Some UAP operators are not extraterrestrial but future humans or interdimensional variants of humanity.
-
-- Key claimants: [[jacques-vallee]] (interdimensional variant), [[harold-malmgren]] (gestures toward this)
-- Concept page: [[time-travel-uap]]
+→ [[time-travel-uap]] · [[future-humans-hypothesis]] · [[ultraterrestrial-hypothesis]] · [[interdimensional-hypothesis]]
 
 ### 8. Ancient / Pre-History Contact
-Non-human intelligence interacted with humanity in deep antiquity, seeding religion, mythology, and early technology.
-
-- Referenced in: [[1f16VvXaSSE]] (jack-parsons occult-aerospace), [[ufo-religion-convergence]]
+NHI interacted with humanity in deep antiquity, seeding religion, mythology, and early technology.
+→ [[ancient-astronaut-hypothesis]] · [[ufo-religion-convergence]] · [[lost-civilization-hypothesis]] · [[silurian-hypothesis]] · [[watchers-thesis]] · [[nephilim-giants-thesis]]
 
 ### 9. Government Suppression / Cabal
 A coordinated, transnational effort suppresses UAP evidence across governments, media, and academia.
+→ [[ufo-secrecy-cabal]] · [[condon-commission-whitewash]] · [[astronomical-data-suppression]] · [[emp-misattribution]]
 
-- Core concept page: [[ufo-secrecy-cabal]]
-- Evidence pattern: [[condon-commission-whitewash]], [[astronomical-data-suppression]], [[emp-misattribution]]
-
-## How to Use This Category System
+## How to Use This System
 
 When a new source asserts a claim:
-1. Identify which category it falls into.
-2. Check if a specific `claims-theses` page exists for the discrete assertion.
-3. If not, create one (e.g., `moon-is-artificial.md`, `ufos-disable-nuclear-weapons.md`).
-4. Add the source to the relevant category here as an evidence node.
+
+1. **Categorise it** — pick one of the nine buckets above.
+2. **Find the matching claim-thesis page** in the bucket (or in the alphabetical index below) and add the source's evidence there.
+3. **No matching page exists?** Create one (e.g. `moon-is-artificial.md`) following the claim-thesis template — Type, Core Claim, Who Asserts This, Evidence, Refutations, Connections — and add it to both the relevant category above *and* the alphabetical index below.
+4. **Don't add claimant detail to this page.** Keep the categories thin pointers; the claim-thesis pages are the canonical aggregators.
+
+## All Claim-Thesis Pages
+
+Every discrete-proposition page in the KB. Alphabetical, with no per-bucket duplication:
+
+[[ancient-astronaut-hypothesis]] · [[atlantis-thesis]] · [[big-dipper-nhi-nexus]] · [[bracewell-probe-hypothesis]] · [[breakaway-civilization]] · [[cargo-cult-hypothesis]] · [[cold-fusion-thesis]] · [[cold-war-uap-nexus]] · [[condon-commission-whitewash]] · [[conscious-craft-hypothesis]] · [[consciousness-non-local]] · [[contactee-nordic-fascist-nexus]] · [[control-system-hypothesis]] · [[cultural-transmission-of-ufo-narrative]] · [[dmt-nhi-hypothesis]] · [[doe-secret-science-nexus]] · [[epstein-physics-nexus]] · [[extramission-hypothesis]] · [[extraterrestrial-hypothesis]] · [[fight-club-thesis]] · [[future-humans-hypothesis]] · [[galactic-federation-teaching-hypothesis]] · [[giants-sardinia-claims]] · [[hypothesis-first-uap-science]] · [[interdimensional-hypothesis]] · [[interstellar-probe-hypothesis]] · [[jesus-survival-thesis]] · [[lost-civilization-hypothesis]] · [[lyme-disease-biowarfare-thesis]] · [[mars-nuclear-war-thesis]] · [[mormon-intelligence-nexus]] · [[multiple-alien-groups]] · [[nazca-mummies-real-claim]] · [[nazi-ufo-hypothesis]] · [[nephilim-giants-thesis]] · [[nhi-telepathic-communication]] · [[nuclear-bait-hypothesis]] · [[nuts-and-bolts-hypothesis]] · [[particle-accelerator-ufo-nexus]] · [[renaissance-technologies-uap-hypothesis]] · [[reverse-engineered-craft]] · [[reverse-engineering-hypothesis]] · [[silurian-hypothesis]] · [[subterranean-nhi-hypothesis]] · [[time-travel-uap]] · [[transistor-roswell-thesis]] · [[transmission-theory-consciousness]] · [[ufo-nuclear-nexus]] · [[ufo-religion-convergence]] · [[ufo-secrecy-cabal]] · [[ufos-disable-nuclear-weapons]] · [[ultraterrestrial-hypothesis]] · [[watchers-thesis]]
 
 ## Connections
 
-- [[claims-theses]] concept pages (specific): [[reverse-engineered-craft]], [[ufos-disable-nuclear-weapons]], [[ufo-nuclear-nexus]], [[time-travel-uap]], [[multiple-alien-groups]], [[consciousness-non-local]], [[nhi-telepathic-communication]]
-- [[source-type-frameworks]] — categorizes what kind of source is making a recurring claim
+- [[source-type-frameworks]] — categorises what kind of source is making a recurring claim
 - [[credibility-frameworks]] — applied per-claim to weigh the assertion
 - [[disclosure-narratives]] — meta-theories about why these claims are or aren't being confirmed
-- [[ufo-secrecy-cabal]] — the recurring claim that suppression is organized
 - [[david-grusch]] — currently the highest-profile claimant across categories 1, 2, and 3
 - [[hal-puthoff]] — spans categories 2, 4, and 5
 - [[harold-malmgren]] — spans categories 1, 2, 5, and 6

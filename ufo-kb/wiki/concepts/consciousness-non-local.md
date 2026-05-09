@@ -40,6 +40,13 @@ Conventional neuroscience assumes consciousness is an emergent product of brain 
 - [[society-of-psychical-research]] research program — systematic empirical attempt to characterize non-local information transfer
 - [[simulation-theory]] — one contemporary framing: if reality is a simulation, "consciousness" is the compute substrate, not an emergent property of the simulation's objects
 
+## Notable UAP-Side Claimants
+
+- [[lue-elizondo]] — public position that consciousness and UAP are operationally entangled; AATIP-era working assumption
+- [[whitley-strieber]] — long-running first-person experiencer / contactee whose corpus treats consciousness as the primary contact channel
+- [[john-mack]] — Harvard psychiatrist whose abductee work argued the experience cannot be reduced to neuro-pathology; treated experiencers' reports of telepathic contact as data
+- [[edgar-mitchell]] — Apollo 14; founded [[institute-of-noetic-sciences]] explicitly to study non-local consciousness after his return-trip "savikalpa samadhi" experience
+
 ## UAP Connection
 
 Non-local consciousness is a load-bearing concept for understanding UAP phenomena: if NHI communicate telepathically, navigate via consciousness, or are themselves non-physical entities rather than corporeal beings in craft, then understanding UAP requires a model of consciousness that is not brain-bound. This is the link between the "hard" UAP cases (recovered materials, radar tracks) and the "soft" cases (contactee experiences, channeled messages, the gateway process).

@@ -17,6 +17,19 @@ NHI biologics refers to alleged physical biological remains — bodies, tissue, 
 
 **Varginha (Brazil, 1996)** — Multiple beings recovered by Brazilian military (with covert US involvement). One being was treated alive at [[hospital-regional-varginha]] by [[marcos-vinicius]] (surgery) and [[italo-venturelli]] (observed 3–4 minutes face-to-face). Military police officer [[marcos-charez]] who captured a being with bare hands died ~2 weeks later from a virulent, unprecedented bacterial infection; pathologist [[jean-bachista-janini]] suspects alien or genetically engineered bacteria. The bacterial contamination represents a unique sub-category of NHI biologics — living biological agents transmitted from NHI to human. See [[1996-varginha]], [[post-contact-biological-contamination]], [[UkKwa4jU0fc]].
 
+## Notable Claimants
+
+- [[david-grusch]] — Congressional testimony of recovered "non-human biologics"; private confirmation of Nazca-mummy congruence with classified briefings
+- [[chase-brandon]] — CIA officer who described seeing recovered material (and biologics) in Agency secure storage
+- [[robert-sarbacher]] — early Canadian-MoU-era source naming "small humanoid" recoveries to Wilbert Smith; one of the foundational hearsay anchors for the claim
+- [[john-mcdow]], [[jim-caruso]], [[david-ruiz]], [[jose-zalce]] — forensic / dental / medical experts across the US, Peru, and Mexico whose independent assessments back the Nazca specimens as real organisms
+
+## Adjacent Claim-Thesis Pages
+
+- [[multiple-alien-groups]] — biologics evidence cuts across morphological types, supporting >1 species
+- [[majestic-12]] — alleged early-recovery custodial group whose documents include biologic claims
+- [[nazca-mummies-real-claim]] — the discrete proposition that the Nazca tridactyls are authentic
+
 ## Authentication Challenges
 
 - **Chain of custody**: bodies that surface via private collectors lack provenance

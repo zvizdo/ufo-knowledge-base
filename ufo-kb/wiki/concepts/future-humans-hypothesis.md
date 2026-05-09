@@ -93,7 +93,6 @@ Nolan does not commit to the hypothesis but presents it as a credible possibilit
 - [[nhi-telepathic-communication]] — hive-mind consciousness as post-individual future-human trait
 - [[recurring-claims]] — future humans is a recurring-claims category
 - [[extradimensional-beings]] — contrasting hypothesis; some who hold extradimensional read also allow temporal interpretation
-- [[claims-theses]] — aggregator page for discrete KB claims
 - [[Y26iMB0r-f8]] — canonical source for the Extratemporalis model in this KB
 
 - [[kRO5jOa06Qw]] — Grusch and Jesse discuss Masters' model: neoteny arc (vestigial bodies, larger brains, latent intuitive/telepathic powers), time-travel prime directive as explanation for alien non-interventionism, grandfather paradox, abductee chemical rinses, and lost time consistent with temporal displacement
