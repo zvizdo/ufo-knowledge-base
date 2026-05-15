@@ -11,6 +11,7 @@ Subcommands (single graph build per run):
     orphans        pages with 0 inbound links
     islands        small disconnected components (size 2-10 outside the giant component)
     duplicates     alias-collision + neighborhood-overlap merge candidates
+    collisions     same slug used by >1 file path (graph deduplicates silently)
     synthesis      derived-from existence + reciprocal back-link enforcement
     stubs          short-body + low-degree pages, severity scaled by neighbor importance
     bridges        pages bridging >=3 clusters that are themselves stubs
@@ -220,6 +221,7 @@ class Graph:
     def __init__(self, wiki_dir: Path):
         self.wiki_dir = wiki_dir
         self.path_map: dict[str, Path] = {}
+        self.slug_paths: dict[str, list[Path]] = defaultdict(list)  # all paths sharing a slug (collisions)
         self.fm: dict[str, dict] = {}
         self.list_fields: dict[str, list[str]] = {}
         self.bodies: dict[str, str] = {}
@@ -242,6 +244,7 @@ class Graph:
     def _build(self):
         for f in self.wiki_dir.rglob("*.md"):
             slug = f.stem.lower()
+            self.slug_paths[slug].append(f)
             self.path_map[slug] = f
             try:
                 text = f.read_text(encoding="utf-8")
@@ -721,6 +724,30 @@ def detect_duplicates(g: Graph) -> list[Finding]:
     return findings
 
 
+def detect_slug_collisions(g: Graph) -> list[Finding]:
+    """Same slug used by >1 file path. Graph builds (and Obsidian) silently
+    deduplicate by stem, so the duplicate(s) become invisible — incoming
+    [[slug]] links collapse onto whichever file the walker picked last.
+
+    Always critical: this corrupts graph integrity. Fix by merging the files
+    (keeping one canonical path) or renaming one to a distinct slug.
+    """
+    findings: list[Finding] = []
+    for slug, paths in g.slug_paths.items():
+        if len(paths) < 2:
+            continue
+        rel = sorted(p.relative_to(g.wiki_dir).as_posix() for p in paths)
+        for path in paths:
+            findings.append(Finding(
+                slug=slug, folder=g.folder_of(slug),
+                issue_type="slug-collision",
+                severity="critical",
+                evidence=f"slug '{slug}' shared by {len(paths)} files: {', '.join(rel)}",
+                suggested_action="merge into one canonical file, or rename one to a distinct slug; the graph currently treats them as a single node",
+            ))
+    return findings
+
+
 def detect_synthesis(g: Graph, apply: bool = False) -> list[Finding]:
     """Synthesis-page health: derived-from existence + reciprocal back-link from each source."""
     findings: list[Finding] = []
@@ -1063,6 +1090,7 @@ DETECTORS = {
     "orphans": detect_orphans,
     "islands": detect_islands,
     "duplicates": detect_duplicates,
+    "collisions": detect_slug_collisions,
     "synthesis": detect_synthesis,
     "stubs": detect_stubs,
     "bridges": detect_bridges,

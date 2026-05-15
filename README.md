@@ -1,6 +1,6 @@
 # UFO/UAP Knowledge Base
 
-A connected wiki of the UFO/UAP discourse. **2,584 pages, ~27,200 connections, growing.**
+A connected wiki of the UFO/UAP discourse. **2,584 pages, 27,220 connections, growing.**
 
 <p align="center">
   <img src="docs/graph.png" alt="Force-directed graph of the UFO/UAP knowledge base — 2,584 nodes, 27,220 wikilinks. Top hubs are labeled around the ring; the rest fade into the long tail." width="100%">
@@ -26,7 +26,7 @@ The goal: map *who is who, where things happened, what concepts recur, and how t
 | Symbols & glyphs | 3 |
 | Synthesis pages (cross-source comparisons, gap analyses) | 13 |
 | Source summaries — YouTube transcripts | 124 |
-| Source summaries — government release documents | 69 |
+| Source summaries — government release documents | 64 |
 | Raw YouTube transcripts | 129 |
 
 Every page lives in `ufo-kb/wiki/` as plain Markdown with structured YAML frontmatter and `[[wikilinks]]` between pages. Every claim cites its raw source in `ufo-kb/raw/`.
