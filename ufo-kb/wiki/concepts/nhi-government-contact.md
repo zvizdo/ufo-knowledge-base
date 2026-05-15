@@ -28,3 +28,5 @@ The class of claims that representatives of the US government (and to a lesser d
 - [[ufo-secrecy]] — why contact (if real) would be kept secret
 - [[david-grusch]] — testimony implying sustained NHI materials exchange
 - [[dan-sherman]] — alleged intuitive communicator in an NHI-liaison program
+
+- Mentioned in [[QkuDvTFN7ms]] — [[john-norsine]]'s claimed TTR exercise at the [[1976-allagash-abduction]] site (August 1976) suggests possible government monitoring of the abduction event or location; Air Force Institute of Pathology received and signed for tissue samples from [[jack-weiner]]'s shin tumors — demonstrating a documented government pathology involvement with physical evidence from an abduction case; a colonel (physician) received the samples

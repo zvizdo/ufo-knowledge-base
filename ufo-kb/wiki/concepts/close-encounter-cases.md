@@ -32,3 +32,5 @@ Close Encounter cases are UAP/UFO incidents classified under the typology develo
 - [[ce-5-protocols]] — CE5 voluntary contact protocols
 - [[1994-ruwa-zimbabwe]] — canonical CE3 with multiple child witnesses
 - [[uap-physical-evidence]] — CE2 physical trace cases as the most objectively verifiable tier
+
+- Mentioned in [[QkuDvTFN7ms]] — the [[1976-allagash-abduction]] is one of the most physically documented CE4 cases on record: four witnesses, bilateral physical aftereffects on identical twins (shin bald patches → shin tumors in same locations), Air Force Institute of Pathology review of unidentifiable tissue, no-collusion regression protocol, campfire objective timing of missing time

@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Arizona logger abducted by a UFO in 1975; one of the best-documented abduction cases, involving six corroborating witnesses and a polygraph."
-sources: [raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/iPxbILOMQ08.md]
+sources: [raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/iPxbILOMQ08.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: Travis Walton
 aliases: []
 roles: [witness]
@@ -40,3 +40,4 @@ Corroboration level: **multi-witness / instrumented**. Six crew members independ
 - [[EzPmG_7WhXc]] — source transcript
 - [[Y26iMB0r-f8]] — cited by Michael P. Masters for time-dilation evidence
 - [[iPxbILOMQ08]] — source (Leir resurrection hypothesis)
+- Mentioned in [[h8vjx6-ZFvI]]

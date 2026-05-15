@@ -45,3 +45,8 @@ Shellenberger argues this is not unique to UAP: **FBI** needs whistleblower prot
 - [[dylan-guthrie]] — Harvard Law Review article finding zero historical precedents for prosecution of classified disclosures to Congress through secure channels
 - [[frank-church]] — Church Committee 1975 as the model for the kind of no-holds-barred investigation needed; required same political confidence of a real "prize" to be found
 - [[KGD1nuM4MR8]] — McConnell episode; detailed discussion of the catch-22 and Guthrie's analysis
+- Mentioned in [[9gLPtRwXgCM]]
+- Mentioned in [[R8TqBrrqL4U]] — Grusch describes simultaneous three-agency mental health investigations, criminal investigation without interview, and boss termination as a "show of force" — a forensic account of the reprisal playbook
+
+- Mentioned in [[QkuDvTFN7ms]] — two independent cases: (1) [[john-norsine]] died under suspicious circumstances after sending [[charlie-foltz]] a coded email predicting his own death, following his disclosure of the TTR exercise at Allagash; (2) [[charlie-foltz]]'s 1970 USS Holland UAP sighting was suppressed by direct officer order: "None of that happened" — witnesses explicitly ordered not to report
+- Mentioned in [[dre-5Zy4f7c]]

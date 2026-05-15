@@ -32,7 +32,7 @@ The five observables are load-bearing for multiple claims-theses in this KB:
 
 ## Key Example: Tic-Tac
 
-The [[2004-tic-tac-nimitz]] incident is the canonical multi-instrumented demonstration of the five observables. The Tic-Tac is estimated to have reached at least 31× the speed of sound while producing no acoustic signature — instantiating observables 1 and 2 simultaneously with multi-witness and multi-sensor corroboration.
+The [[2004-nimitz-tic-tac]] incident is the canonical multi-instrumented demonstration of the five observables. The Tic-Tac is estimated to have reached at least 31× the speed of sound while producing no acoustic signature — instantiating observables 1 and 2 simultaneously with multi-witness and multi-sensor corroboration.
 
 ## Relationship to Scientific Method
 
@@ -43,7 +43,7 @@ The [[2004-tic-tac-nimitz]] incident is the canonical multi-instrumented demonst
 - [[deep-prasad]] — uses five observables as reverse-engineering target
 - [[quantum-generative-materials]] — company mission built around simulating materials matching the five observables
 - [[macroscopic-quantum-uap]] — thesis that the observables indicate macroscopic quantum behavior
-- [[2004-tic-tac-nimitz]] — leading empirical case
+- [[2004-nimitz-tic-tac]] — leading empirical case
 - [[eric-weinstein]] — "new physics not new engineering" characterization of the observables
 - [[aatip]] — pentagon program that formalized the five observables framework
 - [[recurring-claims]] — five observables appear across virtually all serious UAP discussions

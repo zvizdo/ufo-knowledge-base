@@ -26,7 +26,7 @@ The United States Navy is one of the six branches of the US Armed Forces. In the
 
 ## Programs / Activities
 
-- [[2004-tic-tac-nimitz]] — the landmark intercept involving USS Nimitz carrier strike group
+- [[2004-nimitz-tic-tac]] — the landmark intercept involving USS Nimitz carrier strike group
 - [[aatip]] — the Advanced Aerospace Threat Identification Program; cooperated with Navy sensor data
 - [[uap-task-force]] — housed within the Navy before transitioning to AARO
 - Gimbal and Go Fast videos — declassified Navy gun camera footage released 2020
@@ -34,11 +34,12 @@ The United States Navy is one of the six branches of the US Armed Forces. In the
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[aatip]] — program that relied on Navy sensor data and personnel accounts
 - [[aaro]] — successor UAP body; originally housed in the Navy
 - [[ryan-graves]] — key Navy whistleblower/witness
 - [[david-fravor]] — Nimitz intercept pilot
-- [[2004-tic-tac-nimitz]] — flagship UAP incident
+- [[2004-nimitz-tic-tac]] — flagship UAP incident
 - [[salvatore-pais]] — Navy-affiliated exotic propulsion patent filer
 - [[uap-task-force]] — housed within the Navy
 - [[naval-intelligence]] — intelligence branch

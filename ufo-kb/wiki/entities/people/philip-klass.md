@@ -39,3 +39,4 @@ Klass's primary attack on the MJ12 documents focused on Truman's signature — c
 - [[GQlWf54K_7Y]] — source
 - [[timothy-good]] — mutual critics — Klass debunked Good's accounts
 - [[above-top-secret]] — Good's foundational disclosure-corpus book; one of Klass's recurring targets
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]

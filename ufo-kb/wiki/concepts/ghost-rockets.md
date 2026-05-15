@@ -29,3 +29,5 @@ The Ghost Rockets were a wave of unidentified flying object sightings that occur
 - [[foo-fighters]] — related WWII-era unidentified aerial phenomena (preceding the ghost rockets)
 - [[uap-suppression]] — Swedish military requests to suppress lake-dive reports
 - [[uap-physical-evidence]] — lake-bottom searches for ghost rocket debris
+- Mentioned in [[dow-general-flying-disc-files-1946-1948]] — referenced as precursor context to the 1947 US disc wave
+- Mentioned in [[usaf-1948-11-netherlands-flying-saucers-intel-report]] — Swedish Air Intelligence reported 1948 lake crash + uncharted crater to USAFE/USAF; formally concluded flying saucers cannot be credited to any known earthly culture; continues the Swedish lake-crash pattern of the 1946 ghost rocket wave

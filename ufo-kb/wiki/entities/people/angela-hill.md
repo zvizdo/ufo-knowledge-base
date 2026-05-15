@@ -8,6 +8,7 @@ affiliations: [UFC]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/C_Na1tI5qpw.md
 tags: [barney-hill, betty-hill, abduction, ufc, family]
+sources: [raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 ---
 
 # Angela Hill
@@ -40,3 +41,4 @@ Angela Hill is the only known public figure with a direct biological connection 
 - [[abduction-phenomena]] — extends the Hill case into the present generation
 - [[C_Na1tI5qpw]] — source
 - Mentioned in [[Hc6pbG4wICA]]
+- Mentioned in [[h8vjx6-ZFvI]]

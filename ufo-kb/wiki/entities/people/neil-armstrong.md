@@ -53,3 +53,4 @@ At the 25th anniversary of Apollo 11 (1994), Armstrong gave a speech to the nati
 - [[zjpvfDFc4fg]] — source; "truth's protective layers" speech; UFO research discussion with Friedman
 
 - Synthesized in [[apollo-skepticism-cluster]]
+- Mentioned in [[nasa-uap-d4-apollo-11-technical-crew-debriefing-1969]] — "like an open suitcase" (translunar unidentified object, naked eye); ~50 cosmic-ray phosphene observations in final night; "neutron or atomic particle" hypothesis for cabin flashes

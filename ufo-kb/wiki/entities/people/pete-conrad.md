@@ -30,6 +30,7 @@ Conrad's Gemini 11 crewmate [[alan-bean]] was his Apollo 12 crew member. Bean se
 ## Sources Where They Appear
 
 - [[IWui5cBkwoE]] — Kevin Knuth discusses Gemini 11 encounter
+- [[nasa-uap-d7-skylab-technical-crew-debriefing-1973]] — SL-2 debrief (Jun 30, 1973): Conrad documented cosmic ray phosphenes ("spots or sunbursts" + "streaks"), entrance/exit streak observations, and South Atlantic Anomaly correlation query
 
 ## Connections
 
@@ -38,5 +39,6 @@ Conrad's Gemini 11 crewmate [[alan-bean]] was his Apollo 12 crew member. Bean se
 - [[kevin-knuth]] — researched and discussed the Gemini 11 sequence
 - [[scott-simkinson]] — whose archive contained the Gemini 11 "strange object" lithograph
 - [[IWui5cBkwoE]] — source summary
-- [[credibility-frameworks]] — auto-added during 2026-05-03 maintenance pass for constitution compliance; verify and refine
+- [[credibility-frameworks]] — Apollo/Gemini/Skylab astronaut; multiple mission experience; on-record debrief documentation
+- Mentioned in [[nasa-uap-d1-apollo-12-transcript-1969]] — CDR Apollo 12; particle/light observation from LM AOT dark quadrant: "some of those things are escaping the Moon. They really haul out of here and just press off at the stars." Water boiler considered but not concluded.
 

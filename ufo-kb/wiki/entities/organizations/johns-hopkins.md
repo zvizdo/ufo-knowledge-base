@@ -21,6 +21,7 @@ Major research and medical university in Baltimore, Maryland. Founded 1876. Know
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[detlev-bronk]] — former president; alleged MJ-12 member
 - [[majestic-12]] — the alleged oversight body whose membership included Bronk
 - [[ffrdc-uap-architecture]] — Johns Hopkins APL as an FFRDC in the classified research ecosystem

@@ -7,7 +7,7 @@ roles: [official]
 affiliations: [US House of Representatives, Republican Party, House Armed Services Committee]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/LnAiNChnuEQ.md
-sources: [raw/youtube-transcripts/LnAiNChnuEQ.md]
+sources: [raw/youtube-transcripts/LnAiNChnuEQ.md, raw/youtube-transcripts/9gLPtRwXgCM.md]
 tags: [congress, house-hearing, uap-disclosure, armed-services, subcommittee]
 ---
 

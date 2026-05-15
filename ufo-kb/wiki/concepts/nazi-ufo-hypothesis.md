@@ -91,3 +91,4 @@ The most conservative reading: some UAP events are Nazi/human reverse-engineered
 - [[rudolph-schriever]] — Skoda Works technician who described craft climbing to 40,000 ft in seconds
 - [[richard-miethe]] — Nazi disc engineer; consulted on Avro Car / Project Y at Wright Patterson
 - [[henry-coanda]] — first flying saucer patent (1936); consulted Project Y
+- Mentioned in [[fbi-germany-1957-krasuski-circular-vertical-object]] — Krasuski's 1944 Gut Alt Golssen account is direct WWII HUMINT evidence for a located German disc test facility

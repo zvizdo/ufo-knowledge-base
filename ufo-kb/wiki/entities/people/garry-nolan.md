@@ -66,8 +66,13 @@ Nolan has since "come out" publicly (as of 2016+), which Pasulka describes as "a
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - Mentioned in [[1f16VvXaSSE]]
 - [[sol-foundation]] — co-founder and board member
+- [[disclosure-narratives]] — Nolan's scientific credentialing approach (peer-reviewed materials analysis, congressional briefings, Sol Foundation TRC framework) is the scientist-led Narrative 1 managed-disclosure track
+- [[david-grusch]] — co-speaker at Sol Foundation inaugural symposium (November 2023); Nolan's materials research complements Grusch's programmatic testimony
 - [[arts-parts]] — metamaterial analysis
 - [[basal-ganglia-uap-predisposition]] — coined the research angle
 - [[kevin-knuth]] — peer in academic UAP science cluster
@@ -94,7 +99,7 @@ Nolan has since "come out" publicly (as of 2016+), which Pasulka describes as "a
 - [[diana-pasulka]] — confirmed his CIA recruitment and met him ~2014; introduced him under pseudonym before he went public
 - [[element-115]] — Nolan's magnesium-bismuth samples (Ubatuba, ~1950s/60s crash site) connect to the Group 15 chemistry that makes element 115 chemically adjacent to bismuth; [[d9tdJ2SkBKQ]]
 - [[d9tdJ2SkBKQ]] — Jesse identifies Nolan as having a magnesium-bismuth piece from a 1950s/60s observed anomaly (crash site) in his Stanford lab; connected to element 115 Group 15 chemistry
-
+- Mentioned in [[dre-5Zy4f7c]]
 ## Primary Interview — American Alchemy (dzTZbSNsKV8)
 
 In [[dzTZbSNsKV8]], Nolan is the primary guest at his Stanford lab. This is the only AA episode where physical samples are produced on camera. Key new material:

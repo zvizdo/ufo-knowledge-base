@@ -23,9 +23,11 @@ Multiple UAP witnesses and whistleblowers in the KB — including [[john-lear]],
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[project-blue-book]] — the Air Force's primary public UAP investigation program; officially concluded 1969
 - [[space-force]] — the 2019 branch that absorbed Air Force Space Command and took over space-domain responsibilities
 - [[area-51]] — Air Force-controlled classified testing facility
 - [[dan-sherman]] — USAF Technical Sergeant who served in the NSA's intuitive communicator program
 - [[aatip]] — successor program to Blue Book's mission; operated through DoD channels including Air Force
 - [[ufo-secrecy]] — the Air Force has been the primary institutional vehicle for managing UAP information
+- Mentioned in [[fbi-germany-1957-krasuski-circular-vertical-object]] — 1966 OUFORA letter: FBI Detroit directed civilian UFO inquiry to USAF Wright-Patterson, documenting the post-1947 civilian routing protocol

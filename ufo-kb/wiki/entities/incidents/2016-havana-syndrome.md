@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "US government designation 'Anomalous Health Incidents' (AHI) for over 1,000 US officials and family members experiencing directional sound, cognitive impairment, and vestibular disruption across multiple countries since ~2016; linked by investigators to Russian directed-energy attacks."
-sources: [raw/youtube-transcripts/jMCavr3dVP0.md]
+sources: [raw/youtube-transcripts/jMCavr3dVP0.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: Havana Syndrome / Anomalous Health Incidents
 aliases: [AHI, Anomalous Health Incidents, Havana Syndrome, havana-syndrome]
 date: 2016-present
@@ -90,3 +90,4 @@ The psychological mechanism for internal denial: officials whose entire worldvie
 - [[jMCavr3dVP0]] — primary source
 - [[recurring-claims]] — government cover-up of directed energy attacks on own officials
 - [[disclosure-narratives]] — act-of-war suppression as explanation for institutional denial
+- Mentioned in [[h8vjx6-ZFvI]]

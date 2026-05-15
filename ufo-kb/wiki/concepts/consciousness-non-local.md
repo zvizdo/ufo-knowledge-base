@@ -1,7 +1,7 @@
 ---
 type: concept
 summary: "Consciousness is not produced by or confined to an individual brain; it is a shared or field-like phenomenon that individual minds participate in but do not generate — explaining telepathy, remote viewing, and NHI communication as features of the medium rather than anomalies."
-sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/2Mb6NPPjCyg.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/ATJwqp5twAg.md, raw/youtube-transcripts/KRDE1i3LDuU.md, raw/youtube-transcripts/LpLFWdsIU7M.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/wT5-hXWIkzM.md]
+sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/2Mb6NPPjCyg.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/ATJwqp5twAg.md, raw/youtube-transcripts/KRDE1i3LDuU.md, raw/youtube-transcripts/LpLFWdsIU7M.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/wT5-hXWIkzM.md, raw/youtube-transcripts/OwrDI7GvenQ.md]
 tags: [consciousness, non-local, telepathy, remote-viewing, uap, nhi, quantum-consciousness, field-theory]
 ---
 
@@ -141,3 +141,7 @@ This analogy maps directly onto the William James "transmission" thesis (see [[t
 
 [[matthew-pines]] in [[LpLFWdsIU7M]] independently introduces the quantum brain thesis: *"I think the brain itself is probably a room temperature quantum system."* This makes NHI telepathic communication via quantum channels natural rather than anomalous — load-bearing for the Triangle thesis (AI + quantum + Grusch). See [[ai-as-cosmic-gateway]].
 - Mentioned in [[KhmUixSXxDo]] — Jones endorses Penrose quantum observer effect; consciousness non-locality as politically suppressed knowledge
+- Mentioned in [[OwrDI7GvenQ]] — Atwater's core theoretical framework: quantum non-locality means "there's nothing that's remote — everything is all one thing"; he frames the Rubik's Cube interstellar travel explanation as consciousness-based non-locality; his intellectual question about what "attracts" a viewer to off-target significant sites is the most operationally specific non-locality puzzle in KB
+- [[skip-atwater]] — the Stargate operations officer whose entire career is grounded in applied non-local consciousness; his new "attraction" question (what draws viewers off-target to significant sites) is an open empirical problem
+
+- Mentioned in [[QkuDvTFN7ms]] — [[jim-weiner]] received instantaneous non-verbal telepathic comprehension when he looked into the beings' eyes: "like two magnets grabbing one another instantly"; beings demonstrated apparent thought-reading: as soon as Jim contemplated physically attacking one of them, all nearby beings "moved away so fast it was like a blur" before he acted; [[charlie-foltz]] received a non-verbal comprehension of their propulsion system while being escorted out

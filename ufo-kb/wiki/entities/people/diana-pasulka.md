@@ -132,6 +132,9 @@ In response to Jesse's coinage of "forcing function," Pasulka endorses it fully:
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - Mentioned in [[1f16VvXaSSE]]
 - [[john-mack]] — Mack's abductee research shares methodological DNA with Pasulka's approach (taking experiencer accounts seriously as data)
 - [[tim-taylor]] — escorted her to Vatican Observatory; admitted to archives without her; flashed multi-agency credentials; told Ryan Bledsoe about Nassau time travel group

@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Aerospace entrepreneur and UAP researcher; founder of NIDS (National Institute for Discovery Science); much of AATIP's early investigative activity occurred at his facilities, including Skinwalker Ranch."
-sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/iPxbILOMQ08.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
+sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/iPxbILOMQ08.md, raw/youtube-transcripts/vZEcVY2iZsk.md, raw/youtube-transcripts/9gLPtRwXgCM.md]
 name: Robert Bigelow
 aliases: [Bigelow]
 roles: [researcher, other]
@@ -62,3 +62,5 @@ Bigelow was also at one point going to **hire Steve Coburn** for his company. Th
 - Mentioned in [[BEWz4SXfyCQ]]
 - Mentioned in [[Hc6pbG4wICA]]
 - [[vZEcVY2iZsk]] — Vallée critiques the DIA/BAASS investigation template (trajectory, composition, luminosity, radiation) as designed to check boxes for Pentagon investigators rather than provide genuine scientific analysis of the contact phenomenon
+- Mentioned in [[9gLPtRwXgCM]] — Elizondo describes him as "an American hero and patriot" who self-funded significant AAWSAP research on behalf of the US government; hosted the DC hotel dinner with Brazilian General Uchoa that proved Elizondo's intellectual turning point
+- Mentioned in [[dre-5Zy4f7c]]

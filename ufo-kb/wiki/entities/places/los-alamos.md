@@ -64,3 +64,4 @@ The [[nnsa]] Nevada site (Las Vegas) also appears in this episode as a key node:
 - [[melissa-casillas]] — LANL administrative assistant who disappeared June 26, 2025; evidence points toward voluntary departure under financial stress, but unexplained badge discrepancy and factory-reset phone remain unresolved; her disappearance brought LANL into the 2025 missing scientists cluster ([[wlsQIbpEKSM]])
 - [[scientists-targeting-pattern]] — Casillas's disappearance added Los Alamos to the 2025–2026 cluster; source hedges on whether her case reflects the pattern
 - [[wlsQIbpEKSM]] — source; Casillas disappearance context
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]

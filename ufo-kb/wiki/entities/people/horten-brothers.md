@@ -8,7 +8,7 @@ affiliations: [luftwaffe, nazi-germany]
 firsthand_claims: []
 first_seen_in: nazi-ufo-hypothesis
 tags: [nazi, aircraft, flying-wing, horten, stub]
-sources: []
+sources: [raw/documents/dow-general-flying-disc-files-1946-1948.md]
 summary: "Reimar and Walter Horten — German aircraft designers who built the Ho 229, a twin-jet flying wing aircraft for the Luftwaffe. The Ho 229's disc-like planform and stealth properties make it a recurring reference in Nazi UFO hypotheses and claims that alleged Roswell craft were of terrestrial Nazi origin."
 ---
 
@@ -41,3 +41,4 @@ The brothers appear in UAP discourse via:
 - [[disc-shaped-craft]] — the Ho 229's planform as a possible terrestrial precursor to "flying saucer" shapes
 - [[credibility-frameworks]] — the Horten-Roswell connection is speculative; the Ho 229's stealth properties are documented fact
 - Mentioned in [[Y7PLeu5rTv4]] — Levenda's Roswell hypothesis: Soviet craft based on Horten flying-wing design with German engineers aboard
+- Mentioned in [[dow-general-flying-disc-files-1946-1948]] — Col. McCoy transmitted Horten RAE Tech Note AERO 1703 alongside Loedding LD-2 drawing Sep 1947; Cabell confirmed interrogation of Horten Brothers by EUCOM G-2 Feb 1948

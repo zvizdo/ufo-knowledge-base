@@ -30,3 +30,5 @@ The core temporal anomaly of the alien abduction experience: witnesses in a UAP 
 - [[budd-hopkins]] — researcher who systematized the missing-time concept
 - [[experiencer-research]] — the broader context of anomalous experience reporting
 - [[consciousness-non-local]] — some models link missing time to consciousness operating in non-local modes
+
+- Mentioned in [[QkuDvTFN7ms]] — the 1976 Allagash Abduction is the defining campfire-evidence case: the burned-out campfire established ~3 hours of missing time with no conscious memory for any of the four witnesses; [[raymond-fowler]] calculated the campfire burn duration as the primary objective evidence; simultaneous recurring nightmares 12 years later in different states provided secondary evidence of suppressed memory

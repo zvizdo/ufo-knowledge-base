@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "CIA pilot, son of aviation pioneer Bill Lear, and the man who introduced Bob Lazar to journalist George Knapp in 1989; argued by Jesse Michaels to have been a deliberate CIA conduit for leaking Lazar's story as a disinformation wrapper protecting classified exotic propulsion programs."
-sources: [raw/youtube-transcripts/RTEWLSTyUic.md, raw/youtube-transcripts/WBTqsbwJyqU.md]
+sources: [raw/youtube-transcripts/RTEWLSTyUic.md, raw/youtube-transcripts/WBTqsbwJyqU.md, raw/youtube-transcripts/dre-5Zy4f7c.md]
 name: John Lear
 aliases: []
 roles: [other]
@@ -74,3 +74,4 @@ Bill Lear's Lear Corporation was located directly across the street from Brown's
 - [[u7g5Sn1DJF4]] — source (McConnell/Mlelen speculation)
 - [[d9tdJ2SkBKQ]] — Lazar recounts how he met Lear through [[gene-huff]] (house appraisal); describes Lear's extreme credulity ("no filter") alongside genuine aviation credentials; Lear first suggested Lazar contact [[george-knapp]]; Lear's father Bill Lear (inventor of autopilot, 8-track tape, radio direction finder) removed John entirely from his will
 - Mentioned in [[Hc6pbG4wICA]]
+- Mentioned in [[dre-5Zy4f7c]]

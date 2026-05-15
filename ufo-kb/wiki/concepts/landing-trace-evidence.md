@@ -27,3 +27,6 @@ Landing trace evidence refers to physical marks and anomalies documented at site
 - [[nhi-radiation-effects]] — overlapping category: radiation traces as both physical evidence and health impact
 - [[close-encounter-cases]] — landing traces are typically CE2 (physical effects) or CE3 (entity-accompanied) cases
 - [[credibility-frameworks]] — physical trace evidence's role in establishing credibility for UAP claims
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — five pre-Roswell physical evidence cases (West Rindge NH, Philadelphia angel-hair, Twin Falls disc, Dow Chemical fused sand) documented in FBI primary-source chain-of-custody records
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]

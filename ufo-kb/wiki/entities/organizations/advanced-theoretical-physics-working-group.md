@@ -15,7 +15,7 @@ tags: [uap-programs, physics, hal-puthoff, john-alexander, eric-davis, dod, doe,
 
 Informal working group operating within or adjacent to DoD and DoE channels, focused on developing physics frameworks to explain UAP phenomena. Also referred to as the "Advanced Theoretical Physics Group." Active primarily in the late 1980s and 1990s.
 
-**Membership**: [[hal-puthoff]], Oke Shannon, [[john-alexander]], [[eric-davis]], and [[joseph-mcmoneagle]] (who joined after the [[stargate-program]] operational phase). The group represented a cross-section of cleared individuals with backgrounds in psi research, plasma physics, and defense intelligence.
+**Membership**: [[hal-puthoff]], Oke Shannon, [[john-alexander]], [[eric-davis]], and [[joe-mcmoneagle]] (who joined after the [[stargate-program]] operational phase). The group represented a cross-section of cleared individuals with backgrounds in psi research, plasma physics, and defense intelligence.
 
 **Focus**: The group studied the physics of UAP — including interdimensional transit models, propulsion mechanics, and consciousness-UAP interaction hypotheses. Shannon and Puthoff are specifically cited as developing an interdimensional model of UAP origin as an alternative to the standard ET hypothesis. This work fed directly into what later became the theoretical foundations of [[aatip]] under [[lue-elizondo]].
 
@@ -26,7 +26,7 @@ Informal working group operating within or adjacent to DoD and DoE channels, foc
 - [[hal-puthoff]] — core member; contributed physics framework for UAP propulsion and interdimensional models
 - [[john-alexander]] — member; brought military intelligence background
 - [[eric-davis]] — member; continued this work in AATIP/AAWSAP context
-- [[joseph-mcmoneagle]] — joined; cross-pollinates stargate-program operational experience with physics review
+- [[joe-mcmoneagle]] — joined; cross-pollinates stargate-program operational experience with physics review
 - [[aatip]] — successor institutional context; ATPWG members informed AATIP's theoretical framework
 - [[stargate-program]] — institutional predecessor; several ATPWG members came from Stargate
 - [[government-uap-programs]] — the broader landscape of unofficial and official UAP programs

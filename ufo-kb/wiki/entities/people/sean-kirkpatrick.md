@@ -47,6 +47,8 @@ The article Kirkpatrick allegedly sourced included a second cover story beyond E
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
 - [[aaro]] — his former organization
 - [[robert-hastings]] — Hastings facilitated AARO veteran testimonies; criticizes Kirkpatrick as Condon 2.0
 - [[1964-vandenberg-bob-jacobs]] — Elizondo disclosed film location to Kirk McConnell; Kirkpatrick allegedly removed/denied it

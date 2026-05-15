@@ -37,3 +37,4 @@ Operation Paperclip was a US government intelligence operation (1945–1959) in 
 - [[uap-suppression]] — Paperclip as precedent for classified program deception
 - [[military-industrial-complex]] — the defense contractor ecosystem Paperclip scientists entered
 - [[nazi-occult]] — the broader SS research context that Paperclip extracted scientists from
+- Mentioned in [[dow-1945-03-shaef-foo-fighters-german-armament]] — Flak Bombe / German armament hypothesis; the document shows USAF/SHAEF seriously investigated whether German advanced weapons produced the foo fighter phenomenon; Paperclip then transferred those scientists post-war

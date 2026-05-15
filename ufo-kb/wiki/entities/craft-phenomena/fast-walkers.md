@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "UAP/object category: objects detected transiting Earth's outer defense detection layer (DSP satellites/NORAD); classified as highly sensitive by NORAD; referenced in a Wikileaks email between Bob Fish and John Podesta."
-sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md]
+sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/9gLPtRwXgCM.md]
 name: Fast Walkers
 aliases: [fast walker]
 category: craft
@@ -12,6 +12,10 @@ tags: [fast-walker, norad, dsp, outer-defense, uap-classification, podesta, wiki
 # Fast Walkers
 
 A classified UAP category tracked by **NORAD** (North American Aerospace Defense Command) via the **Defense Support Program (DSP)** — a network of infrared satellites monitoring Earth's outer defense layer, operated by the US Air Force. Fast Walkers are objects detected **transiting the DSP sensor layer at anomalous velocities** — moving through the outer edge of Earth's detection envelope in ways that do not match any known satellite, rocket, or aircraft.
+
+## USAF Fast Walker Program — Official UAP Mission (9gLPtRwXgCM)
+
+[[lue-elizondo]] states in JRE #2194 that the USAF **Fast Walker Program** had detecting UFOs as part of its **official mission** — *"that's a fact, that was part of their mission."* He also references a classified **Navy analog program** for tracking transmedium/USO objects, which he cannot discuss publicly without approval. This confirms the Fast Walker category has institutional acknowledgment at the program level, not just via the Podesta email reference.
 
 ## Classification Status
 
@@ -39,3 +43,4 @@ Shellenberger and [[jesse-michaels]] discuss the Podesta/Fish email in the conte
 - [[DPmO-2E7Ayg]] — primary source
 - [[ufo-secrecy-cabal]] — the institutional apparatus that keeps this category classified
 - [[disclosure-narratives]] — the Podesta connection places this in the broader political disclosure arc
+- Mentioned in [[9gLPtRwXgCM]] — Elizondo confirms detecting UFOs was part of the official USAF Fast Walker Program mission; Navy analog program also exists

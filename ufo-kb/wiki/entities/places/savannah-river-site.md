@@ -44,3 +44,4 @@ Physicist [[james-mcdonald]] from Arizona State University witnessed a UFO at Sa
 - [[james-mcdonald]] — witnessed UAP here; publicly ridiculed afterward
 - [[atomic-energy-commission]] — operated the site
 - [[fzvwBBSmWYA]] — source; [[aKZ_MUbuk_Q]] may also reference
+- Mentioned in [[9gLPtRwXgCM]]

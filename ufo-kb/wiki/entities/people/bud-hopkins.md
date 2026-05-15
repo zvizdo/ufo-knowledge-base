@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Artist and UFO researcher who became one of the most prolific documenters of alien abduction cases; childhood friend of John Mack, whose work drew Mack into abduction research."
-sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/areO7Mej44E.md]
+sources: [raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/areO7Mej44E.md, raw/youtube-transcripts/QkuDvTFN7ms.md]
 name: Bud Hopkins
 aliases: [Budd Hopkins]
 roles: [researcher, other]
@@ -39,3 +39,4 @@ Hopkins represents the investigator-as-archivist model: documenting cases, ident
 - [[CiQTBOQ1dTg]] — cited as foundational abduction researcher
 - [[human-staged-abductions]] — Greer's claim that Hopkins (and Mack) unknowingly received only funneled human-staged cases
 - [[areO7Mej44E]] — Greer source for funneled-cases claim
+- Mentioned in [[QkuDvTFN7ms]] — [[jim-weiner]] (Allagash witness) describes Hopkins as "an amazing aggregator" of abduction cases; confirms Hopkins and Mack's childhood friendship as the path that drew Mack into abduction research

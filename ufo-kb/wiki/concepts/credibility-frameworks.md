@@ -60,8 +60,12 @@ Every person page ends with a Connections section that implicitly applies this l
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - Mentioned in [[1f16VvXaSSE]]
 - [[source-type-frameworks]] — categorizes the *type* of source (official/leaked/witness/researcher/cultural) before applying credibility weighting
+- [[cold-war-uap-nexus]] — Cold War classification culture structurally suppressed witness credibility (NDAs, compartmentalization) while creating deliberate dual-causation ambiguity; any credibility assessment of Cold War-era UAP must account for this institutional distortion layer
 - [[recurring-claims]] — credibility framework is applied per-claim, not per-person globally
 - [[disclosure-narratives]] — how credibility is weaponized or dismissed within disclosure politics
 - [[robert-salas]] — exemplifies high firsthand credibility: documented post, NDA, corroborated
@@ -99,3 +103,51 @@ Every person page ends with a Connections section that implicitly applies this l
 - Mentioned in [[Hc6pbG4wICA]]
 - [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Sitting congressman Tim Burchett; overhead-committee access; active briefings; named military sources; TMZ origin story
 - Mentioned in [[vZEcVY2iZsk]]
+- Mentioned in [[9gLPtRwXgCM]]
+
+- Mentioned in [[QkuDvTFN7ms]] — the [[1976-allagash-abduction]] offers a cluster of credibility signals: four independent witnesses; no-collusion 4-witness regression protocol (audio recorded); bilateral physical evidence (shin bald patches → shin tumors in same locations on identical twins); Air Force Institute of Pathology review of unidentifiable tissue; campfire objective timing; [[gordon-cooper]] corroborating testimony pattern at same 1995/96 Portsmouth conference; [[raymond-fowler]]'s maternal interview (mother disclosed hooded being to researcher she had never told her own sons)
+- Mentioned in [[dre-5Zy4f7c]]
+- Mentioned in [[h8vjx6-ZFvI]]
+
+- Mentioned in [[usaaf-1949-flying-discs-box186-incident-reports]]
+- Mentioned in [[usaf-1955-10-azerbaijan-unconventional-aircraft]] — USAIRA B-2 rating; three Senate Committee witnesses; OPERATIONAL IMMEDIATE cable; Senator Russell (Chairman, Armed Services Committee) is the most senior US official on record as a direct UAP witness
+- Mentioned in [[nasa-uap-d2-apollo-17-transcript-1972]] — Apollo astronauts represent the highest witness reliability tier: trained military test-pilots, technical vocabulary, real-time Mission Control corroboration loop
+
+- Mentioned in [[1949-kodiak-alaska-ufo]]
+- Mentioned in [[1949-hickam-afb-flying-disc]]
+
+- Mentioned in [[dow-uap-d48-modeling-space-booster-failures-1996-09]]
+- Mentioned in [[dow-uap-d49-vandenberg-launch-summary-1958-2000]]
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]
+- Mentioned in [[dow-1945-03-shaef-foo-fighters-german-armament]] — 415th NFS combat aircrews with GCI radar "negative" corroboration; reports escalated to Air Ministry; closed as unexplained
+- Mentioned in [[dow-uap-d19-mission-report-syria-2023-02-21]] — USAF F-15E aircrew; APG-82 multi-mode radar; WSV sensor; 609 CAOC reporting chain; MG-level declassification
+- Mentioned in [[dow-uap-d65-mission-report-arabian-gulf-2020-07-16]] — USCENTCOM ISR platform; ANDAS4 FMV sensor; 609 CAOC reporting; 3 UAP in 21-hour sortie
+- Mentioned in [[dow-uap-d75-mission-report-gulf-of-aden-2024-07-14]] — 124 ATKS / 432 AEW ISR platform; FMV sensor; 609 CAOC / NAVCENT chain; speed-exceeding UAP; Gulf of Aden 2024
+- Mentioned in [[dow-uap-d25-mission-report-mediterranean-sea-2024-01-25]] — AFSOC 33 SOS special operations crew; SWIR instrumented detection; 609 CAOC Det 1 / 603rd AOC reporting; Mediterranean 2024
+- Mentioned in [[dow-uap-d14-mission-report-syria-2022-05-29]] — 50 ATKS / 432 AEW USEUCOM ISR; ANDAS4 FMV + AIRHANDLER SIGINT; 603rd AOC / 609 CAOC reporting; no positive ID on UAP
+- Mentioned in [[dow-uap-d63-mission-report-strait-of-hormuz-2020-10-01]] — 482 ATKS / 432 AEW ISR; ANDAS4 + AIRHANDLER; 609 CAOC / NAVCENT; Strait of Hormuz 2020
+- Mentioned in [[dow-uap-d62-mission-report-strait-of-hormuz-2020-09-16]] — 482 ATKS / 432 AEW ISR; ANDAS4 FMV; JSIR-documented EMI; 609 CAOC / NAVCENT; Strait of Hormuz 2020
+- Mentioned in [[dow-uap-d27-mission-report-gulf-of-oman-2024-06-07]] — AFSOC 3 SOS / 27 SOW special operations crew; AN/DAS-1 EO/IR sensor; 609 CAOC / USCENTCOM chain; SECRET//NOFORN; Gulf of Oman 2024
+- Mentioned in [[dow-uap-d10-mission-report-iraq-2022-05-06]] — AFCENT 432 AEW ISR; FMV + SIGINT; DGS1 exploitation; 609 CAOC reporting; SECRET//FVEY; Iraq 2022
+- Mentioned in [[dow-uap-d20-mission-report-iraq-2023-03-31]] — F-16CM combat 2-ship; SNIPER LDP targeting pod TV-mode active lock; analyst star-discrimination ("results different"); 609 CAOC / USCENTCOM; SECRET//NOFORN
+- Mentioned in [[dow-uap-d35-mission-report-aegean-sea-2023-10-29]] — AFSOC 33 SOS / 27 SOW special operations crew; armed aircraft (Hellfire missiles); AN/DAS-4 targeting pod; 609 CAOC Det 1; Aegean Sea 2023
+- Mentioned in [[dow-uap-d64-mission-report-iran-2020-11-02]] — 482 ATKS / 432 AEW ISR; ANDAS4 + GMESH + VORTEX; DGS1 exploitation; 609 CAOC; MG Richard A. Harrison declassification; Arabian Gulf 2020
+- Mentioned in [[dow-uap-d33-mission-report-aegean-sea-2023-10-27]] — AFSOC 33 SOS / 27 SOW special operations crew; AN/DAS-4 targeting pod; 609 CAOC; VEO targeting mission; Aegean Sea 2023
+- Mentioned in [[dow-uap-d61-mission-report-arabian-gulf-2020-08-27]] — 482 ATKS / 432 AEW ISR; redacted sensor type (1.4a); DGS1; IRGCN/IRIN pattern-of-life mission; IL-76 and Naser WAP on same sortie; 609 CAOC / USCENTCOM
+- Mentioned in [[fbi-western-us-late-2025-uap-investigation]] — FBI 302 format; senior US intelligence official primary witness; FLIR + NVG + naked eye triple-sensor from helicopter + LP/OP ground team; JOC coordination; 5 military aircraft on-station; SECRET//NOFORN; PURSUE Release 01
+- Mentioned in [[dow-uap-d60-mission-report-arabian-gulf-2020-08-08]] — 482 ATKS / 432 AEW ISR; ANDAS4 FMV; cloud-degraded collection; 609 CAOC / USCENTCOM; IRGCN/IRIN mission; Iranian Air Defense guard call; DGS1
+- Mentioned in [[dow-uap-d18-mission-report-iraq-2022-12-01]] — 482 ATKS / 20 FW ISR; FMV + AH/BLASPHEMY codename sensor; DGS-AR exploitation; 609 CAOC / USCENTCOM; HVI/TARGET DEV mission; SECRET//NOFORN; Iraq 2022
+- Mentioned in [[dow-uap-d12-mission-report-iraq-2022-05-20]] — 196 ATKS / 163 AW (California ANG); ANDAS4 + AHv2; DGS1 screener; 609 CAOC; SECRET//FVEY; OP PHANTOM FLEX; intel gap filled YES; Iraq May 2022
+- Mentioned in [[dow-uap-d28-mission-report-iraq-2024-09-20]] — AFSOC 16 SOS / 27 SOW AC-130 gunship SOTU 016; CAPTAIN-grade primary; WSO + CSO dual witness; MX-20 + MX-25 dual EO/IR sensor; live AGM-176 PGM employment context; 609 CAOC; SECRET//FVEY; Iraq Sep 2024
+- Mentioned in [[dow-uap-d3-mission-report-arabian-gulf-2020]] — AFCENT ISR; sensor and unit fully redacted; SECRET; Arabian Gulf 2020; 4× UAP formation observation
+- Mentioned in [[dow-uap-d16-mission-report-syria-2022-07-31]] — 89 ATKS / 432 AEW ISR; DGS1 FMV exploitation; 609 CAOC / 603 AOC reporting; SECRET//NOFORN; Force Protection ISO TF CHOSIN; MQ-9 ISR from OJMS; Syria Jul 2022
+- Mentioned in [[dos-uap-d5-cable-5-mexico-2003-09]] — US Embassy UNCLASSIFIED cable; Ryan Graves (former Navy pilot, prior US Congress testimony) vs Maussan (discredited corpses); embassy implicitly endorses Graves's credibility distinction; NSC/CIA/DIA routing
+- Mentioned in [[usaf-1948-11-netherlands-flying-saucers-intel-report]] — Swedish Air Intelligence Service (allied military) as institutional witness; USAFE evaluation of allied-source extraterrestrial conclusion; multi-crew B-2 evaluation from 307th BG; naval salvage team dispatched on witness azimuth note
+- Mentioned in [[dos-uap-d4-cable-4-turkmenistan-2004-11]] — UOU President Muradov as secondhand consultant to Turkmen military; embassy characterizes him as reliable; cable tone distinguishes his NGO competence from his UAP claims
+- Mentioned in [[dos-uap-d3-cable-3-georgia-2001-10]] — documents how state actors exploit UAP ambiguity to evade airspace accountability; "UFO" as a mechanism to pre-empt credibility challenges rather than a genuine observation claim
+- Mentioned in [[dow-uap-d51-email-correspondence-pacific-time-zone-2023-03-23]] — civilian report elevated to AFOSI IIR status because of proximity to national security facility; OUSD(I&S) derivative classification review as institutional credibility threshold
+- Mentioned in [[nasa-uap-d3-gemini-7-transcript-1965]] — dual USAF military test pilot crew (Borman + Lovell); first-person testimony on master NASA mission tape; PAO released specifically because of UAP content
+- Mentioned in [[dos-uap-d2-cable-2-kazakhstan-1994-01]] — Pan Am veterans as witnesses; active explicit comparison to known meteor/re-entry phenomena; sighting transmitted via official US diplomatic cable
+- Mentioned in [[fbi-september-2023-uap-sighting-us-transport-facility]] — 15-year government facility employee familiar with all US military aircraft/drones; multiple witnesses; formal FBI 302 investigation; FBI Lab composite sketch corroboration
+- Mentioned in [[dos-uap-d1-cable-1-papua-new-guinea-1985-01]] — Air Niugini commercial pilot radar confirmation; NIO attributing institutional credibility to this report; official Embassy cable to USCINCPAC
+- Mentioned in [[western-us-event-slides-2023-incident-released-2026-05-08]] — seven federal law enforcement special agents; three independent teams from varying vantage points; AARO follow-up measurements independently confirmed dimensions and distance

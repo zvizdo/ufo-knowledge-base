@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "First official USAF UFO investigation project (1947–1949); produced the 'Estimate of the Situation' concluding UFOs were extraterrestrial, which was suppressed by General Hoyt Vandenberg. Succeeded by Project Grudge."
-sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
+sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/documents/dow-general-flying-disc-files-1946-1948.md]
 name: Project Sign
 aliases: [Project Saucer, Sign]
 parent_org: USAF / Air Materiel Command
@@ -33,3 +33,7 @@ Project Sign was renamed [[project-grudge]] in February 1949. The new name refle
 - [[j-allen-hynek]] — brought in as astronomical consultant during this era
 - [[ufo-secrecy-cabal]] — Sign's suppression is an early institutional example of the suppression pattern
 - [[condon-commission-whitewash]] — later iteration of the same institutional dynamic
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]
+
+- Mentioned in [[usaaf-1949-flying-discs-box186-incident-reports]]
+- Mentioned in [[dow-general-flying-disc-files-1946-1948]] — founding directive (Craigie letter, 30 Dec 1947) and operational context through mid-1948

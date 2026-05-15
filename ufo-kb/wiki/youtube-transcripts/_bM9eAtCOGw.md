@@ -35,7 +35,7 @@ American Alchemy interview with [[avi-loeb]], Harvard astrophysicist and founder
 
 **Orgs/Programs**: [[galileo-project]], [[cia]], [[nasa]], [[project-blue-book]], [[robertson-panel]], [[aatip]], [[bigelow-aerospace]]
 
-**Incidents/Objects**: [[2017-oumuamua]], [[2004-tic-tac-nimitz]], [[1952-washington-dc-flyover]]
+**Incidents/Objects**: [[2017-oumuamua]], [[2004-nimitz-tic-tac]], [[1952-washington-dc-flyover]]
 
 **Places**: proxima centauri b, harvard college observatory
 

@@ -3,7 +3,7 @@ type: concept
 name: UAP Consciousness Link
 aliases: [UAP consciousness link, UAP consciousness connection, consciousness-responsive UAP]
 first_seen_in: ufo-kb/wiki/concepts/consciousness-as-fundamental.md
-sources: []
+sources: [raw/youtube-transcripts/OwrDI7GvenQ.md]
 summary: "The cluster of claims and evidence suggesting that UAP phenomena respond to or are mediated by observer consciousness state — including reports that UAP appear in response to meditation or intention, that witnesses report altered states during encounters, and that the phenomenon's characteristics (appearance, behavior) may be co-created by observer psychology."
 tags: [consciousness, uap, intention, observer-effect, vallée, control-system]
 ---
@@ -31,3 +31,6 @@ The UAP consciousness link refers to the pattern of claims and evidence suggesti
 - [[psionic-uap-interface]] — the specific hypothesis that UAP/NHI interface is consciousness-to-consciousness
 - [[ce-5-protocols]] — voluntary contact protocols premised on consciousness as the contact medium
 - [[remote-viewing]] — related consciousness-as-detection framework with government validation
+- Mentioned in [[OwrDI7GvenQ]] — Atwater's Lawrence Livermore grassy knoll NHI encounter (alien beings interviewing mesmerized civilians; injection sending Atwater upward); alien spacecraft encounter (Rubik's Cube travel explanation via telepathy); NHI being's three-year delayed telepathic follow-up; NHI use of "programmed thoughts" to direct human attention and conceal locations
+- [[skip-atwater]] — firsthand NHI contact experiencer; his OBE encounters represent the most direct form of consciousness-mediated NHI interface in the KB
+- Mentioned in [[dre-5Zy4f7c]]

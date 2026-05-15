@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "US Army intelligence officer; Knight of Malta; author of The Day After Roswell (1997); claimed to have distributed recovered alien craft materials to US private industry for reverse engineering, naming Bell Labs as a recipient."
-sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/RNjC1vLcxKo.md, raw/youtube-transcripts/nTiFs8LudUo.md]
+sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/RNjC1vLcxKo.md, raw/youtube-transcripts/nTiFs8LudUo.md, raw/youtube-transcripts/dre-5Zy4f7c.md]
 name: Philip Corso
 aliases: [Philip J. Corso, Col. Philip Corso, Colonel Corso]
 roles: [military, whistleblower, researcher]
@@ -81,3 +81,5 @@ Pines identifies Corso as a member of the **Psychological Strategy Board** (PSB)
 - [[RNjC1vLcxKo]] — Lemoine episode; Corso's name surfaces as prior art on AI-has-alien-origin
 - [[john-blitch]] — independently built the case in 2001 that DARPA serves as the institutional successor to Trudeau's tech-distribution mandate; Blitch arrived at this from inside DARPA without reading Corso first; mutual corroboration of the conduit thesis
 - [[yAvD5UTziTo]] — Blitch's independent corroboration source
+- Mentioned in [[dre-5Zy4f7c]]
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]

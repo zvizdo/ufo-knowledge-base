@@ -45,6 +45,7 @@ This case is directly relevant to [[richard-dolan]]'s statistical finding that U
 - [[1971-uss-jfk-orb]] — the incident
 - [[uso-em-interference]] — a defining case for EM effects in naval USO encounters
 - [[andrew-bloxom]] — Bloxom's 1825 HMS Blonde account involves a strikingly similar spherical glowing USO
+- [[1825-hms-blonde]] — Bloxom's 1825 incident is the closest historical parallel: same spherical glowing orb morphology, same naval-vessel context, 146-year gap
 - [[disclosure-project]] — testified there in 2000
 - [[richard-dolan]] — featured in his USO database and book
 - [[usos-volume-1]] — appears in volume 1

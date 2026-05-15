@@ -33,3 +33,4 @@ Skylab was NASA's first space station, launched May 14, 1973, and operational th
 - [[soviet-space-program]] — parallel space station program with similar UAP encounter reports
 - [[nasa]] — operating agency
 - [[non-human-intelligence]] — the NHI monitoring hypothesis that astronaut encounter reports like Bean's fit into
+- Mentioned in [[nasa-uap-d7-skylab-technical-crew-debriefing-1973]] — primary source debrief covering SL-2 (cosmic ray phosphenes), SL-3 (rotating reddish unidentified object), and SL-4 (tumbling lights)

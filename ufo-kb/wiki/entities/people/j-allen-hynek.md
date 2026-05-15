@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Northwestern University astronomer and USAF Project Blue Book scientific consultant; developed the Hynek classification scale (CE1–CE5); was evasive when Jacques Vallée confronted him about the Pentacle Memo; allegedly delivered a pre-programmed computer to Paul Benowitz as part of the AFOSI disinformation operation."
-sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/WBTqsbwJyqU.md]
+sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/WBTqsbwJyqU.md, raw/youtube-transcripts/9gLPtRwXgCM.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: J. Allen Hynek
 aliases: [Jaylen Heinik (transcript phonetic), Josef Allen Hynek]
 roles: [researcher, official]
@@ -35,6 +35,8 @@ Jesse Michaels notes a striking divergence: Carl Sagan and Hynek operated in the
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
 - Mentioned in [[1f16VvXaSSE]]
 - [[project-blue-book]] — his primary affiliation
 - [[jacques-vallee]] — his assistant; confronted him with the Pentacle Memo
@@ -51,3 +53,6 @@ Jesse Michaels notes a striking divergence: Carl Sagan and Hynek operated in the
 - [[carl-sagan]] — went opposite direction on UFOs at the same time Hynek became a believer
 - [[lbGE3EC6StE]] — Operation Moonwatch role and Hynek/Sagan divergence discussed
 - Mentioned in [[vZEcVY2iZsk]]
+- Mentioned in [[9gLPtRwXgCM]] — Elizondo describes his role as Blue Book consultant tasked with dismissing sightings; after leaving Blue Book, Hynek became a disclosure advocate
+- Mentioned in [[h8vjx6-ZFvI]]
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]

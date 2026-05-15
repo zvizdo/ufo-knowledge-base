@@ -140,6 +140,9 @@ A town in Fukushima Prefecture, Japan ([[iino]], referenced in [[5udx_SDdL3Y]]) 
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - [[1947-roswell]] — The foundational crash-retrieval event, occurring near the 509th Bomb Group (the world's only nuclear-capable air wing at the time); Brandenburg argues the nuclear arsenal proximity is causally relevant; the nexus begins here
 - [[reverse-engineered-craft]] — Nuclear sites concentrate both UAP monitoring and alleged RE programs; the recovered material from nuclear-adjacent crashes feeds the RE pipeline; the secrecy apparatus for both is the same AEC/DOE structure
 - [[consciousness-non-local]] — Ramsey's entropy-attractor hypothesis bridges the two: high-entropy events (nuclear detonations) produce the same enhancement signal for remote viewing that they produce for UAP appearance; both phenomena respond to nuclear entropy spikes via the same underlying channel
@@ -150,6 +153,7 @@ A town in Fukushima Prefecture, Japan ([[iino]], referenced in [[5udx_SDdL3Y]]) 
 - [[gravity-manipulation-propulsion]] — The enormous energy requirement for metric-warp propulsion may explain UAP interest in nuclear infrastructure; nuclear reactions represent the highest energy density in human technology.
 - [[1f16VvXaSSE]] — Elizondo confirmation of the nuclear nexus from the AATIP director perspective.
 - [[ralph-moat-larson]] — DOE intel director 2005-2008; not briefed on nuclear-UAP incursions; confirms extreme DOE compartmentalization; highest-conviction UAP claim from his standpoint
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — LaPaz briefing documented UAP concentration over Sandia/Los Alamos/Kirtland; AEC facility sightings in Sections 6-7; Cabell directive covered phenomena over nuclear installations; this file is the foundational primary documentary source for the pattern
 - [[doe]] — Larson's DOE testimony adds the "unread-in intel director" data point
 - [[ATJwqp5twAg]] — source interview; Larson + Hanford 1945 Bud Clem reference
 - [[beatriz-villarroel]] — her Palomar data adds the first archival instrumental corroboration
@@ -161,6 +165,7 @@ A town in Fukushima Prefecture, Japan ([[iino]], referenced in [[5udx_SDdL3Y]]) 
 - [[riz-virk]] — simulation-break framing of nuclear-UFO nexus
 - [[ken-wilson-physicist]] — renormalization / phase-transition theory underlying the simulation-break model
 - [[thomas-townsend-brown]] — his classified electrogravitics work was entirely funded by and intertwined with the nuclear military complex; the nuclear nexus is also the physics-lockdown origin event
+- Mentioned in [[dow-uap-d23-mission-report-arabian-gulf-2023-10-31]] — USCENTCOM ISR UAP encounters near Iranian border (near Iranian nuclear program) concurrent with Iranian Air Defense guard call; Arabian Gulf, 2023-10-24
 - [[jacques-vallee]] — Vallee's cross-analysis of the trinity-test timeline and UAP appearance data is the strongest historiographic case that nuclear tests are the trigger, not just a coincidence
 - [[aKZ_MUbuk_Q]] — source episode
 - [[aaro]] — AARO received Robert Salas's briefing on nuclear-UAP incidents and declined to act; the nuclear nexus is the highest-credibility evidence stream AARO has structurally avoided
@@ -192,6 +197,7 @@ A town in Fukushima Prefecture, Japan ([[iino]], referenced in [[5udx_SDdL3Y]]) 
 - [[KGD1nuM4MR8]] — McConnell episode; September 19, 1962 AVCO MarkV UAP incident added; ship log details for Bluegill
 - [[disclosure-narratives]] — key disclosure-narrative anchor
 - [[credibility-frameworks]] — credibility-frameworks context
+- [[american-alchemy]] — the primary source corpus for nuclear-UAP evidence in this KB; episodes on Salas, Malmgren, Hastings, Elizondo, Michaels's own explainers collectively form the largest single-corpus treatment of this nexus (45 shared neighbors via Adamic-Adar)
 - [[hal-puthoff]] — Puthoff nuclear-UAP research
 - [[nhi-telepathic-communication]] — telepathic communication during nuclear-site UAP encounters
 - [[nuclear-uap-multilateral-evidence]] — multilateral-evidence synthesis
@@ -250,7 +256,7 @@ These are explicitly not mutually exclusive — multiple theories could be simul
 
 - Synthesized in [[knuth-academic-uap-science-cluster]]
 - Mentioned in [[vZEcVY2iZsk]]
-
+- Mentioned in [[dre-5Zy4f7c]]
 ## 2024 New Jersey Drone Flap as Nuclear-Facility Extension (dnnpyNuPdXs)
 
 [[jake-barber]]'s [[sky-watchers]] deployment to [[pikatini-arsenal]] in December 2024 adds a contemporary data point to the nuclear-facility UAP pattern. The flap extended to Salem Nuclear Power Plant (NJ) and Brunswick/Duke Energy plants (NC). Barber explicitly cited [[robert-hastings]]'s *UFOs and Nukes* to contextualize what he observed. The phenomenon combined conventional drone activity (FAA-violating commercial drones over the Arsenal) with what Barber assesses as genuine UAP-class objects (vertical atmospheric entry/exit) operating nearby — suggesting the nuclear-nexus pattern persists into the present era and was not resolved by the end of atmospheric nuclear testing.
@@ -312,3 +318,15 @@ This also adds a new dimension to Coburn's claim that NHI communications disrupt
 - [[kRO5jOa06Qw]] — Grusch/Jesse: most detailed public discussion of Hastings book, Oscar Flight, Vandenberg 1964 Jacobs case, PRP credibility floor, and nuclear-site Men in Black suppression pattern
 - Mentioned in [[Hc6pbG4wICA]]
 - [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett confirms from briefings that UAP are consistently present near nuclear weapons; Navy 1950s nuclear arming sighting reported to him
+- Mentioned in [[9gLPtRwXgCM]]
+
+- Mentioned in [[QkuDvTFN7ms]] — Loring AFB (Strategic Air Command nuclear installation, northern Maine) had a mid-1970s UAP laser-mapping incident ~90 miles from the [[1976-allagash-abduction]] site; [[charlie-foltz]] had a nuclear submarine Navy background; his 1970 USS Holland sighting off Spain involved a UAP suppressed by officer order — nuclear-nexus context applies to both incidents
+- Mentioned in [[R8TqBrrqL4U]] — Grusch cites AEA §51 transclassification of UAP materials as nuclear secrets; ICBM interference pattern; nuclear installation surveillance; "this monkey has a nuke" NHI framing
+- Mentioned in [[h8vjx6-ZFvI]]
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]
+
+- Mentioned in [[usaaf-1949-flying-discs-box186-incident-reports]]
+- Mentioned in [[dow-uap-d49-vandenberg-launch-summary-1958-2000]]
+- Mentioned in [[usaf-1955-10-azerbaijan-unconventional-aircraft]] — Soviet disc-launch facility with searchlight infrastructure implies strategic military significance; relevant to NHI nuclear-monitoring thesis or Soviet disc-weapons program
+- Mentioned in [[dow-uap-d14-mission-report-syria-2022-05-29]] — UAP observed while platform was conducting ISR on Russian nuclear-capable Slava-class cruiser and A-50U/Gorshkov vessels in Eastern Mediterranean; RFAF SU-30 intercept 2.5 hours prior
+- Mentioned in [[fbi-western-us-late-2025-uap-investigation]] — orb swarm at classified western US facility same day as "successful test" at site; "super-hot" FLIR thermal; FBI 302 senior IC witness; PURSUE Release 01

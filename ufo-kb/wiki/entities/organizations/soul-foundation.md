@@ -20,6 +20,7 @@ Research and advocacy organization associated with [[helen-mccall]], a financial
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[helen-mccall]] — primary associated figure; author of the financial-stability white paper
 - [[disclosure-narratives]] — the financial systemic-risk framing as a novel category
 - [[controlled-disclosure]] — financial risk argument parallels the managed-disclosure rationale

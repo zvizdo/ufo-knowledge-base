@@ -36,3 +36,5 @@ The systematic study of individuals reporting alien abduction experiences. Disti
 - [[experiencer-research]] — the broader concept class including all anomalous experience types
 - [[1961-betty-barney-hill-abduction]] — the foundational case that established the abduction research field
 - [[close-encounter-cases]] — the broader category; abductions are a subset
+
+- Mentioned in [[QkuDvTFN7ms]] — the [[1976-allagash-abduction]] is a landmark case: four independent witnesses; no-collusion regression protocol; physical evidence (bilateral shin bald patches, bilateral shin tumors, punch-biopsy scar); Air Force Institute of Pathology involvement; [[raymond-fowler]]'s "The Allagash Abductions" is the primary publication; [[john-mack]] ran post-investigation support groups; both [[bud-hopkins]] and Mack were connected to the case

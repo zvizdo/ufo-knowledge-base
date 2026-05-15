@@ -44,3 +44,4 @@ In [[1iaH1a3A4Lk]], [[marik-von-rennenkampff]] cites Ruppelt's finding that appr
 - [[credibility-frameworks]]
 - [[1iaH1a3A4Lk]] — cited by Merrick in context of Battelle analysis
 - [[GQlWf54K_7Y]] — Dolan's detailed reconstruction of his 1960 reversal
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]

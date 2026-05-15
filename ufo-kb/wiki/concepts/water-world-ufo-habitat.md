@@ -68,6 +68,7 @@ Water (H₂O) hydrogen-oxygen bond energy: breaking these bonds releases signifi
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[kevin-knuth]] — primary proponent of this framework
 - [[subterranean-civilizations]] — related concept (underground/underwater base hypothesis)
 - [[deep-underground-military-bases]] — human analog (underground infrastructure)

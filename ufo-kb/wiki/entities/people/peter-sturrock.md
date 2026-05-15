@@ -32,3 +32,4 @@ Sturrock represents the bridge between the first wave of serious academic UAP re
 - [[credibility-frameworks]] — Stanford astrophysicist with published isotope analysis; institutional legitimacy
 - [[federico-faggin]] — fellow Stanford-adjacent scientist with anomalous research interests who maintained institutional credibility; both connected to Vallée's network
 - [[vZEcVY2iZsk]] — JRE #2288 (2025-03-12); Vallée describes the Stanford lineage from Sturrock through himself to Nolan
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]

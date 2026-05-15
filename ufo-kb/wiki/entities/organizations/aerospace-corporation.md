@@ -46,3 +46,4 @@ As an FFRDC, Aerospace Corporation occupies a hybrid position: it is a non-profi
 - [[reverse-engineered-craft]] — FFRDC architecture is one mechanism by which UAP programs are funded (per UAP gerb's analysis elsewhere in KB)
 - [[sole-source-contracts]] — the contracting mechanism that allowed Davis to be brought in
 - [[LnAiNChnuEQ]] — source
+- Mentioned in [[dow-uap-d49-vandenberg-launch-summary-1958-2000]]

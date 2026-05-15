@@ -20,7 +20,11 @@ No credible official documentation supports the experiment. The primary source i
 
 ## Townsend Brown Connection
 
-[[t-townsend-brown|T. [[t-townsend-b]]rown|Townsend Brown]]'s high-voltage field experiments and reports of temporal disorientation effects among operators are sometimes cited in the same context — the temporal/spatial displacement effects are structurally similar to what Allende described.
+[[thomas-townsend-brown]] was stationed at Norfolk, Virginia during the alleged Philadelphia Experiment (1943) — his proximity, expertise, and documented Navy credentials make him a recurring figure in the experiment's lore. A recently declassified 1943 FBI document identifies Brown as **"the Navy's top radar expert"** at the time, which is consistent with him being assigned to any classified high-voltage Navy work in that period.
+
+Late in life, Brown told his friend Josh Reynolds: *"The Philadelphia Experiment did happen, but its events were just greatly exaggerated."* [[nick-cook]]'s interpretation: the experiment most likely involved a **high-voltage electromagnetic envelope around a ship to scramble its magnetic signature** — degaussing on a classified scale — not literal teleportation. Brown's electrogravitics expertise would have made him a natural participant in such an experiment.
+
+Brown's own high-voltage field experiments produced reports of temporal disorientation effects among operators, structurally similar to the disorientation Allende described among the Eldridge crew. Whether the same physical effect was operative, or whether the Eldridge story was elaborated by Allende from Brown-research-related rumors, is unresolved.
 
 ## Open Questions
 

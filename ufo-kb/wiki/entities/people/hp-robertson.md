@@ -63,3 +63,4 @@ This mandate — effectively instructing Blue Book to explain away rather than i
 - [[kirk-mcconnell]] — highlighted the Robertson/Foo Fighter continuity as "not a coincidence"
 - [[5udx_SDdL3Y]] — Jesse Michels discusses the panel in context of the forgotten anti-gravity timeline
 - [[KGD1nuM4MR8]] — McConnell episode; Foo Fighter investigation connection surfaced
+- Mentioned in [[dow-1945-03-shaef-foo-fighters-german-armament]] — Robertson investigated foo fighters during WWII; the primary source documents (415th NFS sortie reports, SHAEF chain) form the evidentiary basis of his wartime investigation

@@ -30,6 +30,8 @@ The [[pentacle-memo]] (authored by [[howard-cross]] of Battelle Memorial Institu
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
 - [[cia]] — convened and ran the panel
 - [[project-blue-book]] — the panel restructured its mandate toward debunking
 - [[ufo-secrecy-cabal]] — panel's debunking recommendation is a structural example of coordinated suppression
@@ -46,3 +48,5 @@ The [[pentacle-memo]] (authored by [[howard-cross]] of Battelle Memorial Institu
 - [[_bM9eAtCOGw]] — Avi Loeb summarizes the Robertson Panel's media debunking mandate in the historical context of the 1952 Washington DC UFO flap; frames it as the turning point after which the government suppressed open inquiry
 - [[james-fox]] — Fox calls the Robertson Panel "the constitution for Blue Book" and the origin of the public ridicule reflex toward UAP witnesses; cites it as a classified document that "was supposed to stay classified"; documented in [[bVhSPH2A5Vw]]
 - [[bVhSPH2A5Vw]] — Fox's analysis of the Robertson Panel as the systematic origin of UAP stigma
+- Mentioned in [[dow-1945-03-shaef-foo-fighters-german-armament]] — WWII foo fighter investigation (1945) is the evidentiary foundation Robertson and Alvarez built on when they later chaired this panel
+- Mentioned in [[usaf-1948-11-netherlands-flying-saucers-intel-report]] — 1948 USAFE open-minded extraterrestrial conclusion contrasts with the panel's 1953 debunking mandate; the same USAF intelligence infrastructure produced both

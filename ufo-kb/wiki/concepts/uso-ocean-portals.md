@@ -73,6 +73,7 @@ Dolan's view on USO retrieval: "I believe that's probably a yes" — citing the 
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[tim-burchett]] — stated the five ocean emergence zones claim
 - [[richard-dolan]] — ~670-case USO database; EM interference statistical analysis
 - [[usos-volume-1]] — Dolan's book; primary database source

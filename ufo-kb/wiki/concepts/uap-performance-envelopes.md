@@ -57,3 +57,4 @@ Knuth's overall conclusion: warp drive is "certainly on the table" but admits th
 - [[alcubierre-warp-drive]] — the theoretical model whose predictions are most consistent with the Knuth performance data
 - [[miguel-alcubierre]] — author of the warp metric; endorsed by Knuth as "certainly on the table"
 - [[ufo-nuclear-nexus]] — nuclear energy density is the only known human energy source in the range required by Knuth's calculations; may explain UAP nuclear-site monitoring
+- [[dow-uap-d33-mission-report-aegean-sea-2023-10-27]] — classified government record: "MULTIPLE 90 DEGREE TURNS AT 80 MPH" at sea level (Aegean Sea, Oct 2023); AFSOC 33 SOS / 27 SOW FMV; only sharp-maneuvering observation in the gov-release AARO D-series

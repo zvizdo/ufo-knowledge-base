@@ -77,3 +77,7 @@ Rogan tentatively frames these beings as **future humans** — post-reproductive
 - Synthesized in [[apollo-skepticism-cluster]]
 - Mentioned in [[BEWz4SXfyCQ]]
 - Mentioned in [[vZEcVY2iZsk]]
+- Mentioned in [[9gLPtRwXgCM]]
+- Mentioned in [[dre-5Zy4f7c]]
+- Mentioned in [[sKwq7mpBTrY]] — Joe Rogan Experience #2495 with Tim Burchett (151 min); covers UAP disclosure momentum, Florida pilot briefing, Matt Gaetz alien-hybrid claim, USOs, congressional suppression
+- Mentioned in [[Gf_tKn9TaP8]] — Joe Rogan Experience #2314 with Hal Puthoff (169 min); covers Stargate origin, Bush-2 disclosure workshop, crash retrievals, UAP physics, Schumer-Rounds Act

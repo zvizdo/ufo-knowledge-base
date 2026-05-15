@@ -61,6 +61,7 @@ Dolan's theory, discussed by [[james-fox]] in [[hBrfe4hFuM0]], holds that the [[
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[bob-maguire]] — Bob's primary UFO education source
 - [[chris-bledsoe]] — Dolan conducted an extended interview with Bledsoe that convinced Bob to visit
 - [[ufo-secrecy-cabal]] — Dolan's central thesis: UAP secrecy is structural

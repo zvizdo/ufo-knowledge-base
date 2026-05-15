@@ -1,7 +1,7 @@
 ---
 type: entity
-summary: "American documentary filmmaker specializing in UFO/UAP; director of 'The Phenomenon' (2020), 'Out of the Blue' (2003), 'I Know What I Saw' (2009), 'Moment of Contact' (2022), and forthcoming 'The Program'; credited with producing the most credible mainstream-accessible UAP documentaries."
-sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/UkKwa4jU0fc.md, raw/youtube-transcripts/bVhSPH2A5Vw.md, raw/youtube-transcripts/hBrfe4hFuM0.md]
+summary: "American documentary filmmaker specializing in UFO/UAP; director of 'The Phenomenon' (2020), 'Out of the Blue' (2003), 'I Know What I Saw' (2009), 'Moment of Contact' (2022), and 'The Program' (released December 23, 2024, #1 on Amazon Prime); credited with producing the most credible mainstream-accessible UAP documentaries."
+sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/UkKwa4jU0fc.md, raw/youtube-transcripts/bVhSPH2A5Vw.md, raw/youtube-transcripts/hBrfe4hFuM0.md, raw/youtube-transcripts/3yrKVu35uSE.md, raw/youtube-transcripts/QkuDvTFN7ms.md]
 name: James Fox
 aliases: []
 roles: [filmmaker, documentary-director, researcher]
@@ -53,13 +53,19 @@ In [[2ttdlCa5ZCI]], Fox is referenced in the context of the broader disclosure c
 
 Fox's most significant work on a specific incident. [[moment-of-contact]] documents the [[1996-varginha]] case in Brazil, which Fox investigated for ~15 years (three visits to Brazil per year at peak). With co-producer [[marco-leal]], he assembled the most complete witness chain for the case including: crash witness [[carlos-de-souza]], neurosurgeon [[italo-venturelli]] (face-to-face with the alien being), forensic physician [[armando-fortunato]] (autopsy of the officer who died), and senior pathologist [[jean-bachista-janini]] (bacteria findings). In 2025 Fox brought the three primary witnesses to Austin, Texas for the American Alchemy interview ([[UkKwa4jU0fc]]). He has offered $1M for the missing video that [[marcos-vinicius]] filmed of the being in 1996.
 
-### "The Program" (forthcoming ~2026)
+### "The Program" (released December 23, 2024)
 
-Fox's most explicitly bold documentary. He says: "I would go to jail to say things I've been exposed to in the program." Key subjects:
-- [[hal-puthoff]] — "star of the documentary"; Fox had a screening with him the night before the [[bVhSPH2A5Vw]] interview
-- [[jason-sanss]] — USAF Master Sergeant, 67th Intelligence Group, Nellis; face-to-face encounter with non-human-appearing entity at Nellis range, August 1994
+Fox's most explicitly bold documentary. Released December 23, 2024 on Amazon Prime and debuted **#1 on the platform**. Harry Reid quote in the film: "the greatest national security issue of our time." Fox's defining statement: "I would go to jail to say things I've been exposed to in the program." Key subjects:
+- [[hal-puthoff]] — "star of the documentary"; Fox had a pre-release screening with him the night before the [[bVhSPH2A5Vw]] interview
+- [[jason-sanss]] — USAF Master Sergeant, 67th Intelligence Group, Nellis; face-to-face encounter with non-human-appearing entity at Nellis range, August 1994; entity left wearing his jacket; experienced "K state"; metal from object given a classified name (via Doser review)
+- [[craig-lindsay]] — RAF Press Officer Scotland 1990; kept the [[1990-calvine-photograph]] print for 34 years; gave first ever on-camera interview to Fox; found by [[david-clarke-ufologist]] through declassified MOD document
+- [[kirk-mcconnell]] — Senate Armed Services/Intelligence Committee staff; Aegis radar transmedium tracking "all day long"
+- [[jeff-natelli]] — Vandenberg security officer; October 2003 Red Square + orb on flight line + four other incidents
+- [[ricky-sorrels]] — Stephenville 2008; close-range inspection of craft through rifle scope; seamless surface
+- [[stacy-rhodes]] — Phoenix Lights 1997; gunmetal black; craft blocked newspaper held up against it
 - [[gary-mckinnon]] — found "non-terrestrial officers" list with ranks/names and "material transfer between ships" spreadsheet in US military databases
 - [[david-grusch]] — Fox worked hard to portray him fairly; believes him completely
+- Navy X — anonymous active-duty US Navy source with SIPRNet/JWICS building-level UAP storage locations
 
 ## Origin Story
 
@@ -146,5 +152,14 @@ Fox suspects [[john-lear]] and [[bill-cooper]] were disinformation assets ("agen
 - [[william-coleman]] — connection found via Holloman/Emenegger investigation
 - [[ray-stanford]] — met during Fox's 5-year Socorro investigation; Stanford's archives led Fox to Holloman
 - [[hBrfe4hFuM0]] — source transcript
-- [[bVhSPH2A5Vw]] — source transcript
+- [[bVhSPH2A5Vw]] — source transcript (pre-release Program description)
+- [[3yrKVu35uSE]] — JRE #2246; post-release discussion of The Program; Calvine details; Sorrels concern
+- [[craig-lindsay]] — RAF Press Officer who kept the Calvine print 34 years; Fox traveled to Scotland to film his first ever on-camera interview
+- [[1990-calvine-photograph]] — key case in The Program; Fox traveled to Scotland with [[david-clarke-ufologist]]
+- [[david-clarke-ufologist]] — UK researcher who found Lindsay and introduced him to Fox
+- [[ricky-sorrels]] — Stephenville 2008 close-range witness; Fox expressed concern about his prolonged silence
+- [[stacy-rhodes]] — Phoenix Lights I-10 witness in The Program
+- [[kirk-mcconnell]] — Senate staff; Aegis radar transmedium data in The Program
+- [[nick-pope]] — UK MoD source who told Fox about Calvine in the late 1990s; "best case he ever saw"
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[QkuDvTFN7ms]] — Fox contributed the introduction to this [[jesse-michaels]] / American Alchemy interview with [[jim-weiner]] and [[charlie-foltz]] (two of the four [[1976-allagash-abduction]] witnesses)

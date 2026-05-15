@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Bismuth-magnesium nanolayer material allegedly from the Roswell crash, received by Art Bell; currently being studied by Matthew Shostakus (neutron-activation) and Gary Nolan (mass spec) at separate labs."
-sources: [raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/dzTZbSNsKV8.md]
+sources: [raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/Gf_tKn9TaP8.md]
 name: Art's Parts
 aliases: [Art Bell Roswell debris, bismuth-magnesium nanolayers]
 category: material
@@ -81,3 +81,8 @@ This is independent of the Biefeld-Brown electrogravitic bismuth application —
 - [[iQOibpIDx-4]] — source: in conversation with Weinstein, Puthoff confirms the bismuth-magnesium material has genuine anomalous properties — sub-wavelength microwave channeling ("miniaturization of waveguide channels well below wavelength") consistent with metamaterial engineering; notes that once you understand metamaterials, this is achievable — but it predates public metamaterial science by decades if the Roswell provenance is real; frames it as "only data counts" approach (provenance uncertain, material properties verified)
 
 - Synthesized in [[knuth-academic-uap-science-cluster]]
+- Mentioned in [[Gf_tKn9TaP8]] — Puthoff on JRE describes routing the sample (via Tom DeLonge / TTSA) through an Army office to AARO to Oak Ridge National Laboratory: isotope analysis returned terrestrial ratios (no proof of off-planet origin); but the layered structure has no precedent in materials-development history. An aerospace contractor was asked to bond bismuth and magnesium in similar layers; achieved 2 layers, cost over $1M, "broke down their instruments." Sample is ~4 inches, ~18 layers, ~quarter inch thick.
+- [[oak-ridge-national-laboratory]] — Government-cleared analysis lab for the sample
+- [[aaro]] — Routing agency for the formal analysis contract
+- [[tom-delonge]] — Pathway by which a copy of the sample reached Puthoff
+- [[linda-moulton-howe]] — Received the sample from Art Bell originally

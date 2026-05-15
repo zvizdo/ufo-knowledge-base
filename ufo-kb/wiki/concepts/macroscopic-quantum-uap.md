@@ -21,7 +21,7 @@ The key precedent: **superconductivity**, discovered 1911. A superconductor appe
 
 [[eric-weinstein]] has characterized this as "new physics, not new engineering" — meaning UAP behavior is not simply a more advanced engineering application of known physics, but evidence that the underlying physics is different.
 
-The [[2004-tic-tac-nimitz]] incident is the primary case study: the Tic-Tac estimated at 31× the speed of sound yet produces no sonic boom. Classical fluid dynamics predicts that supersonic travel compresses the surrounding air medium into shockwaves. The absence of this effect implies the craft is not interacting with the surrounding medium the way macroscopic classical objects do — consistent with a quantum-mechanical interface between craft and medium.
+The [[2004-nimitz-tic-tac]] incident is the primary case study: the Tic-Tac estimated at 31× the speed of sound yet produces no sonic boom. Classical fluid dynamics predicts that supersonic travel compresses the surrounding air medium into shockwaves. The absence of this effect implies the craft is not interacting with the surrounding medium the way macroscopic classical objects do — consistent with a quantum-mechanical interface between craft and medium.
 
 ## Relationship to Quantum Computing
 
@@ -42,7 +42,7 @@ Prasad's position: an advanced civilization may have engineered materials whose 
 - [[five-observables]] — the empirical target this concept is meant to explain
 - [[quantum-computing-uap-reverseengineering]] — methodology derived from this thesis
 - [[quantum-biology]] — biological precedents for warm macroscopic quantum effects
-- [[2004-tic-tac-nimitz]] — leading empirical case (no sonic boom at 31× sound speed)
+- [[2004-nimitz-tic-tac]] — leading empirical case (no sonic boom at 31× sound speed)
 - [[room-temperature-superconductivity]] — closest existing technological analog
 - [[gravity-manipulation-propulsion]] — overlapping concept for anti-gravity / inertia-manipulation approaches
 - [[nuts-and-bolts-hypothesis]] — macroscopic quantum UAP is a sub-variant of nuts-and-bolts that requires new physics

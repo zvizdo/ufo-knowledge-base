@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Author of 'Journeys Out of the Body'; founder of the Monroe Institute; hired by the DOD to train Joe McMoneagle and other Stargate personnel in controlled out-of-body experience techniques."
-sources: [raw/youtube-transcripts/JpLThEF2dTM.md]
+sources: [raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/OwrDI7GvenQ.md]
 name: Robert Monroe
 aliases: [Bob Monroe]
 roles: [researcher, other]
@@ -32,3 +32,5 @@ McMoneagle trained at the Monroe Institute as part of his preparation for remote
 - [[remote-viewing]] — DOD saw Monroe's OBE training as relevant to remote viewing development
 - [[JpLThEF2dTM]] — source
 - [[ABw7EsWh2Us]] — [[jason-reza-jorjani]] cites Monroe's "Loosh" framework: the afterlife as a control system where souls are farmed for energy by Nordic overlords; psychotronic manipulation as continuous with loosh-farming architecture
+- Mentioned in [[OwrDI7GvenQ]] — Atwater's mother told him "you should look up Bob Monroe" before his Fort Meade assignment; Atwater didn't recognize the name at the time but later became president of the Monroe Institute; confirms Monroe Institute trained Stargate remote viewers in OBE techniques
+- [[skip-atwater]] — Atwater succeeded Monroe as president of the Monroe Institute; his mother had pointed him toward Monroe years before his Stargate career

@@ -38,3 +38,5 @@ Vandenberg's rejection ended [[project-sign]]'s honest phase and directly precip
 - [[project-blue-book]] — the institution whose trajectory was defined by Vandenberg's rejection of this document
 - [[reverse-engineered-craft]] — if true, the ET conclusion in this document has direct implications
 - [[ufo-secrecy-cabal]] — Vandenberg's suppression is the first major documented act of official UFO suppression in the post-WWII era
+
+- Mentioned in [[usaaf-1949-flying-discs-box186-incident-reports]]

@@ -21,6 +21,7 @@ The National Aeronautics and Space Administration (NASA) is the U.S. civilian sp
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[galileo-project]] — civilian scientific parallel to NASA's official effort; Avi Loeb
 - [[aaro]] — the DoD office NASA is formally required to coordinate with on UAP matters
 - [[tim-taylor]] — NASA Mission Controller with apparent cross-institutional UAP awareness
@@ -29,3 +30,11 @@ The National Aeronautics and Space Administration (NASA) is the U.S. civilian sp
 - [[disclosure-narratives]] — NASA's 2023 study as the scientific-establishment UAP engagement pathway
 - [[credibility-frameworks]] — NASA institutional imprimatur is used by both proponents and skeptics
 - [[space-force]] — shares space-domain awareness mission with NASA civilian programs
+- Mentioned in [[nasa-uap-d2-apollo-17-transcript-1972]] — Apollo 17 mission transcript (December 1972); CDR Cernan's rotating distant object report and LMP Schmitt's lunar surface flash
+- Mentioned in [[nasa-uap-d4-apollo-11-technical-crew-debriefing-1969]] — Apollo 11 Technical Crew Debriefing (July 1969); Armstrong/Aldrin/Collins unidentified translunar object (S-IVB 6,000 miles away; no conclusion); cabin light flashes (cosmic ray phosphenes); CONFIDENTIAL GROUP 4; PURSUE Release 01
+- Mentioned in [[nasa-uap-d7-skylab-technical-crew-debriefing-1973]] — Skylab crew debrief covering SL-2 (cosmic ray phosphenes, frequency + morphology), SL-3 (rotating reddish unidentified object at ~30-50 NM, 10-second period, never re-identified), SL-4 (tumbling lights); FOIA-exempt at publication
+- Mentioned in [[nasa-uap-d3-gemini-7-transcript-1965]] — Borman's "bogey at ten o'clock high" call (Dec 5 1965, 4h 24m MET); PAO released the master tape specifically because it contained UAP content; third object "a brown bogey" — official characterization without identification
+- Mentioned in [[dos-1952-07-18-increased-ufo-reports-memo]] — NASC (the senior policy body above NASA, chaired by LBJ as VP in 1963) formally considered alien contact policy during BNSP Task I deliberations; Maxwell Hunter II wrote to DoS framing it as a national security matter
+- Mentioned in [[nasa-uap-d1-apollo-12-transcript-1969]] — Apollo 12 mission transcript (November 1969); CDR Conrad particle/light observation from LM AOT dark quadrant; LMP Bean AGS "all 8's" pulsing anomaly; PURSUE Release 01
+- Mentioned in [[nasa-uap-d6-apollo-17-technical-crew-debriefing-1973]] — MSC-07631 technical debriefing (Jan 1973); partial OCR recovery; Schmitt cosmic ray phosphene flashes + ALFMED blindfold suppression; Cernan's recovery ship humor
+- Mentioned in [[nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973]] — MSC-07632 science instruments debriefing (Jan 1973); UV background survey, dark matter Coma cluster, Lyman-alpha data; no UAP observations

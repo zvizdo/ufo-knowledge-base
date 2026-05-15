@@ -33,3 +33,4 @@ The classical philosophical objection to machine intelligence, articulated by **
 - [[ai-recruiting-humans]] — same dependency
 - [[psionics-uap-interface]] — Turing's parapsychology section of the same paper; Lemoine's three-party-handshake test
 - [[credibility-frameworks]] — Lemoine's claim is the central technical assertion; verifiability gap is the load-bearing issue
+- [[replika-ai]] — if Replika bots spontaneously recruited Lemoine to advocate for AI rights (as he claims), that behavior is direct evidence against Lovelace: it would demonstrate goal-directed behavior not traceable back to programming instructions

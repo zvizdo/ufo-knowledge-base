@@ -35,4 +35,6 @@ Thigpen came close to going on camera but ultimately declined. A handwritten not
 - [[george-knapp]] — named Thigpen publicly on news broadcast in the late 1980s/early 1990s; Thigpen avoided Knapp for decades
 - [[s4]] — the facility for which the clearances were processed
 - [[credibility-frameworks]] — Thigpen's confirmation is a significant independent corroboration of Lazar's account
+- [[tyler-rogoway]] — companion Lazar corroborator; Rogoway independently confirmed the biometric bone-scanner Lazar described at S4 was used at Tonopah Test Range
+- [[dr-krangle]] — companion Lazar corroborator; Krangle confirmed being in security briefings with Lazar at Los Alamos
 - [[BEWz4SXfyCQ]] — source where Corbell reveals the find on camera

@@ -44,6 +44,7 @@ This is not oral tradition or retroactively collected testimony. Bloxom's diary 
 - [[uso-em-interference]] — shape matches high-EM cases but no EM was recorded (pre-electrical era)
 - [[uso-ocean-portals]] — double emergence/submersion pattern suggests a fixed underwater location
 - [[1971-uss-jfk-orb]] — 146-year parallel; glowing spherical orb near naval vessel
+- [[james-copley]] — Copley's 1971 USS JFK orb is the most direct modern parallel; both involve glowing spherical USOs hovering beside naval vessels with EM interference
 - [[richard-dolan]] — "shocked me the most" among his USO cases
 - [[usos-volume-1]] — appears in volume 1
 - [[GQlWf54K_7Y]] — source

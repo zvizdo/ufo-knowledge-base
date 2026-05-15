@@ -43,4 +43,5 @@ The case was suppressed for years (not published until 1964 in the Flying Saucer
 - [[abduction-phenomena]] — taxonomic context
 - [[phenomenology-categories]] — CE4 classification
 - [[michael-p-masters]] — uses case as anatomical evidence
+- [[amy-rylance]] — companion abduction case with biological context; Rylance spent 5–7 days on craft with physiologically human male; both cases are Masters's primary anatomical evidence
 - [[Y26iMB0r-f8]] — source

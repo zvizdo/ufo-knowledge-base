@@ -32,3 +32,16 @@ The US government's formal information security architecture, established by Exe
 - [[special-access-programs]] — the SAP/USAP tier most relevant to UAP claims
 - [[uap-disclosure-act]] — legislation designed to break the USAP disclosure barrier
 - [[government-uap-programs]] — programs allegedly operating under USAP classification
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — Hoover's handwritten demand for disc access (Bureau Bulletin No. 42) and Cabell's three-agency no-publicity directive are primary-source examples of classification applied to UAP material
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]
+
+- Mentioned in [[usaaf-1949-flying-discs-box186-incident-reports]]
+
+- Mentioned in [[1949-hickam-afb-flying-disc]]
+
+- Mentioned in [[dow-uap-d48-modeling-space-booster-failures-1996-09]]
+- Mentioned in [[dow-uap-d49-vandenberg-launch-summary-1958-2000]]
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]
+- Mentioned in [[dow-uap-d51-email-correspondence-pacific-time-zone-2023-03-23]] — "derivative classification review" mechanism documented: AFOSI IIR summary declassified at UNCLASSIFIED level without full Commander-signature declassification of parent SECRET//NOFORN IIR; first use of this pathway for a UAP IIR per OSI PM
+- Mentioned in [[dow-uap-d50-email-correspondence-indopacom-2025-04]] — same derivative review pipeline: 12 AF/DET 3 confirms 1.4(a) tearlines for INDOPACOM UAP mission reports are UNCLASSIFIED; AOR designation also UNCLASSIFIED
+- Mentioned in [[dow-uap-pr20-unresolved-uap-report-kuwait-2022-05]] — USCENTCOM MDR 25-0094 through 25-0099; PURSUE Release 01; ~4-year release lag; MG Harrison recommendation Oct 2025 → Open Publication Mar 2026

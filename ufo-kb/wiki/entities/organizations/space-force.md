@@ -29,6 +29,7 @@ The Congressional UAP disclosure push (Schumer/Rounds UAPDA 2023) explicitly inc
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[norad]] — Space Force shares space-domain awareness and missile warning mission
 - [[aaro]] — all-domain anomaly resolution includes space domain; Space Force required to coordinate
 - [[tim-taylor]] — cross-institutional figure at NASA/Space Force interface

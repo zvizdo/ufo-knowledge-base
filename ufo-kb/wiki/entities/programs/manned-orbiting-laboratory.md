@@ -59,3 +59,4 @@ Whether classified operational outputs exist is unknown. Partial declassificatio
 - [[ufo-secrecy-cabal]] — MOL demonstrates that the infrastructure for classified human spaceflight existed and was subject to strict compartmentalization
 - [[area-51]] — comparable classified aerospace program that operated publicly unknown for decades
 - [[2ttdlCa5ZCI]] — source transcript
+- Mentioned in [[dow-uap-d49-vandenberg-launch-summary-1958-2000]]

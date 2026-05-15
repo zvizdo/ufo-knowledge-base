@@ -36,3 +36,6 @@ Vandenberg is described in the UAP literature as one of the most persistently ac
 - [[2003-vandenberg-red-square]] — the 2003 Red Square UAP event
 - [[ufo-nuclear-nexus]] — Vandenberg is a primary evidentiary site for UFO-weapons-system interference
 - [[robert-hastings]] — researcher who documented and publicized the Jacobs case and vetted Barth
+
+- Mentioned in [[dow-uap-d48-modeling-space-booster-failures-1996-09]]
+- Mentioned in [[dow-uap-d49-vandenberg-launch-summary-1958-2000]]

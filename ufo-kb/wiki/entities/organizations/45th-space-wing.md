@@ -34,3 +34,6 @@ Rogers' medical oversight role gave him access to roughly 80% of buildings on Ca
 - [[TNtlzEnl8rA]] — Primary source
 - [[recurring-claims]] — auto-added during 2026-05-03 maintenance pass for constitution compliance; verify and refine
 
+
+- Mentioned in [[dow-uap-d48-modeling-space-booster-failures-1996-09]]
+- Mentioned in [[dow-uap-d49-vandenberg-launch-summary-1958-2000]]

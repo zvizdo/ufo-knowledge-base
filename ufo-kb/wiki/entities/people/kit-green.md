@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Physician and former CIA analyst; implicated as a covert government liaison to civilian UAP researchers via Tim Taylor's visits to Charles Hall; named in connection with the AAWSAP program and UAP medical effects research."
-sources: [raw/youtube-transcripts/QgxjtDS2sIQ.md, raw/youtube-transcripts/Rjr3Yq-dMUE.md]
+sources: [raw/youtube-transcripts/QgxjtDS2sIQ.md, raw/youtube-transcripts/Rjr3Yq-dMUE.md, raw/youtube-transcripts/OwrDI7GvenQ.md]
 name: Kit Green
 aliases: [Christopher "Kit" Green]
 roles: [researcher, other]
@@ -44,3 +44,7 @@ This is consistent with a pattern: Walker refused multiple credentialed research
 - [[credibility-frameworks]] — Green occupies an unusual position: government-credentialed but operating outside official acknowledgment
 - [[eric-walker]] — Walker reportedly kicked Green out when asked about UAP secrets
 - [[Rjr3Yq-dMUE]] — source (Walker-Green meeting)
+- Mentioned in [[OwrDI7GvenQ]] — CIA officer who oversaw the SRI remote viewing contract; longtime friend of Hal Puthoff from their days as junior officers; designed the Sugar Grove validation test that backfired into a security investigation; bridged CIA and Army programs through General Thompson
+- [[sugar-grove-naval-station]] — designed the validation test using the nearby Navy installation's coordinates; Pat Price off-target described Sugar Grove, reading classified billiard codewords
+- [[skip-atwater]] — Green connected to Atwater's program through General Thompson; Thompson's CIA relationship with Green was the bridge between Army INSCOM and CIA remote viewing work
+- [[stanford-research-institute]] — Green was the CIA's contracting officer for SRI's remote viewing research program

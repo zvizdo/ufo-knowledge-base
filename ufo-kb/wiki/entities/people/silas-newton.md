@@ -6,7 +6,9 @@ roles: [witness]
 affiliations: []
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/u7g5Sn1DJF4.md
-sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
+sources:
+  - raw/youtube-transcripts/u7g5Sn1DJF4.md
+  - raw/documents/fbi-62-hq-83894-ufo-investigations-1947-1968.md
 summary: "Wealthy oil man (reportedly worth ~$20M in contemporary dollars) and semi-professional golfer; co-author (with Leo Gabbauer/Dr. Gee) of the early Aztec crash account published by Frank Scully in 'Behind the Flying Saucers' (1950); subsequently convicted of fraud over a 'doodlebug' oil-detection device — a conviction UAPGerb and Scott/Suzanne Ramsey argue was a setup, with a substituted device placed in evidence to discredit him."
 tags: [aztec-crash, 1948, whistleblower, fraud-setup, doodlebug, silas-newton, crash-retrieval-research]
 ---
@@ -30,3 +32,4 @@ Newton's personal diaries referenced Wilbur B. Smith (Canadian radio engineer, c
 - [[credibility-frameworks]] — fraud conviction as a deliberate credibility attack pattern
 - [[disclosure-narratives]] — early post-Roswell civilian disclosure attempt
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — Section 5 documents Newton's January 1950 Mojave claim (18 three-foot dead occupants) via Koehler; FBI investigated Newton and flagged as unverified but noted consistent detail with Hottel memo

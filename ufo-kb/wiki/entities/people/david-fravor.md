@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "US Navy Commander, Commanding Officer of VFA-41 Black Aces, primary witness and most credible voice in the 2004 Nimitz Tic-Tac encounter; his Joe Rogan interview served as the entry point for many serious civilian researchers."
-sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/jMCavr3dVP0.md]
+sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/jMCavr3dVP0.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: David Fravor
 aliases: [Commander Fravor, Cmdr Fravor]
 roles: [witness]
@@ -50,6 +50,8 @@ This is a second-hand quote (Nolan relaying Fravor) but consistent with the reac
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
 - [[2004-nimitz-tic-tac]] — the encounter he witnessed and which bears his testimony
 - [[tic-tac]] — the craft type named after the object he described
 - [[vfa-41-black-aces]] — his squadron; institutional context for his credibility
@@ -64,3 +66,6 @@ This is a second-hand quote (Nolan relaying Fravor) but consistent with the reac
 - Mentioned in [[BEWz4SXfyCQ]]
 - Mentioned in [[Hc6pbG4wICA]]
 - [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Rogan cites Fravor as credibility benchmark; raises the "if it was our technology in 2004, why hasn't it leaked into civilian infrastructure in 22 years?" argument; 50,000 ft to sea level in under a second
+- Mentioned in [[9gLPtRwXgCM]]
+- Mentioned in [[dre-5Zy4f7c]]
+- Mentioned in [[h8vjx6-ZFvI]]

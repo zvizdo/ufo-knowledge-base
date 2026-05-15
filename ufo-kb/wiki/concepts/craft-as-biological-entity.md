@@ -29,4 +29,4 @@ The craft-as-biological-entity hypothesis proposes that at least some UAP are no
 - [[garry-nolan]] — researcher who has framed UAP evidence as consistent with biological hypothesis
 - [[nhi-biology]] — broader NHI biological characteristics evidence
 - [[landing-trace-evidence]] — physical trace evidence relevant to biological vs. mechanical determination
-- [[2004-tic-tac-nimitz]] — the Tic-Tac encounter that most frequently anchors this hypothesis
+- [[2004-nimitz-tic-tac]] — the Tic-Tac encounter that most frequently anchors this hypothesis

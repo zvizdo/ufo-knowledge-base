@@ -30,3 +30,4 @@ tags: [president, ike, majestic-12, 1954, nhi-contact, cold-war, military-indust
 - [[military-industrial-complex]] — his farewell warning; the framework for understanding unaccountable black programs
 - [[1947-roswell]] — the crash that occurred before Eisenhower's presidency but framed his UAP inheritance
 - [[ufo-secrecy]] — the secrecy architecture built during and after his administration
+- Mentioned in [[fbi-germany-1957-krasuski-circular-vertical-object]] — Krasuski's 1957 letter to Eisenhower's Special Assistant [[robert-cutler]] triggered FBI investigation of a 1944 German disc observation

@@ -25,6 +25,7 @@ This detail has not been included in any prior public release or official statem
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[2015-gimbal]] — companion video from the same operational cluster
 - [[2004-nimitz-tic-tac]] — earlier related encounter in the same era of documented UAP-military contact
 - [[2014-east-coast-uap]] — the broader incident cluster this video is part of

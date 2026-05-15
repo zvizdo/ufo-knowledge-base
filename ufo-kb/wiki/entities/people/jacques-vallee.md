@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "French-American computer scientist, venture capitalist, and pioneering UFO researcher; discovered the Pentacle Memo in Project Blue Book files; worked alongside J. Allen Hynek."
-sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/dfPfPB601hw.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/kRO5jOa06Qw.md, raw/youtube-transcripts/zjpvfDFc4fg.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
+sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/dfPfPB601hw.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/kRO5jOa06Qw.md, raw/youtube-transcripts/zjpvfDFc4fg.md, raw/youtube-transcripts/vZEcVY2iZsk.md, raw/youtube-transcripts/9gLPtRwXgCM.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: Jacques Vallée
 aliases: [Jacqu Valet (transcript phonetic)]
 roles: [researcher]
@@ -98,6 +98,9 @@ Vallée is a fan of [[philip-k-dick]] — specifically *VALIS* — and endorses 
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - Mentioned in [[1f16VvXaSSE]]
 - [[j-allen-hynek]] — colleague/supervisor; confronted with Pentacle Memo
 - [[project-blue-book]] — files where he found the Pentacle Memo
@@ -156,3 +159,9 @@ Vallée is a fan of [[philip-k-dick]] — specifically *VALIS* — and endorses 
 - [[1965-valensole-case]] — visited the site with French government diplomat; heard communication claim sworn to secrecy; included in Trinity republication
 - [[federico-faggin]] — peer in Silicon Valley; Faggin disclosed OBE experiences to Vallée; Vallée considers him a mentor
 - [[geipan]] — French government UAP investigation body Vallée was connected to; discussed in context of five-agency Valensole investigation
+- Mentioned in [[9gLPtRwXgCM]] — Elizondo defers to Vallée on Vatican scrolls (Roman shields in the sky); describes him as the inspiration for Close Encounters French scientist character; "very slippery, doesn't commit to anything, looks at you sideways"
+
+- Mentioned in [[QkuDvTFN7ms]] — cited by [[jesse-michaels]] and [[jim-weiner]] for the concept that UAP phenomena are "symbolic memes that change over time"; the Allagash witnesses invoke this framework to question whether the craft was physically real or a staged perceptual construct
+- Mentioned in [[dre-5Zy4f7c]]
+- Mentioned in [[h8vjx6-ZFvI]]
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]

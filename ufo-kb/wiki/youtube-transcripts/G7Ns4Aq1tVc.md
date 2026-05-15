@@ -148,5 +148,6 @@ tags: [anti-gravity, zero-point-energy, nick-cook, hunt-for-zero-point, skunk-wo
 
 ## Connections
 
+- [[RTEWLSTyUic]] — companion Townsend Brown documentary (American Alchemy); both cover the anti-gravity research lineage from Brown through Nazi programs to B2/Aurora; RTEWLSTyUic adds the Caroline group, linda-brown interview, and Lazar-as-disinfo framing
 - [[5udx_SDdL3Y]] — Jesse Michaels's earlier detailed episode on Townsend Brown (many cross-references)
 - [[8TYMQOUDQBo]] — Pais interview; also cites Hunt for Zero Point and the Podkletnov–Schauberger connection

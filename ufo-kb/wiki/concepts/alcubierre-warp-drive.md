@@ -36,3 +36,4 @@ The [[laser-propulsion-disc]] patent and the [[biefeld-brown-effect]] are empiri
 - [[metric-engineering]] — the formal name for spacetime-metric modification for propulsion
 - [[laser-propulsion-disc]] — adjacent empirical propulsion research
 - [[biefeld-brown-effect]] — adjacent propulsion research with experimental claims
+- Mentioned in [[h8vjx6-ZFvI]]

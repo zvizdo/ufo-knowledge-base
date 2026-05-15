@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Retired video game programmer turned skeptical debunker; runs metabunk.org; most prominent public analyst of UAP video footage, arguing the best-known videos have conventional explanations."
-sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/JE1oM89dpBc.md]
+sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/JE1oM89dpBc.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: Mick West
 aliases: []
 roles: [debunker, researcher]
@@ -64,3 +64,4 @@ Accepts that alien life almost certainly exists somewhere in the universe. Does 
 - [[JE1oM89dpBc]] — named by [[jesse-michaels]] and [[flying-lotus]] as the leading UFO skeptic/debunker; both characterize him as good-faith rather than bad actor
 - [[flying-lotus]] — values West as sincere skeptic; the hip-hop/arts world recognizing West's good faith is a notable data point for his reputation across subcultures
 - [[1iaH1a3A4Lk]] — full debate with [[marik-von-rennenkampff]] hosted by [[jesse-michaels]]; covers Gimbal de-rotation patent dispute, Nimitz German FTP server leak, AARO analytical failures (wrong Gimbal date, missed GoFast air crew), uap-camera-evasion-problem argument, Jake Barber egg video; concedes his 2020 tweet predicting nothing would come of UAP legislation was wrong
+- Mentioned in [[h8vjx6-ZFvI]]

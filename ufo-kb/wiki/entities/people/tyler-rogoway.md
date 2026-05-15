@@ -34,4 +34,6 @@ This was presented by [[jeremy-corbell]] in his 2018 Bob Lazar documentary as on
 - [[tonopah-test-range]] — the facility where his sources confirmed scanner use
 - [[jeremy-corbell]] — featured Rogoway's find in the 2018 Bob Lazar documentary
 - [[credibility-frameworks]] — provides cross-program corroboration for an otherwise-dismissed Lazar technical detail
+- [[mike-thigpen]] — companion Lazar corroborator; Thigpen confirmed Lazar's S4 security clearance after 30 years of silence
+- [[dr-krangle]] — companion Lazar corroborator; Krangle confirmed Lazar's Los Alamos security briefings
 - [[BEWz4SXfyCQ]] — source where Corbell discusses the find

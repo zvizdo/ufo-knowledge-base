@@ -41,3 +41,4 @@ Gaetz claimed a whistleblower told him of a program involving captured extraterr
 - [[ufo-secrecy-cabal]] — Florida trip illustrates how military initially stonewalls congressional inquiries
 - [[credibility-frameworks]] — military reversed position under subpoena threat, suggesting Gaetz had genuine leverage
 - [[sKwq7mpBTrY]] — primary source; JRE #2495 (2026-05-07); Burchett describes Florida trip and Gaetz hybrid claim
+- Mentioned in [[dre-5Zy4f7c]]

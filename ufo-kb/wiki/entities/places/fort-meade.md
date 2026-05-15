@@ -25,4 +25,6 @@ Fort Meade is also the location where [[stargate-program]] adjacent remote viewi
 - [[five-eyes]] — NSA's SIGINT operations at Fort Meade are the U.S. node of the Five Eyes network
 - [[echelon]] — the SIGINT collection network coordinated partly through NSA Fort Meade
 - [[stargate-program]] — the remote viewing program that overlaps with NSA's intelligence-collection mission
+- Mentioned in [[OwrDI7GvenQ]] — Stargate's operational headquarters; Atwater and McMoneagle shared an office there; the Lawrence Livermore NHI encounter happened while Atwater was stationed at Fort Meade
+- [[skip-atwater]] — Stargate operations officer stationed at Fort Meade; discovered classified documents in a safe there after his orders were rerouted from the Pentagon
 - [[psionics-uap-interface]] — the broader concept connecting NSA psi-research and Sherman's Project Preserve Destiny to the UAP-consciousness nexus

@@ -36,7 +36,7 @@ tags: [quantum-computing, uap-reverse-engineering, macroscopic-quantum, five-obs
 - [[hal-puthoff]] — "the guy that briefs all presidents on UFOs"
 - [[quantum-generative-materials]] — Prasad's startup; $15M raised
 - [[lockheed]] — created [[dark-ice-magnetometer]] from cry4/robin quantum sensing
-- [[2004-tic-tac-nimitz]] — Tic-Tac estimated at 31× speed of sound; no sonic boom; cited as prime observable anomaly
+- [[2004-nimitz-tic-tac]] — Tic-Tac estimated at 31× speed of sound; no sonic boom; cited as prime observable anomaly
 - [[michael-shermer]] — mentioned as archetype of "over-indexed" mainstream skeptic that doesn't advance science
 - [[elon-musk]] and [[nick-bostrom]] — cited for AI doom framing Prasad disagrees with
 - [[roger-penrose]] — penrose-hameroff microtubule/quantum brain argument cited

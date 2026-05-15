@@ -1,0 +1,287 @@
+---
+title: "DOW MISREP D18 — Iraq, 2022-12-01"
+agency: DOW (Department of War)
+document_type: MISREP (Mission Report)
+date: 2022-12-01
+location: Iraq
+provenance: gov-release / PURSUE Release 01
+source_pdf: dow-uap-d18-mission-report-iraq-december-2022.pdf
+source_pdfs:
+  - dow-uap-d18-mission-report-iraq-december-2022.pdf
+---
+
+# DOW MISREP D18 — Iraq, 2022-12-01
+
+> Standardized US-military Mission Report (MISREP) recording the circumstances of a UAP encounter during a mission.
+
+## Document content
+
+# Misrep undefined-8216304
+
+## Narrative
+
+| EBr,'lW~ AT 1206Z,! | 1.4a |                                                                                 | !TOOK OFF FROM OKAS. AT 1220Z,~HANDED |      |                |   |
+|---------------------|------|---------------------------------------------------------------------------------|---------------------------------------|------|----------------|---|
+|                     |      | OVER FROM THE LRE. FROM 1323Z TO 0626Z,! 1.4a !COLLECTED SIGINT VIA AIRHANDLER. |                                       |      |                |   |
+|                     |      | FROM 1518Z TO 0426Z,! 1.4a !SUPPORTED Tiliii)TO OH                              |                                       | 1.4a | !(OBJ!<br>1.4a | ! |
+| !<br>1.4a           |      | ! IVO BAGHDAD, IRAQ. SEE ISR LINE 1. AT 1620Z,! 1.4a !OBSERVED POSSIBLE UAP.    |                                       |      |                |   |
+|                     |      | SEE UAP LINE l.AT 0426Z,~WAS CLEARED TO RTB. AT 0655Z,~HANDED BACK TO           |                                       |      |                |   |
+|                     |      | THE LRE. AT 0723Z,~LANDED AT OKAS. FMV WAS EXPLOITED BY DGS-AR                  |                                       |      |                |   |
+
+## **fii'R.ELIIJO, Mission Narrative**
+
+## **Admin**
+
+## *CLASSIFICATION*
+
+- **Classificatiom Effleft'ffl:'**
+- **Associated Caveats: !if8f'8It1il:**
+- **Classification Source (MS or Classification Guide ID):** MULTIPLE SOURCES
+- **Declassification Date (YYYYMMDD):** 20471202
+
+## *OPERATION*
+
+- **Operation:** INHERENT RESOLVE
+- **Domain:** AIR
+- **Operations Center:** 609th
+- **Major Command (MAJCOM):** ACC
+- **Combatant Command (COCOM):** USCENTCOM
+
+## *MSGID*
+
+- **Report Type:** MISREP
+- **Originator** (Unit **or Squadron):** 482ATKS
+- **Submit Date:**
+
+*MSNID* 
+
+• **Tasking Order (ATO):** ID
+
+• **Mission Type:** ISR
+
+• **ATO Mission Number:!** 1.4a
+
+• **Country Tasked:** US - UNITED STATES
+
+• **Service Tasked:** A - AIR FORCE
+
+## **Poe**
+
+## *POC*
+
+• **Rank:** AlC
+
+• **Fullfiti,&111.ll'C -~x\_e\_m\_p-tio\_n\_s-(b-)(-3)-,** ~30b, (b)(6)
+
+• **Unit:** 482ATKS • **Wing:** 20FW
+
+• **Phone Numbelt:J** FOIA Exemption ~b)(6)
+
+• **Email:I** 3.5c, FOIA Exemption (b)(6)
+
+• **Service:** Air Force
+
+• **Operations Center:** 603 AOC
+
+## *QC*
+
+• **Rank:** Ctr
+
+• **Full Name:k** FOIA Exemption (b)l6)
+
+• **Unit:** 12 AF PAROC
+
+• **Wing:** Other
+
+• **Phone Numb12:** Eo1A Exemption!<b)(6)
+
+• **Email:!** 3.5c, FOIA Exemption (b)(6)
+
+• **Service:** Air Force
+
+• **Operations Center:** Other
+
+## *APPROVER*
+
+• **Rank:** SrA
+
+• **Ftdl)~,amcaxemptions** (b)(3)J130b, (b)(6)
+
+• **Unit:** 609 AOC • **Wing:** Other
+
+• **Phone Numllei;fo1A** Exemption!(b)(6)
+
+• **Email:I** 3.5c, FOIA Exemption (b)(6)
+
+• **Service:** Air Force
+
+• **Operations Center:** 609 CAOC
+
+## *INGEST*
+
+- Rank:
+- Full Name:
+- Unit:
+- **Wing:**
+- Phone Number:
+- Email:
+- Service:
+- Operations Center:
+
+## ACEQUIP
+
+## *ACEQUIP*
+
+- Aircraft Callsign:I 1.4a
+- Radar Name or Destination: -
+- Radar Software Load or Mission Data: -
+- Radar Warning Receiver (RWR) Name or Designator: -
+- RWR Software Load or Mission Data: -
+- MWS Name or Designator: -
+- MWS Software Load or Mission Data: -
+- IRCM Name or Designator: -
+- IRCM Software Load or Mission Data: -
+- ECM Name or Designator: -
+- ECM Software Load or Mission Data: -
+- CMD Name or Designator: -
+- Chaff Designator: -
+- Num Chaff or Cartridges: -
+- Flare Designator: -
+- Num Flares:
+- Towed Decoy Name or Designator: -
+- Towed Decoy Software Load or Mission Data: -
+- Num Towed Decoys: -
+- Type of Radar-Guided AAM: -
+- Num Radar-Guided AAM: -
+- Type of IR-Guided AAM: -
+- Num IR-Guided AAM: -
+- Gun Name or Designator: -
+- Num Gun Rounds: -
+- Air-to-Ground Wpn to Include Num of Each: -
+
+I 1.4c
+
+• Data Link: -
+
+• Gentext: -
+
+### Timeline
+
+### Takeoff
+
+- Callsign: 1.4a
+- Number of Aircraft: 1
+- Asset Type (Aircraft): 1.4a, 1.4g
+- Aircraft Tail Number(s) 1.4a, 1.4g
+- Takeoff Location (ICAO Code): OKAS
+- Takeoff Time DTG: 011206:00ZDEC22
+- Mode 3 (IFF Codes): -
+- Gentext/Additional Details: -
+- Mission Canceled:
+
+### Landing
+
+- Last Land Location (ICAO Code): OKAS
+- Last Land Time: 020723:00ZDEC22
+- Last Engine Shutdown Time: 020733:00ZDEC22
+- Total Mission Time: 19 hours 17 minutes
+- Gentext/Additional Details: -
+
+### **ISR**
+
+- Time-on Station DTG: 011518:00ZDEC22
+- Time-off Station DTG: 020426:00ZDEC22
+- Aircraft Callsign: 1.4a
+- Msn Type: TARGET DEV
+- Primary Sensor: FMV
+- Sensors Available: AH/BLASPHEMY
+- Tasking Type: PLANNED
+- Tasking or Request Number (JTAR#, AEM#, PRI#, or TIC#): -
+- BE Number (if NTISR): -
+- Tasked Start Point: 38SMB421.4a831.4a
+- Activity Description: ISR
+- FMV or Image File Name (if NTISR): -
+- EEIs Observed: NoNumber of EEIs:
+
+### GENTEXT/ISR
+
+### SECRET//NOTORN
+
+| • Gentext: (S/NF) 1.4a COORDINATED WITH TH 1.4a 236 MINUTES PRIOR TO            |
+|---------------------------------------------------------------------------------|
+| TAKE OFF. PRECOORD WAS SATISFACTORY. AT 1220Z, 1.4a ARRIVED ON STATION ISO      |
+| TF1.4a FOR OP 1.4a ( 1.4a, 1.4c TO CONDUCT POL SCANS AND ID                     |
+| HVI/POI SIGNATURES. FROM 1518Z TO 0426Z, 1.4a CONDUCTED SCANS FOR HVI/POI, POL, |
+| ADMS IN SUITS, WEAPONS, CONVOYS/SENTRY, AND PERSONNEL 1.4c                      |
+| 1.4a, 1.4c AT                                                                   |
+| 0426Z, 1.4a WAS CLEARED OFF TASKING AND RETURNED TO BASE (RTB)                  |
+|                                                                                 |
+| ISR ASSET UTILIZATION                                                           |
+|                                                                                 |
+| • Supported Unit: TF 1.4a                                                       |
+| • Supported Operation: OP 1.4a (OBJ 1.4a, 1.4c                                  |
+| • Precoord Time: 236 MINUTES                                                    |
+| Precoord Effectiveness: SATISFACTORY                                            |
+|                                                                                 |
+| WEATHER                                                                         |
+| • Weather: (U) WEATHER WAS NOT A FACTOR                                         |
+| Weather. (0) WEATHER WAS NOT A FACTOR                                           |
+|                                                                                 |
+| EFFECTIVENESS                                                                   |
+| • Tasker:                                                                       |
+| • Intel Gap Filled?: No                                                         |
+| • Gentext: -                                                                    |
+| General.                                                                        |
+|                                                                                 |
+| On Station                                                                      |
+| • Time On Station DTG: 011220:00ZDEC22                                          |
+| • Callsign: 1.4a                                                                |
+| • JTAR Number: -                                                                |
+| • Killbox (Location): -                                                         |
+| • Mission Type: ISR                                                             |
+| • JTAC Callsign: -                                                              |
+| • Gentext/Additional Details: -                                                 |
+| • Did not Arrive On Station:                                                    |
+|                                                                                 |
+|                                                                                 |
+| Off Station                                                                     |
+| • Time Off Station DTG: 020655:00ZDEC22                                         |
+| • Total Time On Station: 18 hours 35 minutes                                    |
+| • Gentext/Additional Details:                                                   |
+
+### SECRET//NOFORN
+
+### **UAP**
+
+- Initial Contact DTG: 011620:00ZDEC22
+- MDS Type / Asset Type: .4a, 1.4g
+- Tail Number: 1.4a, 1.4g
+- Friendly Aircraft Location: 38S MB 421.4a 831.4a
+- Friendly Aircraft Altitude/Depth: FL180
+- Friendly Aircraft Speed: -
+- Friendly Aircraft State: -
+- Training Range (If applicable): -
+- · Operational Range: -
+- UAP Physical State: -
+- Number of UAP Sighted: 1
+- UAP Signatures: No
+- UAP RF Frequency: -
+- UAP RF Duration: -
+- UAP Effects on Persons: (U) NONE REPORTED
+- Full Name: -
+- Email: -
+- Phone Number (VOSIP/STE): -
+- UAP First Seen Location: 38S MB 421.4a 831.4a
+- UAP Altitude, Depth, Velocity, and Trajectory (indicate estimated or measured): -
+
+### GENTEXT/UAP
+
+• UAP Description (e.g., size, shape, color, markings, recognizable features): (S//NF) AT 1620Z,
+
+1.4a OBSERVED 1X POSSIBLE UAP/UAV FLYING WEST TO EAST IVO
+
+38SMB421.4a831.4a DID NOT FOLLOW UAP. 1.4a CONTINUED THE MISSION AS
+
+TASKED, NO FURTHER EVENTS WERE OBSERVED.
+
+1.4a

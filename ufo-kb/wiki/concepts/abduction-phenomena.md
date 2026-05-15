@@ -96,3 +96,5 @@ The category of contact experiences in which individuals report being involuntar
 - [[iPxbILOMQ08]] — source (Coburn typology and personal account)
 - [[john-blitch]] — firsthand experiencer (two events: [[1995-daniels-park-missing-time]] and the praying-mantis terror encounter); proposes abductions as the *primary reason* for 80 years of UFO secrecy — "the elephant in the UAP room" — because governments cannot admit they cannot protect citizens from abductors; high-credentialed firsthand source
 - [[yAvD5UTziTo]] — Blitch's abduction testimony and secrecy thesis source
+
+- Mentioned in [[QkuDvTFN7ms]] — the [[1976-allagash-abduction]] is a paradigmatic case: involuntary, multi-witness (four), physical aftereffects (bald patches, shin tumors, biopsy scar), government pathology involvement (Air Force Institute of Pathology), consistent cross-validated regression accounts under independent protocol

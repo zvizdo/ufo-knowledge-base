@@ -34,3 +34,5 @@ The 1992 saucer sighting (see [[1992-cape-canaveral-saucer]]) occurred at Cape C
 - [[TNtlzEnl8rA]] — Primary source
 - [[recurring-claims]] — auto-added during 2026-05-03 maintenance pass for constitution compliance; verify and refine
 
+
+- Mentioned in [[dow-uap-d48-modeling-space-booster-failures-1996-09]]

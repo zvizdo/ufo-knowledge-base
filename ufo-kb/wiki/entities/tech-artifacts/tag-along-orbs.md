@@ -56,3 +56,4 @@ The normalization of the term "tag-along" among cleared officials represents sig
 - [[greg-rogers]] — Rogers' father used the term "tag-along" and handled physical anomalous debris
 - [[TNtlzEnl8rA]] — Source for Rogers' father's use of the term and physical debris account
 - [[V00WcEiKRAY]] — Source for Jackson classification, Bogotá sphere, Maron sphere, 43M views data
+- Mentioned in [[western-us-event-slides-2023-incident-released-2026-05-08]] — orange "mother orb" launching groups of 2–4 red orbs at least 5 times; multiple federal law enforcement teams; dusk, western US 2023; AARO engaged

@@ -42,5 +42,7 @@ This account was **not mentioned in the NASA Commission's UAP report** — Knuth
 - [[nasa]] — the agency that did not include astronaut UAP encounters in its UAP commission report
 - [[astronomical-data-suppression]] — the Skylab photos exist but were omitted from official UAP inquiry
 - [[credibility-frameworks]] — Apollo astronaut, 4th human on the Moon, recounting firsthand to a physicist
-- [[IWui5cBkwoE]] — source summary
+- [[IWui5cBkwoE]] — source summary (Knuth's hearsay layer)
+- [[nasa-uap-d7-skylab-technical-crew-debriefing-1973]] — primary source: SL-3 crew debrief Oct 4, 1973; Bean's on-record co-witness statement
 - [[scott-simkinson]] — fellow astronaut in Knuth astronomical-data-suppression cluster
+- Mentioned in [[nasa-uap-d1-apollo-12-transcript-1969]] — Apollo 12 LMP; reported AGS "all 8's" pulsing register anomaly on Abort Guidance System; Houston attributed to EMI; TRW had a workup on the problem.

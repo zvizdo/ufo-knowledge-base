@@ -23,6 +23,7 @@ US National Security Advisor (2021–2025) under President Biden. Sullivan previ
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[national-security-council]] — Sullivan's institutional home
 - [[ross-coulthart]] — the journalist who reported on Sullivan's UAP briefing attendance
 - [[uap-disclosure-act]] — the legislative context Sullivan reportedly did not prioritize

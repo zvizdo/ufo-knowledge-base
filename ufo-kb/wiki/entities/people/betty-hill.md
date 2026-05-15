@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "New England social worker; with husband Barney Hill, subject of the 1961 Betty and Barney Hill abduction — considered the earliest widely-reported alien abduction case; her original hypnotic regression accounts are contested."
-sources: [raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/Rjr3Yq-dMUE.md, raw/youtube-transcripts/fyX8V1XXmQM.md]
+sources: [raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/Rjr3Yq-dMUE.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: Betty Hill
 aliases: [Eunice Elizabeth Barrett Hill, Betty]
 roles: [witness]
@@ -68,3 +68,4 @@ Vallée favors interpretation (2) as more epistemically interesting: the experie
 - [[noble-myth-cultural-filter]] — the Hills' Outer Limits detail is Vallée's paradigm case for cultural mediation of NHI encounters
 - [[fyX8V1XXmQM]] — source; Vallée's Outer Limits discussion and noble-myth reading
 - Mentioned in [[Hc6pbG4wICA]]
+- Mentioned in [[h8vjx6-ZFvI]]

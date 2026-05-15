@@ -1,7 +1,9 @@
 ---
 type: entity
 summary: "Editor of Flying Saucers magazine (1950s–70s); Charles Hall witnessed Palmer displaying a ~1-yard strip of woven ceramic fiber-optic material from Roswell at a Wisconsin store as a child — the piece bent light without absorption."
-sources: [raw/youtube-transcripts/QgxjtDS2sIQ.md]
+sources:
+  - raw/youtube-transcripts/QgxjtDS2sIQ.md
+  - raw/documents/fbi-62-hq-83894-ufo-investigations-1947-1968.md
 name: Ray Palmer
 aliases: []
 roles: [researcher, journalist]
@@ -34,3 +36,4 @@ Hall argues this material — not the celebrated "memory metal" foil — was the
 - [[small-grays]] — builders of the craft whose propulsion system used ceramic fiber-optic coils
 - [[hall-photon-theory]] — Hall's physics framework explains the ceramic fiber-optic propulsion mechanism
 - [[QgxjtDS2sIQ]] — source transcript
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — Palmer paid Kenneth Arnold $200 to investigate the Maury Island incident; his Venture Press published the Shaver Mystery stories; positioned at intersection of physical-evidence UFO reports and contactee narratives in 1947

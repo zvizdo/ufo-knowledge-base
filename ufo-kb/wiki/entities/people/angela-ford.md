@@ -14,7 +14,7 @@ tags: [remote-viewing, baltic-sea-anomaly, uso]
 
 # Angela Ford
 
-Remote viewer; participated alongside [[joseph-mcmoneagle]] in a remote viewing session commissioned by [[dennis-asberg]] to assess the [[baltic-sea-anomaly]] (BSA). Ford's session was conducted remotely — she was in her home location (not physically at the anomaly site) — consistent with standard remote viewing protocol.
+Remote viewer; participated alongside [[joe-mcmoneagle]] in a remote viewing session commissioned by [[dennis-asberg]] to assess the [[baltic-sea-anomaly]] (BSA). Ford's session was conducted remotely — she was in her home location (not physically at the anomaly site) — consistent with standard remote viewing protocol.
 
 **Baltic Sea Anomaly session**: The remote viewing assessment was conducted at Asberg's request to supplement the sonar and dive data with non-conventional information-gathering. Asberg summarizes the findings as: remote viewers assessed the BSA as constructed (artificial rather than natural geological formation) and possibly an energy source. One viewer reportedly described the material as "made of gold" — a description that in remote viewing practice may indicate metallic luster, golden color, or a conceptual association with the object's significance rather than literal gold composition.
 
@@ -24,7 +24,7 @@ Remote viewer; participated alongside [[joseph-mcmoneagle]] in a remote viewing 
 
 ## Connections
 
-- [[joseph-mcmoneagle]] — co-remote-viewer; both assessed the BSA as constructed
+- [[joe-mcmoneagle]] — co-remote-viewer; both assessed the BSA as constructed
 - [[dennis-asberg]] — commissioned the remote viewing session
 - [[baltic-sea-anomaly]] — the object remotely viewed
 - [[credibility-frameworks]] — remote viewing as contested but potentially corroborative evidence type

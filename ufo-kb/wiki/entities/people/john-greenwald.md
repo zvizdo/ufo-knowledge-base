@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Founder of The Black Vault; the most prolific civilian user of FOIA to extract UAP/UFO-related government documents; has documented that UAP secrecy is growing, not declining."
-sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/JE1oM89dpBc.md]
+sources: [raw/youtube-transcripts/DPmO-2E7Ayg.md, raw/youtube-transcripts/JE1oM89dpBc.md, raw/youtube-transcripts/9gLPtRwXgCM.md]
 name: John Greenwald Jr.
 aliases: [John Greenwald, Greenwald]
 roles: [researcher, journalist]

@@ -29,166 +29,139 @@ tags: [physicist, metric-engineering, warp-drive, wilson-davis, puthoff, hal-put
 
 # Eric Davis
 
-Theoretical physicist who worked alongside [[hal-puthoff]] at the Institute for Advanced Studies at Austin and EarthTech International. Davis is best known to the UAP research community as the author of the **Wilson-Davis memo** — notes of a claimed 2002 meeting with Admiral Thomas Wilson, during which Wilson allegedly confirmed that he had been denied access to a reverse-engineering program involving non-human craft. The memo, leaked in 2019, is one of the most significant claimed primary-source documents in the modern UAP disclosure landscape.
+Theoretical physicist who worked alongside [[hal-puthoff]] at the Institute for Advanced Studies at Austin and EarthTech International. Davis is the **primary classified-dataset source** for [[david-grusch]]'s 2023 whistleblower disclosures, and the author of the **[[wilson-davis-memo|Wilson-Davis memo]]** — notes of his 1997 Pentagon briefing of Admiral Thomas Wilson and a follow-up 2002 conversation, during which Wilson allegedly confirmed he had been denied access to a reverse-engineering program involving non-human craft.
 
 ## Background
 
-Davis has published peer-reviewed papers on warp drives (the Alcubierre metric), traversable wormholes, faster-than-light travel, and vacuum zero-point energy — topics that place him at the intersection of mainstream physics and UAP-relevant exotic science. He co-authored the AIAA survey paper on warp drives with [[hal-puthoff]]. He has also contracted for the Defense Intelligence Agency.
+Davis has published peer-reviewed papers on warp drives (the Alcubierre metric), [[traversable-wormhole-propulsion|traversable wormholes]], faster-than-light travel, and vacuum zero-point energy — placing him at the intersection of mainstream physics and UAP-relevant exotic science. He co-authored the AIAA survey paper on warp drives with Puthoff, co-edited *[[frontiers-of-propulsion-science|Frontiers of Propulsion Science]]* with [[mark-millis]] (which [[salvatore-pais]] calls a landmark), and has contracted for the [[dia|DIA]]. He has personally met approximately five people from crash retrieval programs.
 
 ## Wilson-Davis Memo
 
-Davis's notes from a 2002 meeting with retired Admiral/Vice Chief of Naval Intelligence [[thomas-wilson]] were leaked in 2019 by Steven Greer's associate. The memo describes Wilson having sought access to a SAP (Special Access Program) focused on non-human vehicle reverse engineering; a program manager told him he did not have a "need to know." The memo is disputed but has not been definitively debunked.
+Davis's notes from his 1997 Pentagon briefing of [[thomas-wilson]] and a follow-up 2002 meeting were leaked in 2019. Wilson — then J-2 (Director of Intelligence on the Joint Chiefs) — had been frustrated because a WOSAP (Advanced Aerospace Weapon Systems Application Program variant) was being funded from his DIA director's budget line without his knowledge or access: *"Their budget came from his director's budget — DIA money he wasn't aware of."* The program had *"hundreds of people"* and material *"that doesn't seem to be of human origin."* Wilson's eventual meeting with Davis occurred in the parking lot of [[egng]] Special Projects HQ in Las Vegas; NNSA Nevada contacts and [[john-alexander]] facilitated. See [[wilson-davis-memo]] for the full chain and document analysis.
 
-The meeting took place in the **parking lot of [[egng]] Special Projects headquarters in Las Vegas** — a detail that frames EG&G itself as one of the private contractors implicated in the secrecy architecture Wilson was frustrated by. See [[egng]] for the full organizational context.
+> ⚠ Davis has neither confirmed nor denied authenticity of the leaked memo in explicit public statements. The leaked document's provenance is contested.
 
-> ⚠ **Conflict**: Davis has neither confirmed nor denied the authenticity of the leaked memo in explicit public statements. The leaked document's provenance is contested.
+## AAWSAP Role and Data Transfer to Grusch
 
-## Roswell Confirmation (xnxasfyHtfo)
+Davis was a key researcher within the [[aawsap]]/ASAP ecosystem, accumulating a classified dataset through:
 
-Davis states without equivocation: "The alleged Roswell crash was real. There was a there there really happened." This is a firsthand assertion based on his research contacts, presented in the context of his broader crash retrieval engagement. He identifies approximately **5 people** he has personally met from crash retrieval programs.
-
-## Bob Lazar Dismissal (xnxasfyHtfo)
-
-Davis is categorical: Lazar "was a radiation health monitor for Kimberly Meyer company" — a logistics company servicing Los Alamos and Area 51. "He never had security clearances. He never graduated — never — he dropped out of his first year of college." Davis places this in contrast to the classified briefings he himself has received, where program insiders explicitly told him no ARVs were built.
-
-> ⚠ **Conflict**: This directly contradicts the Corbell/Knapp framing of Lazar as a genuine S4 employee. Davis's dismissal is from the classified-briefing side; Knapp/Corbell's corroboration is from investigative journalism.
-
-## Atomic Energy Act / DOE Jurisdiction (xnxasfyHtfo)
-
-Davis explicitly confirms the [[atomic-energy-act-classification|Atomic Energy Act of 1954]] born-secret mechanism: crash retrievals are classified automatically at nuclear level upon recovery, routing them through DOE jurisdiction to aerospace contractors (Lockheed, Northrop). He frames this as the explanation for why crash retrieval programs end up with private contractors rather than being controlled by the Pentagon. See [[doe-secret-science-nexus]].
-
-## Wilson-Davis Meeting — Summer 1997 Detail (xnxasfyHtfo)
-
-Davis clarifies the timeline: his initial Pentagon briefing of Wilson was in **summer 1997**. Wilson had been frustrated because a WOSAP (Advanced Aerospace Weapon Systems Application Program variant) was being funded from his DIA director's budget line without his knowledge or access. "Their budget came from his director's budget — DIA money he wasn't aware of." The program had "hundreds of people" and material "that doesn't seem to be of human origin." Wilson's access to the meeting chain was facilitated through [[john-alexander]] and NNSA contacts.
-
-## Traversable Wormholes (xnxasfyHtfo)
-
-Davis explicitly states his wormhole research concluded: "You're going to create a wormhole on demand… You should be able to. That's what my research showed." He frames this within an analogy: GR is an effective theory (like Maxwell's equations) pointing toward a deeper physics, just as quantum mechanics goes beyond Maxwell. Engineering traversable wormholes requires going beyond GR to whatever underlies it. See [[traversable-wormhole-propulsion]].
-
-## Epstein / Los Alamos (xnxasfyHtfo)
-
-Davis confirms Jeffrey Epstein bought [[zoro-ranch]] in New Mexico in 1993 "with the explicit intent of being near retired Los Alamos physicists," and that DOE security was "so lax" this was viable. This is a firsthand confirmation adding to the [[epstein-physics-nexus]] cluster.
-
-## "No Physicists on the Program" (xnxasfyHtfo)
-
-Davis's most structurally significant claim: the crash retrieval program has "no physicists doing legitimate physics." He laments: "It doesn't make any sense. It defies the laws of physics. We haven't made progress. We have no physicists." [[eric-weinstein]] agrees this mirrors theoretical physics' own stagnation — the correct people aren't working on the correct framework. Both frame this as the causal explanation for decades of zero reverse-engineering progress. See [[physics-lockdown]].
-
-## Connection to Dave Rossi
-
-According to [[dave-rossi]] and host Jesse Michaels, Hal Puthoff and Eric Davis both "noticed" Rossi when he began making videos about extended electrodynamics and scalar waves, and "noted his impressive knowledge." The context suggests they reviewed his work and found it technically credible — an unusual validation for a self-taught non-credentialed researcher.
-
-## AAWSAP Role and Data Transfer to Grusch (LnAiNChnuEQ)
-
-Davis was a key researcher within the AAWSAP/ASAP ecosystem, accumulating a classified dataset through:
-- NIDS (National Institute for Discovery Science) — pre-AAWSAP research
-- BASS (Bigelow Aerospace Advanced Space Studies) — AAWSAP contractor
-- AAWSAP and AATIP period investigations
+- [[nids|NIDS]] (National Institute for Discovery Science) — pre-AAWSAP research
+- [[bass|BASS]] (Bigelow Aerospace Advanced Space Studies) — AAWSAP contractor
+- AAWSAP and AATIP-period investigations
 - CIA and other three-letter agency interactions through classified channels
 
-[[jay-stratton]] introduced Davis to [[david-grusch]] (NRO liaison officer to the UAP Task Force) and Grusch's anonymous GS-15 government customer. Davis was flown to Colorado Springs to brief them at the [[aerospace-corporation]] NRO campus. He gave Grusch his entire classified dataset:
+[[jay-stratton]] introduced Davis to [[david-grusch]] (NRO liaison officer to the UAP Task Force) and Grusch's anonymous GS-15 customer. Davis was flown to Colorado Springs and briefed them at the [[aerospace-corporation]] NRO campus. He gave Grusch his entire classified dataset:
 
-> "I gave Dave all my data all my briefing information and he took that ran with it and he found everything — found 40 witnesses."
+> *"I gave Dave all my data all my briefing information and he took that ran with it and he found everything — found 40 witnesses."*
 
-Davis knows the identities of at least two of the 40 witnesses but declined to reveal them. [[hal-puthoff]] briefed Grusch approximately two years after Davis did, with overlapping but distinct information.
+Davis knows the identities of at least two of the 40 witnesses but declined to reveal them. [[hal-puthoff]] briefed Grusch approximately two years after Davis, with overlapping but distinct information.
 
 ## ARV Refutation — Explicit Classified Briefing
 
 Davis received a firm briefing from program insiders that **no ARVs (Alien Reproduction Vehicles) have been built and no reverse-engineering progress was made**:
 
-> "I was given a firm hey in 1989 the CIA shut it all down because nobody us and we know the other companies… didn't make any progress after several decades of bestes."
+> *"I was given a firm hey in 1989 the CIA shut it all down because nobody us and we know the other companies… didn't make any progress after several decades of best efforts."*
 
-He dismisses claims by [[brad-sorensen]] and [[mark-mccandish]] as having no proof, and places [[bob-lazar]] in the same category — self-believed mythology rather than deliberate IC disinformation.
+He dismisses claims by [[brad-sorensen]] and [[mark-mccandish]] as having no proof, and places [[bob-lazar]] in the same category — self-believed mythology rather than deliberate IC disinformation:
 
-> "That's not disinformation no that that's coming straight on a classified level with me having the need to know and they don't have a need to give me disinformation."
+> *"That's not disinformation no that that's coming straight on a classified level with me having the need to know and they don't have a need to give me disinformation."*
+
+Davis categorically dismisses Lazar as a Kimberly Meyer radiation health monitor with no security clearance who dropped out in his first year of college. See [[bob-lazar]] for the conflict between this insider view and the Corbell/Knapp investigative record.
 
 ## Russia and China Crash Retrievals
 
-Davis has **classified evidence** (from a CIA asset during AAWSAP) that Russia has had at least one crash retrieval:
+Davis has classified evidence (from a CIA asset during AAWSAP) that **Russia has had at least one crash retrieval**:
 
-> "Through the assap program I had a connection in with a three-letter agency that collected… from their own asset and the asset was filtering out actual legitimate documents photos reports Technical and operational and executive summary type."
+> *"Through the assap program I had a connection in with a three-letter agency that collected… from their own asset and the asset was filtering out actual legitimate documents photos reports Technical and operational and executive summary type."*
 
-He places the specific retrieval he saw evidence for at the "end of the '80s." He did not confirm any earlier Soviet recoveries.
-
-On China: Davis credits [[hal-puthoff]]'s DIA work as the source for China having at least one UAP. Puthoff "probably learned something over there" during a DIA-sponsored visit to China.
+He places the specific retrieval at the **end of the 1980s** — not confirming any earlier Soviet recoveries. On China: Davis credits [[hal-puthoff]]'s DIA work as the source for China having at least one UAP; Puthoff *"probably learned something over there"* during a DIA-sponsored visit.
 
 ## George H.W. Bush Conversations (2003)
 
-Davis states he had conversations with [[george-hw-bush]] "back in 2003" in which HW Bush described what happened when he was CIA Director: he was **accidentally briefed** by a Pentagon liaison officer about an early-1960s UAP event, became excited, and was then **denied access to the evidence** (primarily film) because it was DoD intelligence and he lacked "need to know." This is Davis's firsthand report of HW Bush's firsthand account.
+Davis had conversations with George H.W. Bush in 2003 in which Bush described what happened when he was CIA Director: he was **accidentally briefed** by a Pentagon liaison officer about an early-1960s UAP event, became excited, and was then **denied access to the evidence** (primarily film) because it was DoD intelligence and he lacked *"need to know."* This is Davis's firsthand report of Bush's firsthand account.
 
-## Glenn Gaffney and Crash Retrieval Materials
-
-Davis provides a firsthand account of [[glenn-gaffney]] blocking [[bass]]/EarthTech from accessing [[lockheed-martin]]'s crash retrieval materials during the AAWSAP period. Gaffney was "very antagonistic" and "surprised that that company still retained materials" after the 1989 shutdown. His decision: "absolutely not we're not going to do that."
+[[james-fox]] independently cites Davis (in [[hBrfe4hFuM0]]) on the Holloman AFB landing footage that Bush was briefed on or shown as CIA Director; Davis appears on camera in *Moment of Contact New Revelations* demanding presidential immunity to testify on crash retrievals and alien bodies.
 
 ## Congressional Briefings
 
 Davis has briefed the following congressional staff in classified settings:
+
 - **Senate Select Committee on Intelligence (SSCI) staff** — 2019
 - **Senate Armed Services Committee (SASC) staff** — 2022 (they came to Huntsville, AL to see Davis)
-- **Mike Gallagher's HASC subcommittee staff** — ~2023 (brief 30-min interview; no follow-up invitation)
-- A 20–25 min phone call with [[mike-gallagher]] personally
+- **[[mike-gallagher]]'s HASC subcommittee staff** — ~2023 (brief 30-min interview; no follow-up invitation)
+- A 20–25 min phone call with Gallagher personally
 
-Davis insists he will only testify in classified settings: "The only way I'll testify actually the reality is in a in a classified setting."
+Davis insists he will only testify in classified settings: *"The only way I'll testify actually the reality is in a classified setting."*
 
 ## WINPAC Near-Hire (2003)
 
-In late 2003, the CIA offered Davis the role of branch chief scientist at [[winpac]] (Weapons Intelligence Non-Proliferation and Arms Control). He went through the briefing on the role but did not start the position. This near-hire was concurrent with his conversations with HW Bush.
+In late 2003, the CIA offered Davis the role of branch chief scientist at [[winpac]] (Weapons Intelligence Non-Proliferation and Arms Control). He went through the role briefing but did not start. The near-hire was concurrent with his conversations with Bush. See [[winpac]] for the institutional context and overlap with [[glenn-gaffney]]'s S&T directorate.
 
 ## Exotic Propulsion Research Retrospective
 
-Davis provided an extensive review of exotic propulsion concepts that were investigated and discarded:
+Davis has provided an extensive review of exotic propulsion concepts and their experimental status:
 
-**Rejected concepts**: Torsion (spacetime torsion) — Einstein showed it produces inconsistent field equations and failed experimental test (Ringmaker experiment at GE); Dean Drive; Searl Effect; Coanda Effect (context unclear); SpaceTime torsion (Riemar Marker experiment — no sign of torsion at any measurable level).
+**Rejected concepts** — Torsion (spacetime torsion; Einstein-inconsistent + failed GE Ringmaker experiment); Dean Drive; Searl Effect; Coanda Effect; Riemar Marker torsion experiment (no detectable torsion).
 
-**Active open problems**: String theory and Loop Quantum Gravity both fail to produce testable predictions; Roger Penrose's Twistor Theory produced beautiful mathematics but no useful predictions; QCD cannot unify with Electroweak Theory; gravity is not a fundamental force (emerges from spacetime curvature per Einstein/Sakharov). Davis's position: "I don't think [a unified field theory] is going to be elegant."
+**Active open problems** — String theory and Loop Quantum Gravity (no testable predictions); Penrose's Twistor Theory (beautiful math, no useful predictions); QCD ↔ Electroweak unification (open); gravity is not a fundamental force (emerges from spacetime curvature per Einstein/Sakharov).
 
-## Space-Time as Epiphenomenon (fyX8V1XXmQM)
+Davis's position: *"I don't think [a unified field theory] is going to be elegant."*
 
-Davis frames reality as **quantum foam** — space and time are arbitrary emergent epiphenomena of something more fundamental, not fundamental dimensions themselves. Relayed by [[jacques-vallee]] in [[fyX8V1XXmQM]] after a witness account in which an NHI entity corrected the witness's sense of both time and location. The implication: NHI operating from the substrate level at which space-time parameters are defined would perceive those parameters as conventional approximations, not constraints. See [[spacetime-as-epiphenomenon]] for the full framing and its implications for the [[interdimensional-hypothesis]] and [[flatland-abbott]] geometry.
+## Davis's Core Theoretical Positions
 
-[[james-fox]] cites Davis in [[hBrfe4hFuM0]] on the Holloman AFB landing (President Bush Sr. was briefed on or shown the footage as CIA Director) and includes Davis on camera in *Moment of Contact New Revelations* demanding presidential immunity to testify on crash retrievals and alien bodies.
+- **Roswell**: *"The alleged Roswell crash was real. There was a there there really happened."* Firsthand assertion based on research contacts. See [[1947-roswell]].
+- **"No physicists on the program"**: *"It doesn't make any sense. It defies the laws of physics. We haven't made progress. We have no physicists."* The crash retrieval program's structural failure mode; agreed by [[eric-weinstein]]. See [[physics-lockdown]].
+- **Atomic Energy Act / DOE jurisdiction**: Crash retrievals are born secret under the AEA of 1954, routing through DOE to Lockheed/Northrop/aerospace contractors. See [[atomic-energy-act-classification]] and [[doe-secret-science-nexus]].
+- **Traversable wormholes**: *"You're going to create a wormhole on demand… That's what my research showed."* See [[traversable-wormhole-propulsion]].
+- **Space-time as epiphenomenon**: Reality is quantum foam; space and time are emergent epiphenomena of something more fundamental, not fundamental dimensions. Relayed by [[jacques-vallee]] in [[fyX8V1XXmQM]]. See [[spacetime-as-epiphenomenon]], [[interdimensional-hypothesis]], [[flatland-abbott]].
+- **Epstein at Zoro Ranch**: Bought 1993 "with the explicit intent of being near retired Los Alamos physicists"; DOE/NNSA security was "so lax" this was feasible. See [[zoro-ranch]] and [[epstein-physics-nexus]].
+- **Lockheed crash retrieval material**: [[glenn-gaffney]] blocked BASS/EarthTech from accessing Lockheed's pre-1989 material. See [[glenn-gaffney]] for the full episode.
+- **Chern-Simons gravity connection**: [[eric-weinstein]] introduced the Chern-Simons / Yang-Mills decode of Lazar's gravity-wave terminology in Davis's presence; Davis acknowledges the formal possibility while remaining skeptical of Lazar. See [[chern-simons-gravity-connection]].
+
+## Sources Where He Appears
+
+- [[xnxasfyHtfo]] — Roswell confirmation; Lazar dismissal; AEA/DOE explanation; Wilson 1997 detail; traversable wormholes; Epstein/LANL; "no physicists on the program"; Holloman 1964 humanoid landing; [[jim-lowsky]] hull-entry account; PEAD disclosure pessimism; Soviet 1989 DEW-from-retrieval claim
+- [[LnAiNChnuEQ]] — primary AAWSAP/Grusch interview; ARV refutation; Russia/China retrievals; HW Bush account
+- [[5OUzGygIrSw]] — Rossi validation; Wilson-Davis context
+- [[8TYMQOUDQBo]] — Pais credits Davis's DIA teleportation report and *Frontiers of Propulsion Science*
+- [[fyX8V1XXmQM]] — Space-time epiphenomenon framing relayed by Vallée
+- Mentioned in [[2NVDCtSxIac]] · [[9gLPtRwXgCM]]
 
 ## Connections
 
-- [[xnxasfyHtfo]] — source; Roswell confirmation, Lazar dismissal, AEA/DOE explanation, Wilson 1997 detail, traversable wormholes, Epstein/LANL, "no physicists on the program", Holloman 1964 humanoid landing, Lowsky hull-entry, PEAD disclosure pessimism, Soviet 1989 DEW-from-retrieval claim
-- [[jim-lowsky]] — missiles engineer (DIA) who told Davis he personally entered the hull of a retrieved craft; Davis considers him credible
-- [[rias-golden-age-gr]] — relevant context for why Davis and Weinstein agree the correct physicists are entirely absent from crash retrieval work
-- [[chern-simons-gravity-connection]] — Weinstein's Lazar decode introduced in Davis's presence; Davis skeptical but acknowledges formal possibility
-- [[zoro-ranch]] — Epstein's New Mexico ranch; Davis confirmed it was purchased to access retired LANL physicists
-- [[traversable-wormhole-propulsion]] — Davis's published research; concluded on-demand wormholes should be achievable
-- [[nnsa]] — NNSA Nevada contacts (AFIO members) facilitated the Wilson-Davis meeting
-- [[atomic-energy-act-classification]] — Davis explicitly confirmed AEA born-secret as the DOE jurisdiction mechanism for crash retrievals
-- [[doe-secret-science-nexus]] — AEA routes crash retrieval research to DOE then to aerospace contractors
-- [[john-aristotle-phillips]] — discussed alongside "physics too dangerous for universities" theme
 - [[hal-puthoff]] — longtime collaborator; shared physics framework (EarthTech, metric engineering)
-- [[gravity-manipulation-propulsion]] — Davis's published work on warp drives is a core reference in this concept
-- [[dave-rossi]] — validated Rossi's exotic EM work alongside Puthoff
-- [[scalar-waves]] — Davis's EarthTech work includes zero-point field papers that overlap with extended EM
-- [[reverse-engineered-craft]] — Wilson-Davis memo is a key document in crash-retrieval claims
-- [[physics-lockdown]] — Davis operates at the boundary of classified and public exotic physics
-- [[frontiers-of-propulsion-science]] — co-edited with Mark Millis; Pais calls it a landmark work
-- [[mark-millis]] — co-editor of Frontiers of Propulsion Science
-- [[5OUzGygIrSw]] — mentioned as having validated Dave Rossi
-- [[thomas-wilson]] — the Admiral whose frustration with denied program access is the subject of the Wilson-Davis memo
-- [[egng]] — Wilson-Davis meeting occurred in EG&G Special Projects HQ parking lot, Las Vegas
-- [[TNtlzEnl8rA]] — EG&G context for the meeting discussed here
-- [[8TYMQOUDQBo]] — Pais credits Davis's DIA teleportation report (fifth dimension coupling) and praises Frontiers of Propulsion Science
-- [[jay-stratton]] — Stratton introduced Davis to Grusch
-- [[david-grusch]] — received Davis's complete classified dataset; found 40 witnesses using it
-- [[george-hw-bush]] — Davis relayed HW Bush's firsthand account of being accidentally briefed as CIA Director
-- [[glenn-gaffney]] — Davis's firsthand account of Gaffney blocking crash retrieval material transfer to BASS
-- [[bass]] — the AAWSAP contractor Davis worked within; attempted crash retrieval material access
-- [[lockheed-martin]] — holds crash retrieval materials; Gaffney blocked BASS access
+- [[thomas-wilson]] — the Admiral whose denied program access is the subject of the memo
+- [[wilson-davis-memo]] — the canonical document; full timeline
+- [[david-grusch]] — received Davis's complete classified dataset; found 40 witnesses
+- [[jay-stratton]] — introduced Davis to Grusch
+- [[aawsap]] · [[bass]] · [[nids]] — institutional contexts for Davis's classified data accumulation
+- [[george-hw-bush]] — 2003 conversations about his CIA-Director-era UAP briefing
+- [[glenn-gaffney]] — blocked Lockheed→BASS material transfer; full Davis account on that page
+- [[lockheed-martin]] — holds crash retrieval materials Gaffney blocked
+- [[winpac]] — CIA program that nearly hired Davis (2003)
 - [[aerospace-corporation]] — flew Davis to Colorado Springs to brief Grusch's team
-- [[winpac]] — CIA program that nearly hired Davis as branch chief scientist (2003)
-- [[mike-gallagher]] — Davis briefed Gallagher and his HASC subcommittee staff
-- [[brad-sorensen]] — ARV claimant Davis explicitly refutes
-- [[mark-mccandish]] — ARV claimant Davis explicitly refutes
-- [[special-access-programs]] — Davis explained SAP types and SAP/SCI equivalence with Grusch
-- [[pead]] — Davis cited PEADs as the Eisenhower-era mechanism for waived UAP SAPs
-- [[sole-source-contracts]] — Davis explained the contracting mechanism for black programs
-- [[LnAiNChnuEQ]] — major interview; source for AAWSAP role, ARV refutation, Russia/China retrievals, HW Bush account
-- [[invisible-college]] — identified by Garry Nolan as one of the five members he was introduced to by the CIA; [[dzTZbSNsKV8]]
-- [[spacetime-as-epiphenomenon]] — standalone concept page for Davis's full epiphenomenon framing and its implications
-- [[flatland-abbott]] — the geometric analogy Vallée uses alongside Davis's space-time epiphenomenon framing
-- [[interdimensional-hypothesis]] — Davis's "space-time is arbitrary / epiphenomenal" position is the physics foundation for the interdimensional model
-- [[fyX8V1XXmQM]] — source for the space-time epiphenomenon quote section above
+- [[egng]] — Wilson-Davis meeting site (parking lot of Special Projects HQ, Las Vegas)
+- [[mike-gallagher]] — HASC subcommittee briefing recipient
+- [[brad-sorensen]] · [[mark-mccandish]] · [[bob-lazar]] — ARV claimants Davis refutes
+- [[jim-lowsky]] — DIA missiles engineer; Davis vouches for him as credible firsthand hull-entry witness
+- [[john-alexander]] — facilitated Wilson-Davis meeting via NNSA contacts
+- [[nnsa]] — NNSA Nevada contacts facilitated the meeting
+- [[traversable-wormhole-propulsion]] — Davis's published research
+- [[gravity-manipulation-propulsion]] — Davis's warp drive work is a core reference
+- [[scalar-waves]] — Davis's EarthTech zero-point papers overlap extended EM
+- [[reverse-engineered-craft]] — the central thesis the memo speaks to
+- [[crash-retrieval-research]] — Davis is a primary insider source
+- [[physics-lockdown]] — "no physicists on the program" is Davis's structural diagnosis
+- [[atomic-energy-act-classification]] — Davis explicitly confirms the AEA born-secret mechanism
+- [[doe-secret-science-nexus]] — AEA routes crash retrieval research to DOE → contractors
+- [[zoro-ranch]] · [[epstein-physics-nexus]] · [[jeffrey-epstein]] — Davis's confirmation of the Epstein/LANL access strategy
+- [[spacetime-as-epiphenomenon]] · [[flatland-abbott]] · [[interdimensional-hypothesis]] — Davis's full physics framing
+- [[chern-simons-gravity-connection]] — Weinstein's Lazar decode introduced in Davis's presence
+- [[dave-rossi]] — Davis validated Rossi's exotic EM work alongside Puthoff
+- [[frontiers-of-propulsion-science]] · [[mark-millis]] — co-edited landmark text
+- [[special-access-programs]] · [[pead]] · [[sole-source-contracts]] — institutional mechanisms Davis explained
+- [[invisible-college]] — Garry Nolan named Davis as one of the five members the CIA introduced him to ([[dzTZbSNsKV8]])
+- [[james-fox]] — cites Davis on the Holloman 1964 case
+- [[rias-golden-age-gr]] — relevant context for the absence-of-physicists thesis
+- [[john-aristotle-phillips]] — "physics too dangerous for universities" parallel
+- [[TNtlzEnl8rA]] — EG&G context for the Wilson-Davis parking-lot meeting

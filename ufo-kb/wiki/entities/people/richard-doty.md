@@ -37,6 +37,9 @@ The [[majestic-12]] documents — which surfaced in 1984 mailed from near Kirtla
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - [[paul-benowitz]] — primary victim of AFOSI disinformation operation
 - [[flood-the-zone-disinfo]] — the Bennewitz operation as an extreme case of the technique
 - [[bill-moore]] — co-participant who later confessed

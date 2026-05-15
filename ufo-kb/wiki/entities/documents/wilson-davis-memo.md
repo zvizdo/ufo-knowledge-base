@@ -28,6 +28,9 @@ The document appeared online in June 2019, leaked from the estate of astronaut [
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - [[eric-davis]] — alleged author; physicist at EarthTech / BIAC; Hal Puthoff colleague
 - [[john-von-neumann]] — mentioned in related UAP briefing networks
 - [[hal-puthoff]] — Davis's professional network; advanced propulsion research

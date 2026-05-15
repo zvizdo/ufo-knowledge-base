@@ -1,7 +1,9 @@
 ---
 type: entity
 summary: "Meteorite expert and Air Force-affiliated scientist who led Project Twinkle (investigation of anomalous green fireballs at nuclear sites) and co-led the Near-Earth Satellite Project at White Sands with Clyde Tombaugh."
-sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
+sources:
+  - raw/youtube-transcripts/1zRWi_r3HRM.md
+  - raw/documents/fbi-62-hq-83894-ufo-investigations-1947-1968.md
 name: Lincoln LaPaz
 aliases: [Lincoln Leaz (transcript phonetic)]
 roles: [researcher, official]
@@ -46,3 +48,5 @@ LaPaz stands at the intersection of two anomalous phenomena: green fireballs at 
 - [[simulation-theory]] — cited in simulation-break / high-energy nexus
 - [[credibility-frameworks]]
 - [[1zRWi_r3HRM]] — source summary
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — FBI file documents LaPaz's briefing on New Mexico phenomena (Soviet missile hypothesis, 150+ sightings since 1948, Project Twinkle May 1950 observation of 8–10 objects at Vaughn NM)
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]

@@ -3,7 +3,7 @@ type: entity
 entity-type: incidents
 name: 2003 Vandenberg Red Square
 summary: "October 14 2003 UAP incident at Vandenberg AFB: Boeing contractors and USAF security witnessed a massive glowing red square hover over missile defense sites; same night a triangular craft larger than a football field hovered over an entry control point; official records held by AARO and FBI."
-sources: [raw/youtube-transcripts/Qe8br8yYEDM.md]
+sources: [raw/youtube-transcripts/Qe8br8yYEDM.md, raw/youtube-transcripts/3yrKVu35uSE.md]
 date: 2003-10-14
 location: Vandenberg Air Force Base, California
 witnesses: [jeff-natelli, Boeing contractors (unnamed), USAF security guards (unnamed), 5 named by Natelli at scene]
@@ -43,12 +43,19 @@ This October 2003 event was the first of **five UAP incidents at Vandenberg betw
 
 The 2003–2005 cluster follows the same Vandenberg pattern established in the 1960s: [[1964-vandenberg-bob-jacobs]] (instrumented UFO footage, missile interaction), [[1964-vandenberg-richard-barth]] (CE3, NHI nuclear intelligence gathering), and the broader [[ufo-nuclear-nexus]] documentation by [[robert-hastings]].
 
+## In "The Program" and Fox/Rogan Interview
+
+[[james-fox]] featured Natelli's account in [[the-program-fox]] (released December 23, 2024) and read his written statement on-air during the JRE #2246 interview ([[3yrKVu35uSE]]). Fox also confirmed additional incidents not in the original account: an **orb on the Vandenberg flight line** (separate from the Red Square event) and at least three further incidents, bringing the confirmed 2003–2005 cluster to five events total.
+
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
 - [[jeff-natelli]] — primary military responder and witness liaison
 - [[vandenberg-afb]] — location
 - [[ufo-nuclear-nexus]] — adds modern multi-witness instrumented-adjacent data to the nuclear-base UAP pattern
 - [[1964-vandenberg-bob-jacobs]] — precedent from the same base 39 years earlier
 - [[1964-vandenberg-richard-barth]] — CE3 precedent from the same base
 - [[credibility-frameworks]] — multi-witness, Boeing contractors + USAF personnel; official records held by AARO/FBI; congressional mention
+- [[james-fox]] — featured in The Program; read Natelli's statement on JRE #2246
+- [[the-program-fox]] — documentary featuring this case
 - [[Qe8br8yYEDM]] — source summary where account is read into record

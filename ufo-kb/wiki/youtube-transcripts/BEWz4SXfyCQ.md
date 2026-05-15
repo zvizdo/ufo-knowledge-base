@@ -266,3 +266,4 @@ Rogan contextualizes the episode repeatedly:
 - [[s4-reactor]] — the basketball-sized hemisphere whose gravitational field, zero heat output, and load-sensing activation are described in detail here
 - [[reverse-engineered-craft]] — the central claims-thesis this episode documents; Lazar is the primary firsthand witness for the S4 reverse-engineering program
 - [[d9tdJ2SkBKQ]] — companion American Alchemy deep-technical Lazar episode that follows up many of the same claims with greater technical depth and the Charles Buhler surprise
+- [[dre-5Zy4f7c]] — Knapp+Corbell episode extends Lazar S-4 content from JRE #1315; element 115, containers-of-souls briefing, and craft interior details

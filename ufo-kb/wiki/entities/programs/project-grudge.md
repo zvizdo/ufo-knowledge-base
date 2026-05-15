@@ -28,3 +28,5 @@ Grudge institutionalized the debunking posture that would define official U.S. g
 - [[ufo-secrecy-cabal]] — Grudge fits the pattern of institutional investigation designed to produce null results
 - [[j-allen-hynek]] — consultant who later expressed regret about his role in the debunking era
 - [[horace-vandenberg]] — his 1948 rejection of the Project Sign Estimate created the institutional environment Grudge was created to fill
+
+- Mentioned in [[usaaf-1949-flying-discs-box186-incident-reports]]

@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Retired Senate Armed Services Committee and Intelligence Committee professional staff member; key backstage figure in the 2017-onward UAP disclosure push; firsthand recipient of Harold Malmgren's Bluegill Triple Prime account; engaged deeply with exotic physics including Tesla, extended electrodynamics, and Nazi Bell connections."
-sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/KGD1nuM4MR8.md]
+sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/KGD1nuM4MR8.md, raw/youtube-transcripts/3yrKVu35uSE.md]
 name: Kirk McConnell
 aliases: [McConnell]
 roles: [government-official, researcher]
@@ -73,10 +73,15 @@ McConnell has engaged seriously with:
 - [[nazi-ufo-hypothesis]] — Nazi Bell program ([[igor-witkowski]], [[joseph-farrell]], [[nick-cook]]); potential vimana/mercury-cylinder connection; Ernst Growitz (SS medical officer under Mengele) involvement
 - [[nhi-telepathic-communication]] — Penrose Orch OR + avian cryptochromes + Puthoff's scalar/vector potential model + [[cleve-baxter]]'s plant communication as converging evidence for a carrier mechanism
 
+## Aegis Radar — Transmedium Tracking
+
+In [[3yrKVu35uSE]] (Fox/Rogan, December 2024), McConnell described observing UAP data on **Aegis radar** — the Navy's phased-array fire-control radar system — showing transmedium objects tracked moving from ocean into air and back. He characterized the frequency of detection in blunt terms: **"all day long."** This assessment, from a Senate Armed Services Committee staffer with direct access to fleet sensor data, represents one of the most senior sourcing points for the claim that transmedium UAP are a routine, instrumented phenomenon rather than rare anomalies.
+
 ## Sources Where They Appear
 
 - [[09KP8XVf5nY]] — Referenced in context of congressional UAP disclosure efforts; Malmgren account
 - [[KGD1nuM4MR8]] — Primary long-form interview; all claims above derive from this source
+- [[3yrKVu35uSE]] — Fox/Rogan JRE #2246; Aegis radar transmedium tracking claim
 
 ## Connections
 
@@ -96,4 +101,6 @@ McConnell has engaged seriously with:
 - [[catastrophic-disclosure-fear]] — McConnell's detailed NSC disclosure study account
 - [[ufo-nuclear-nexus]] — Bluegill + Sept 19 AVCO incidents discussed in depth
 - [[nuclear-uap-multilateral-evidence]] — multilateral-evidence synthesis
+- [[3yrKVu35uSE]] — Fox/Rogan interview; Aegis radar transmedium tracking "all day long"
+- [[the-program-fox]] — McConnell's Aegis radar account featured in Fox's documentary
 - [[1iaH1a3A4Lk]] — cited by [[marik-von-rennenkampff]] as providing his confidence level: McConnell told Merrick his confidence in the existence of UAP crash retrieval programs was "hovering around 100%"; also cited that McConnell and Jill Brandt confirmed at AARO's hearing that firsthand witnesses of unreported UAP programs had come forward to AARO

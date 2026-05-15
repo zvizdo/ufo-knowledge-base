@@ -35,3 +35,4 @@ Black triangle UAP are among the most consistently reported UAP subtypes since t
 - [[woomera-test-range]] — location of Aboriginal triangle sightings
 - [[ghost-rockets]] — adjacent UAP wave phenomenon; similar mass-sighting pattern
 - [[black-budget]] — classification architecture that could conceal a genuine classified triangle aircraft
+- Mentioned in [[dow-uap-d51-email-correspondence-pacific-time-zone-2023-03-23]] — 2023 Pacific TZ civilian report: large blue triangular object with whitish-blue perimeter lighting hovering near national security facility; blue color variant of the triangle archetype

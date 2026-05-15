@@ -112,3 +112,5 @@ Rogers has written a book titled *We Got It From Them* — borrowing the major's
 - [[we-got-it-from-them-rogers]] — His book
 - [[jesse-michaels]] — Host of American Alchemy where primary interview recorded
 - [[TNtlzEnl8rA]] — Primary source
+
+- Mentioned in [[dow-uap-d48-modeling-space-booster-failures-1996-09]]

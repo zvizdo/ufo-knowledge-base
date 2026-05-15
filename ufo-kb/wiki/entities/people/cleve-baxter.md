@@ -1,9 +1,9 @@
 ---
 type: entity
 summary: "Polygraph expert and primary plants researcher; demonstrated apparent real-time electrodermal responses in plants to their environment and to human intent — cited by Puthoff as evidence for extended-EM consciousness field."
-sources: [raw/youtube-transcripts/KGD1nuM4MR8.md]
+sources: [raw/youtube-transcripts/KGD1nuM4MR8.md, raw/youtube-transcripts/Gf_tKn9TaP8.md]
 name: Cleve Baxter
-aliases: [Cleave Baxter]
+aliases: [Cleve Backster, Cleave Baxter]
 roles: [researcher]
 affiliations: [CIA (polygraph consultant)]
 firsthand_claims:
@@ -39,3 +39,6 @@ Baxter's experiments specifically claim the effect is **distance-independent and
 - [[telepathy-tapes]] — another evidence stream for the same phenomenon
 - [[roger-penrose]] — Orch OR as the neurological complement to the field-level carrier
 - [[KGD1nuM4MR8]] — first appearance in KB
+- Mentioned in [[Gf_tKn9TaP8]] — Puthoff narrates the New York cocktail-party chain: Baxter received Puthoff's algae-culture proposal, mentioned it to Ingo Swann at a party, then forwarded Swann's interest back to Puthoff. The chain triggered the [[1972-sri-quark-detector-session]] and through it the entire Stargate program.
+- [[1972-sri-quark-detector-session]] — Baxter is in the documented origin chain
+- [[stargate-program]] — Baxter's cocktail-party chain triggered the program founding

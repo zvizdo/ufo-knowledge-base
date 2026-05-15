@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Former Republican Governor of Arizona (1991–1997); firsthand witness to the 1997 Phoenix Lights; initially publicly ridiculed the event but later reversed and confirmed his sighting; appeared in James Fox's documentaries."
-sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md]
+sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: Fife Symington
 aliases: [J. Fife Symington III]
 roles: [witness, official]
@@ -27,6 +27,8 @@ Fox describes him as the "iconic figure" whose public reversal on Phoenix Lights
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
 - [[1997-phoenix-lights]] — primary incident; Governor-level firsthand witness
 - [[james-fox]] — appeared in The Phenomenon; on Larry King together
 - [[buzz-aldrin]] — shared Larry King Live panel; Symington advised Fox to respect Aldrin
@@ -34,3 +36,4 @@ Fox describes him as the "iconic figure" whose public reversal on Phoenix Lights
 - [[credibility-frameworks]] — sitting governor; military-grade observation; public reversal
 - [[disclosure-narratives]] — early suppression (alien costume press conference) followed by candid reversal
 - [[bVhSPH2A5Vw]] — source transcript
+- Mentioned in [[h8vjx6-ZFvI]]

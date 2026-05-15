@@ -44,3 +44,4 @@ Cited by [[lue-elizondo]] in [[1f16VvXaSSE]] as the organization his father (Lou
 - [[lue-elizondo]] — Elizondo's father was a member; the formative environment Elizondo grew up in
 - [[disclosure-narratives]] — relevant via the broader CIA-adjacent paramilitary context that connects Cuban-Exile networks to several UFO-history figures (e.g. [[danny-sheehan]]'s [[operation-40]] research)
 - [[operation-40]] — partially overlapping CIA-adjacent Cuban-operations network
+- Mentioned in [[9gLPtRwXgCM]]

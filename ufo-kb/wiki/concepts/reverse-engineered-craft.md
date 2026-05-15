@@ -97,6 +97,7 @@ This FFRDC conduit architecture is the operational mechanism by which RE program
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - Mentioned in [[1f16VvXaSSE]]
 - [[wernher-von-braun]] — key named source of Nazi Germany back-engineering claim
 - [[gordon-cooper]] — documented von Braun's claims in his book
@@ -143,3 +144,5 @@ This FFRDC conduit architecture is the operational mechanism by which RE program
 - [[credibility-frameworks]] — REC insiders (Davis, Grusch, Herrera, Barber) each require credibility analysis; NDA structure means silenced ≠ discredited
 - [[thomas-townsend-brown]] — if reverse-engineered craft use electrogravitic propulsion, Brown's 1950s work is the prototype lineage: the B-2/Northrop connection and the classified program that went dark in 1957 are the human-origin half of the same physics program
 - Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[9gLPtRwXgCM]]
+- Mentioned in [[dre-5Zy4f7c]]

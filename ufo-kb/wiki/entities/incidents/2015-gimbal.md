@@ -37,6 +37,7 @@ The video was recorded alongside [[2015-gofast]] during a series of encounters b
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[mick-west]] — primary skeptical analyst; de-rotation/artifact theory
 - [[marik-von-rennenkampff]] — primary pro-anomaly analyst in this episode
 - [[2008-iraq-gimbal]] — visually similar thermal video from Iraq War; cited as morphological corroboration
@@ -53,3 +54,4 @@ The video was recorded alongside [[2015-gofast]] during a series of encounters b
 - Mentioned in [[Hc6pbG4wICA]]
 - [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Gimbal footage cited as corroboration of Lazar's 1989 craft-rotation description (Rogan's argument for Lazar credibility)
 - Mentioned in [[vZEcVY2iZsk]]
+- Mentioned in [[dre-5Zy4f7c]]

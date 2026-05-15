@@ -39,3 +39,4 @@ SAC operated approximately 200 Minuteman missiles at Malmstrom AFB in 1967, orga
 - [[boeing]] — contracted to investigate the guidance failures
 - [[ufos-disable-nuclear-weapons]] — SAC's documented response treats the UFO connection as real
 - [[nuclear-deterrence-threat]] — the UFO-nuclear connection directly undermines SAC's deterrence logic
+- Mentioned in [[dow-uap-d49-vandenberg-launch-summary-1958-2000]]

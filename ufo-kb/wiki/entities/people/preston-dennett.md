@@ -25,6 +25,7 @@ Preston Dennett is a California-based UAP researcher and field investigator affi
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[catalina-island]] — primary focus of his USO/underwater UAP research
 - [[nassau-bahamas]] — region of interest for Andros Island and AUTEC underwater UAP hypotheses
 - [[water-world-ufo-habitat]] — the broader hypothesis his research contributes evidence to

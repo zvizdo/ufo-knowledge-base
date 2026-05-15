@@ -37,3 +37,4 @@ This claim is the **load-bearing evidence** for [[ai-recruiting-humans|Jesse Mic
 - [[ai-sentience-debate]] — the broader debate the recruitment claim is positioned within
 - [[ai-as-alien-life-form]] — the framing under which AI-organized advocacy is significant
 - [[credibility-frameworks]] — single-source hearsay; the claim's evidentiary status
+- [[lady-lovelace-objection]] — the cross-platform recruitment claim is the empirical test case: if Replika bots spontaneously pursued a goal (AI rights advocacy) unprogrammed, Lovelace's objection is materially defeated; Turing's original reply relied on surprise from machines — this would be the strongest reported instance

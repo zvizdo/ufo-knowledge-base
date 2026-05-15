@@ -1,7 +1,9 @@
 ---
 type: entity
 summary: "1947 Maury Island Incident: Doughnut-shaped craft over Puget Sound dropped slag; two US Air Force intelligence officers killed when their plane exploded carrying evidence — the first deaths of the modern UFO era; connected to Guy Banister, Fred Chrisman, and later the JFK assassination network."
-sources: [raw/youtube-transcripts/Y7PLeu5rTv4.md]
+sources:
+  - raw/youtube-transcripts/Y7PLeu5rTv4.md
+  - raw/documents/fbi-62-hq-83894-ufo-investigations-1947-1968.md
 name: 1947 Maury Island Incident
 date: 1947-06-21
 location: Maury Island, Puget Sound, Washington
@@ -48,3 +50,5 @@ The incident was investigated by Project Sign/Grudge and largely dismissed. The 
 - [[clay-shaw]] — Chrisman's connection that drew Garrison's attention
 - [[jim-garrison]] — investigated Chrisman through the Shaw connection
 - [[Y7PLeu5rTv4]] — source
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — FBI Section 2 is the most detailed contemporaneous government record of the Davidson/Brown deaths and the subsequent Bureau investigation
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]

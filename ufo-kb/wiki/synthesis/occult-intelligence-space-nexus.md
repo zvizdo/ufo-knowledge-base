@@ -90,4 +90,5 @@ The [[secret-machines]] project represents the most explicit convergence in rece
 - [[consciousness-as-technology]] — the propulsion thesis unifying Layers 4–5
 - [[disclosure-narratives]] — how this pattern fits into slow/controlled disclosure models
 - [[credibility-frameworks]] — multi-source, cross-institutional corroboration strengthens the pattern
+- [[zjpvfDFc4fg]] — primary source episode (Jorjani/Michaels); provides detailed firsthand claims for all five layers
 - Mentioned in [[LpLFWdsIU7M]]

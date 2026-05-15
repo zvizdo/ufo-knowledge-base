@@ -31,3 +31,4 @@ Stub. See [[NvqxmTCwHA8]] for context.
 
 - [[NvqxmTCwHA8]] — source where this term appears
 - [[pyramid-purpose-debate]] — related concept
+- [[herodotus-of-halicarnassus]] — 5th-century BCE textual source for the same subterranean Giza infrastructure Emery documented archaeologically in the 1930s; together they form the earliest documentary record

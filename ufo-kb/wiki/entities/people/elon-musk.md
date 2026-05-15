@@ -34,3 +34,4 @@ In the KB, [[tim-taylor]] name-dropped Musk to [[chris-bledsoe]] — an NHI expe
 - [[tim-taylor]] — Taylor name-dropped Musk in a UAP-relevant context
 - [[disclosure-narratives]] — private-sector aerospace billionaires as a disclosure vector
 - [[breakaway-civilization]] — if Musk has inherited or earned access to classified propulsion research, his company trajectory may reflect it
+- Mentioned in [[9gLPtRwXgCM]]

@@ -191,6 +191,7 @@ A feature-length [[american-alchemy|American Alchemy]] documentary on [[thomas-t
 - [[biefeld-brown-effect]] — core experimental phenomenon; vacuum confirmation at 10⁻⁶ torr by Corneau (1956)
 - [[extended-electrodynamics]] — anonymous Navy scientist: restoring Maxwell's scalar terms couples with gravity
 - [[winter-haven-proposal]] — Brown's 1953 document; near-exact blueprint for how insiders describe America's secret UAP program
+- [[G7Ns4Aq1tVc]] — companion Nick Cook / Hunt for Zero Point episode; both cover the same anti-gravity lineage; Cook confirmed the B2/Brown/Northrop chain independently; G7 covers Schauberger/Kammler/Nazi programs; RTEWLSTyUic provides the Brown biography and Caroline group
 - [[physics-lockdown]] — Brown as primary historical case study; academic stigma as state tool
 - [[anti-gravity-manhattan-project]] — Brown at the center of the 1950s anti-gravity research ecosystem
 - [[disclosure-narratives]] — controlled leak model; John Lear as deliberate CIA conduit framing Lazar story

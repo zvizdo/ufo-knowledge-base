@@ -58,3 +58,4 @@ See [[credibility-frameworks]].
 - [[mario-woods]] — recognized sphere symbols as matching 1977 Ellsworth craft interior
 - [[randy-anderson]] — recognized sphere symbols as matching NSWC Crane gauntlet device
 - [[V00WcEiKRAY]] — source for Bogotá sphere and symbol recognition account
+- Mentioned in [[dos-uap-d5-cable-5-mexico-2003-09]] — presented "two alleged alien corpses" and Mexican military pilot encounter videos to Mexican Congress Sep 12, 2023; cable notes "scientists have discredited previous alleged alien corpses Maussan presented"; Ryan Graves called it an "unsubstantiated stunt"

@@ -22,6 +22,9 @@ Independent U.S. national security and technology journalism outlet founded in 2
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - [[leslie-kean]] — brought the Grusch story to The Debrief after NYT blocked it; co-bylined the article
 - [[david-grusch]] — subject of the landmark June 2023 whistleblower disclosure piece
 - [[james-fox]] — helped facilitate Grusch's follow-up op-ed; credits The Debrief publication as pivotal

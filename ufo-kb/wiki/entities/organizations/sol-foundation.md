@@ -6,8 +6,8 @@ roles: []
 affiliations: []
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/entities/people/garry-nolan.md
-sources: []
-summary: "Stanford-adjacent nonprofit policy and research organization focused on UAP science and national security implications; co-founded by Garry Nolan and Christopher Mellon; holds symposia for academics, intelligence officers, and policymakers."
+sources: [raw/youtube-transcripts/R8TqBrrqL4U.md]
+summary: "Stanford-adjacent nonprofit policy and research organization focused on UAP science and national security implications; co-founded by Garry Nolan, David Grusch, and Peter Skafish (with Christopher Mellon also involved); holds symposia for academics, intelligence officers, and policymakers; advocates a Truth and Reconciliation framework for UAP disclosure."
 tags: [uap, policy, stanford, disclosure, nonprofit, symposium]
 ---
 
@@ -25,7 +25,11 @@ The Sol Foundation is a nonprofit research and policy organization focused on UA
 
 - [[garry-nolan]] — co-founder; Stanford immunologist; board member
 - [[chris-mellon]] — co-founder; former Deputy Assistant Secretary of Defense for Intelligence
+- [[david-grusch]] — co-founder; ICIG whistleblower who co-founded the foundation
+- [[peter-skafish]] — co-founder; cultural anthropologist providing humanistic framework for NHI contact
 - [[credibility-frameworks]] — Sol Foundation as an institutional credibility mechanism for UAP science
+- [[disclosure-narratives]] — Truth and Reconciliation framework for UAP disclosure
 - [[uap-disclosure-act]] — policy context within which Sol Foundation operates
 - [[stanford-university]] — institutional affiliation providing academic standing
 - [[government-uap-programs]] — policy landscape within which the Sol Foundation advocates
+- Mentioned in [[R8TqBrrqL4U]]

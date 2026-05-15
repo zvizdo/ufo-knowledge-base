@@ -7,7 +7,7 @@ affiliations: []
 date: 1980-12-29
 firsthand_claims: []
 first_seen_in: ufo-kb/wiki/concepts/nhi-radiation-effects.md
-sources: []
+sources: [, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 summary: "December 29, 1980, near Huffman, Texas; witnesses Betty Cash, Vickie Landrum, and Colby Landrum (7) observed a diamond-shaped craft emitting intense heat and light; all three suffered acute radiation syndrome; Betty Cash was repeatedly hospitalized and died in 1998; the most severe UAP physical injury case in the US record."
 tags: [texas, radiation, 1980, cash-landrum, uap-injuries, acute-radiation-syndrome]
 ---
@@ -29,3 +29,4 @@ On December 29, 1980, Betty Cash (51), Vickie Landrum (57), and Colby Landrum (7
 - [[nhi-radiation-effects]] — primary KB category; Cash-Landrum as the most severe US case
 - [[ufo-electromagnetic-injuries]] — broader category of physical UAP effects
 - [[uap-physical-evidence]] — physical injuries as UAP evidence
+- Mentioned in [[h8vjx6-ZFvI]]

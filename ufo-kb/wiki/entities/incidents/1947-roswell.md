@@ -124,3 +124,5 @@ His argument:
 - [[peter-levenda]] — presents this as "a possibility I think is underexplored"; less ideological than Jorjani's account
 - [[walter-dornberger]] — V2 head posted at Wright Patterson when Roswell debris arrived; most logical person to analyze whatever was recovered
 - [[horten-brothers]] — Levenda's candidate for the Roswell disc design; one went to Argentina working for Peron; Soviet equivalent also imported Horton engineers
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]
+- [[fbi-germany-1957-krasuski-circular-vertical-object]] — FBI-documented 1944 Gut Alt Golssen disc is a candidate data point in the same Nazi disc technology chain that some researchers apply to Roswell

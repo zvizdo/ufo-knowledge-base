@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "July 26, 2023 House Oversight Subcommittee on National Security hearing featuring Ryan Graves, David Fravor, and David Grusch; the most widely watched congressional UAP hearing in history; historic for bipartisan cooperation and Grusch's crash-retrieval testimony."
-sources: [raw/youtube-transcripts/6WC4o2yY9Ws.md]
+sources: [raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/R8TqBrrqL4U.md]
 name: 2023 Congressional UAP Hearing
 date: 2023-07-26
 location: US House of Representatives, Washington DC
@@ -52,3 +52,6 @@ Multiple additional former government officials contacted Congressional oversigh
 - [[disclosure-narratives]] — the hearing is a landmark event in Narrative 4 (genuine reveal) and Narrative 7 (insider-outsider pressure loop)
 - [[credibility-frameworks]] — three witnesses spanning field witness, combat CO, and intelligence insider
 - [[uap-aviation-safety]] — Graves's safety framing was the accessible entry point for members skeptical of more exotic claims
+- Mentioned in [[9gLPtRwXgCM]]
+- Mentioned in [[R8TqBrrqL4U]] — Grusch describes the hearing's context: AOC's oversight questions, Turner's absence, and the g-lock reaction among Congressional staffers that catalyzed the Schumer Amendment
+- Mentioned in [[dre-5Zy4f7c]]

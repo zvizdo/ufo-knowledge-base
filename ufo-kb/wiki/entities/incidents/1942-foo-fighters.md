@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "World War II encounters by Allied and Axis pilots with seemingly controlled ball-lightning-like objects that flew in formation with aircraft; named 'Foo Fighters' after the Smoky Stover comic strip; a potential data point for advanced German (or unknown-origin) craft."
-sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/KGD1nuM4MR8.md]
+sources: [raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/KGD1nuM4MR8.md, raw/documents/dow-1945-03-shaef-foo-fighters-german-armament.md]
 name: WWII Foo Fighters
 date: 1942–1945
 location: European and Pacific theaters
@@ -49,5 +49,7 @@ Foo Fighters represent the earliest large-scale, multi-witness UAP sightings in 
 - [[hp-robertson]] — assigned to investigate Foo Fighters during WWII; 7 years later chaired the Robertson Panel that created the Blue Book debunking mandate — a non-coincidental continuity noted by [[kirk-mcconnell]]
 - [[luis-alvarez]] — also on the WWII Foo Fighter investigation alongside Robertson; also on the Robertson Panel
 - [[robertson-panel]] — the classified suppression policy that directly followed from Robertson's wartime Foo Fighter investigation
+- [[dow-1945-03-shaef-foo-fighters-german-armament]] — primary SHAEF source document; 415th NFS sortie reports; Air Ministry open-verdict "mystery" conclusion
+- [[415th-night-fighter-squadron]] — primary witness unit with the most detailed firsthand sortie-level accounts
 - [[G7Ns4Aq1tVc]] — source
 - [[KGD1nuM4MR8]] — McConnell and Jesse discuss the Robertson/Alvarez Foo Fighter → Robertson Panel continuity

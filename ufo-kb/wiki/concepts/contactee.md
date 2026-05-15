@@ -27,3 +27,4 @@ The contactee tradition refers primarily to individuals in the 1950s and 1960s w
 - [[nhi-as-information-source]] — the epistemological question of whether contactee information has value
 - [[experiencer-research]] — the broader field encompassing both contactee and abductee accounts
 - [[ufo-nuclear-nexus]] — Space Brothers' consistent focus on nuclear weapons concerns
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — AFSCA and the Korendor channeled message constitute primary-source contactee records in FBI case files; Bureau monitored contactee organizations for Communist connections

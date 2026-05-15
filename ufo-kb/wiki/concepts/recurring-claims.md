@@ -73,6 +73,9 @@ Every discrete-proposition page in the KB. Alphabetical, with no per-bucket dupl
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - [[source-type-frameworks]] — categorises what kind of source is making a recurring claim
 - [[credibility-frameworks]] — applied per-claim to weigh the assertion
 - [[disclosure-narratives]] — meta-theories about why these claims are or aren't being confirmed
@@ -82,3 +85,4 @@ Every discrete-proposition page in the KB. Alphabetical, with no per-bucket dupl
 - [[bob-lazar]] — spans categories 1 (crash retrieval) and 2 (reverse engineering); his claims introduced Element 115 as a recurring-claims anchor point
 - Mentioned in [[u7g5Sn1DJF4]]
 - Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[9gLPtRwXgCM]]

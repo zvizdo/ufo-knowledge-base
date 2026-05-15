@@ -49,6 +49,9 @@ This raises the question of whether the same playbook was applied to other witne
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - [[rick-doty]] — the OSI operative who ran the disinformation campaign against him
 - [[project-beta]] — Greg Bishop's book documenting the psyop
 - [[greg-bishop]] — the researcher who documented his case

@@ -19,3 +19,4 @@ Dr. [[lincoln-lapaz|Lincoln LaPaz]] of the University of New Mexico investigated
 - [[edward-ruppelt]] — Blue Book head; documented the fireballs
 - [[los-alamos]] — primary observation site
 - [[simulation-theory]] — [[riz-virk|Riz Virk]]: nuclear detonations may rupture simulation layers; fireballs as response
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]

@@ -42,6 +42,7 @@ The project's three research tracks:
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[avi-loeb]] — founder; the project is his institutional vehicle
 - [[eric-weinstein]] — joined the project; contributes to UAP physics speculation
 - [[nasa]] — NASA's independent UAP study team represents a parallel institutional response; the Galileo Project is deliberately independent of government

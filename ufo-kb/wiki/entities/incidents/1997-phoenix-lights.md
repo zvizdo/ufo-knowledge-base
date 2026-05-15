@@ -1,11 +1,11 @@
 ---
 type: entity
 summary: "March 13, 1997 mass sighting over Arizona of a massive boomerang-shaped craft flying silently over populated areas; witnessed by Governor Fife Symington (who initially mocked then confirmed); covered by James Fox in 'The Phenomenon.'"
-sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md, raw/youtube-transcripts/hBrfe4hFuM0.md]
+sources: [raw/youtube-transcripts/bVhSPH2A5Vw.md, raw/youtube-transcripts/hBrfe4hFuM0.md, raw/youtube-transcripts/3yrKVu35uSE.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: 1997 Phoenix Lights
 date: 1997-03-13
 location: Arizona (Phoenix and surrounding areas)
-witnesses: [fife-symington, multiple-civilian-witnesses, hospice-workers-group, kurt-russell, vietnam-vet-videographer]
+witnesses: [fife-symington, multiple-civilian-witnesses, hospice-workers-group, kurt-russell, vietnam-vet-videographer, stacy-rhodes, luke-afb-pilot]
 craft_type: boomerang-shaped, estimated 1–2 miles across
 corroboration: multi-witness, official (sitting governor)
 tags: [phoenix-lights, arizona, 1997, mass-sighting, boomerang, fife-symington, silent]
@@ -37,6 +37,18 @@ A Vietnam veteran filmed the event from his rooftop on a tripod — high-quality
 
 [[kurt-russell]], American actor and licensed pilot, was flying into Phoenix with his son when the object flew in. He described it as so large that he felt he "could land his airplane on it." His pilot's perspective provides an airborne scale assessment that corroborates the extraordinary dimensions described by ground witnesses.
 
+## Stacy Rhodes — I-10 Ground Witness
+
+[[stacy-rhodes]] was on the I-10 when the craft passed overhead. She described it as **gunmetal black** — a solid material surface, not merely a pattern of lights. To gauge its size, she held a newspaper up against the craft and could not see beyond the object's edges. Her account is included in [[the-program-fox]] (released December 23, 2024).
+
+## Luke AFB Pilot — Had to Be Carried from Cockpit
+
+[[james-fox]] reports in [[3yrKVu35uSE]] that a pilot from [[luke-air-force-base]] who observed the Phoenix Lights from the air had such a severe physiological or psychological reaction to the encounter that he **had to be carried from his cockpit** after landing. This account, if verified, represents one of the most extreme documented physiological effects of a UAP close encounter on a trained military aviator.
+
+## Flares as Deliberate Diversion
+
+Fox and others have analyzed the official Air Force explanation — that the lights were military flares dropped near the Estrella Mountains — as a **deliberate diversion**. The flares explanation addresses a cluster of lights visible later in the evening, not the massive silent structured craft observed hours earlier by thousands of witnesses. The two events have distinct timing and character; conflating them allowed the official narrative to dismiss the primary sighting by addressing a secondary one.
+
 ## Governor Symington
 
 [[fife-symington]], then sitting Governor of Arizona, was a firsthand witness. In the aftermath, he held a press conference and brought out an aide dressed in an alien costume to mock the sightings — a classic debunking move. He reversed position years later, publicly confirming he had witnessed the craft himself and could not explain it.
@@ -55,5 +67,9 @@ Symington appeared on Larry King Live with [[james-fox]] and [[buzz-aldrin]] to 
 - [[emma-barwood]] — council woman; only elected official to call for investigation; footage confiscated in her name
 - [[kurt-russell]] — actor/pilot; airborne witness; scale estimate corroborates ground reports
 - [[men-in-black]] — footage confiscation via impersonation of Barwood's office
+- [[stacy-rhodes]] — I-10 witness; gunmetal black craft; newspaper size test; in The Program
+- [[the-program-fox]] — Stacy Rhodes account included; released December 23, 2024
+- [[3yrKVu35uSE]] — Fox/Rogan; Luke AFB pilot physiological reaction; flares-as-diversion analysis; Stacy Rhodes
 - [[hBrfe4hFuM0]] — source transcript; Barwood, Russell, MIB footage confiscation
 - [[bVhSPH2A5Vw]] — source transcript
+- Mentioned in [[h8vjx6-ZFvI]]

@@ -32,6 +32,7 @@ The organization has become Graves's primary platform for advocacy on aviation s
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[ryan-graves]] — founder
 - [[uap-aviation-safety]] — the concept this org exists to address
 - [[aaro]] — interface for the reports ASA collects

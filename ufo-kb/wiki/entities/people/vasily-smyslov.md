@@ -35,4 +35,5 @@ When Ilyumzhinov asked why he hadn't spoken in the 50 years since, the champion 
 - [[nhi-telepathic-communication]] — translucent entity with apparent ability to demonstrate future events
 - [[disclosure-narratives]] — 50-year suppression by fear of psychiatric institutionalization
 - [[credibility-frameworks]] — world chess champion claim; entirely hearsay through Ilyumzhinov
+- [[1997-ilyumzhinov-encounter]] — the encounter Smyslov privately confirmed; he approached Ilyumzhinov at the World Chess Championship banquet to ask "can we publish now?"
 - [[IFaXi-NrPV0]] — source

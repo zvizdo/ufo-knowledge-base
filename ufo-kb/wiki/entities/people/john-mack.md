@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Harvard Psychiatry Department chair who moved into anomalous-phenomena research (alien abductions) late in career, faced institutional censure, and is cited as a prototype for researchers who cross into forbidden territory."
-sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/C4rSj5Aum7w.md, raw/youtube-transcripts/_bM9eAtCOGw.md, raw/youtube-transcripts/areO7Mej44E.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/dzTZbSNsKV8.md]
+sources: [raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/8XD1ZiuhXoY.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/C4rSj5Aum7w.md, raw/youtube-transcripts/_bM9eAtCOGw.md, raw/youtube-transcripts/areO7Mej44E.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/QkuDvTFN7ms.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: John Mack
 aliases: [John E. Mack]
 roles: [researcher, other]
@@ -135,3 +135,5 @@ A recorded conversation between Mack and [[terence-mckenna]] is cited in [[0qlpp
 - [[chris-bledsoe]] — O'Connell's primary patient; the Mack lineage reaches Bledsoe's case
 - [[bM18PJY6_Zc]] — O'Connell as Mack's heir confirmed
 - Mentioned in [[Hc6pbG4wICA]]
+- Mentioned in [[QkuDvTFN7ms]] — [[jim-weiner]] attended Mack's Harvard-based support groups post-Fowler investigation; Mack administered psychiatric testing and found all Allagash subjects psychologically normal; Jim describes two camps in Mack's groups: "nuts and bolts" (seeking physical evidence, Jim and Charlie's orientation) and "consciousness/multi-dimensional" (viewing beings as benevolent uplifters); Jim reports Mack himself leaned toward the consciousness camp — consistent with his therapeutic mission of helping abductees reintegrate without fear
+- Mentioned in [[h8vjx6-ZFvI]]

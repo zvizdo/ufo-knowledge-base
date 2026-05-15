@@ -1,7 +1,8 @@
 ---
 type: concept
-summary: "The Schumer-Rounds UAP Disclosure Amendment (2023) proposed a UAP Records Review Board modeled on the JFK Records Act — mandating declassification of UAP-related government records within a fixed timeframe. It passed the Senate but was significantly weakened in final legislation."
+summary: "The Schumer-Rounds UAP Disclosure Amendment (2023) proposed a UAP Records Review Board modeled on the JFK Records Act — mandating declassification of UAP-related government records within a fixed timeframe, with eminent domain provisions for contractor-held material. It passed the Senate but eminent domain and mandatory declassification enforcement were stripped in conference."
 tags: [legislation, disclosure, uap, senate, ufo-policy]
+sources: [raw/youtube-transcripts/R8TqBrrqL4U.md]
 ---
 
 # Schumer-Rounds UAP Disclosure Amendment
@@ -14,6 +15,7 @@ The amendment's fate is itself evidence in the [[disclosure-narratives]] debate:
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[chris-mellon]] — primary advocate; characterized the weakening as deliberate obstruction
 - [[mike-turner]] — House Intelligence Chair who was instrumental in weakening the amendment
 - [[controlled-disclosure]] — the amendment's failure supports the thesis that disclosure is managed by actors resistant to legislative override
@@ -21,3 +23,4 @@ The amendment's fate is itself evidence in the [[disclosure-narratives]] debate:
 - [[ufo-disclosure-pathways]] — the legislative pathway for disclosure; this amendment is the paradigm case of its limits
 - [[deep-state-continuity]] — the stripping of contractor provisions is consistent with protecting the private-sector secrecy layer Sheehan describes
 - [[ben-rich]] — Skunk Works-type contractors are exactly the entities the original amendment would have subjected to records review
+- Mentioned in [[dre-5Zy4f7c]]

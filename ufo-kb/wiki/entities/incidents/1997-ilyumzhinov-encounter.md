@@ -80,4 +80,5 @@ The most institutionally significant public contactee claim in the post-Cold War
 - [[nhi-critical-mass-strategy]] — NHI explicitly stated they are building critical mass of contactees
 - [[boris-yeltsin]] — debriefed and acknowledged
 - [[vladimir-putin]] — debriefed; neutral response
+- [[vasily-smyslov]] — world chess champion who approached Ilyumzhinov at the World Chess Championship banquet to privately confirm the alien encounter and ask "can we publish now?"; Smyslov had suppressed his own encounter for 50 years
 - [[IFaXi-NrPV0]] — source

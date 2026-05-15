@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "US intelligence official who created the organisational structure under which AARO operates; was also a board director of Battelle Memorial Institute (later scrubbed from LinkedIn) and connected to the Carlyle Group — suggesting AARO was structured for suppression."
-sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
+sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md, raw/youtube-transcripts/9gLPtRwXgCM.md]
 name: Ronald Moltrie
 aliases: []
 roles: [official]
@@ -32,3 +32,4 @@ The Moltrie/Battelle connection, if accurately characterised, would mean that th
 - [[ufo-secrecy-cabal]] — Moltrie as a link between AARO's institutional design and legacy-program FFRDCs
 - [[u7g5Sn1DJF4]] — source
 - [[uap-gerb]] — cited this connection
+- Mentioned in [[9gLPtRwXgCM]] — denied knowledge of Echo Flight ICBM shutdown at 2023 Congressional UAP hearing when asked by [[mike-gallagher]]; Elizondo disputed this on air while holding the actual declassified report

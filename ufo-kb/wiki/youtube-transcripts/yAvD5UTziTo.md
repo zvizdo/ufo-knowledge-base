@@ -61,7 +61,7 @@ Blitch devotes significant time defending hypnotic regression against troll crit
 - [[buzz-aldrin]] — reportedly told his sister he saw foo fighters in Korea and UFOs en route to the Moon; nearly agreed to be filmed by [[james-fox]] before backing out
 - [[james-fox]] — UFO documentarian; pursued [[buzz-aldrin|Buzz Aldrin]] across the world including Monaco
 - [[richard-hoagland]] — face-on-Mars, Cydonia; Blitch notes his work on Maxwell's equations extension is being vindicated
-- [[joseph-mcmoneagle]] — remote viewed Mars "a million years ago," claimed to see pyramids; now receives photos from JPL scientists of anomalous structures
+- [[joe-mcmoneagle]] — remote viewed Mars "a million years ago," claimed to see pyramids; now receives photos from JPL scientists of anomalous structures
 - [[john-brandenberg]] — isotopic ratio evidence for nuclear detonation on Mars; Blitch finds his argument compelling
 - [[carl-wolf]] — USAF Senior Airman at Langley shown photos of structures on the dark side of the Moon; "hit by a semi" on his bike; Blitch finds him credible
 - [[paul-benowitz]] — AFOSI arguably instrumental in driving him to suicide; cited as an example of the cabal's willingness to harm U.S. citizens
@@ -286,7 +286,7 @@ The 2013 Fort Collins incident differs from the 1995 Daniels Park missing-time e
 - [[buzz-aldrin]] — reportedly told sister about foo fighters in Korea and UFOs en route to Moon; nearly agreed to be filmed by James Fox
 - [[james-fox]] — documentarian; pursued Aldrin to Monaco; Blitch knows him through UFO research network
 - [[richard-hoagland]] — face-on-Mars/Cydonia; extended Maxwell's equations work Blitch says is now being validated
-- [[joseph-mcmoneagle]] — remote viewed Mars "a million years ago"; claimed pyramids; receives anomalous JPL scientist photos
+- [[joe-mcmoneagle]] — remote viewed Mars "a million years ago"; claimed pyramids; receives anomalous JPL scientist photos
 - [[john-brandenberg]] — isotopic ratio evidence for Martian nuclear detonation; compelling to Blitch
 - [[carl-wolf]] — USAF airman shown Moon dark-side structure photos; killed by semi on bike; Blitch finds him credible
 - [[paul-benowitz]] — AFOSI arguably drove him to suicide; evidence of cabal willingness to harm U.S. citizens to suppress disclosure

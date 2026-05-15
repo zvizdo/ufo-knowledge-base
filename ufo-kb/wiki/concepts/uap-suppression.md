@@ -33,3 +33,9 @@ UAP suppression refers to the systematic and deliberate concealment of UAP evide
 - [[whistleblower-protection-gap]] — the structural inadequacy protecting UAP whistleblowers
 - [[robertson-panel]] — 1953 CIA panel that institutionalized debunking policy
 - [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett identifies Trump as 'enemy number one' with the UAP secrecy faction; theatrical disclosure prediction
+- Mentioned in [[dos-uap-d5-cable-5-mexico-2003-09]] — US Embassy routed Mexico UAP legislative hearing to NSC/WH/VP/CIA/DIA/DNI/DHS; US government treating foreign UAP legislation as a foreign policy and national security matter
+- Mentioned in [[usaf-1948-11-netherlands-flying-saucers-intel-report]] — USAFE 14 distributed to CIA (Item 14 specifically); Swedish lake crash salvage findings held within classified USAF intelligence chain; same infrastructure that would formalize suppression by 1950
+- Mentioned in [[dos-uap-d4-cable-4-turkmenistan-2004-11]] — UNCLASSIFIED civil society cable routed to CIA/DIA/NSC/USCENTCOM/SECDEF; same distribution as national security intelligence; UAP airspace content likely triggered elevated routing
+- Mentioned in [[dos-uap-d3-cable-3-georgia-2001-10]] — Russia weaponizes "UFO" as a deniability tool for confirmed airspace violations; inverse of UAP stigma (discrediting the incident as inherently unidentifiable rather than discrediting witnesses)
+- Mentioned in [[fbi-september-2023-uap-sighting-us-transport-facility]] — primary witness said she "would not have reported it alone"; co-workers subsequently ridiculed her; social suppression operating even inside a formal investigation context
+- Mentioned in [[western-us-event-slides-2023-incident-released-2026-05-08]] — 2023 incident by federal law enforcement; AARO-engaged; slides released ~3 years post-incident (2026-05-08)

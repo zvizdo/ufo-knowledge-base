@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "DIA analyst who co-founded AAWSAP and visited Skinwalker Ranch; co-authored Skinwalkers at the Pentagon, the partially declassified account of AAWSAP's ranch investigations."
-sources: [raw/youtube-transcripts/7W7iOt57fOo.md]
+sources: [raw/youtube-transcripts/7W7iOt57fOo.md, raw/youtube-transcripts/9gLPtRwXgCM.md]
 name: James Lacatski
 aliases: [Lacatski]
 roles: [official, researcher]
@@ -23,6 +23,10 @@ Lacatski is described as the government official whose personal encounter at Ski
 
 Co-authored [[skinwalkers-at-the-pentagon]] with [[colm-kelleher]] and [[george-knapp]]. The book is notable as a partially declassified insider account of AAWSAP's findings — including the **hitchhiker effect** (phenomena following investigators home), the range and severity of biological effects on ranch personnel, and the broader theoretical framework the program developed for understanding the multi-phenomenon environment.
 
+## Recruiting Elizondo into AATIP (2009)
+
+[[lue-elizondo]] describes Lacatski as the person who conducted his pivotal first interview in early 2009, bringing him into the classified UAP program. Lacatski asked Elizondo: *"What do you think about UFOs?"* When Elizondo said he didn't think about them, Lacatski replied: **"Don't let your personal bias get the best of you, because what you may learn may surprise you and may challenge any preconceived notion of what you think something is or is not."** Elizondo describes Lacatski at this point as "probably the number one rocket scientist in the US government." The initial meeting took place at an undisclosed DC-area facility whose location Elizondo was subsequently told by the Pentagon not to name publicly.
+
 ## Connections
 
 - Mentioned in [[1f16VvXaSSE]]
@@ -36,3 +40,4 @@ Co-authored [[skinwalkers-at-the-pentagon]] with [[colm-kelleher]] and [[george-
 - [[hitchhiker-effect]] — documented in the book as one of AAWSAP's most disturbing findings
 - [[credibility-frameworks]] — DIA insider with direct program access; firsthand experience; constrained by classification
 - Mentioned in [[Hc6pbG4wICA]]
+- Mentioned in [[9gLPtRwXgCM]] — recruited Elizondo; described as "probably the number one rocket scientist in the US government"

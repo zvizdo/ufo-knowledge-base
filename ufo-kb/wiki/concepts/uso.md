@@ -26,9 +26,12 @@ Unidentified Submerged Objects (USOs) are the underwater counterpart to aerial U
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[water-world-ufo-habitat]] — the hypothesis that USOs indicate ocean-based NHI presence
 - [[1977-hmnzs-southland-uso]] — the RNZN sonar contact cited as most anomalous by Knuth
 - [[2004-nimitz-tic-tac]] — established trans-medium operation for modern military UAP case
 - [[richard-dolan]] — documented historical USO reports in naval records
 - [[uso-em-interference]] — electromagnetic effects associated with USO encounters
 - [[uso-ocean-portals]] — the portal/base variant of USO hypothesis
+- Mentioned in [[9gLPtRwXgCM]]
+- Mentioned in [[dre-5Zy4f7c]]

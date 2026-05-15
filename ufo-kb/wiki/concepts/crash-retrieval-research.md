@@ -78,6 +78,7 @@ Additional Davis claims from [[xnxasfyHtfo]]:
 - [[1965-kecksburg]] — core documented case
 - [[ufo-secrecy-cabal]] — classification infrastructure that conceals retrieval programs
 - [[dia]] — Defense Intelligence Agency; funded AAWSAP; received Eric Davis technical reports on UAP reverse engineering
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — Hoover's handwritten disc-access demand (Bureau Bulletin No. 42) and the Newton/Koehler Mojave occupant claim (January 1950, 18 three-foot occupants) are primary-source FBI documentation of the retrieval narrative from 1947–1950
 - [[recurring-claims]] — crash retrieval as a high-frequency claim category
 - [[eric-davis]] — most operationally specific insider account of corporate custodians
 - [[trw]] — principal contractor for crash retrieval programs ~1960–1989
@@ -100,3 +101,4 @@ Additional Davis claims from [[xnxasfyHtfo]]:
 - [[john-blitch]] — independently endorses the crash-retrieval canon; proposes radar as the causal mechanism
 - Mentioned in [[LpLFWdsIU7M]]
 - [[day-after-roswell]] — Corso's published account of the recovered-material program; primary text for the desk-officer-handling claim
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]

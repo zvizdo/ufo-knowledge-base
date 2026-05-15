@@ -15,7 +15,7 @@ firsthand_claims:
   - Eyewitness testimony — including fighter pilots — is insufficient for scientific papers; only instrument-grade data counts
 first_seen_in: IWui5cBkwoE
 tags: [uap-science, academia, oumuamua, galileo-project, lightsail, interstellar, fermi-paradox, harvard]
-sources: [raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/_bM9eAtCOGw.md, raw/youtube-transcripts/wlsQIbpEKSM.md]
+sources: [raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/_bM9eAtCOGw.md, raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 ---
 
 # Avi Loeb
@@ -90,6 +90,7 @@ A characteristic Loeb position: sending 30 grams of Clyde Tombaugh's ashes on th
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[galileo-project]] — organization he founded; primary institutional vehicle
 - [[2017-oumuamua]] — the interstellar object that catalyzed his entry into the topic
 - [[interstellar-probe-hypothesis]] — his model: AI-equipped probes, not biological beings
@@ -108,3 +109,4 @@ A characteristic Loeb position: sending 30 grams of Clyde Tombaugh's ashes on th
 - [[vera-rubin-observatory]] — [[wlsQIbpEKSM]] discusses how Rubin will discover ~50 interstellar objects during its run; Loeb's 'Oumuamua framework (alien artifact hypothesis) applies directly to every new interstellar object Rubin detects; Pentagon filter over all Rubin imagery means the most anomalous objects would be screened before reaching scientists
 - [[carl-gilmore]] — fellow Caltech-adjacent astronomer; was working on Rubin before his murder; his work on exoplanet biosignature detection and interstellar object tracking is adjacent to Loeb's research agenda
 - [[wlsQIbpEKSM]] — cited for 'Oumuamua context and Vera Rubin Observatory's interstellar detection potential; Loeb's "scout or messenger from far away" framing quoted
+- Mentioned in [[h8vjx6-ZFvI]]

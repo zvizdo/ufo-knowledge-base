@@ -33,7 +33,10 @@ This statement implies:
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
 - [[aaro]] — institutional descendent of the reporting mandate that his tenure helped enable
 - [[marco-rubio]] — fellow actor in the 2020–21 period of institutional UAP acknowledgment
 - [[disclosure-narratives]] — his statements are a data point in the "genuine revelation" vs. "controlled disclosure" debate
 - [[credibility-frameworks]] — as DNI, his statements carry the highest institutional credibility weight of any UAP-acknowledging official in the modern era
+- Mentioned in [[9gLPtRwXgCM]]

@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Pioneering remote viewer and Church of Scientology operative who was simultaneously a top talent in the ONI/CIA remote-viewing program and a spy reporting its activities back to Scientology's Guardian's Office."
-sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
+sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/vZEcVY2iZsk.md, raw/youtube-transcripts/OwrDI7GvenQ.md]
 name: Ingo Swann
 aliases: [Ingo Swan]
 roles: [researcher, other]
@@ -94,3 +94,7 @@ Swann also remote-viewed **Mars** (independently of [[joe-mcmoneagle]]'s 1984 CI
 - [[JGE1NIGhBzw]] — Carlson cites *Penetration* as entry point; confirms CIA Stargate connection
 - [[JpLThEF2dTM]] — McMoneagle's assessment that *Penetration* is fabricated; personal dinner anecdote
 - [[vZEcVY2iZsk]] — JRE #2288 (2025-03-12); Vallée describes working directly with Swann for ~1 year in structured RV sessions; Swann was an artist from New York, uncomfortable in California; coordinate RV system developed via Vallée's computer-addressing analogy; Swann located a Russian spacecraft in an African jungle via RV for CIA
+- Mentioned in [[OwrDI7GvenQ]] — trained the six CRV-method viewers used in Project 8200 (Pat Price UFO-base re-validation); Atwater asked Hal Puthoff whether to trust Swann's account of a ground-level UFO encounter he witnessed by sneaking over a mountain; Puthoff: "Ingo will never lie. He'll have mistakes, but if he says he was there, he was there."
+- [[skip-atwater]] — Atwater's Stargate team included Swann-trained CRV viewers for Project 8200; Atwater sought Puthoff's reliability assessment of Swann's UFO encounter claim
+- Mentioned in [[Gf_tKn9TaP8]] — Puthoff on JRE retells the full Backster cocktail-party chain, the 1972 quark-detector session, Swann's accurate internal schematic, the Jupiter-ring viewing before the NASA flyby, and Swann's submarine-depth viewing that ruled out ELF EM as the psi carrier
+- [[1972-sri-quark-detector-session]] — Founding event for the Stargate program; Swann was the subject

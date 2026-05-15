@@ -48,6 +48,8 @@ Whether the crash was caused by the "Harry" detonation or was coincidental timin
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
 - [[arthur-stansel]] — Primary eyewitness; calculated impact velocity
 - [[eric-wang]] — Head of Special Studies at Wright-Patterson; analyzed the recovered craft
 - [[henry-kissinger]] — Alleged director of the program Wang reported to

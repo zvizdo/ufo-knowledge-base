@@ -1,14 +1,14 @@
 ---
 type: entity
 summary: "November 2004 encounter off the coast of Southern California during USS Nimitz carrier group operations; Commander David Fravor and three other aviators observed and attempted to intercept a white Tic-Tac shaped object; FLIR footage was recorded by a separate crew."
-sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/jMCavr3dVP0.md]
+sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/jMCavr3dVP0.md, raw/youtube-transcripts/h8vjx6-ZFvI.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/qAou_h1POWs.md]
 name: 2004 Nimitz Tic-Tac Encounter
-date: 2004-11
-location: Pacific Ocean, off the coast of Southern California
-witnesses: [david-fravor, vfa-41-black-aces]
-craft_type: Tic-Tac (white, approximately 40 ft, no wings or exhaust)
+date: "2004-11-14"
+location: Pacific Ocean, off the coast of Southern California (~100 miles SW of San Diego)
+witnesses: [david-fravor, alex-dietrich, vfa-41-black-aces]
+craft_type: Tic-Tac (white oblong, approximately 40 ft, no wings or exhaust)
 corroboration: multi-witness, instrumented (FLIR footage, Princeton radar track)
-tags: [nimitz, tic-tac, navy, 2004, flir, multi-witness, fravor, radar-confirmation]
+tags: [nimitz, tic-tac, navy, 2004, flir, multi-witness, fravor, radar-confirmation, aatip, most-documented]
 ---
 
 # 2004 Nimitz Tic-Tac Encounter
@@ -31,6 +31,14 @@ Three additional aviators corroborated Fravor's sighting.
 
 The FLIR footage was eventually declassified and released by the Pentagon in April 2020. The encounter is the central reference point for [[marik-von-rennenkampff]]'s pro-anomaly position and the entry case that converted him from skepticism. [[mick-west]] considers the FLIR1 footage somewhat more explainable than Gimbal but acknowledges the overall case is the most substantive in the modern record.
 
+## "Conscious Craft" Description (dzTZbSNsKV8)
+
+[[garry-nolan]] relays Fravor's description of the Tic-Tac's behavior in [[dzTZbSNsKV8]]:
+
+> *"Looking at the UFO and it's almost as if the thing sees that he's looking at it and is conscious and almost breathing. They're all going against the wind. The wind's 120 knots west. But if there's a thing, it's rotating."*
+
+The craft's rotation against a 120-knot headwind eliminates aerodynamic explanations; the apparent awareness of being observed adds the possibility of biological rather than mechanical propulsion. Nolan uses this as evidence for the hypothesis that some UAP are biological entities rather than technological craft.
+
 ## Plasma Hypothesis Analysis (Eric Haseltine)
 
 In [[jMCavr3dVP0]], [[eric-haseltine]] (NSA Director of Research, developed free-air plasma voxel displays at Disney) specifically assesses the plasma hypothesis for the Nimitz Tic Tac:
@@ -42,6 +50,7 @@ In [[jMCavr3dVP0]], [[eric-haseltine]] (NSA Director of Research, developed free
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[david-fravor]] — primary witness and commanding officer
 - [[vfa-41-black-aces]] — Fravor's squadron
 - [[tic-tac]] — the craft-type named after this encounter
@@ -51,5 +60,18 @@ In [[jMCavr3dVP0]], [[eric-haseltine]] (NSA Director of Research, developed free
 - [[ufo-nuclear-nexus]] — proximity to Point Mugu Naval Air Weapons Station and California nuclear infrastructure is noted in some analyses
 - [[eric-haseltine]] — assessed plasma hypothesis; concluded it doesn't account for visual signature; "something real going on there"
 - [[jMCavr3dVP0]] — source for Haseltine plasma analysis
+- [[alex-dietrich]] — co-witness with Fravor on the initial intercept sortie
+- [[aatip]] — Lue Elizondo's program; Nimitz Tic-Tac was the central exhibit
+- [[lue-elizondo]] — AATIP program director; this case drove his disclosure advocacy
+- [[2017-nyt-uap-story]] — Fravor's account was the centerpiece of the NYT story that triggered the modern disclosure era
+- [[avi-loeb]] — cites Fravor's account as credible but insufficient for a scientific paper; instruments required, not testimony alone
+- [[deep-prasad]] — cites Tic-Tac at 31× speed of sound with no sonic boom as the primary example of [[macroscopic-quantum-uap]]
+- [[macroscopic-quantum-uap]] — Tic-Tac's no-signature hypersonic travel is the canonical evidence for this concept
+- [[five-observables]] — Tic-Tac multi-instrumentally demonstrates at least observables 1 and 2
+- [[garry-nolan]] — relays Fravor's "conscious and almost breathing" description; uses it as evidence for UAP-as-biological-entity
+- [[dzTZbSNsKV8]] — source; Nolan relays Fravor's conscious craft description and 120-knot rotation detail
+- [[qAou_h1POWs]] — source; Prasad uses Tic-Tac as central physics argument for macroscopic quantum phenomena
 - Mentioned in [[BEWz4SXfyCQ]]
 - Mentioned in [[Hc6pbG4wICA]]
+- Mentioned in [[dre-5Zy4f7c]]
+- Mentioned in [[h8vjx6-ZFvI]]

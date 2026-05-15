@@ -82,3 +82,5 @@ The Flight Dynamics Laboratory at Wright-Patterson produced the official post-te
 - [[dallas-hardwick]] — embedded at AFRL Materials Directorate through 2012; Mandeloy co-inventor
 - [[sapoc]] — McCasland was executive secretary before commanding AFRL; formal oversight body for all Pentagon SAPs
 - [[wlsQIbpEKSM]] — source; McCasland's career and Mandeloy context
+
+- Mentioned in [[usaaf-1949-flying-discs-box186-incident-reports]]

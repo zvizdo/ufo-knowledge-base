@@ -88,7 +88,7 @@ On quantum cryptography: RSA encryption (backbone of banking, messaging, online 
 - [[dark-ice-magnetometer]] — Lockheed device derived from quantum biology; cited as proof-of-concept
 - [[quantum-biology]] — cry4/cryptochrome connection; Lockheed magnetometer; quantum brain discussion
 - [[cellular-automata-uap-theory]] — his "lunatic theory" of UAP sightings as civilizational automata
-- [[2004-tic-tac-nimitz]] — primary observable cited; 31× sound speed with no sonic boom
+- [[2004-nimitz-tic-tac]] — primary observable cited; 31× sound speed with no sonic boom
 - [[simulation-theory]] — cellular automata/multiverse as information bookkeeping; tangentially related
 - [[stigma-weaponization]] — cites social pressure as deterrent for intelligent people studying UAP
 - [[disclosure-narratives]] — 10-year prediction of NHI consensus; scientific method reform as prerequisite

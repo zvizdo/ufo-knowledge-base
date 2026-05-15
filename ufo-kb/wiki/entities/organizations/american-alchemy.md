@@ -54,6 +54,8 @@ Long-form interview format; typically 1.5–3 hours per episode. Michaels brings
 - [[source-type-frameworks]] — Cultural source type; the raw import material
 - [[disclosure-narratives]] — the podcast's editorial frame
 - [[credibility-frameworks]] — the show explicitly applies source credibility analysis as its editorial frame; Michaels's triage approach across all episodes is a core application of the credibility framework
+- [[ufo-nuclear-nexus]] — one of the most frequently recurring themes across American Alchemy episodes; episodes on Salas, Malmgren, Hastings, Elizondo, Michaels's own explainers, and others collectively form the largest single-corpus treatment of the nuclear-UAP pattern in this KB
 - [[david-grusch]] — the most consequential single source in the American Alchemy corpus; kRO5jOa06Qw covers his congressional testimony and personal background in depth
 - [[index]] — full episode index for all imported transcripts
 - Mentioned in [[u7g5Sn1DJF4]]
+- [[hal-puthoff]] — major multi-episode subject; discussed across at least 6 episodes covering Stargate origins, Zanesville metal, AATIP metric engineering, Three-Body Problem NSC disclosure exercise, and Skinwalker SCIF silence

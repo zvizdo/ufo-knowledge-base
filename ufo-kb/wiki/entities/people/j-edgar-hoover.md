@@ -7,6 +7,8 @@ tags: [official, fbi, roswell]
 aliases: []
 roles: [other]
 firsthand_claims: []
+sources:
+  - raw/documents/fbi-62-hq-83894-ufo-investigations-1947-1968.md
 ---
 
 # J. Edgar Hoover
@@ -27,3 +29,4 @@ The FBI maintained an active UFO investigation file from 1947 through the 1950s,
 - [[mk-ultra]] — FBI and CIA programs run in parallel under Hoover; the institutional infrastructure for both secrecy systems
 - [[jfk-assassination-ufo]] — Hoover's FBI had files on Oswald before the assassination; his cooperation in the [[warren-commission]] investigation was constrained by his prior knowledge
 - [[deep-state-continuity]] — Hoover's 48-year tenure is the institutional backbone of the continuous domestic intelligence infrastructure
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — Hoover's handwritten annotation on Bureau Bulletin No. 42 demanding disc access is the file's most significant primary-source claim

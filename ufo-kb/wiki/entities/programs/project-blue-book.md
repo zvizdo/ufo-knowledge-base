@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "USAF's official UFO investigation program (1952–1969); publicly the Air Force's face on UFO issues while a deeper, parallel investigation of nuclear-site incidents occurred separately."
-sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/5udx_SDdL3Y.md]
+sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: Project Blue Book
 aliases: [Blue Book]
 parent_org: united-states-air-force
@@ -82,3 +82,11 @@ Full account: [[1977-sheehan-blue-book-photos]]
 - [[william-coleman]] — USAF Colonel who had a personal UAP encounter while flying a B-55 over Alabama, then became Project Blue Book's public spokesman
 - [[credibility-frameworks]] — Blue Book is the canonical case study for institutionalized credibility suppression: the program's own files contained classified evidence it publicly dismissed
 - Mentioned in [[vZEcVY2iZsk]]
+- Mentioned in [[9gLPtRwXgCM]]
+- Mentioned in [[h8vjx6-ZFvI]]
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]
+
+- Mentioned in [[usaaf-1949-flying-discs-box186-incident-reports]]
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]
+- Mentioned in [[usaf-1955-10-azerbaijan-unconventional-aircraft]] — IR 193-55 predates Blue Book's 1966 closure; this Top Secret NOFORN disc report was exactly the type of case Blue Book was not designed to handle
+- Mentioned in [[dow-1945-03-shaef-foo-fighters-german-armament]] — WWII foo fighter reports (1945) are the pre-Blue Book institutional investigation; Robertson and Alvarez worked this file then chaired the Robertson Panel that shaped Blue Book's debunking mandate

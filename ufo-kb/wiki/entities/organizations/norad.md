@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "North American Aerospace Defense Command — bi-national US/Canada command responsible for aerospace warning, aerospace control, and maritime warning. Tracks all airborne objects over North America, including UAP, through its network of radar installations."
-sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
+sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: NORAD
 aliases: [North American Aerospace Defense Command]
 type: gov-agency
@@ -30,3 +30,4 @@ NORAD's classified "uncorrelated target" lists — referenced in the [[1zRWi_r3H
 - [[astronomical-data-suppression]] — NORAD's uncorrelated target lists are one mechanism of UAP data filtering
 - [[beatriz-villarroel]] — referenced Space Force/NORAD-type filtering in [[1zRWi_r3HRM]] episode
 - [[aaro]] — notionally receives reports from NORAD-type systems; in practice the data handoff is unclear
+- Mentioned in [[h8vjx6-ZFvI]]

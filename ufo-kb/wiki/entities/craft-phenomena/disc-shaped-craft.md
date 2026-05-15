@@ -36,3 +36,5 @@ The disc shape is aerodynamically stable for certain propulsion hypotheses (magn
 - [[phenomenology-categories]] — disc shape as a recurring phenomenological category
 - [[reverse-engineered-craft]] — disc form appears in reverse-engineering claims
 - [[craft-phenomena]] — parent category
+- Mentioned in [[fbi-germany-1957-krasuski-circular-vertical-object]] — 1944 Gut Alt Golssen: ~75-100 yard diameter circular craft with rotating mid-section and vertical takeoff; WWII-era disc prototype with EM vehicle-interference signature
+- Mentioned in [[usaf-1955-10-azerbaijan-unconventional-aircraft]] — Senator Russell and two Senate Armed Services Committee staff observed two circular disc aircraft in Azerbaijan USSR (1955): outer surface revolving clockwise, stationary interior lights near top, sparks/flame from bottom; USAIRA B-2

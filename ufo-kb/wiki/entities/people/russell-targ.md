@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Laser physicist and parapsychology researcher who co-founded the Stanford Research Institute (SRI) remote viewing program with Hal Puthoff. Co-author of the key peer-reviewed remote viewing papers and a central figure in the Stargate Program's scientific legitimacy."
-sources: [raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
+sources: [raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/vZEcVY2iZsk.md, raw/youtube-transcripts/OwrDI7GvenQ.md]
 name: Russell Targ
 aliases: []
 roles: [researcher]
@@ -58,3 +58,7 @@ A detail surfaced by [[chris-ramsey]] in [[h3u8EkGI8OQ]]: before co-founding the
 - [[h3u8EkGI8OQ]] — source where Ramsay details Targ's magician background
 - [[2SQXAPCdmPE]] — Sheehan identifies Targ as Pat Price's facilitator for the CIA facility and submarine remote viewing sessions documented in the Scientology files
 - [[vZEcVY2iZsk]] — Vallée describes working alongside Targ (and Puthoff) at SRI; the coordinate remote viewing system developed partly via Vallée's computer-addressing analogy; Ingo Swann used CRV to locate a Russian spacecraft in an African jungle for the CIA
+- Mentioned in [[OwrDI7GvenQ]] — co-author of *Mind Reach* (the book that triggered Atwater's entry into remote viewing); investigated Pat Price's death; discovered the unmarked grave and confirmed details with Price's wife; found the 75-year retroactive validation of Price's Menlo Park sewage plant session
+- [[skip-atwater]] — Atwater credits Targ and Puthoff's *Mind Reach* book as the origin of his RV threat framing; Targ came to Fort Meade to evaluate viewer candidates
+- [[sugar-grove-naval-station]] — present at SRI during the "Awakening" moment created by Price's off-target session
+- [[pat-price]] — Targ investigated Price's death; discovered the unmarked grave (marker "155") via Price's wife's account

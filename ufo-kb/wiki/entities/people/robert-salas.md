@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "USAF missile launch officer and primary firsthand witness to the 1967 Oscar Flight UFO/missile-shutdown incident at Malmstrom AFB; leading public advocate for the UFO-nuclear connection."
-sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/h0hAit-KH9A.md]
+sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/h0hAit-KH9A.md, raw/youtube-transcripts/3yrKVu35uSE.md]
 name: Robert Salas
 aliases: [Bob Salas, First Lieutenant Robert Salas]
 roles: [witness, whistleblower, researcher]
@@ -32,6 +32,10 @@ Salas served three years at Malmstrom. He and his crew commander [[fred-maywald]
 - A [[wall-street-journal]] article (2024) by [[joel-shectman]], sourced from [[sean-kirkpatrick]], claimed a non-nuclear EMP test device caused the shutdown; Salas wrote a 14-point rebuttal. The cited EMP model was not operational until 1971–73.
 - He is aware of witnesses who cannot go public due to NDAs and fear of career/life consequences.
 - Trusts a classmate's claim of having flown a reverse-engineered craft; treats this as confirmation of [[reverse-engineered-craft]].
+
+## James Fox on Malmstrom
+
+In [[3yrKVu35uSE]] (Joe Rogan, December 2024), [[james-fox]] described the UAP nuclear-shutdown incidents in visceral terms: **"It was like taking matches out of the hand of a baby."** Fox used this framing to characterize how effortlessly the UAP neutralized US strategic nuclear forces — and to argue the event should have been the defining moment of modern UAP history but was instead suppressed.
 
 ## Sources Where They Appear
 

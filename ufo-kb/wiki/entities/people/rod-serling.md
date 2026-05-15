@@ -6,7 +6,7 @@ aliases: []
 roles: [other]
 affiliations: []
 firsthand_claims: []
-sources: []
+sources: [raw/youtube-transcripts/dre-5Zy4f7c.md]
 first_seen_in: raw/youtube-transcripts/tS_64sTN5AU.md
 tags: [twilight-zone, ufo-documentary, cultural-transmission, mainstream-tv, jesse-michaels-godfather]
 ---
@@ -31,4 +31,4 @@ American screenwriter and television producer (1924–1975), creator of *The Twi
 - [[diana-pasulka]] — interviewer who surfaced the connection
 - [[cultural-transmission-of-ufo-narrative]]
 - [[credibility-frameworks]] — auto-added during 2026-05-03 maintenance pass for constitution compliance; verify and refine
-
+- Mentioned in [[dre-5Zy4f7c]]

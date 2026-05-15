@@ -34,3 +34,4 @@ Turner represents the institutional skeptic faction within Congress: not necessa
 - [[michael-herrera]] — identified Turner as gutting the eminent domain clause
 - [[ufo-secrecy-cabal]] — donor-conflict dynamic is consistent with captured legislators protecting legacy programs
 - [[D2tKCFmJjks]] — source
+- Mentioned in [[dre-5Zy4f7c]]

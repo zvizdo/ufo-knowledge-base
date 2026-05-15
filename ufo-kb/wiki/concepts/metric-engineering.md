@@ -26,3 +26,6 @@ The framework is the explicit theoretical bridge between mainstream GR and the p
 - [[physics-lockdown]] — synthesis page on classified-physics suppression
 - [[aatip]] — program that commissioned related literature surveys
 - [[recurring-claims]] — propulsion-as-engineerable-physics claims-thesis
+- [[joseph-of-cupertino]] — Puthoff's preferred historical clue for consciousness-mediated vacuum coherence; the 1628 levitation events sit in the same physics box as metric engineering, with ecstatic-state consciousness as the candidate access mechanism
+- [[zero-point-energy]] — Vacuum-fluctuation reservoir whose coherent access is the proposed engineering route
+- [[Gf_tKn9TaP8]] — Puthoff's most accessible popular-audience exposition of the left-column / right-column GR-to-UAP matching method

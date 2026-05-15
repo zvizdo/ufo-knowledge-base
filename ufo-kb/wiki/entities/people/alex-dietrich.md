@@ -21,7 +21,7 @@ Dietrich's account corroborates Fravor's description of a white, oblong, ~40-foo
 
 ## Connections
 
-- [[2004-tic-tac-nimitz]] — the incident she witnessed
+- [[2004-nimitz-tic-tac]] — the incident she witnessed
 - [[david-fravor]] — section lead; primary eyewitness alongside Dietrich
 - [[phenomenology-categories]] — CE1/CE2 encounter with instrumented corroboration
 - [[credibility-frameworks]] — career Navy pilot; multiple-witness corroboration; high credibility

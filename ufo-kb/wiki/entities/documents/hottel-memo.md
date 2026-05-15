@@ -1,7 +1,9 @@
 ---
 type: entity
 summary: "1950 FBI memo authored by agent Guy Hottel forwarding an Air Force officer's account of three crashed flying saucers recovered in New Mexico, each with a three-person humanoid crew; most-read FOIA document on the FBI website."
-sources: [raw/youtube-transcripts/TH10mD9hQas.md]
+sources:
+  - raw/youtube-transcripts/TH10mD9hQas.md
+  - raw/documents/fbi-62-hq-83894-ufo-investigations-1947-1968.md
 title: "Hottel Memo (Flying Saucers — Information Concerning)"
 authors: [guy-hottel]
 date: 1950-03-22
@@ -47,3 +49,4 @@ The memo's provenance is indirect — Hottel relays an account from "an investig
 - [[debunkers-as-atomic-insiders]] — key exhibit in the argument that UFO knowledge was actively suppressed via coercion of insiders
 - [[credibility-frameworks]] — FBI field agent authorship; institutional but single-remove sourcing
 - [[TH10mD9hQas]] — source where this is contextualized
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — Section 5's Newton/Koehler Mojave claim (January 1950, 18 three-foot occupants) is the antecedent to this March 1950 memo; both share the three-foot occupant-height detail from independent FBI-documented sources

@@ -42,6 +42,7 @@ From the [[WBTqsbwJyqU]] episode with Jesse Michaels:
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[project-beta]] — his defining work
 - [[rick-doty]] — the subject of his investigation; describes current Doty as "basically a troll who likes messing with people"
 - [[paul-benowitz]] — the victim of the operation he documented

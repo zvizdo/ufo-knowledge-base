@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Scientific Coalition for UAP Studies — a nonprofit organization of scientists, researchers, and engineers dedicated to rigorous empirical investigation of UAP. Advocates for peer-reviewed scientific engagement with UAP evidence."
-sources: []
+sources: [, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: Scientific Coalition for UAP Studies
 aliases: [SCU, SCUAP]
 type: research-group
@@ -23,8 +23,10 @@ Nonprofit scientific organization comprising physicists, engineers, and research
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[uap-camera-evasion-problem]] — SCU has published systematic analysis of UAP sensor evasion behavior
 - [[galileo-project]] — parallel scientific investigation effort; both aim at evidence-based UAP research
 - [[americans-for-safe-aerospace]] — adjacent advocacy organization operating in the same disclosure ecosystem
 - [[credibility-frameworks]] — peer-reviewed scientific analysis as a credibility tier between anecdote and government classification
 - [[disclosure-narratives]] — scientific-organization track of the disclosure sequence
+- Mentioned in [[h8vjx6-ZFvI]]

@@ -48,6 +48,7 @@ Wilson's account — if accurate — establishes that:
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[xnxasfyHtfo]] — source; summer 1997 Pentagon meeting; WOSAP detail; "hundreds of people"; non-human material; John Alexander and NNSA Las Vegas facilitation chain
 - [[john-alexander]] — facilitated the Wilson-Davis meeting via NNSA Las Vegas contacts
 - [[nnsa]] — NNSA Nevada site Director of Intelligence and Director of Counter-Intelligence (AFIO members) helped arrange the meeting

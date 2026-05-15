@@ -89,3 +89,5 @@ Greer's reasoning:
 - [[fyX8V1XXmQM]] — source; Vallée raises the Outer Limits connection as evidence for the cultural-filter thesis
 
 - Synthesized in [[mk-ultra-mind-control-ecosystem]]
+
+- Mentioned in [[QkuDvTFN7ms]] — [[raymond-fowler]] explicitly drew on the Hill investigation methodology when designing the Allagash regression protocol; [[jim-weiner]] and [[charlie-foltz]] discuss the Hills as the foundational prior case that established hypnotic regression as the primary investigative tool for abduction missing time

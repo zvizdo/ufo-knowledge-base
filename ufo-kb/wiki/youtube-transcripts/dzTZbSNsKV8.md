@@ -49,7 +49,7 @@ tags: [garry-nolan, metamaterials, basal-ganglia, uap-science, ubatuba, arts-par
 - [[1957-ubatuba-orb]] — fisherman witnessed a glowing orb explode off the Brazilian coast; collected magnesium fragments; isotope ratios anomalous
 - [[1947-roswell]] — the bismuth sample is alleged in grandfather's diary to originate from Roswell
 - [[1945-san-antonio-trinity-crash]] — in the closing exchange, Michaels asks Nolan about "Roswell 1947, Trinity that crash was 1945, where the sort of larger piece came from" — explicitly tying a separate larger Arts Parts–style sample to the 1945 Trinity crash and using it as the springboard for the "aliens interested in atom splitting" question
-- [[2004-tic-tac-nimitz]] — Fravor's "conscious craft" description
+- [[2004-nimitz-tic-tac]] — Fravor's "conscious craft" description
 
 ### Tech-Artifacts
 - [[arts-parts]] — bismuth-magnesium layered material; army officer/grandfather/Roswell; terahertz properties from Puthoff
@@ -92,7 +92,7 @@ tags: [garry-nolan, metamaterials, basal-ganglia, uap-science, ubatuba, arts-par
 - [[1957-ubatuba-orb]] — source for magnesium isotope ratio findings
 - [[invisible-college]] — Nolan's introduction to the network
 - [[basal-ganglia-uap-predisposition]] — genetic component and schizophrenia-transmitter model added
-- [[2004-tic-tac-nimitz]] — Fravor's "conscious craft" description
+- [[2004-nimitz-tic-tac]] — Fravor's "conscious craft" description
 - [[hal-puthoff]] — phone call provenance confirmation
 - [[jacques-vallee]] — materials collection network
 - [[1945-san-antonio-trinity-crash]] — the "larger piece" in Nolan's lab is sourced to the 1945 Trinity crash, framing the closing question about NHI interest in nuclear weapons

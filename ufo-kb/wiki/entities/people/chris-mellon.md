@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Former Deputy Assistant Secretary of Defense for Intelligence under Clinton and W. Bush; co-architect with Lue Elizondo of the 2017 NYT UAP story; represents the authorized government-insider disclosure pipeline."
-sources: [raw/youtube-transcripts/2SQXAPCdmPE.md]
+sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/9gLPtRwXgCM.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: Chris Mellon
 aliases: [Christopher Mellon]
 roles: [official, researcher]
@@ -41,6 +41,9 @@ This is significant for two reasons: (1) it corroborates Vallée's thesis that U
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - Mentioned in [[1f16VvXaSSE]]
 - [[lue-elizondo]] — primary collaborator; they jointly drove the 2017 media strategy
 - [[aatip]] — the program Mellon helped bring into public awareness via the NYT
@@ -56,3 +59,6 @@ This is significant for two reasons: (1) it corroborates Vallée's thesis that U
 - Mentioned in [[u7g5Sn1DJF4]]
 - Mentioned in [[Hc6pbG4wICA]]
 - [[vZEcVY2iZsk]] — JRE #2288 (2025-03-12); told Vallée there are high-resolution photographs and video of UAP but has not provided them; cited as source of Rogan's frustration with perpetual near-disclosure
+- Mentioned in [[9gLPtRwXgCM]] — Elizondo brought Mellon into the Pentagon to show him classified UAP videos; Mellon was angry at having previously been denied access as a senior official; Elizondo believes this sparked Mellon's Congressional disclosure advocacy
+- Mentioned in [[dre-5Zy4f7c]]
+- [[h8vjx6-ZFvI]] — primary guest on JRE #1645 (180 min); the episode's most comprehensive single-source account of Mellon's institutional analysis, Nimitz forensics, metamaterial handling, and proposed Office of Strategic Anomaly Resolution

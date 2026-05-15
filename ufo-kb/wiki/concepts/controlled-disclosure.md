@@ -58,6 +58,9 @@ Per Sheehan's account, the genuinely undisclosed material includes:
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - [[disclosure-narratives]] — controlled disclosure is one model within the broader taxonomy of how UAP truth is/isn't being released
 - [[ufo-secrecy-cabal]] — the institutional structure that does the controlling
 - [[catastrophic-disclosure-fear]] — the unstated justification for control; the IC's rationale for managing rather than fully revealing
@@ -66,3 +69,7 @@ Per Sheehan's account, the genuinely undisclosed material includes:
 - [[david-grusch]] — whose IC-authorized testimony is Sheehan's example of controlled disclosure at congressional level
 - [[ben-rich]] — whose "unfunded opportunities" framing reveals contractor motivation to participate in controlled disclosure
 - [[soft-disclosure-civilian-observation]] — contrasting model proposed by [[james-valor]]: government achieves release through non-action (implicit permission to civilian observers) rather than active management; see [[y_8IKKcTntQ]]
+- Mentioned in [[9gLPtRwXgCM]]
+- Mentioned in [[R8TqBrrqL4U]] — Grusch describes the 2030 rollout plan; distinguishes active obfuscation (which happened) from cogent disclosure planning (which never existed)
+- Mentioned in [[dre-5Zy4f7c]]
+- Mentioned in [[h8vjx6-ZFvI]]

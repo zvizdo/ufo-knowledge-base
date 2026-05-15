@@ -32,3 +32,4 @@ Brennan's statements are part of the concentrated 2020–2021 disclosure wave: f
 - [[disclosure-narratives]] — Brennan represents the intelligence-official credibility pathway to disclosure
 - [[credibility-frameworks]] — former CIA Director carries among the highest institutional weight for UAP acknowledgment
 - [[ufo-secrecy]] — his cautious framing consistent with active knowledge managed through classification
+- Mentioned in [[9gLPtRwXgCM]]

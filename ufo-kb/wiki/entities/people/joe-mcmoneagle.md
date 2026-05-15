@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "US Army's Remote Viewer #1 — Legion of Merit recipient for 200+ military intelligence contributions via remote viewing; firsthand accounts of TK-089 Soviet submarine session, Mars DOD tasking, near-death experience, and consciousness theory."
-sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/aGqFOxuYRT0.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md]
+sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/aGqFOxuYRT0.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/OwrDI7GvenQ.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/nTiFs8LudUo.md]
 tags: [remote-viewing, mars, stargate, cia, nde, consciousness, soviet-submarine, mx-missile]
 name: Joe McMoneagle
 aliases: [Joseph McMoneagle, McMonagle, Remote Viewer Number One]
@@ -26,6 +26,10 @@ US Army veteran designated **Remote Viewer Number One** — the most credentiale
 Trained as a military intelligence specialist. First formal contact with remote viewing came through the "Gondola Wish" project: General Roya assigned McMoneagle to investigate the project at Stanford Research Institute (SRI), where [[hal-puthoff]] and [[russell-targ]] were running experiments. McMoneagle scored so well on initial tests that he was recruited directly into the program, later promoted from Warrant Officer to Chief Warrant Officer.
 
 He trained in controlled out-of-body experience techniques under [[robert-monroe]] at the [[monroe-institute]] — a DOD contractor for Stargate preparation.
+
+**Published works:** McMoneagle is among the few official program participants to write substantively about his experiences under his real name — author of *Mind Trek* (1993) and *The Stargate Chronicles* (2002), in addition to later books on remote viewing protocol and applied operations.
+
+**Cited as evidence of ongoing classified psi**: [[salvatore-pais]] invokes McMoneagle's Legion of Merit as evidence that the government's remote viewing program was genuinely productive and was therefore never fully terminated — only declassified at the unclassified tier while presumably continuing in compartmentalized channels. This is a recurring KB pattern: official termination announcements (Stargate terminated 1995) followed by evidence suggesting the capability migrated to deeper classification levels.
 
 ## Near-Death Experience (~1970, Munich)
 
@@ -114,6 +118,20 @@ Remote viewed [[himiko-ruler]] — Japan's only female Empress (~249 AD) — in 
 
 [[dennis-asberg]] contacted McMoneagle (and [[angela-ford]]) to remote-view the [[baltic-sea-anomaly]] — a 60-meter anomalous seafloor object in the Baltic Sea discovered in 2011. Multiple remote viewers (including McMoneagle) reportedly assessed the BSA as a constructed object and "some kind of energy source"; one viewer said it might be "made of gold." Full session transcripts have not been published. See [[aGqFOxuYRT0]] for Asberg's account.
 
+## Atwater Sessions — Project 8200, Mars, Lawrence Livermore, and Pat Price (per OwrDI7GvenQ)
+
+[[skip-atwater]], Stargate's operations and training officer, provides additional firsthand detail on McMoneagle's sessions that does not appear in McMoneagle's own interviews:
+
+**Mount Hayes / Project 8200:** McMoneagle was one of ~7 viewers tasked against [[pat-price]]'s 1973 UFO-base coordinates in Atwater's self-initiated Project 8200. His session on Mount Hayes was described as unlike anything he had ever encountered: "I've never seen anything that remotely resembles this part of the target... It's brand new, never existed before... It's like asking an Aborigine who has never seen an automobile to crawl inside and describe it." He described thin, unemotional beings with "programmed feelings" and a research-like atmosphere inside a hollow mountain with silver metallic craft. Results matched Pat Price's original 1973 descriptions.
+
+**Mars session (directed by Atwater):** Atwater confirms he was the one who assigned McMoneagle a specific grid coordinate on Mars with a date of approximately 2000 BC. Atwater suspects [[hal-puthoff]] may have prompted the session. During the session, McMoneagle noted the Sun looked "wrong"; Atwater redirected him to the coordinate. McMoneagle described: Mars as "a good healthy planet" struck by an asteroid that tore off its atmosphere; beings ("tall aliens") in a pyramid-like structure who knew the impact was coming and tried to survive; going back in time (at Atwater's direction) to see the beings before impact; some "Martians" taking off in a spaceship and arriving at a young volcanic Earth. **Atwater says he has this session on video.** This extends McMoneagle's own account from other sources.
+
+**Lawrence Livermore grassy knoll NHI encounter:** Atwater states that [[joe-mcmoneagle]] was among the mesmerized people in his OBE experience at [[lawrence-livermore-national-lab]], where alien beings were moving among civilians. The morning after, Atwater asked McMoneagle if "anything happened to you last night." McMoneagle replied: **"No, uh-uh — just all those aliens that you and I were with."** They have never spoken of it again. Atwater: "I don't know the answer to that."
+
+**Blind RV of Pat Price:** Atwater placed [[pat-price]]'s photograph in a sealed envelope and asked McMoneagle where the person in the picture was. First response: "This guy does something like what I do." Location assessment: **"He's in an underground office in Virginia somewhere."** Atwater stopped the inquiry deliberately, concluding he was operating outside his purview.
+
+**Operational dynamic:** Atwater describes the working relationship with deep affection and professional trust: "I love Joe... When he and I were in that room I didn't fool around with him. He knew that I knew the questions that the Pentagon needed to know." Sessions with Atwater were often double-blind: Atwater didn't know the target, took session output to Colonel Watt, who would signal whether to schedule a follow-on session.
+
 ## Connections
 
 - [[stargate-program]] — primary institutional context; Legion of Merit; 200+ intelligence contributions
@@ -148,3 +166,11 @@ Remote viewed [[himiko-ruler]] — Japan's only female Empress (~249 AD) — in 
 - [[RofQnByLwOo]] — source; Typhoon submarine and Dozier sessions cited by Jesse Michaels
 - [[eQIMantuasQ]] — Paul Smith describes McMoneagle's ego-displacement protocol and names him Remote Viewer #1
 - [[EzPmG_7WhXc]] — Jorjani presents his 1984 CIA Mars remote viewing ("Mars 1 million BC") in detail: 12–14-foot-tall Nordics, dying civilization, scouting party sent toward primordial Earth; corroborates Ingo Swann's independent Mars viewing
+- [[skip-atwater]] — Stargate operations and training officer who ran McMoneagle's sessions; shared the Lawrence Livermore NHI encounter; McMoneagle confirmed it with one sentence
+- [[sugar-grove-naval-station]] — institutional context for the Stargate program McMoneagle worked in
+- [[lawrence-livermore-national-lab]] — site of shared NHI encounter with Atwater
+- [[pat-price]] — McMoneagle blind-RV'd Price's photo; located him "in an underground office in Virginia"
+- [[OwrDI7GvenQ]] — Atwater's firsthand account of McMoneagle's Project 8200 session (Mount Hayes), Mars session, Lawrence Livermore encounter, and Pat Price blind RV
+- [[salvatore-pais]] — cites McMoneagle's Legion of Merit as evidence of ongoing classified psi programs
+- [[credibility-frameworks]] — Legion of Merit as official government corroboration of remote viewing's intelligence value
+- [[8TYMQOUDQBo]] · [[nTiFs8LudUo]] — additional source transcripts

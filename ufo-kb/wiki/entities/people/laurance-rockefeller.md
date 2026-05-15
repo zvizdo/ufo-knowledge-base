@@ -24,3 +24,4 @@ In the late 1980s and through the 1990s Rockefeller funded the **[[1995-rockefel
 - [[bill-clinton]] — administration during which the initiative engaged
 - [[disclosure-narratives]] — concept page
 - [[credibility-frameworks]] — financier-tier disclosure pressure
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]

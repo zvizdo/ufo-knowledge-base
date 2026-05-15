@@ -324,7 +324,7 @@ Haseltine and Gilbert's science fiction novel:
 - [[skinwalker-ranch]] — mentioned for anomalous electromagnetic effects; part of UAP research landscape
 - [[area-51]] — [[james-clapper|James Clapper]]'s NSA file request; sensor program context
 - [[wright-patterson]] — classified UAP materials context; mentioned
-- [[2004-tic-tac-nimitz]] — primary UAP case analyzed; plasma hypothesis vs. more exotic explanations
+- [[2004-nimitz-tic-tac]] — primary UAP case analyzed; plasma hypothesis vs. more exotic explanations
 - [[sandia-national-laboratories]] — where the laser-propulsion disc was tested via photon pressure
 
 ### Concepts & Claims

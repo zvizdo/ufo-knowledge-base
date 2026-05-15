@@ -22,3 +22,5 @@ In the KB, both positions appear: [[john-mack]] used regression extensively and 
 - [[varginha]] — Varginha crash witnesses underwent hypnotic regression to recover suppressed memories
 - [[mk-ultra]] — intelligence research into hypnosis included memory erasure, false memory implantation, and hypnotic programming
 - [[abduction-research]] — the field in which regression methodology is most extensively used
+
+- Mentioned in [[QkuDvTFN7ms]] — [[raymond-fowler]]'s four-witness independent regression protocol for the [[1976-allagash-abduction]] is one of the most rigorous in the literature: all four witnesses regressed separately over ~1 year; no inter-witness communication permitted; audio-recorded; the divergent Jim/Jack sperm-collection device accounts (receptacle vs. needle) within an otherwise consistent framework is cited as evidence of independent rather than collaborative recall

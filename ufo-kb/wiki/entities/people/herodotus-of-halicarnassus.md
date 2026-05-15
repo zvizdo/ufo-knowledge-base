@@ -31,3 +31,4 @@ Stub. See [[NvqxmTCwHA8]] for context.
 
 - [[NvqxmTCwHA8]] — source where this term appears
 - [[pyramid-purpose-debate]] — related concept
+- [[walter-emery]] — 20th-century archaeologist who also documented Giza subterranean passages; together they form the pre-modern textual and modern archaeological record of underground Giza infrastructure

@@ -28,3 +28,5 @@ Experiencer research is the study of individuals who report anomalous contact ex
 - [[hypnotic-regression]] — central method in abduction-era research; more cautious use in modern experiencer studies
 - [[ce-5-protocols]] — voluntary contact protocols; a subset of the experiencer phenomenon
 - [[nhi-government-contact]] — the institutional parallel to individual experiencer contact
+
+- Mentioned in [[QkuDvTFN7ms]] — [[jim-weiner]] attended [[john-mack]]'s PEER support groups post-Fowler investigation; Mack's approach framed abductees as experiencers rather than patients; Jim describes two camps: "nuts and bolts" (physical evidence seekers) and "consciousness/multi-dimensional" (benevolent-beings camp); Mack himself leaned toward the latter

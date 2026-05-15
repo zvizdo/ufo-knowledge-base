@@ -22,6 +22,7 @@ Cannon's work is referenced as a primary anchor for the [[mk-ultra-mind-control-
 - [[mk-ultra]] — the program he argued overlaps abduction reports
 - [[mk-ultra-mind-control-ecosystem]] — synthesis page
 - [[abduction-phenomena]] — the phenomenon class he reframed
-- [[colin-ross]] — adjacent MK-Ultra-medical researcher
+- [[colin-ross]] — adjacent MK-Ultra-medical researcher; Ross's CIA Doctors book documents the program physicians whose methods Cannon's thesis implicates
 - [[cd-jackson]] — referenced in the same Cannon-cluster discussions
+- [[cia-doctors-book]] — Ross's documentation of CIA/military medical program contractors; overlaps Cannon's thesis that abductions are a cover for neuro-EM experimentation
 - [[credibility-frameworks]] — researcher-tier; samizdat-circulated source

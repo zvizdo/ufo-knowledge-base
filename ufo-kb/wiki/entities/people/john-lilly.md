@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Neuroscientist who invented the isolation tank; conducted CIA/Navy-adjacent LSD and dolphin communication research; under high doses of ketamine contacted what he called the 'SSI' (Solid State Entity)—an alien intelligence; his dolphin brain electrode research was used by the CIA to develop bomb-delivery remote-controlled dolphins."
-sources: [raw/youtube-transcripts/UrHLTFvdEZk.md]
+sources: [raw/youtube-transcripts/UrHLTFvdEZk.md, raw/youtube-transcripts/dre-5Zy4f7c.md]
 name: John Lilly
 aliases: [John C. Lilly]
 roles: [researcher]
@@ -50,3 +50,4 @@ Ross uses Lilly as a conclusion to the programmability of human consciousness: "
 - [[andrija-puharich]] — connected by host; both worked on consciousness/ELF/entity contact territory
 - [[consciousness-non-local]] — his SSI contact as evidence; ketamine as consciousness-expanding modality
 - [[credibility-frameworks]] — isolation tank invention and dolphin research are documented; SSI contact is firsthand claim; ARPANET connection needs verification
+- Mentioned in [[dre-5Zy4f7c]]

@@ -48,3 +48,6 @@ The [[twining-memo]] (1947) is the earliest official documentation of evasivenes
 - [[aaro]] — the body that allegedly has better footage ("true anomalies")
 - [[credibility-frameworks]] — how to evaluate evidence that is consistently ambiguous by design (or by selection)
 - [[gimbal-rotation-debate]] — adjacent: both are about the epistemic quality of the best available UAP evidence
+- [[dow-uap-d20-mission-report-iraq-2023-03-31]] — F-16CM targeting pod (TV mode) obtained ~20s lock before each object dimmed and disappeared; analyst confirmed results different from star; ESSA Syria 2023
+- [[dow-uap-d35-mission-report-aegean-sea-2023-10-29]] — Circular UAP sea-skimming toward land; lost from FMV feed at 0811Z during active observation; Aegean Sea Oct 2023
+- [[dow-uap-d33-mission-report-aegean-sea-2023-10-27]] — Circular UAP performing 90-degree turns; lost from FMV feed at 0038Z, 3 minutes after contact; same unit/location as D35, 48 hours earlier

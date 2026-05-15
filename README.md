@@ -1,9 +1,9 @@
 # UFO/UAP Knowledge Base
 
-A connected wiki of the UFO/UAP discourse. **2,307 pages, ~29,900 connections, growing.**
+A connected wiki of the UFO/UAP discourse. **2,584 pages, ~27,200 connections, growing.**
 
 <p align="center">
-  <img src="docs/graph.png" alt="Force-directed graph of the UFO/UAP knowledge base — 2,421 nodes, 24,468 wikilinks. Top 25 hubs are labeled around the ring; the rest fade into the long tail." width="100%">
+  <img src="docs/graph.png" alt="Force-directed graph of the UFO/UAP knowledge base — 2,584 nodes, 27,220 wikilinks. Top hubs are labeled around the ring; the rest fade into the long tail." width="100%">
   <br>
   <sub><i>The full graph: every page is a node, every <code>[[wikilink]]</code> an edge. Top hubs (CIA, Hal Puthoff, Jacques Vallée, MK-Ultra, JFK-assassination/UFO, …) glow at the centre; the long tail fans out around them.</i></sub>
 </p>
@@ -14,19 +14,20 @@ The goal: map *who is who, where things happened, what concepts recur, and how t
 
 | | Count |
 |---|---|
-| People (witnesses, researchers, officials, contactees, journalists) | 970 |
-| Concepts & frameworks (claim-thesis pages, disclosure-narratives, etc.) | 431 |
-| Organizations (agencies, programs, occult orders, media) | 262 |
-| Incidents (sightings, hearings, leaks, public events) | 140 |
-| Places (bases, incident sites, regions) | 130 |
-| Documents (FOIA, books, memos, leaks) | 103 |
-| Programs (AAWSAP, Stargate, MK-Ultra, ATIP, …) | 84 |
+| People (witnesses, researchers, officials, contactees, journalists) | 1,050 |
+| Concepts & frameworks (claim-thesis pages, disclosure-narratives, etc.) | 438 |
+| Organizations (agencies, programs, occult orders, media) | 273 |
+| Incidents (sightings, hearings, leaks, public events) | 225 |
+| Places (bases, incident sites, regions) | 141 |
+| Documents — entities (FOIA, books, memos, leaks) | 111 |
+| Programs (AAWSAP, Stargate, MK-Ultra, ATIP, …) | 86 |
 | Tech artifacts (alleged materials, patents, implants) | 38 |
 | Craft & entity phenomena (Tic-Tac, Greys, Mantids, …) | 18 |
 | Symbols & glyphs | 3 |
 | Synthesis pages (cross-source comparisons, gap analyses) | 13 |
-| Source summaries (mostly YouTube transcripts) | 115 |
-| Raw transcripts | 120 |
+| Source summaries — YouTube transcripts | 124 |
+| Source summaries — government release documents | 69 |
+| Raw YouTube transcripts | 129 |
 
 Every page lives in `ufo-kb/wiki/` as plain Markdown with structured YAML frontmatter and `[[wikilinks]]` between pages. Every claim cites its raw source in `ufo-kb/raw/`.
 
@@ -39,7 +40,8 @@ You don't need any tooling to browse — the wiki is plain Markdown.
   - `ufo-kb/wiki/entities/people/` — individuals
   - `ufo-kb/wiki/concepts/` — recurring claims and analytical lenses
   - `ufo-kb/wiki/synthesis/` — curated cross-source analyses (start here for the high-leverage stuff)
-  - `ufo-kb/wiki/youtube-transcripts/` — per-source summaries with claim extraction
+  - `ufo-kb/wiki/youtube-transcripts/` — per-source summaries with claim extraction (podcasts, interviews)
+  - `ufo-kb/wiki/documents/` — per-source summaries for government-released documents, books, articles
 - Tools like [Obsidian](https://obsidian.md/) render the wikilinks natively — point a vault at `ufo-kb/wiki/` for a navigable graph view.
 
 ## How to query it (Claude Code)
@@ -152,7 +154,8 @@ ufo-knowledge-base/
 │   │   ├── entities/      ← people / orgs / places / programs / incidents / docs / tech / craft / symbols
 │   │   ├── concepts/      ← claims-theses, disclosure-narratives, credibility-frameworks, etc.
 │   │   ├── synthesis/     ← cross-source comparisons & gap analyses
-│   │   └── youtube-transcripts/   ← per-source claim summaries
+│   │   ├── youtube-transcripts/   ← per-source claim summaries (podcasts, interviews)
+│   │   └── documents/     ← per-source claim summaries (gov-release docs, books, articles)
 │   └── raw/               ← original source files (transcripts, articles, scanned docs)
 ├── .claude/skills/        ← Claude Code skills
 │   ├── kb-import/         ← source-in pipeline

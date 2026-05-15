@@ -56,3 +56,4 @@ Foo fighters (WWII), reported 1942–1945 over Bavaria and the Pacific, were tre
 - [[disclosure-narratives]] — the stigma-suppression cycle is both a safety problem and a disclosure obstruction mechanism
 - [[aaro]] — the official body that should be receiving and resolving these reports
 - [[credibility-frameworks]] — near-miss reports from multi-sensor-corroborated encounters are the highest-credibility category of UAP evidence
+- Mentioned in [[dos-uap-d2-cable-2-kazakhstan-1994-01]] — Tajik Air 747SP crew (Pan Am veterans) observed UFO for 40 minutes at cruise altitude over Kazakhstan; reported via official diplomatic channel

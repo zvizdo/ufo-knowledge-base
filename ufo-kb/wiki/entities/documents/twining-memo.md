@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "September 1947 internal Air Force memo by General Nathan Twining concluding that UAP are real, not imaginary, and listing their consistent characteristics including metallic construction, high maneuverability, and evasiveness when approached."
-sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md]
+sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/documents/dow-general-flying-disc-files-1946-1948.md]
 title: Twining Memo
 authors: [Nathan Twining]
 date: 1947-09
@@ -64,3 +64,6 @@ Declassified and released through FOIA. It predates [[project-blue-book]] and th
 - [[anti-gravity-manhattan-project]] — the postscript calling for an isolated Manhattan Project–style effort is the documentary origin of the classified program claims-thesis
 - [[david-grusch]] — his 2023 description of "deep black compartments" directly matches the postscript's call for a program "set up independently of existing projects"
 - [[5udx_SDdL3Y]] — Jesse Michels highlights the overlooked postscript as key evidence for the secret anti-gravity program
+- Mentioned in [[dow-general-flying-disc-files-1946-1948]]
+- Mentioned in [[usaf-1955-10-azerbaijan-unconventional-aircraft]] — Senator Russell's 1955 disc description (round/circular, revolving outer surface, no protrusions) matches the Twining memo's 1947 observable characteristics almost verbatim; cross-era cross-national morphological consistency
+- Mentioned in [[usaf-1948-11-netherlands-flying-saucers-intel-report]] — Nov 1948 USAFE cable extends the Twining Memo's "real and not visionary" conclusion to the European theater; Swedish Air Intelligence independently reached the same extraterrestrial-technology assessment one year after Twining

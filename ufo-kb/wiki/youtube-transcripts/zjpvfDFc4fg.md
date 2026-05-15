@@ -84,6 +84,7 @@ A solo deep-dive by [[jesse-michaels]] tracing the esoteric undercurrent of Amer
 - Why did [[linda-brown|Linda Brown]] (Thomas [[t-townsend-brown|Townsend Brown]]'s daughter) review Tim Taylor's Amazon book before Taylor was pseudonymously identified in *American Cosmic* — and what does that connection actually look like?
 
 ## Connections
+- [[occult-intelligence-space-nexus]] — the synthesis page this episode's content primarily grounds; provides the multi-layer occult/intelligence/space lineage from Nazi Ahnenerbe through Parsons/JPL/Freemasonry to modern UAP consciousness research
 - [[occult-aerospace-connection]] — the primary concept this episode develops at length
 - [[cosmism]] — Russian cosmism / Tsiolkovsky thread
 - [[space-program-patches]] — NROL-16 and Apollo patch symbolism

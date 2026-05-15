@@ -83,6 +83,7 @@ See [[credibility-frameworks]]. Herrera is a military witness with a specific op
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[2009-indonesia-ufo]] — the core incident
 - [[jake-barber]] — parallel witness; explained the P3 asset cargo; took Herrera on confirming desert trip
 - [[p3-psionic-assets]] — the revealed identity of the container cargo

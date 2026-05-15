@@ -32,4 +32,6 @@ Krangle is described by Corbell as someone who "came forward," suggesting volunt
 - [[bob-lazar]] — confirmed being in security briefings with him at Los Alamos
 - [[jeremy-corbell]] — went on record with Corbell
 - [[credibility-frameworks]] — voluntary on-camera corroboration of Lazar's Los Alamos employment
+- [[mike-thigpen]] — companion Lazar corroborator; Thigpen confirmed S4 security clearance
+- [[tyler-rogoway]] — companion Lazar corroborator; Rogoway confirmed biometric bone-scanner at Tonopah
 - [[BEWz4SXfyCQ]] — source where Corbell mentions him

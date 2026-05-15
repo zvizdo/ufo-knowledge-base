@@ -38,3 +38,4 @@ Building 8 at JSC is a satellite and launch photography processing facility. [[d
 - [[secret-space-program]] — if a classified human spaceflight supply chain exists, JSC is the likely node
 - [[astronomical-data-suppression]] — institutional airbrushing of UAP in satellite imagery
 - [[office-of-naval-intelligence]] — ONI's seizure of McKinnon's hard drives (which included the downloaded files) implies they had an existing interest in what Building 8 contained
+- Mentioned in [[nasa-uap-d7-skylab-technical-crew-debriefing-1973]] — JSC Training Office prepared the SL-2, SL-3, and SL-4 crew debriefs; FOIA-exempt classification applied at JSC

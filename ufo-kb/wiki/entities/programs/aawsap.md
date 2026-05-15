@@ -56,3 +56,5 @@ The program produced a series of Defense Intelligence Reference Documents (DIRDs
 - Mentioned in [[BEWz4SXfyCQ]]
 - Mentioned in [[Hc6pbG4wICA]]
 - [[vZEcVY2iZsk]] — Vallée critiques the BAASS/DIA investigation template: Pentagon investigators requested trajectory, composition, luminosity, and radiation data — not witness contact quality or consciousness effects; template served bureaucratic accountability over genuine scientific inquiry into the phenomenon
+- Mentioned in [[9gLPtRwXgCM]]
+- Mentioned in [[dre-5Zy4f7c]]

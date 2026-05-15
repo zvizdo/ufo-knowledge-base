@@ -30,3 +30,6 @@ The history of UAP spans from ancient and pre-modern accounts through the modern
 - [[uap-suppression]] — the systemic suppression pattern spanning this history
 - [[ghost-rockets]] — 1946 pre-Roswell UAP wave establishing the modern pattern
 - [[david-grusch]] — 2023 Congressional testimony as the current disclosure inflection point
+- Mentioned in [[dos-1952-07-18-increased-ufo-reports-memo]] — Maxwell Hunter II (NASC, 1963): alien contact was formally tabled as a policy question during BNSP Task I deliberations; Hunter's three-scenario framework (chemical/nuclear/FTL civilization) documents 1963 US government engagement with alien contact planning
+- Mentioned in [[dos-uap-d1-cable-1-papua-new-guinea-1985-01]] — PNG NIO inquiry to US Embassy about Jan 1985 high-altitude/high-speed overflights; Prime Minister attended public meeting; Air Niugini radar confirmation; US denied any B-52 or US aircraft in PNG airspace
+- Mentioned in [[fbi-detroit-1958-circular-object-crystal-dome]] — Detroit 1958: circular object with crystal dome; FBI Serial 844; civilian CAP-experienced witness; late-1950s UAP wave; FBI field-office reporting pattern

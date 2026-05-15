@@ -60,6 +60,7 @@ See [[astronomical-data-suppression]] for the full pattern.
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[afosi]] — NDA administration arm
 - [[jsoc]] — operational model (deniable, compartmentalized, executive-access) fits crash retrieval and materials management function the cabal requires
 - [[condon-commission]] · [[project-blue-book]] · [[aaro]] — institutional cover programs
@@ -110,3 +111,6 @@ See [[astronomical-data-suppression]] for the full pattern.
 - Mentioned in [[Hc6pbG4wICA]]
 - [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); 'War pimps at the Pentagon'; presidential exclusion; military stonewalling Florida pilots; members being compromised
 - Mentioned in [[vZEcVY2iZsk]]
+- Mentioned in [[9gLPtRwXgCM]]
+- [[dre-5Zy4f7c]] — eminent domain stripping by HASC, contractor PAC funding chain (Lockheed/Raytheon/Boeing → Turner/Rogers), Pantex nuclear incursion as evidence of NHI awareness of US nuclear infrastructure
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]

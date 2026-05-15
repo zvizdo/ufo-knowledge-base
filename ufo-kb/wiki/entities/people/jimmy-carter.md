@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "39th U.S. President; saw a UFO in 1969 with 11 witnesses; entered the White House intending to disclose UAP information but was denied full access by the CIA; commissioned the Congressional Research Service UAP study that hired Danny Sheehan."
-sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/RofQnByLwOo.md]
+sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/dre-5Zy4f7c.md]
 name: Jimmy Carter
 aliases: [Carter]
 roles: [official]
@@ -48,3 +48,4 @@ Carter's experience is a key data point for [[controlled-disclosure]] — that U
 - [[rosemary-smith]] — Carter publicly confirmed her TU-22 remote viewing result as *"the most miraculous thing that occurred during my four-year presidential term"*; this is one of his two public acknowledgments of anomalous phenomena
 - [[stargate-program]] — the Rosemary Smith Africa session is the most specific public entry point Carter has acknowledged in the Stargate record
 - [[RofQnByLwOo]] — source; Carter's confirmation of Rosemary Smith TU-22 session quoted
+- Mentioned in [[dre-5Zy4f7c]]

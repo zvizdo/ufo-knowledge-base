@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Investigative journalist at KLAS-TV Las Vegas who first broke Bob Lazar's story in 1989 and has been a central figure in UAP journalism for four decades. Co-author with Jeremy Corbell; investigated Skinwalker Ranch extensively."
-sources: [raw/youtube-transcripts/BEWz4SXfyCQ.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/Hc6pbG4wICA.md]
+sources: [raw/youtube-transcripts/BEWz4SXfyCQ.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/Hc6pbG4wICA.md, raw/youtube-transcripts/dre-5Zy4f7c.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: George Knapp
 aliases: []
 roles: [journalist, researcher]
@@ -87,3 +87,5 @@ In 2001, a **senior [[egng]] manager named [[alfred-odonnell]]** disclosed to Kn
 - [[michio-kaku]] — Knapp cited Kaku's burden-of-proof shift statement as a mainstream science marker
 - [[tim-burchett]] — Burchett says Knapp is a personal contact; "I grew up watching George Knapp. He's a cool guy." Met through UAP work; Knapp connected Burchett to the Lazar story
 - [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett describes Knapp as a personal friend and UAP contact
+- Mentioned in [[dre-5Zy4f7c]]
+- Mentioned in [[h8vjx6-ZFvI]]

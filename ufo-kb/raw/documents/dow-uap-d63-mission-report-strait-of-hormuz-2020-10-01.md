@@ -1,0 +1,352 @@
+---
+title: "DOW MISREP D63 — Strait of Hormuz, 2020-10-01"
+agency: DOW (Department of War)
+document_type: MISREP (Mission Report)
+date: 2020-10-01
+location: Strait of Hormuz
+provenance: gov-release / PURSUE Release 01
+source_pdf: dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf
+source_pdfs:
+  - dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf
+---
+
+# DOW MISREP D63 — Strait of Hormuz, 2020-10-01
+
+> Standardized US-military Mission Report (MISREP) recording the circumstances of a UAP encounter during a mission.
+
+## Document content
+
+# Misrep 4871281
+
+### Narrative
+
+AT 2249Z, 1.4a FOOK OFF FROM OKAS. AT 2300Z. 1.4a HANDED OVER FROM THE LRE. FROM 2338Z TO 0825Z, FROM 1319Z TO 1855Z. FROM 0117Z TO 1835Z, 1.4a 1.4a SUPPORTED NAVCENT FOR OPERATION IVO ARABIAN GULF, STRAIT (b)(1)1.4a OF HORMUZ AND GULF OF OMAN. SEE ISR LINE 1. AT 0727Z, 1.4a RECEIVED A GUARDCALL. SEE GUARDCALL LINE 1. AT 0854Z. 1.4a RECEIVED A GUARD CALL. SEE GUARDCALL LINE 2. AT 1122Z, 1.4a RECEIVED A GUARD CALL, SEE GUARDCALL LINE 3. AT 1236Z 1.4a RECEIVED A GUARD CALL. SEE GUARD CALL LINE 4. AT 1315Z, 1.4a RECEIVED GUARDCALL, SEE GUARD CALL LINE 5. AT 1829Z, 1.4a OBSERVED 1X UAP, SEE OBSERVATION LINE 1. AT 1835Z, 1.4a WAS CLEARED TO RTB. AT 1922Z, 1.4a HANDED BACK TO THE LRE. AT 1953Z 1.4a LANDED AT OKAS. FMV WAS EXPLOITED BY DGS-1. 21 MISSION HOURS, 17.3 IMINT HOURS, 1 IMINT TASKING PROSECUTED, 15.3 1.4a TASKING PROSECUTED, 4 TOTAL TASKINGS PROSECUTED
+
+## Admin
+
+## CLASSIFICATION
+
+- Classification:
+- Associated Caveats:
+- Classification Source (MS or Classification Guide ID): MULTIPLE SOURCES
+- Declassification Date (YYYYMMDD): 20450301
+
+### **OPERATION**
+
+- Operation: (b)(1)1,4a
+- · Domain: AIR
+- · Operations Center: 609th
+- Major Command (MAJCOM): AFCENT
+- Combatant Command (COCOM): USCENTCOM
+
+### MSGID
+
+- Report Type: MISREP
+- · Originator (Unit or Squadron): 482ATKS
+- · Submit Date (Auto-generated):
+
+![](./dow-uap-d63-mission-report-strait-of-hormuz-2020-10-01_assets/dow-uap-d63-mission-report-strait-of-hormuz-october-2020___page_0_Picture_20.jpeg)
+
+#### **MSNID**
+
+· Tasking Order (ATO): DR
+
+· Mission Type: AREC
+
+• ATO Mission Number: 6)(1)1.44
+
+• Country Tasked: US - UNITED STATES
+
+• Service Tasked: A - AIR FORCE
+
+## Poc
+
+#### POC
+
+· Rank: A1C
+
+• Full Names (c. (b)(3), 130b, (b)(6)
+
+Unit: 482 ATKSWing: 432 AEW
+
+• Phone Number: 3.5c. (b)(6)
+
+• Email: 3.5c. (b)(6)
+
+· Service: Air Force
+
+Operations Center: 609 CAOC
+
+## QC
+
+· Rank: Ctr
+
+• Full Name: 3.5c. (b)(6)
+
+Unit: PAROCWing: Other
+
+Phone Number: 3.5c. (b)(6)
+
+• Email:
+
+3.5c.(b)(6)
+
+· Service: Air Force
+
+· Operations Center: Other
+
+## **APPROVER**
+
+· Rank: Capt
+
+Full Name, 6c, (b)(3), 1306, (b)(6)
+
+• Unit: 609 AOC ISRD Unit Support
+
+· Wing: Other
+
+• Phone Number: 3.5c. (b)(6)
+
+• Email: 3.5c. (b)(6)
+
+· Service: Air Force
+
+Operations Center: 609 CAOC
+
+3.5c. (b)(6)
+
+Declassified by MG Richard A. Harrison USCENTCOM Chief of Staff Declassified on: 16 March 2026 FOUO / Privacy Act applies
+
+#### **INGEST**
+
+- · Rank:
+- Full Name:
+- · Unit:
+- · Wing:
+- · Phone Number:
+- · Email:
+- · Service:
+- Operations Center:
+
+## **ACEQUIP**
+
+## **ACEQUIP**
+
+- · Aircraft Callsign:
+- 1.4a
+- · Radar Name or Destination: -
+- · Radar Software Load or Mission Data: -
+- · Radar Warning Receiver (RWR) Name or Designator: -
+- · RWR Software Load or Mission Data: -
+- · MWS Name or Designator: -
+- · MWS Software Load or Mission Data: -
+- IRCM Name or Designator: -
+- · IRCM Software Load or Mission Data: -
+- . ECM Name or Designator: -
+- · ECM Software Load or Mission Data: -
+- · CMD Name or Designator: -
+- · Chaff Designator: -
+- · Num Chaff or Cartridges: -
+- · Flare Designator: -
+- · Num Flares: -
+- · Towed Decoy Name or Designator: -
+- · Towed Decoy Software Load or Mission Data: -
+- · Num Towed Decoys: -
+- · Type of Radar-Guided AAM: -
+- · Num Radar-Guided AAM: -
+- · Type of IR-Guided AAM: -
+- · Num IR-Guided AAM: -
+- · Gun Name or Designator: -
+- · Num Gun Rounds: -
+- · Air-to-Ground Wpn to Include Num of Each: 1.4(a)
+- TGT Pod Name or Designator: ANDAS4
+- · Additional Avionics: AH-BS\_WARIO
+
+![](./dow-uap-d63-mission-report-strait-of-hormuz-2020-10-01_assets/dow-uap-d63-mission-report-strait-of-hormuz-october-2020___page_2_Picture_41.jpeg)
+
+- · Data Link: -
+- · Gentext: -
+
+## Timeline
+
+## Landing
+
+- · Last Land Location (ICAO Code): OKAS
+- Last Land Time: 021953:00ZOCT20
+- Last Engine Shutdown Time: 022003:00ZOCT20
+- Total Mission Time: 21 hours 4 minutes
+- · Gentext/Additional Details: -
+
+## Takeoff
+
+- Callsign: 1.4a
+- · Number of Aircraft: 1
+- Asset Type (Aircraft) 1,4a. (b)(1)1.4g
+- Aircraft Tail Numben(6) 1 1.4a. (b)(1)1.4g
+- · Takeoff Location (ICAO Code): OKAS
+- Takcoff Time DTG: 012249:00ZQCT20
+- . Mode 3 (IFF Codes): -
+- · Gentext/Additional Details: -
+- · Mission Canceled:
+
+#### On Station
+
+- Time On Station DTG: 012300:00ZOCT20
+- Callsign: 1.4a
+- JTAR Number: -
+- · Killbox (Location): -
+- · Mission Type: AREC
+- · JTAC Callsign: -
+- · Gentext/Additional Details: -
+- · Did not Arrive On Station:
+
+## ISR
+
+- Time-on Station DTG: 020117:00ZOCT20
+- Time-off Station DTG: 021835:00ZOCT20
+- Aircraft Callsign: 1.4a
+- · Msn Type: AREC
+
+![](./dow-uap-d63-mission-report-strait-of-hormuz-2020-10-01_assets/dow-uap-d63-mission-report-strait-of-hormuz-october-2020___page_3_Picture_34.jpeg)
+
+Declassified by MG Richard A. Harrison USCENTCOM Chief of Staff Declassified on: 16 March 2026 FOUO / Privacy Act applies
+
+Primary Sensor: ANDAS4Sensors Available: AH\GMESH
+
+Tasking Type: PLANNED
+
+Tasking or Request Number (JTAR#, AEM#, PRI#, or TIC#): -
+
+• BE Number (if NTISR): -
+
+• Tasked Start Point: 39RWK78(1)1 (2(1)1,4a
+
+· Activity Description: ISR
+
+• FMV or Image File Name (if NTISR): -
+
+#### GENTEXT/ISR
+
+ Gentext: COORDINATED WITH NAVCENT 24 HOURS PRIOR 1.4a TO TAKE OFF. PRECOORD WAS SATISFACTORY. AT 0117Z 1.48 ARRIVED ON STATION ISO NAVCENT FOR OPERATION TTO CHARACTERIZE IRIN\IRGCN VESSELS, (b)(1)1.4a UAS ACTIVITY, ACTIVITY OUTSIDE OF PORTS, AND TO ESTABLISH PATTERN OF LIFE. FROM 0117Z TO 1835Z, 1.48 CONDUCTED SCANS IAW THE TARGET DECK IN THE ARABIAN GULF (AG). AT 1244Z, 1.4a OBSERVED 1X UI AIRCRAFT ON RUNWAY AT ABU MUSA ISLAND AIRFIELD. AT 1344Z, 1.48 DBSERVED 1XU/I AIRCRAFT AT ABU MUSA ISLAND AIRFIELD ASSESSED TO BE AN ATR 72-500. AT 1657Z, 1.48 OBSERVED 1X POSS NASER WAP DOCKED IVO BUSHERH IRIN BOATYARD. AT 0727Z 1.4a RECEIVED A GUARD CALL. SEE GUARDCALL LINE 1. AT 0854Z, 1.4a RECEIVED A GUARD CALL. SEE GUARDCALL LINE 2. AT 1122Z 1.4a RECEIVED A GUARD CALL. SEE GUARDCALL LINE 3. AT 1236Z, 1.4a RECEIVED A GUARD CALL. SEE GUARDCALL LINE 4. AT 1835Z. WAS CLEARED OFF TASKING AND RETURNED TO BASE (RTB)
+
+#### ISR ASSET UTILIZATION
+
+Supported Unit: NAVCENT
+
+Supported Operation: OPERATION (b)(1)1.4a
+
+· Precoord Time: 24 HOURS
+
+Precoord Effectiveness: SATISFACTORY
+
+#### WEATHER
+
+Weather: (U) HEAVY HAZE PRECLUDED IMINT ANALYSIS
+
+#### **EFFECTIVENESS**
+
+· Tasker:
+
+• Intel Gap Filled?: No
+
+· Gentext: -
+
+## Off Station
+
+Time Off Station DTG: 021922:00ZOCT20
+Total Time On Station: 20 hours 22 minutes
+
+#### GUARDCALL
+
+| 1 | CHIADDCALL  | DTG: 020727:00ZOCT20 | a   |
+|---|-------------|----------------------|-----|
+| • | TELAKIN ALL |                      | . 1 |
+|   |             |                      |     |
+
+Aircraft Callsign:
+
+1.4a
+
+· Ground Station Callsign:
+
+1.4a, 1.4g
+
+• Aircraft Location: 40RCP76 (1)1 4a
+
+· Aircraft Heading: 020 M
+
+· Aircraft Altitude: FL180
+
+· Aircraft Airspeed: -
+
+Number of Calls Noted from the Same Agency: 1
+
+Guardcall Tone: PROFESSIONAL
+
+#### GENTEXT/GUARDCALL
+
+• Gentext: AT 0727Z, 1.4a WAS HAILED ON GUARD (b)(1)1.4a, (b)(1)1.4g
+
+DEFENSE. ORDERS GIVEN: STANDARD CALL 1.4a RESPONDED WITH STANDARD
+
+RESPONSE 1. NO IMPACT TO THE MISSION
+
+## **GUARDCALL**
+
+- GUARDCALL DTG: 020854:00ZOCT20
+- Aircraft Callsign:
+
+Ground Station Callsign:
+
+1.4a, 1.4g
+
+· Aircraft Location: 40RDP 78 (1)1 (1)1 48
+
+• Aircraft Heading: 145 M
+
+• Aircraft Altitude: FL180
+
+Aircraft Airspeed: -
+
+Number of Calls Noted from the Same Agency: I
+
+Guardcall Tone: PROFESSIONAL
+
+## GENTEXT/GUARDCALL
+
+• Gentext: AT 0854Z, 1.4a WAS HAILED ON GUARD (b)(1)1.4a, (b)(1)1.4g
+
+DEFENSE. ORDERS GIVEN: STANDARD CALL
+
+1.4a RESPONDED WITH STANDARD
+
+RESPONSE I, NO IMPACT TO THE MISSION
+
+### **GUARDCALL**
+
+![](./dow-uap-d63-mission-report-strait-of-hormuz-2020-10-01_assets/dow-uap-d63-mission-report-strait-of-hormuz-october-2020___page_5_Figure_31.jpeg)
+
+Declassified by MG Richard A. Harrison USCENTCOM Chief of Staff Declassified on: 16 March 2026 FOUO / Privacy Act applies
+
+| • GUARDCALL DTG: 021122:00ZOCT20 • Aircraft Callsign: 1.4a • Ground Station Callsign: 1.4a, 1.4g • Aircraft Location: 40RCQ75(1)1.40(1)1.4a • Aircraft Heading: 264 M • Aircraft Altitude: FL160 • Aircraft Airspeed: - • Number of Calls Noted from the Same Agency: 1 • Guardcall Tone: Directive |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| • Gentext: AT I 122Z 1.48 WAS HAILED ON GUARD (b)(1)1.49, (b)(1)1.49 DEFENSE. ORDERS GIVEN: STANDARD CALL 1.48 RESPONDED WITH STANDARD RESPONSE 1. NO IMPACT TO THE MISSION                                                                                                                         |
+| GUARDCALL DTG: 021236:00ZOCT20  Aircraft Callsign: Ground Station Callsign: Aircraft Location: 40RCP36(1)1 (1)14a  Aircraft Heading: 128 M  Aircraft Altitude: FL 160  Aircraft Airspeed: Number of Calls Noted from the Same Agency: 1  Guardcall Tone: Professional                               |
+| • GENTEXT/GUARDCALL  • Gentext: (S//REL AT 1236Z, 1.4a WAS HAILED ON GUARD (b)(1)1.4a, (b)(1)1.4g  DEFENSE. ORDERS GIVEN: STANDARD CALL 1.4a RESPONDED WITH STANDARD RESPONSE 1. NO IMPACT TO THE MISSION                                                                                           |
+| GUARDCALL DTG: 021315:00ZOCT20  Aircrast Callsign: 1,4a  Ground Station Callsign 1.4a, 1.4g  Aircrast Location: 40RCP (1)1 (1)1 (1)1 (4a  Aircrast Heading: 227 M  Aircrast Altitude: FL 160  Aircrast Airspeed: -                                                                                  |
+| 3.5c, (b)(6)                                                                                                                                                                                                                                                                                        |
+
+![](./dow-uap-d63-mission-report-strait-of-hormuz-2020-10-01_assets/dow-uap-d63-mission-report-strait-of-hormuz-october-2020___page_7_Picture_0.jpeg)
+
+- · Number of Calls Noted from the Same Agency: 1
+- · Guardcall Tone: Directive
+
+## GENTEXT/GUARDCALL
+
+• Gentext: AT 1315Z, 1.4a WAS HAILED ON GUARD (b)(1)1.4a, (b)(1)1.4g
+
+DEFENSE. ORDERS GIVEN: STANDARD CALL. 1.4a RESPONDED WITH STANDARD
+
+RESPONSE 1. NO IMPACT TO THE MISSION
+
+3.5c, (h)(6)

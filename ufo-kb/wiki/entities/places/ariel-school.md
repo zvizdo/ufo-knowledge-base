@@ -7,6 +7,7 @@ region: Mashonaland East
 country: Zimbabwe
 type: school/site
 tags: [close-encounter, zimbabwe, 1994, children, john-mack, credibility, nhi, mass-sighting]
+sources: [raw/youtube-transcripts/h8vjx6-ZFvI.md]
 ---
 
 # Ariel School
@@ -29,3 +30,4 @@ The children described a being with large eyes that communicated what some inter
 - [[credibility-frameworks]] — mass child-witness close encounter as high-credibility case
 - [[uap-testimonial-evidence]] — the Ariel School case is among the strongest testimonial evidence in the KB
 - Mentioned in [[Hc6pbG4wICA]]
+- Mentioned in [[h8vjx6-ZFvI]]

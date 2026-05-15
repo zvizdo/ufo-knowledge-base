@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Documentary filmmaker and investigative journalist specializing in UAP. Produced the 2018 Bob Lazar documentary and has been responsible for leaking several UAP videos that triggered Congressional and Pentagon responses in 2021–2023."
-sources: [raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/BEWz4SXfyCQ.md]
+sources: [raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/BEWz4SXfyCQ.md, raw/youtube-transcripts/9gLPtRwXgCM.md, raw/youtube-transcripts/dre-5Zy4f7c.md]
 name: Jeremy Corbell
 aliases: []
 roles: [journalist, researcher]
@@ -40,6 +40,7 @@ After 30 years, Corbell located [[mike-thigpen]] — the specific security clear
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[george-knapp]] — primary collaborator; broken multiple stories together
 - [[bob-lazar]] — produced the primary modern documentary on his claims
 - [[2004-nimitz-tic-tac]] — the broader disclosure context in which his video leaks operate
@@ -56,3 +57,4 @@ After 30 years, Corbell located [[mike-thigpen]] — the specific security clear
 - [[C_Na1tI5qpw]] — source
 - [[BEWz4SXfyCQ]] — source; Wilson-Davis Memo authentication; Thigpen reveal; AAWSAP/AATIP clarification
 - Mentioned in [[Hc6pbG4wICA]]
+- Mentioned in [[dre-5Zy4f7c]]

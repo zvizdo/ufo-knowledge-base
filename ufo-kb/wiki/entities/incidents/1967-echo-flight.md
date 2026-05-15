@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "~March 16, 1967: all 10 Minuteman I missiles in Echo Flight at Malmstrom AFB go offline during reported UFO activity — eight days before the Oscar Flight incident; witnessed by Lt. Walt Feele."
-sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/fzvwBBSmWYA.md]
+sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/fzvwBBSmWYA.md, raw/youtube-transcripts/9gLPtRwXgCM.md]
 name: 1967 Echo Flight UFO Incident
 date: ~1967-03-16
 location: malmstrom-air-force-base
@@ -45,6 +45,12 @@ In the Hastings interview, [[robert-salas]] describes receiving a call from his 
 
 A detail not previously documented: a **UFO was reportedly seen going down into a canyon near Belt, Montana** — the canyon walls were too steep to send men down at night, but helicopters were dispatched at daylight and the UAP "went right through the helicopters" and departed.
 
+## Elizondo on Echo Flight (JRE #2194, 2024)
+
+[[lue-elizondo]] physically brought a copy of the **declassified DoD intelligence report on Echo Flight** to the Joe Rogan studio (JRE #2194) and waved it on camera. He obtained it via FOIA through [[john-greenwald]] at [[black-vault]]. When asked at the 2023 Congressional UAP hearing about Echo Flight and nuclear interference at named locations, **Under Secretary Ronald Moltrie** and Navy witnesses denied knowledge — Elizondo disputed this directly on air while holding the actual document.
+
+Elizondo also stated that the inverse happened with the Soviets: UAPs **activated** (turned on) Russian nuclear missiles — "they turned them on. So that's equally scary." He frames UAP behavior around nuclear assets as resembling **IPB (Initial Preparations of the Battle Space)** or ISR doctrine — the doctrinal patterns that precede military invasion.
+
 ## Connections
 
 - [[1967-oscar-flight]] — parallel incident 8 days later at the same base; together they establish the pattern
@@ -57,4 +63,6 @@ A detail not previously documented: a **UFO was reportedly seen going down into 
 - [[ufos-disable-nuclear-weapons]] — Echo Flight is the earlier anchor incident
 - [[fzvwBBSmWYA]] — Salas and Jameson detailed accounts
 
+- Mentioned in [[9gLPtRwXgCM]] — Elizondo showed declassified report on JRE; Soviet activation counterpart noted; IPB/ISR framing introduced
 - Synthesized in [[nuclear-uap-multilateral-evidence]]
+- Mentioned in [[dre-5Zy4f7c]]

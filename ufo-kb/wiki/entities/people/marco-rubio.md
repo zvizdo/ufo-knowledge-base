@@ -29,9 +29,12 @@ US Senator from Florida, former Acting Chairman of the Senate Select Committee o
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
 - [[aaro]] — the institutional result of the legislative mandate he inserted
 - [[kirk-mcconnell]] — former Senate Armed Services/Intelligence staffer who tracks the same phenomena and shares Rubio's assessment
 - [[david-grusch]] — one of the whistleblowers Rubio's protection framework was meant to protect
 - [[disclosure-narratives]] — Rubio's action was a major structural event in the disclosure arc
 - [[ufo-secrecy-cabal]] — his public statements about witnesses fearing for their lives imply a suppression apparatus
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[dre-5Zy4f7c]]

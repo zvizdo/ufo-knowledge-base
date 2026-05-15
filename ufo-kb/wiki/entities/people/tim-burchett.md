@@ -76,3 +76,5 @@ Burchett's disclosure bills: 2-page bill didn't advance; [[chuck-schumer]]'s 60-
 - [[1963-jfk-assassination]] — Burchett explicitly parallels UAP cover-up with JFK file suppression; Schumer modeled UAP bill on JFK records act
 - [[C_Na1tI5qpw]] — source (ocean emergence zones)
 - [[sKwq7mpBTrY]] — source (JRE #2495, 2026)
+- Mentioned in [[9gLPtRwXgCM]]
+- Mentioned in [[dre-5Zy4f7c]]

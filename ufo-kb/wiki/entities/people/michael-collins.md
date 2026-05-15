@@ -50,3 +50,4 @@ The photograph purported to show Collins conducting a spacewalk during Gemini 10
 - [[C_Na1tI5qpw]] — source
 
 - Synthesized in [[apollo-skepticism-cluster]]
+- Mentioned in [[nasa-uap-d4-apollo-11-technical-crew-debriefing-1969]] — sextant observer of translunar object; "hollow cylinder — you could look right down in its guts. It was really weird."; "We really don't have a conclusion as to what it might have been, how big it was, or how far away it was."

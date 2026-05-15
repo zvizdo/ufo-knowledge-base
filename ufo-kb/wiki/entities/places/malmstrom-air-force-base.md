@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "USAF base near Great Falls, Montana; site of multiple UFO-related Minuteman missile shutdown incidents in 1966–1967 and continuing UFO reports through at least 1975; one of the most documented UFO-nuclear hotspots."
-sources: [raw/youtube-transcripts/-0g3lLGxNfc.md]
+sources: [raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: Malmstrom Air Force Base
 aliases: [Malmstrom AFB, Malmstrom]
 region: Montana, USA
@@ -41,3 +41,4 @@ The base hosts underground launch control capsules (LCCs) for each flight, staff
 - [[ufos-disable-nuclear-weapons]] — Malmstrom is the primary evidentiary site
 - [[norad]] — tracked radar unknowns over the base
 - [[merrick-von-rennenkampff]] — journalist who debunked the WSJ's EMP misattribution of the 1967 missile shutdown; noted physical absurdity of secretly deploying a 60-foot experiment to an active nuclear facility
+- Mentioned in [[h8vjx6-ZFvI]]

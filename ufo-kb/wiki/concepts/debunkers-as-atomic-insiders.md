@@ -93,6 +93,7 @@ Both chains trace back to Menzel as the single root node — making his Harvard 
 - [[leslie-groves]] — Manhattan Project commander; Condon conflict
 - [[ufo-secrecy-cabal]] — the broader apparatus this thesis describes
 - [[credibility-frameworks]] — relevant: the debunkers' institutional credibility was weaponized
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — Hoover's demand for disc access was refused; Army withheld crash evidence from the FBI Director himself, demonstrating compartmentalization even within senior government leadership
 - [[donald-menzel]] — Harvard Observatory director; NSA/CIA/Navy clearances; sky survey halt; plate destruction
 - [[dorit-hofflight]] — eyewitness to Menzel's plate destruction
 - [[david-spergel]] — invoked by Michaels as Menzel's modern equivalent
@@ -105,3 +106,4 @@ Both chains trace back to Menzel as the single root node — making his Harvard 
 - [[operation-moonwatch]] — citizen science network with embedded 36 UFO reports
 - [[j-allen-hynek]] — worked under Whipple (Menzel's student) before becoming Blue Book astronomer
 - [[lbGE3EC6StE]] — Villarroel/Michaels articulate both Menzel chains in detail
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]

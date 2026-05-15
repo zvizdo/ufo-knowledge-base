@@ -29,4 +29,5 @@ Swedish civilian UFO investigation organization; one of the most established UFO
 - [[ghost-rockets]] — the 1946-47 Scandinavian wave that UFO Sweden's archives cover
 - [[credibility-frameworks]] — civilian UFO organization as a reporting tier below government investigation
 - [[aGqFOxuYRT0]] — source
+- Mentioned in [[usaf-1948-11-netherlands-flying-saucers-intel-report]] — [[swedish-air-intelligence-service]] (military, 1948) reached formal extraterrestrial conclusion about flying saucers two decades before UFO Sweden's founding; the civilian org emerged from a context where official military analysis had already gone further
 

@@ -110,7 +110,7 @@ During a dive trip to the Aquarius underwater habitat (~2008), an unnamed NASA f
 
 - **Mars**: Endorses [[john-brandenberg]]'s nuclear-war-isotopic-ratio argument as compelling causation under Occam's razor; endorses [[richard-hoagland]]'s Cydonia work, noting the Maxwell's equations extension Hoagland advocates is now receiving NSF/NASA attention
 - **Moon**: Finds [[carl-wolf]]'s account credible (no financial motive to fabricate); endorses the Apollo hollow-moon ringing evidence (Apollo 12 and 15 booster impacts); endorses the mathematical improbability of the Moon's orbital geometry (1/400 size ratio, 400x closer than the Sun, synchronous rotation — all simultaneously?)
-- [[joseph-mcmoneagle]] — had photos from JPL scientists showing anomalous structures on Mars; Blitch curious but cautious about provenance
+- [[joe-mcmoneagle]] — had photos from JPL scientists showing anomalous structures on Mars; Blitch curious but cautious about provenance
 
 ## Open Questions
 

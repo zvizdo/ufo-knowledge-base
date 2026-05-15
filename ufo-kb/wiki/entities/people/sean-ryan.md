@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Host of the Shawn Ryan Show; conducted Jake Barber's first major on-camera interview; also previously interviewed Sam Shoemate about Livelsberger's NJ drone email; twice entangled in the 2024 New Jersey drone/UAP flap narrative."
-sources: [raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/dnnpyNuPdXs.md]
+sources: [raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/dnnpyNuPdXs.md, raw/youtube-transcripts/OwrDI7GvenQ.md]
 name: Sean Ryan
 aliases: [Shawn Ryan]
 roles: [host, journalist]
@@ -27,9 +27,12 @@ Separately, Ryan interviewed **Sam Shoemate**, who relayed that Livelsberger had
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[jake-barber]] — primary guest in [[dnnpyNuPdXs]]; first major on-camera interview
 - [[dnnpyNuPdXs]] — interview transcript
 - [[2024-new-jersey-drone-flap]] — Ryan was entangled via Livelsberger email and Barber interview
 - [[matthew-livelsberger]] — subject of earlier episode; email about "Chinese gravitic drones"
 - [[Sct30Qijfv8]] — earlier episode referenced by American Alchemy
 - [[anti-gravity-manhattan-project]] — broader context of the drone/electrogravitic claims
+- Mentioned in [[OwrDI7GvenQ]] — hosted Skip Atwater (Stargate operations officer, Monroe Institute president) in a 157-minute interview covering remote viewing history, Project 8200 UFO-base validation, McMoneagle Mars session, Lawrence Livermore NHI encounter, and Pat Price death mystery
+- [[skip-atwater]] — guest in OwrDI7GvenQ; the deepest operational insider Stargate account in the KB

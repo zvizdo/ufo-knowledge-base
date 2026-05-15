@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Physicist; co-founder of the CIA/DIA Stargate remote viewing program at SRI; referenced in context of George W. Bush administration UAP disclosure discussions alongside NSA Steven Hadley."
-sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/Rfmy5oW_r9c.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/p0S0BfoZy0w.md, raw/youtube-transcripts/qAou_h1POWs.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/vZEcVY2iZsk.md]
+sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/Rfmy5oW_r9c.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/p0S0BfoZy0w.md, raw/youtube-transcripts/qAou_h1POWs.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/vZEcVY2iZsk.md, raw/youtube-transcripts/9gLPtRwXgCM.md, raw/youtube-transcripts/Gf_tKn9TaP8.md]
 name: Hal Puthoff
 aliases: [Harold E. Puthoff, Harold Puthoff, Puthoff]
 roles: [researcher, official]
@@ -99,6 +99,67 @@ Puthoff describes the remote viewing protocol applied to financial trading: a vi
 ### Antimaterial / Metamaterial Discussion (Arts Parts)
 When [[bob-lazar]] is raised, Puthoff notes he has reason to be skeptical of Lazar specifically based on ability to check clearances. He confirms examining the bismuth-magnesium material (referenced in [[arts-parts]]) and finding it had genuine anomalous properties: miniaturized waveguide channels below wavelength — sub-wavelength microwave channeling consistent with metamaterial engineering. Puthoff frames this: once you understand metamaterials, you realize such sub-wavelength channeling is achievable — but still extraordinary if produced decades before metamaterials were publicly developed.
 
+## Rogan JRE #2314 — Stargate Origin, Bush-2 Disclosure Workshop, Crash-Retrieval Position (Gf_tKn9TaP8)
+
+The May 2025 169-minute Joe Rogan Experience interview is Puthoff's most extensive popular-audience exposition. Key new or expanded claims:
+
+### The Backster → Swann Cocktail-Party Chain
+Puthoff details the origin chain in his own words: polygraph expert [[cleve-baxter|Cleve Backster]] received Puthoff's algae-culture experiment proposal, brought it to a New York cocktail party, ran into [[ingo-swann|Ingo Swann]], who then wrote to Puthoff suggesting human subjects. The [[1972-sri-quark-detector-session|1972 quark-detector session]] followed within weeks, bringing CIA to SRI within weeks of that.
+
+### Stansfield Turner Soviet Plane in Africa
+Carter CIA director [[stansfield-turner|Stansfield Turner]] challenged the program to find a Soviet plane down in Africa over a hundreds-of-thousands-of-square-miles search area. Two viewers (SRI + Wright-Patterson FTD) placed an X within 3 miles of the actual wreckage. Carter later publicly broke the security in a Georgia speech.
+
+### Bill Casey Five-Hour Briefing
+Reagan CIA director [[bill-casey|Bill Casey]] scheduled 45 minutes, cleared his afternoon, ran the briefing five hours. Cited as a data point for the working hypothesis that top-of-food-chain decision-makers have higher psi receptivity.
+
+### John McMahon and Semipalatinsk
+CIA deputy director [[john-mcmahon|John McMahon]] redirected the program from US scientific demonstration to Soviet operational tasking. Pat Price's [[semipalatinsk|Semipalatinsk]] giant-crane description was the result that converted the program to espionage utility.
+
+### Hella Hammid and the Bell Curve
+SRI lab employee [[hella-hammid|Hella Hammid]] — explicit skeptic — got her first session right on the chain-link freeway overpass. Result: psi is a bell curve, anyone has it to some degree. This justified the Army Intelligence training program.
+
+### Joe McMoneagle and the Typhoon-Class Submarine
+McMoneagle pre-described the [[joe-mcmoneagle|Joe McMoneagle]] Typhoon-class submarine — largest submarine ever built, missile silos on top — about a month before it rolled out publicly. NSC review pivoted from "nonsense" to operational acceptance. McMoneagle received National Merit Award for 200+ sessions.
+
+### Bush-2 Disclosure Workshop (~2004)
+A Washington think-tank head convened Puthoff, his ex-CIA contract monitor, DIA people, and military for a 2–3 day disclosure-impact workshop. Framing: assume US/Russia/China have ET crash-craft and bodies. Score 60+ impact items from −9 to +9. Every group returned negative net (the deep-weeds breakaway-corporation lawsuit scenario drove it negative). Outcome: forget disclosure for now. Bush-2 era specifically.
+
+### Edward Teller's Openness Argument
+The view-flip toward favoring disclosure: [[edward-teller|Teller]]'s observation that nuclear secrecy kept US and USSR in lockstep but electronics openness left USSR in the dust — more openness in security domains wins more than it loses.
+
+### "More Than 10" Crash Retrievals
+On Rogan: "More than 10 in possession of the United States. What about worldwide? We have data, but it's classified." Confirms the US is not the only retrieval nation. Frames [[1947-roswell|Roswell]] as "a true non-human intelligence craft" based on [[eric-davis|Eric Davis]]'s interviews with [[arthur-exon|General Exon]] and Del Roy.
+
+### Arts Parts at Oak Ridge
+Personally routed the [[art-bell|Art Bell]] bismuth-magnesium sample through an Army office to [[aaro|AARO]] to [[oak-ridge-national-laboratory|Oak Ridge National Laboratory]]. Isotopes terrestrial → no proof of off-planet origin. But layered structure (some layers human-hair-thick) has no precedent in materials development; an aerospace contractor managed 2 layers at $1M+ cost and broke their instruments. See [[arts-parts]].
+
+### Compartmentalization Anecdote
+"A corporation had materials from crashes in their basement. They couldn't even bring them up to the top floor for their own scientists to look at because it was so compartmentalized." Puthoff proposed a wash-through scheme; it was shut down.
+
+### 38 DIRD Papers and the Jaywick Server
+Confirmed the [[dird-papers|38-paper DIRD survey]] under the [[bigelow-aerospace|Bigelow Aerospace 2050 cover story]] — none of the authors were told the actual sponsor. Uploaded to the [[jaywick-server|Jaywick]] classified server; takedown attempts were protested, set stayed up indefinitely; most have since been FOIA'd. Titles span warp drive, traversable wormholes, stargates, anti-neutronic fusion propulsion, brain-machine interfaces, metric engineering.
+
+### Travis Walton Endorsement
+Public endorsement of [[1975-travis-walton-abduction|Travis Walton]]: "I think that's a solid story." Cites the polygraph passes of all six co-workers, including the one who had a fistfight with Walton on the day of the event. Keeps a Walton-bobblehead in his office (gifted by Walton).
+
+### Joseph of Cupertino Vacuum-Energy Reading
+[[1628-joseph-cupertino-levitation|Joseph of Cupertino's 1628 levitation]] is Puthoff's preferred clue: ecstatic-state consciousness coherent access to vacuum fluctuations as candidate physics. "That guy didn't have a nuclear power pack on his back." Connects to [[zero-point-energy]] and [[metric-engineering]].
+
+### Active DeJoria Partnership on Quantum Comms
+Disclosed active business partnership with [[john-paul-dejoria|John Paul DeJoria]] on [[subrosa-quantum-communication|quantum-communication]] research using cryogenic Josephson-junction receivers (~3.7 K). Originally proven in principle on a 1990s classified contract; revived because quantum-computing investment matured the detector hardware. Applications: through-shielding comms, submarines, plasma-blackout reentry, microtubule-quantum-consciousness substrate research.
+
+### Mount Ziel Australia
+Recounts the SRI remote viewer (implied [[pat-price|Pat Price]]) UFO-base identification at [[mount-ziel|Mount Ziel]] Australia, and the CIA station-keeper's unprompted reply: "Oh, you mean where the UFOs are always flying around?"
+
+### Pat Price Oval Office Prediction
+First-hand recounting of Price's prediction that Nixon would not finish his second term *and* that VP [[spiro-agnew|Spiro Agnew]] would go first. Both happened (Nixon resignation, Agnew Maryland money-laundering resignation).
+
+### Calleris Island / Colares 1977
+Identifies [[1977-colares-incident|Colares]] (transcribed as "Calleris Island") as the one program-investigated case of clearly negative interaction: 1000+ hours of Brazilian Air Force film, beams that physically harmed villagers over weeks.
+
+### UAP Donation Hypothesis
+Cites [[diana-pasulka|Diana Pasulka]]'s "donations" framing: some recovered craft were not crashes but intact emplacements. Extends to: maybe distributed across US/Russia/China as NHI ISR evaluation of who reverse-engineers fastest. See [[uap-donation-hypothesis]].
+
 ## Sources Where They Appear
 
 - [[09KP8XVf5nY]] — Referenced by [[pippa-malmgren]] in context of Bush-era UAP disclosure discussions
@@ -107,6 +168,8 @@ When [[bob-lazar]] is raised, Puthoff notes he has reason to be skeptical of Laz
 - [[UkKwa4jU0fc]] — present at the recording; discussed potential scientific investigation of the Varginha bacteria and crash site with Dr. Armando Fortunato
 
 ## Connections
+
+- Mentioned in [[3yrKVu35uSE]]
 
 - [[pippa-malmgren]] — Named him in context of Bush-era UAP disclosure deliberations
 - [[george-w-bush]] — Bush-43 NSC under Hadley conducted Three-Body Problem disclosure exercise; Puthoff named in Bush-era deliberations context
@@ -189,3 +252,10 @@ When [[bob-lazar]] is raised, Puthoff notes he has reason to be skeptical of Laz
 - [[iQOibpIDx-4]] — source: Weinstein/Puthoff conversation; most extensive on-record technical exposition
 - Mentioned in [[u7g5Sn1DJF4]]
 - Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[9gLPtRwXgCM]] — gave ~3-hour classified SKIF briefing to AATIP team on unified spacetime/gravity propulsion theory; Elizondo describes it as a collective epiphany; Puthoff also described as "star" of The Program documentary
+- Mentioned in [[OwrDI7GvenQ]] — passed Pat Price's 1973 UFO-base transcripts to Atwater for Project 8200; immediately identified Lawrence Livermore as the site of Atwater's grassy knoll NHI encounter ("there are a lot of incidents reported up there"); suspects he prompted the McMoneagle Mars session; vouched for Ingo Swann's reliability ("Ingo will never lie")
+- [[skip-atwater]] — Atwater's SRI research counterpart; Puthoff came to Fort Meade to evaluate and select Stargate viewer candidates
+- [[sugar-grove-naval-station]] — Puthoff was present for the "Awakening" moment when Pat Price off-target described the classified Navy station
+- [[pat-price]] — SRI remote viewer who identified four UFO-base mountains; Puthoff held Price's 1973 transcripts and passed them to Atwater
+- Mentioned in [[dre-5Zy4f7c]]
+- [[american-alchemy]] — primary platform where Puthoff's work is discussed across the KB; covered across multiple episodes: Stargate origins, SKIF briefing, Zanesville metal, stock-market RV, Three-Body Problem disclosure exercise, and Skinwalker SCIF silence

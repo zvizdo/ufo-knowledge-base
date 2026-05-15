@@ -34,3 +34,4 @@ Edwards' black aircraft program provides the most credible mundane explanations 
 - [[credibility-frameworks]] — the "it was an advanced aircraft" counter-claim originates here; knowing Edwards' program is necessary to weight this counter-claim
 - [[1954-eisenhower-ufo-meeting]] — alleged meeting site (contested)
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]

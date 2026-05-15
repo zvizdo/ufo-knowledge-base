@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "New Hampshire postal worker; with wife Betty Hill, subject of the 1961 abduction case; his pre-hypnosis 'original statements' about the entity face are cited as potentially distinct from the post-hypnosis accounts."
-sources: [raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/fyX8V1XXmQM.md]
+sources: [raw/youtube-transcripts/ABw7EsWh2Us.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: Barney Hill
 aliases: [Barney, Hill]
 roles: [witness]
@@ -47,3 +47,4 @@ Barney Hill's granddaughter is **[[angela-hill]]** — UFC strawweight fighter. 
 - [[michael-p-masters]] — uses Barney's reproductive procedure disclosure as a data point
 - [[Y26iMB0r-f8]] — source (Masters episode)
 - Mentioned in [[Hc6pbG4wICA]]
+- Mentioned in [[h8vjx6-ZFvI]]

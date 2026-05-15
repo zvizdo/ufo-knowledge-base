@@ -46,3 +46,4 @@ AFOSI also targeted [[linda-moulton-howe]] in 1982, feeding her fabricated presi
 - [[flood-the-zone-disinfo]] — the operational doctrine the Benowitz operation exemplifies
 - [[mario-woods]] — [[rick-doty]] appeared at Woods's 1977 Ellsworth debrief, connecting AFOSI to nuclear-site CE3 cases
 - [[WBTqsbwJyqU]] — source
+- Mentioned in [[dow-uap-d51-email-correspondence-pacific-time-zone-2023-03-23]] — AFOSI IIR for civilian blue triangle UAP near national security facility (Pacific TZ, Mar 2023); OSI CI Collections PM approved derivative classification review for UNCLASSIFIED summary

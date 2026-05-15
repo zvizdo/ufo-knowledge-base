@@ -31,4 +31,4 @@ Flight surgeon [[greg-rogers]], who witnessed the [[1992-cape-canaveral-saucer]]
 - [[egng]] — major contractor at Cape Canaveral/KSC
 - [[nasa]] — primary tenant agency
 - [[recurring-claims]] — auto-added during 2026-05-03 maintenance pass for constitution compliance; verify and refine
-
+- Mentioned in [[dow-uap-d49-vandenberg-launch-summary-1958-2000]]

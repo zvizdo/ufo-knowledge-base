@@ -41,3 +41,4 @@ The Podesta email leaks (2016) included correspondence with astronaut [[edgar-mi
 - [[fast-walkers]] — referenced in a Wikileaks email exchange with aerospace contractor [[bob-fish]], describing fast walkers as "vehicles moving through our outer layer of defense" (the NORAD/DSP detection layer)
 - [[bob-fish]] — aerospace contractor in the Wikileaks email chain; the counterparty to Podesta's fast walkers email
 - [[DPmO-2E7Ayg]] — Shellenberger and Michaels cite this email as evidence that UAP awareness at the political/contractor nexus extends to the outer-defense-layer phenomena
+- Mentioned in [[dre-5Zy4f7c]]

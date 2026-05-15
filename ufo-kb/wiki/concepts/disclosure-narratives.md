@@ -63,15 +63,20 @@ Key implication: neither the government nor the public "owns" the disclosure tra
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - [[ufo-secrecy-cabal]] — the structural entity that disclosure narratives are about
 - [[catastrophic-disclosure-fear]] — the motivational logic behind Narrative 5/3
 - [[lue-elizondo]] — operates within Narrative 1 (managed disclosure path)
 - [[david-grusch]] — operates within Narrative 4 (genuine reveal through legal channels)
+- [[garry-nolan]] — Sol Foundation co-founder; Nolan's scientific-credentialing approach (peer-reviewed metamaterial analysis, congressional briefings) is the scientist-led variant of Narrative 1 managed disclosure
 - [[harold-malmgren]] — provides Narrative 5 (competitive pressure) and Narrative 2 (structural opacity)
 - [[hal-puthoff]] — Puthoff is a primary architect of Narrative 1 (managed disclosure): AATIP, TTSA, congressional briefings are his institutional vehicles; his DIRD papers are the technical backbone of the managed-release track
 - [[ralph-blumenthal]] · [[leslie-kean]] — Narrative 4 actors (journalist-forced release)
 - [[marco-rubio]] · [[john-ratcliffe]] — Narrative 4 political actors
 - [[aaro]] — officially Narrative 1; behaviorally consistent with Narrative 2 per critics
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — the 21-year trajectory from active investigation (1947) to routine suppression (1950s) to civilian-organization surveillance (1960s) is a primary-source longitudinal case study of the disclosure-suppression cycle
 - [[jacques-vallee]] — 38 shared context nodes; his 50-year direct field investigation represents the Narrative 4 alternative to waiting for government release; his frustration with the DIA/BAASS template (trajectory/composition) is a canonical critique of Narrative 1's limitations
 - [[condon-commission-whitewash]] — historical example of Narrative 2 (managed null result)
 - [[astronomical-data-suppression]] — evidence pattern that fits Narrative 1 or 2 depending on interpretation
@@ -117,3 +122,10 @@ Key implication: neither the government nor the public "owns" the disclosure tra
 - Mentioned in [[Hc6pbG4wICA]]
 - [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett's disclosure prediction: report will be theatrical, loaded with redactions; congressional exposure tradition
 - Mentioned in [[vZEcVY2iZsk]]
+- Mentioned in [[9gLPtRwXgCM]]
+- Mentioned in [[R8TqBrrqL4U]] — Grusch identifies contractor FAR violation exposure as the primary structural barrier to disclosure; Sol Foundation TRC model as a proposed disclosure narrative framework
+- Mentioned in [[dre-5Zy4f7c]]
+- Mentioned in [[h8vjx6-ZFvI]]
+- Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]
+- Mentioned in [[dos-1952-07-18-increased-ufo-reports-memo]] — Maxwell Hunter II (NASC, 1963): "no one of consequence is going to take this rubbish seriously unless it happens. At that point, our policy will be determined in the traditional manner of grand panic" — 1963 government prediction of reactive disclosure

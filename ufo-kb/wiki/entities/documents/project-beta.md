@@ -33,6 +33,7 @@ Bishop conducted original interviews with Rick Doty, who ultimately confirmed th
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[rick-doty]] — primary subject; the operative
 - [[paul-benowitz]] — primary victim; the target
 - [[greg-bishop]] — author; conducted interviews with Doty, Moore, Benowitz, and Valdez

@@ -19,7 +19,7 @@ Administrator who ran the CIA psychic spy program ([[stargate-program]]) during 
 
 **Significance in remote-viewing history**: Graf's decision to use Rosemary Smith on this mission, and the result it produced, is cited in [[stargate-program]] histories as one of the program's most operationally significant successes — particularly because the scale of the task (entire continent, no pre-narrowing) made the result hard to attribute to chance or cold reading. The success was also a driver of continued CIA funding for the Stargate program through the 1970s and 1980s.
 
-**Relationship to program history**: Graf sits in the chain of Stargate administrators between Hal Puthoff's early SRI phase and the later Army-administered phases run by figures like [[joseph-mcmoneagle]]. His role is operational administrator rather than researcher — making tasking decisions, not running lab protocols.
+**Relationship to program history**: Graf sits in the chain of Stargate administrators between Hal Puthoff's early SRI phase and the later Army-administered phases run by figures like [[joe-mcmoneagle]]. His role is operational administrator rather than researcher — making tasking decisions, not running lab protocols.
 
 ## Connections
 
@@ -27,7 +27,7 @@ Administrator who ran the CIA psychic spy program ([[stargate-program]]) during 
 - [[rosemary-smith]] — the remote viewer he tasked; produced the 3-square-mile Zaire result
 - [[jimmy-carter]] — cited the Rosemary Smith result as the most remarkable thing of his presidency
 - [[hal-puthoff]] — program predecessor; SRI remote-viewing research phase
-- [[joseph-mcmoneagle]] — primary operational remote viewer in the same program era
+- [[joe-mcmoneagle]] — primary operational remote viewer in the same program era
 - [[remote-viewing]] — the broader concept class; the Rosemary Smith Africa result is one of its most cited operational successes
 - [[RofQnByLwOo]] — source; eQIMantuasQ
 

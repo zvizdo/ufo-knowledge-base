@@ -46,4 +46,5 @@ Rylance was found at a **petrol station 790 km away**. During her time on the cr
 - [[michael-p-masters]] — uses case as anatomical and temporal evidence
 - [[abduction-phenomena]] — taxonomic category
 - [[phenomenology-categories]] — CE4 classification
+- [[1957-antonio-villas-boas]] — founding parallel abduction case with biological/reproductive context; Villas Boas involved sexual contact with human-appearing female entity; both cases cited by Masters
 - [[Y26iMB0r-f8]] — source

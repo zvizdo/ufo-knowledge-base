@@ -32,3 +32,4 @@ The Condon Committee (formally the Scientific Study of Unidentified Flying Objec
 - [[uap-suppression]] — Condon Report as a suppression mechanism
 - [[credibility-frameworks]] — the report's legacy in structuring UAP credibility discourse
 - [[robertson-panel]] — 1953 CIA study that preceded and shaped the political context
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]

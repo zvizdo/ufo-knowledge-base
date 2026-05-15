@@ -50,6 +50,7 @@ No direct UAP connection established for Nixon personally. Contextually: Nixon t
 
 ## Connections
 
+- Mentioned in [[2NVDCtSxIac]]
 - [[allen-dulles]] — key figure who allegedly activated the S Force against JFK; Nixon created the conditions; Dulles pulled the trigger
 - [[santos-trafficante]] — the Mafia end of the S Force pipeline that Nixon initiated
 - [[theodore-shackley]] — CIA operative who Sheehan connects to the Miami operation; Miami Station Chief on Nov 22, 1963

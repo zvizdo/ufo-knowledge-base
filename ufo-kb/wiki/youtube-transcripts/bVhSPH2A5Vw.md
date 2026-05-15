@@ -266,7 +266,7 @@ his entry into UAP research in the early 1990s through the forthcoming [[the-pro
 ## Project Stargate
 
 - Fox describes the DIA's remote viewing program: funded 1972–1995, renewed every single year despite controversy
-  - [[joseph-mcmoneagle]] won a Legion of Merit for over 200 contributing intelligence cases
+  - [[joe-mcmoneagle]] won a Legion of Merit for over 200 contributing intelligence cases
   - Statistician [[jessica-utts|Jessica Utts]] (Stanford) and skeptic [[ray-hyman|Ray Hyman]] (Oregon) reviewed declassified data post-2017 and concluded: "there's something here that's unexplainable"
 - President Carter: CIA used a psychic from California without his knowledge to locate a downed US government plane in Zaire
   - Psychic entered a trance, gave specific latitude and longitude coordinates
@@ -473,3 +473,4 @@ his entry into UAP research in the early 1990s through the forthcoming [[the-pro
 - [[haim-eshed]] — Galactic Federation claim; media cannot process it
 - [[bud-hopkins]] — experiencers all drew same ship-wall symbol; most compelling abduction evidence Fox encountered
 - [[garry-nolan]] — Nobel nominee; entities at foot of bed as a child
+- Mentioned in [[h8vjx6-ZFvI]]

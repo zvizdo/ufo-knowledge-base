@@ -33,7 +33,7 @@ tags: [hal-puthoff, eric-weinstein, geometric-unity, aatip, stargate, remote-vie
 
 [[skinwalker-ranch]] · [[area-51]] · [[wright-patterson]]
 
-[[2004-tic-tac-nimitz]] · [[1952-washington-dc-flyover]] · [[arts-parts]]
+[[2004-nimitz-tic-tac]] · [[1952-washington-dc-flyover]] · [[arts-parts]]
 
 ## Concepts and Claims Engaged
 
@@ -103,7 +103,7 @@ tags: [hal-puthoff, eric-weinstein, geometric-unity, aatip, stargate, remote-vie
 - [[gravity-research-foundation]] — Babson + Whitten thread; 1950s anti-gravity Golden Age that "quieted down" or "went black"
 
 ### Incidents
-- [[2004-tic-tac-nimitz]] — Puthoff saw videos at Pentagon pre-release; "there are more videos, some are better"
+- [[2004-nimitz-tic-tac]] — Puthoff saw videos at Pentagon pre-release; "there are more videos, some are better"
 - [[1952-washington-dc-flyover]] — H-bomb trigger hypothesis; triggered Robertson Panel; [[project-blue-book|Blue Book]] divergence point
 - [[arts-parts]] — Roswell bismuth-magnesium piece; miniaturized waveguide channels below wavelength; Puthoff analysis
 

@@ -55,3 +55,4 @@ Not mentioned in the NASA UAP Commission report. Knuth lists this alongside the 
 - [[IWui5cBkwoE]] — source summary
 
 - Synthesized in [[knuth-academic-uap-science-cluster]]
+- Mentioned in [[nasa-uap-d7-skylab-technical-crew-debriefing-1973]] — Gemini 11 CDR Pete Conrad commanded SL-2 and documented cosmic ray phosphenes in the same Skylab debrief series; Conrad's space career spans both incidents

@@ -36,5 +36,6 @@ Compiled primarily from FOIA-released contract documentation and Senate-hearing 
 - [[mk-ultra]] — primary subject
 - [[mk-ultra-mind-control-ecosystem]] — synthesis page
 - [[the-controllers-martin-cannon]] — adjacent precursor analysis
+- [[martin-cannon]] — author of The Controllers; his thesis that abductions are MK-Ultra cover is the direct precursor to Ross's institutional documentation
 - [[abduction-phenomena]] — adjacent phenomenon class Ross's network is hypothesized to overlap with
 - [[recurring-claims]] — institutional-mind-control claims-cluster

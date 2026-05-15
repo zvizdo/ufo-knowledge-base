@@ -371,7 +371,7 @@ Rogan's unified theory (end of episode):
 - [[warren-commission]] — Allen Dulles conflict of interest; contrasted with Malmgren's deathbed account
 
 ### Incidents
-- [[2004-tic-tac-nimitz]] — Puthoff saw additional videos at Pentagon pre-release; "some are better"
+- [[2004-nimitz-tic-tac]] — Puthoff saw additional videos at Pentagon pre-release; "some are better"
 - [[1967-apollo-1-fire]] — Grissom killed after press conference lemon incident; CIA on launch pad night before
 - [[tayos-cave]] — Armstrong's 1975 BBC expedition; von Däniken connection; chosen as second mission after the moon
 - [[1952-washington-dc-flyover]] — H-bomb signal hypothesis; [[robertson-panel|Robertson Panel]] triggered systematic UAP downplaying

@@ -104,3 +104,5 @@ EG&G's "no records" of Lazar is consistent with the systematic credential and em
 - [[deep-state-continuity]] — EG&G's continuous presence across AEC → DOE → Area 51 → Cape Canaveral → private labs makes it a primary vehicle for institutional knowledge transmission
 - [[TNtlzEnl8rA]] — Primary source for this record
 - Mentioned in [[BEWz4SXfyCQ]]
+
+- Mentioned in [[dow-uap-d48-modeling-space-booster-failures-1996-09]]

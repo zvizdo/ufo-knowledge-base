@@ -59,3 +59,4 @@ This is the most direct corporate-level implicit admission in the KB. Coulthart 
 - [[ATJwqp5twAg]] — additional source (Gaffney allegation from congressional testimony)
 - [[V00WcEiKRAY]] — Coulthart executive source; spacecraft transfer narrative
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[dre-5Zy4f7c]]

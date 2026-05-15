@@ -366,3 +366,5 @@ Corbell and Rogan discuss whether UAPs choose to be observed:
 - [[credibility-frameworks]] — Lazar 31-year non-profit; Knapp 30+ year investigation; Boeing contractor
 - [[element-115]] — 1989 claim vindicated by 2013 synthesis
 - [[gravity-manipulation-propulsion]] — GIMBAL self-rotation; Boeing contractor assessment
+- [[dre-5Zy4f7c]] — later JRE with same Knapp+Corbell guests; extends Russia, Lazar, and NDAA content covered in the 2020 episode
+- Mentioned in [[h8vjx6-ZFvI]]

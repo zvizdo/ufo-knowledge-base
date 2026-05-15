@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "US Air Force intelligence officer and NRO analyst who became the most prominent UAP whistleblower of the modern era, testifying before Congress in 2023 about a non-human intelligence retrieval program."
-sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/HxQN2tkQHs8.md, raw/youtube-transcripts/LnAiNChnuEQ.md, raw/youtube-transcripts/TH10mD9hQas.md, raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/ePdH01pphbk.md, raw/youtube-transcripts/h0hAit-KH9A.md, raw/youtube-transcripts/kRO5jOa06Qw.md]
+sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/HxQN2tkQHs8.md, raw/youtube-transcripts/LnAiNChnuEQ.md, raw/youtube-transcripts/TH10mD9hQas.md, raw/youtube-transcripts/Y26iMB0r-f8.md, raw/youtube-transcripts/ePdH01pphbk.md, raw/youtube-transcripts/h0hAit-KH9A.md, raw/youtube-transcripts/kRO5jOa06Qw.md, raw/youtube-transcripts/R8TqBrrqL4U.md]
 name: David Grusch
 aliases: [Grusch]
 affiliations: [USAF, NRO, UAP Task Force]
@@ -122,6 +122,9 @@ Grusch also mentions that some craft appear to have been "gifted" rather than cr
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - [[lue-elizondo]] — fellow modern disclosure figure; both reference AATIP-era evidence; Elizondo cites Grusch as a corroboration benchmark in [[1f16VvXaSSE]]
 - [[1933-magenta-crash]] — He made this case public in 2023; Bismell had named it to Malmgren decades earlier
 - [[richard-bissell]] — Independent early corroboration of Grusch's Magenta claim
@@ -145,6 +148,7 @@ Grusch also mentions that some craft appear to have been "gifted" rather than cr
 - [[6WC4o2yY9Ws]] — Graves's characterization of Grusch at the hearing
 - [[nazca-tridactyl-mummies]] — privately confirmed to Rep. [[eric-burlison|Eric Burlison (Berles)]] that some mummy physiology is "congruent with what he has seen in classified briefings"; qualification: "not all of them, some are faked"
 - [[HxQN2tkQHs8]] — source (hearsay via Berles)
+- [[garry-nolan]] — co-speaker at Sol Foundation inaugural symposium (November 2023); Nolan's peer-reviewed materials analysis is the complementary scientific track to Grusch's programmatic testimony
 - [[hal-puthoff]] — Puthoff consulted extensively with Grusch; briefed Grusch ~2 years after Davis
 - [[eric-davis]] — primary data source for Grusch's investigation; transferred complete NIDS/BASS/AAWSAP dataset
 - [[jay-stratton]] — introduced Grusch to Davis; Grusch worked under Stratton in UAPTF
@@ -166,7 +170,7 @@ Grusch also mentions that some craft appear to have been "gifted" rather than cr
 - Synthesized in [[nazca-mummies-evidence-map]]
 
 - Synthesized in [[uap-camera-evasion-problem]]
-
+- Mentioned in [[dre-5Zy4f7c]]
 ## NHI Weapons-Race Claim (ePdH01pphbk)
 
 In [[ePdH01pphbk]], [[jesse-michaels]] flags a detail he says was frequently overshadowed by the more sensational headlines in Grusch's whistleblower testimony: that there was **an ongoing Cold War to reverse engineer the non-human technology found, with the US competing against adversaries like China and Russia to produce the first modern super-weapons from it**. Grusch's noted caveat: "You'd have to be willing to reveal your ace in the hole tech, because once you use it, then you burn it — and then now everybody knows."

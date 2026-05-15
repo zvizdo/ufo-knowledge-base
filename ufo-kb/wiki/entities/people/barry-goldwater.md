@@ -46,3 +46,4 @@ Goldwater held USAF Reserve commission at Major General rank, had the political 
 - [[credibility-frameworks]] — firsthand, high-credibility institutional access attempt; LeMay's reaction elevates the evidential weight
 - [[disclosure-narratives]] — Goldwater's case illustrates the limits of congressional oversight as a disclosure pathway
 - [[jesse-marcel]] — Marcel personally recovered the Roswell debris that ended up at Wright-Patterson; Goldwater was the senator who couldn't access what Marcel's discovery produced; together they bookend the cover-up
+- Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]

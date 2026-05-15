@@ -7,7 +7,7 @@ roles: [official, researcher]
 affiliations: [UAP Task Force, DIA, NRO-adjacent]
 firsthand_claims: []
 first_seen_in: raw/youtube-transcripts/LnAiNChnuEQ.md
-sources: [raw/youtube-transcripts/LnAiNChnuEQ.md]
+sources: [raw/youtube-transcripts/LnAiNChnuEQ.md, raw/youtube-transcripts/dre-5Zy4f7c.md]
 tags: [uap-task-force, disclosure, david-grusch, eric-davis, government-uap-investigation]
 ---
 
@@ -44,3 +44,4 @@ Stratton's introduction of Davis to Grusch is the operational link that explains
 - [[LnAiNChnuEQ]] — source
 - [[credibility-frameworks]] — Stratton is a government official whose institutional role validates the Davis-Grusch information chain
 - [[1iaH1a3A4Lk]] — cited as example of misidentification running "all the way up the chain": presented a slide of three stars to Congress as triangular drones
+- Mentioned in [[dre-5Zy4f7c]]

@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "US Air Force general and head of Strategic Air Command; Cold War hawk who pressed for first-strike options during the Cuban Missile Crisis; reportedly held deep UAP knowledge and prevented its disclosure."
-sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/ABw7EsWh2Us.md]
+sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/ABw7EsWh2Us.md, raw/documents/dow-general-flying-disc-files-1946-1948.md]
 name: Curtis LeMay
 aliases: [Curtis Emerson LeMay, LeMay]
 roles: [military-official, witness]
@@ -42,3 +42,4 @@ Malmgren's account of being present at the highest levels of Cuban Missile Crisi
 - [[1947-roswell]] — his command of the 59th Atomic Bomber Squadron at Roswell is cited as evidence by Jorjani
 - [[nazi-ufo-hypothesis]] — LeMay's Roswell role is one plank of the Nazi psyop interpretation
 - [[ABw7EsWh2Us]] — second source; Roswell squadron commander claim
+- Mentioned in [[dow-general-flying-disc-files-1946-1948]] — signed 29 Aug 1947 routing form confirming "AAF has no research project with the characteristics described" in disc reports

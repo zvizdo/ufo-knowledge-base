@@ -42,6 +42,8 @@ This account, if accurate, identifies Julian Barnes (NYT) as an institutional bl
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
 - [[ralph-blumenthal]] — co-author of the 2017 NYT article
 - [[aatip]] — program revealed by the article
 - [[2015-gimbal]] — one of the videos released alongside the NYT article

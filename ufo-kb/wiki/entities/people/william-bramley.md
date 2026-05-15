@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Researcher who started investigating war profiteering and found UFOs; wrote 'The Gods of Eden' (1989) connecting UFO sightings to the Black Death, arguing plague-delivery entities using spray canisters created the Grim Reaper iconography."
-sources: [raw/youtube-transcripts/EzPmG_7WhXc.md]
+sources: [raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/dre-5Zy4f7c.md]
 name: William Bramley
 aliases: []
 roles: [researcher]
@@ -43,3 +43,4 @@ Bramley is praised for doing archival research rather than relying on secondary 
 - [[we-are-property]] — Bramley arrives at a similar conclusion about managed humanity
 - [[jacques-vallee]] — Vallée's *Wonders in the Sky* reprints Charlemagne-era broadsheets Bramley also analyzed; Magonia thesis overlaps
 - [[EzPmG_7WhXc]] — source transcript
+- Mentioned in [[dre-5Zy4f7c]]

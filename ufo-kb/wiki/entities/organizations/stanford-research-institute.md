@@ -5,7 +5,7 @@ type: research-group
 parent_org: ""
 country: USA
 active_period: "1946–present"
-sources: [raw/youtube-transcripts/vZEcVY2iZsk.md]
+sources: [raw/youtube-transcripts/vZEcVY2iZsk.md, raw/youtube-transcripts/OwrDI7GvenQ.md]
 tags: [remote-viewing, psi, stargate, government-contract, consciousness]
 ---
 
@@ -38,6 +38,9 @@ The primary institutional home of the early remote-viewing research program. Hal
 - [[ingo-swann]] — primary subject
 - [[remote-viewing]] — core methodology
 - [[EzPmG_7WhXc]] — referenced in Jorjani episode
+- Mentioned in [[OwrDI7GvenQ]] — primary locus of CIA-funded remote viewing research; Atwater's account provides the most detailed description of SRI's evaluation protocols, Sugar Grove incident (Pat Price off-target session), and the "Awakening" moment for SRI scientists; Puthoff and Targ came to Fort Meade to evaluate Army viewer candidates
+- [[skip-atwater]] — Army operations officer who worked in partnership with SRI; sent Stargate viewer candidates to SRI for evaluation
+- [[sugar-grove-naval-station]] — the accidental off-target discovery that validated SRI's program and simultaneously triggered a security investigation
 - [[JpLThEF2dTM]] — McMoneagle context
 - [[jacques-vallee]] — was at SRI before Puthoff and Targ arrived; ARPANET engine #3; VP told Vallée to keep quiet about UFO research or be fired
 - [[vZEcVY2iZsk]] — Vallée describes his time at SRI; ARPANET engine #3 context; VP confrontation over UFO research; Puthoff and Targ arrived ~1974 with a parapsychology proposal after Vallée was already there

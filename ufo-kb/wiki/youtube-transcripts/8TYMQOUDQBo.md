@@ -69,7 +69,7 @@ First in-person interview with [[salvatore-pais]], [[us-navy|US Navy]] physicist
 - [[bryce-dewitt]] — physicist; 1968 paper on superconductors and gravitational drag; Pais says "no comment" when asked if this connects to his work
 - [[john-wheeler]] — attended the 1957 Chapel Hill conference; cited in context of energy density / spacetime geometry
 - [[pat-price]] — cited re: remote viewing teams still operating post-1995
-- [[joseph-mcmoneagle]] — won Legion of Merit for 200+ intelligence-collection successes via remote viewing; Pais invokes as evidence the program never truly ended
+- [[joe-mcmoneagle]] — won Legion of Merit for 200+ intelligence-collection successes via remote viewing; Pais invokes as evidence the program never truly ended
 
 ### Organizations
 - [[naval-intelligence]] / US Navy — Pais's employer
@@ -207,7 +207,7 @@ First in-person interview with [[salvatore-pais]], [[us-navy|US Navy]] physicist
 - [[bryce-dewitt]] — 1968 paper on superconductors and gravitational drag; Pais's "no comment" implies classified connection
 - [[john-wheeler]] — attended 1957 Chapel Hill conference; spacetime geometry and energy density context
 - [[pat-price]] — cited as evidence remote viewing teams continued operating post-1995 nominal shutdown
-- [[joseph-mcmoneagle]] — Legion of Merit for 200+ intelligence successes via remote viewing; program never truly ended
+- [[joe-mcmoneagle]] — Legion of Merit for 200+ intelligence successes via remote viewing; program never truly ended
 - [[frontiers-of-propulsion-science]] — landmark co-edited by Davis and Millis; Pais's personal copy
 - [[2024-langley-incursion]] — if no one killed → man-made; mothership hypothesis; Pais's attribution logic
 - [[ufo-nuclear-nexus]] — UAP battlefield preparation hypothesis: nukes tested to gauge humanity's readiness

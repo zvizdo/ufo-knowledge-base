@@ -26,3 +26,4 @@ On **March 22, 1989**, Huff and [[john-lear]] accompanied Lazar and used a Celes
 - [[1989-papoose-lake-observations]] — the March 22 observation event
 - [[credibility-frameworks]]
 - [[d9tdJ2SkBKQ]] — present at Dennis Mariani casino meeting; confirmed that Mariani refused to make eye contact with Lazar despite Lazar repeatedly addressing him; Huff observed from across room and his report corroborates the encounter was genuine; met John Lear during real estate appraisal, which is how Lazar was introduced to Lear
+- Mentioned in [[dre-5Zy4f7c]]

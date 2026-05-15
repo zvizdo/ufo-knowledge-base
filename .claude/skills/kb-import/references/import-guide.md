@@ -171,6 +171,95 @@ Before declaring done, also eyeball the entity count against runtime:
 
 Numbers well below the rough range are a smell even if the line count passes — it may mean the lines are padding (section headers, blank-ish bullets) rather than content. Use judgment.
 
+### THIN DOCUMENTS (< 100 source lines)
+
+AARO range fouler debriefs, short mission reports, and single-page administrative docs
+are heavily redacted forms where most lines are table structure or boilerplate. A single-
+pass extraction yielding 8–12 lines is correct — do not pad with inferred content.
+
+**Floor rule:** target = max(8, source_lines / 80) summary lines. A 63-line range fouler
+debrief floors at 8 lines; a 2,700-line COMETA report targets ≥ 34 lines.
+
+**What to extract from thin docs:**
+- All factual metadata: agency, date, time (DTG), location (named area or lat/long),
+  sensor type (FMV, radar, visual, IR), platform callsign prefix (even if redacted)
+- The UAP observation text verbatim — usually in a "Gentext/Observation", "Mission
+  Narrative", or numbered item section. Prioritize this even when the rest is redacted.
+- Shape/size/speed/behavior descriptors (check-box fields on range fouler forms: round /
+  balloon-shaped / moving, metallic / translucent, apparent propulsion, etc.)
+- Resolution: "possible missile," "possible bird," "unknown," or blank (blank = unresolved)
+- Classification + release authority (declassification date or MDR number)
+
+**What to skip in thin docs:**
+- ACEQUIP form fields (radar software load, RWR designator, ECM name) — no KB value
+- Repeated classification headers (`SECRET//REL TO USA, FVEY`) throughout the form
+- Admin POC fields: redacted names `(b)(6)`, phone numbers, email fields
+- Form instruction text ("Please complete this form to the best of your ability…")
+- OCR artifacts and multilingual watermark noise
+
+**Stub incident entities from thin docs:**
+Even if a mission report yields only 3 readable facts (date, location, object count),
+create an incident stub: `wiki/entities/incidents/YYYY-<theater>-aaro-<docid>.md`.
+That stub becomes a graph node future imports can link to when more context emerges.
+
+### GOV-RELEASE batch sequencing
+
+The 2026 gov-release batch (69 files, staged in `raw/documents/`) should be processed
+in 4 tiers to maximize early graph density. Tier 1 files anchor the graph with hundreds
+of new entities; when Tier 2–4 files reference the same places, people, and incidents,
+`disambiguate.py` resolves them to existing slugs rather than creating duplicates.
+
+**Tier 1 — Landmark documents (7 files, dedicated sessions each)**
+
+Files > 2,000 source lines; use the chunking rule from the LARGE sources section above.
+Process one file per import session:
+
+1. `fbi-62-hq-83894-ufo-investigations-1947-1968.md` (66K lines) — chunk by Section N
+   dividers (`<!-- END OF SECTION N -->`). Produce a per-section source-summary plus a
+   master summary aggregating all 9 sections.
+2. `usaf-blue-book-era-incident-summaries-box-7.md` (11.8K lines) — chunk by incident
+   ranges (1–80, 81–160, 161–233); one consolidated source-summary.
+3. `usaaf-1949-flying-discs-box186-incident-reports.md` (3.7K lines) — two passes.
+4. `dow-uap-d48-modeling-space-booster-failures-1996-09.md` (3.7K lines) — chunk by section.
+5. `dow-uap-d49-vandenberg-launch-summary-1958-2000.md` (3K lines) — two passes.
+6. `cometa-ufos-and-defense-what-should-we-prepare-for.md` (2.7K lines) — chunk by Part
+   (Part 1: cases/testimonies, Part 2: scientific org, Part 3: hypotheses).
+7. `dow-general-flying-disc-files-1946-1948.md` (2.2K lines) — single pass or two passes.
+
+**Tier 2 — Substantial documents (~15 files, 2–3 per session)**
+
+Files 200–2,000 source lines; single-pass extraction. Group thematically related files in
+one session (e.g. all NASA files together, all DoS cables together):
+
+- Historical FBI: `fbi-germany-1957-krasuski-circular-vertical-object.md`,
+  `fbi-detroit-1958-circular-object-crystal-dome.md`,
+  `fbi-september-2023-uap-sighting-us-transport-facility.md`,
+  `fbi-western-us-late-2025-uap-investigation.md`
+- Historical military: `dow-1945-03-shaef-foo-fighters-german-armament.md`,
+  `usaf-1948-11-netherlands-flying-saucers-intel-report.md`,
+  `usaf-1955-10-azerbaijan-unconventional-aircraft.md`
+- NASA: `nasa-uap-d1` through `nasa-uap-d7`
+- DoS cables: `dos-uap-d1` through `dos-uap-d5`,
+  `dos-1952-07-18-increased-ufo-reports-memo.md`,
+  `dos-1963-07-18-executive-office-nasc-memo.md`
+- Larger AARO mission reports: `dow-uap-d74`, `dow-uap-d23`, `dow-uap-d32`,
+  `dow-uap-d19`, `dow-uap-d65`, `dow-uap-d75`, `dow-uap-d25`, `dow-uap-d14`
+- Other: `western-us-event-slides-2023-incident-released-2026-05-08.md`
+
+**Tier 3 — Standard AARO forms (~10 files, 5–8 per session)**
+
+Files 100–400 source lines; moderate redaction. Each gets its own source-summary + one
+incident stub entity. Batch 5–8 files per session with a shared seed-pull on AARO/CENTCOM themes.
+
+**Tier 4 — Thin forms (~20 files, 10–15 per session)**
+
+Files < 100 source lines; apply thin-document floor rule above. Batch:
+- All `dow-uap-d*-range-fouler-*` files
+- `dow-uap-d4` through `dow-uap-d8`, `dow-uap-d54`
+- `dow-uap-d50-email-correspondence-indopacom-2025-04.md`
+- `dow-uap-d52-email-correspondence-na-2024-10-31.md`
+- `dow-uap-pr20-unresolved-uap-report-kuwait-2022-05.md`
+
 ### OFF-TOPIC sources
 
 Not every source the user hands in deserves a full import. The CONSTITUTION's domain section excludes pure off-topic content; an off-topic-skipped registry at `{KB_ROOT}/imports/off-topic-skipped.md` makes those decisions persistent.

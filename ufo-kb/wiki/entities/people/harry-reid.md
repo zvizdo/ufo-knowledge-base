@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "U.S. Senator (Nevada, D); primary congressional champion of AATIP funding; leveraged relationships with Ted Stevens and Dan Inouye to secure the black-budget line item; one of the few politicians to have genuinely pushed the UAP issue from inside Congress."
-sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/LnAiNChnuEQ.md]
+sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/LnAiNChnuEQ.md, raw/youtube-transcripts/R8TqBrrqL4U.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
 name: Harry Reid
 aliases: [Reid]
 roles: [official]
@@ -43,6 +43,8 @@ Davis does not question Reid's sincerity — he understands Reid genuinely wante
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
 - Mentioned in [[1f16VvXaSSE]]
 - [[aatip]] — the program he funded; his signature legislative achievement in the UAP space
 - [[lue-elizondo]] — Elizondo ran AATIP; Reid's funding made the program possible
@@ -57,3 +59,5 @@ Davis does not question Reid's sincerity — he understands Reid genuinely wante
 - [[bass]] — the AAWSAP contractor that would have benefited from SAP elevation
 - Mentioned in [[BEWz4SXfyCQ]]
 - Mentioned in [[Hc6pbG4wICA]]
+- Mentioned in [[dre-5Zy4f7c]]
+- Mentioned in [[h8vjx6-ZFvI]]

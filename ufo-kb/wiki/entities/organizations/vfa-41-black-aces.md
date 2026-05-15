@@ -26,6 +26,6 @@ US Navy carrier-based strike fighter squadron flying F/A-18F Super Hornets, base
 - [[david-fravor]] — Commanding Officer of VFA-41 during the 2004 encounter; primary Tic-Tac witness
 - [[2004-nimitz-tic-tac]] — the encounter during VFA-41's deployment
 - [[alex-dietrich]] — second VFA-41 crew member; simultaneous independent witness
-- [[2004-tic-tac-nimitz]] — the Nimitz Carrier Strike Group UAP incident during VFA-41's deployment
+- [[2004-nimitz-tic-tac]] — the Nimitz Carrier Strike Group UAP incident during VFA-41's deployment
 - [[credibility-frameworks]] — Fravor's CO status as a key credibility anchor
 - [[marik-von-rennenkampff]] — cited VFA-41's prestige in credibility analysis

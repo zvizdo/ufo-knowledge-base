@@ -22,3 +22,6 @@ Key implication: if UAP are conducting battle-space preparation, then the operat
 - [[uap-national-security-threat]] — the broader threat-classification question of which UAP are the hypothesis's context
 - [[five-observables]] — the performance characteristics that make UAP militarily interesting (and threatening)
 - [[ufo-secrecy]] — if UAP are adversarial, the secrecy rationale shifts from embarrassment to genuine operational security
+- Mentioned in [[fbi-western-us-late-2025-uap-investigation]] — orbs broke off pursuit of helicopter and redirected to pursue arriving military aircraft; consistent with military-capability surveillance pattern; western US 2025; FBI 302 witness
+- Mentioned in [[dow-uap-d28-mission-report-iraq-2024-09-20]] — AC-130 live fire Iraq Sep 2024; UAP appeared between munition release and munition impact; "path of movement appeared predetermined and not in response to detection"; surveillance-of-weapons-employment hypothesis
+- Mentioned in [[dow-uap-d58-range-fouler-debrief-na-2020-10-27]] — chevron-shaped contact active noise jamming during DCA intercept; counter-intercept EA capability during military defensive mission

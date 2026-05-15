@@ -81,6 +81,9 @@ Graves started a small company building next-generation **space-situational awar
 
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
+
+- Mentioned in [[2NVDCtSxIac]]
 - [[2014-east-coast-uap]] — the incident cluster he witnessed
 - [[cube-in-sphere]] — the craft morphology his colleague described
 - [[2015-gofast]] — new information: four objects in line-abreast formation
@@ -95,3 +98,5 @@ Graves started a small company building next-generation **space-situational awar
 - [[1iaH1a3A4Lk]] — [[mick-west]] vs [[marik-von-rennenkampff]] debate; his GoFast formation account (4 objects in line-abreast, against 120-knot wind) and cube-in-sphere near-miss are discussed; GoFast filmed ~10 min before Gimbal; the Wizo who filmed Gimbal is described as a friend of Graves who has not yet come forward publicly
 - [[6WC4o2yY9Ws]] — primary source
 - [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Rogan cites Graves alongside Fravor as "too many credible people" making the case for UAP reality
+- Mentioned in [[dre-5Zy4f7c]]
+- Mentioned in [[dos-uap-d5-cable-5-mexico-2003-09]] — co-testified at Mexican Congress UAP hearing Sep 12, 2023 alongside Maussan; publicly distanced from Maussan's alien-corpse display: "lamented the display took away from his and other pilots' experiences" and called it an "unsubstantiated stunt"; documented in UNCLASSIFIED US Embassy Mexico cable routed to NSC/CIA/DIA/DNI

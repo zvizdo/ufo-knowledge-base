@@ -2,9 +2,9 @@
 type: entity
 entity-type: people
 name: Jeff Natelli
-aliases: []
+aliases: [Jeff Nelli]
 summary: "USAF security officer at Vandenberg AFB who witnessed and responded to five UAP incidents between 2003 and 2005, including the October 14 2003 Vandenberg Red Square and a triangular craft larger than a football field."
-sources: [raw/youtube-transcripts/Qe8br8yYEDM.md]
+sources: [raw/youtube-transcripts/Qe8br8yYEDM.md, raw/youtube-transcripts/3yrKVu35uSE.md]
 roles: [witness, military]
 affiliations: [US Air Force, vandenberg-afb]
 firsthand_claims:
@@ -31,8 +31,21 @@ When Natelli arrived on scene, five shaken witnesses described a **massive trian
 
 Official Air Force records of the Red Square event are said to be in the possession of **AARO** and the **FBI**. The incident was referenced by **Representative Luna** at a congressional UAP hearing. Between 2003 and 2005, Natelli counts **five total UAP incidents** at Vandenberg — suggesting a recurrence pattern consistent with the base's established UAP history stretching back to the 1960s.
 
+## Verbatim Statement (Read On-Air by Fox, JRE #2246)
+
+Fox read Natelli's written statement (referred to as "Jeff Nelli" in the transcript — transcription variant) on camera during the [[3yrKVu35uSE]] Joe Rogan interview. The statement described the five witnesses' shaken demeanor and the triangular craft in Natelli's own words. Fox used it as a centerpiece example of the kind of credentialed military witness documentation going into *The Program*.
+
+## Additional Incidents (2003–2005)
+
+Beyond the October 14, 2003 Red Square:
+- An **orb** incident on the Vandenberg flight line — unidentified luminous object observed near launch infrastructure
+- At least three other UAP events at the base during the same two-year period, each involving multiple witnesses
+
+The pattern suggests Vandenberg had an elevated UAP presence during this window, consistent with the base's decades-long association with nuclear missile UAP activity.
+
 ## Connections
 
+- Mentioned in [[3yrKVu35uSE]]
 - [[vandenberg-afb]] — base where all incidents occurred
 - [[2003-vandenberg-red-square]] — the specific flagship incident
 - [[ufo-nuclear-nexus]] — Vandenberg's 2003–2005 cluster adds modern instrumented/multi-witness data to the nuclear-base UAP pattern

@@ -53,3 +53,4 @@ Referenced in [[1f16VvXaSSE]] alongside other astronauts in the context of [[lue
 - [[freemasonry]] — 33rd-degree Scottish Rite; Masonic flag to Moon; lunar Masonic Lodge established
 - [[space-program-patches]] — communion wine as first lunar libation; Masonic flag as artifact
 - [[zjpvfDFc4fg]] — source; lunar communion detail; 33rd-degree and lunar lodge
+- Mentioned in [[nasa-uap-d4-apollo-11-technical-crew-debriefing-1969]] — first observer of translunar unidentified object ("L shape", monocular); cabin light flashes investigator ("something was zapping through the cabin"); revised bright lunar-orbit light to probable lake reflection

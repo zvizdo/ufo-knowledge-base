@@ -29,3 +29,4 @@ The UFO-Nazi connection is a cluster of claims asserting that Nazi Germany devel
 - [[die-glocke]] — the most cited specific alleged Nazi exotic technology project
 - [[operation-paperclip]] — the actual post-war scientist transfer that gives the narrative credibility
 - [[vril-society]] — the alleged channeling group whose contact supposedly inspired the craft designs
+- Mentioned in [[dow-1945-03-shaef-foo-fighters-german-armament]] — "Flak Bombe" and Me.262 as official Allied hypotheses for foo fighters; post-war found no German program match; primary evidence that neither Axis nor Allied origin explains the phenomenon

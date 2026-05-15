@@ -1,7 +1,9 @@
 ---
 type: entity
 summary: "Private pilot who in June 1947 reported seeing nine disc-like objects flying in formation near Mount Rainier, Washington; his description was mistranslated into 'flying saucer' by press — coining the term that defined the modern UFO era."
-sources: [raw/youtube-transcripts/kRO5jOa06Qw.md]
+sources:
+  - raw/youtube-transcripts/kRO5jOa06Qw.md
+  - raw/documents/fbi-62-hq-83894-ufo-investigations-1947-1968.md
 name: Kenneth Arnold
 aliases: []
 roles: [witness]
@@ -35,3 +37,5 @@ This point is also made by [[jacques-vallee]] — that the same underlying pheno
 - [[analytical-overlay]] / [[phenomenology-categories]] — his case is the canonical example of how witness description and press retelling create the dominant cultural frame
 - [[jacques-vallee]] — Vallée's analytical overlay thesis applies directly to Arnold's mistranslation into cultural vocabulary
 - [[kRO5jOa06Qw]] — source
+- Mentioned in [[9gLPtRwXgCM]]
+- Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — F.M. Johnson's independent telescope corroboration of the June 24/25 Arnold event cluster is documented in the FBI file; Johnson reported the same area on the same day without knowledge of Arnold's report
