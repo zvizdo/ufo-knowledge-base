@@ -6,7 +6,7 @@ location: Calvine, Scotland, UK
 witnesses: [Craig Lindsay, Richard Greaves, two unnamed poachers]
 craft_type: Diamond/disc-shaped object; no visible propulsion; silent
 corroboration: multi-witness; photographic (35mm, 5-6 prints); RAF involvement; MIB intimidation
-sources: [raw/youtube-transcripts/3yrKVu35uSE.md]
+sources: [raw/youtube-transcripts/3yrKVu35uSE.md, raw/youtube-transcripts/B6WFLOIkyho.md]
 tags: [calvine, scotland, uk, photograph, men-in-black, mod, suppression, raf, harrier, james-fox, the-program]
 summary: "1990 Scotland; two poachers photographed a diamond/disc-shaped UAP with a Harrier jet present on 35mm film; UK MoD immediately suppressed the story; RAF Press Officer Craig Lindsay kept one print for 34 years; witness intimidation by men in suits including Americans; Nick Pope confirmed it as the best UAP photo he ever saw; included in James Fox's documentary 'The Program' (2024)."
 ---
@@ -44,6 +44,20 @@ The Calvine photograph is one of the most significant suppressed UAP photographi
 - **Americans were reportedly also involved** in the intimidation — not just UK officials
 - The intimidation pattern is consistent with [[project-beta]]-era disinformation operations
 
+## JRIC Assessment — Official UK Government Finding (B6WFLOIkyho)
+
+New detail from Pope's 2025 interview: the MoD held **6 photographs and the associated negatives** — not just a single image. The best of these was blown up to poster size and hung in Pope's office "for years."
+
+The photographs were submitted to **[[jric]]** (Joint Air Reconnaissance and Intelligence Centre) — the UK military's imagery analysis body. The JRIC formal conclusion:
+
+> "Yeah, it's real. It's whatever it is. It's like 75 ft across. It's a solid structured craft, but we have no idea what it is."
+
+This is the UK government's **official imagery intelligence assessment**: the photographs were genuine, showing an unidentified solid structured craft approximately **75 feet across**. JRIC could not identify the craft.
+
+Pope also commissioned a CGI recreation with a Los Angeles graphic artist; the result was "pretty similar to the Craig Lindsay photo" — providing independent corroboration that Pope's memory of the images is consistent with what Lindsay publicly disclosed.
+
+When the Calvine file was eventually declassified, the released file contained only "a photocopy of a line drawing" — the original photographic documentation was withheld from the declassified release.
+
 ## Nick Pope's Confirmation
 
 - Pope told Fox about the Calvine case in the late 1990s — among the earliest times Fox heard of it
@@ -60,4 +74,7 @@ The Calvine photograph is one of the most significant suppressed UAP photographi
 - [[the-program-fox]] — included as a key case
 - [[controlled-disclosure]] — MOD suppression pattern; Americans involved in UK cover-up
 - [[ufo-secrecy-cabal]] — transnational suppression involving both UK and US agents
-- [[credibility-frameworks]] — photographic evidence, named witnesses, official confirmation
+- [[credibility-frameworks]] — photographic evidence, named witnesses, official confirmation; JRIC formal government assessment "real, 75ft, solid structured, unknown"
+- [[jric]] — UK imagery analysis body that formally assessed the photos; strongest government finding on any UAP photograph
+- [[uap-suppression]] — 6 photos + negatives in MoD custody; declassified file released only a line drawing photocopy
+- [[B6WFLOIkyho]] — Pope's 2025 disclosure of 6-image set, JRIC assessment, poster-size display, CGI recreation

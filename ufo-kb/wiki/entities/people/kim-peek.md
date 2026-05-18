@@ -34,6 +34,8 @@ Powell and [[ky-dickens]] frame Peek as evidence that the standard model of memo
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[diane-powell]] — cites Peek as a case that motivates the transmission model of consciousness
 - [[consciousness-non-local]] — Peek's memory capacity without corpus callosum is one of the primary puzzles the non-local model explains
 - [[autistic-savant-telepathy]] — Peek is the population precedent: extreme, anomalous cognition in individuals with unusual brain architecture

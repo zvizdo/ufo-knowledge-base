@@ -96,6 +96,7 @@ This FFRDC conduit architecture is the operational mechanism by which RE program
 [[david-grusch]]'s public testimony adds the weapons-race dimension: per [[jesse-michaels]] in [[ePdH01pphbk]], Grusch described "an ongoing Cold War to reverse engineer the non-human technology found" with the US competing against China and Russia to produce the first modern super-weapons. The caveat: "once you use it, you burn it — and now everybody knows." This adds a strategic disclosure-suppression motive on top of the standard secrecy rationale — using the tech reveals the capability.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[2NVDCtSxIac]]
 - Mentioned in [[1f16VvXaSSE]]

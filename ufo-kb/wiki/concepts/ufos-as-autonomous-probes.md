@@ -44,6 +44,8 @@ The framing shifts from "aliens visiting us" to "automated systems deployed by a
 - McMoneagle's Putin silo-explosion claim — is there open-source corroboration?
 
 ## Connections
+
+- Mentioned in [[hjzMV8H0YIQ]]
 - [[joe-mcmoneagle]] — primary proponent; analysis grounded in Stargate-era experience
 - [[ufo-nuclear-nexus]] — nuclear trigger thesis and monitoring pattern support autonomous probe model
 - [[ufos-disable-nuclear-weapons]] — capability evidence consistent with advanced autonomous systems

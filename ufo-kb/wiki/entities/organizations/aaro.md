@@ -48,6 +48,8 @@ Graves's biggest disappointment: that panel provision was **removed** from the f
 In [[3yrKVu35uSE]], [[james-fox]] reported a private SCIF meeting with Jon Kosloski (referred to as "Koslowski" in some transcripts). In that meeting, Kosloski described AARO's operational constraints with unusual candor: **"I can't part my hair without approval from the DOD — and you can quote me on that."** This statement, from the sitting AARO director, confirms what congressional critics and whistleblowers have argued: that AARO is structurally subordinate to the DoD and cannot independently investigate or disclose without Pentagon approval. Fox treated this as one of the most significant disclosures from The Program's production period.
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[3yrKVu35uSE]]
 - Mentioned in [[2NVDCtSxIac]]
@@ -68,6 +70,7 @@ In [[3yrKVu35uSE]], [[james-fox]] reported a private SCIF meeting with Jon Koslo
 - [[nuclear-uap-multilateral-evidence]] — multilateral-evidence synthesis
 - [[uaptf]] — AARO's direct predecessor; UAP Task Force (2020–2022) that AARO absorbed
 - [[phenomenology-categories]] — AARO is the official institutional recipient of UAP reports across all Hynek/Vallée categories; the PURSUE Release 01 batch is AARO's classified output from this collection mandate
+- [[cold-war-uap-nexus]] — AARO's PURSUE Release 01 batch documents UAP activity in Cold War-legacy operational theaters (CENTCOM Iraq/Syria/Arabian Gulf, EUCOM Mediterranean); AARO inherits the Cold War national-security framing of UAP as its baseline classification rationale
 
 - Synthesized in [[uap-camera-evasion-problem]]
 

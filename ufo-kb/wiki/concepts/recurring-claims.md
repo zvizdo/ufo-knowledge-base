@@ -72,6 +72,9 @@ Every discrete-proposition page in the KB. Alphabetical, with no per-bucket dupl
 [[ancient-astronaut-hypothesis]] · [[atlantis-thesis]] · [[big-dipper-nhi-nexus]] · [[bracewell-probe-hypothesis]] · [[breakaway-civilization]] · [[cargo-cult-hypothesis]] · [[cold-fusion-thesis]] · [[cold-war-uap-nexus]] · [[condon-commission-whitewash]] · [[conscious-craft-hypothesis]] · [[consciousness-non-local]] · [[contactee-nordic-fascist-nexus]] · [[control-system-hypothesis]] · [[cultural-transmission-of-ufo-narrative]] · [[dmt-nhi-hypothesis]] · [[doe-secret-science-nexus]] · [[epstein-physics-nexus]] · [[extramission-hypothesis]] · [[extraterrestrial-hypothesis]] · [[fight-club-thesis]] · [[future-humans-hypothesis]] · [[galactic-federation-teaching-hypothesis]] · [[giants-sardinia-claims]] · [[hypothesis-first-uap-science]] · [[interdimensional-hypothesis]] · [[interstellar-probe-hypothesis]] · [[jesus-survival-thesis]] · [[lost-civilization-hypothesis]] · [[lyme-disease-biowarfare-thesis]] · [[mars-nuclear-war-thesis]] · [[mormon-intelligence-nexus]] · [[multiple-alien-groups]] · [[nazca-mummies-real-claim]] · [[nazi-ufo-hypothesis]] · [[nephilim-giants-thesis]] · [[nhi-telepathic-communication]] · [[nuclear-bait-hypothesis]] · [[nuts-and-bolts-hypothesis]] · [[particle-accelerator-ufo-nexus]] · [[renaissance-technologies-uap-hypothesis]] · [[reverse-engineered-craft]] · [[reverse-engineering-hypothesis]] · [[silurian-hypothesis]] · [[subterranean-nhi-hypothesis]] · [[time-travel-uap]] · [[transistor-roswell-thesis]] · [[transmission-theory-consciousness]] · [[ufo-nuclear-nexus]] · [[ufo-religion-convergence]] · [[ufo-secrecy-cabal]] · [[ufos-disable-nuclear-weapons]] · [[ultraterrestrial-hypothesis]] · [[watchers-thesis]]
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[3yrKVu35uSE]]
 

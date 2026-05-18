@@ -22,6 +22,7 @@ U.S. Senator from New York (1957–1981). Liberal Republican; known for civil ri
 **Post-senator career**: After leaving the Senate in 1981 (due to a neurological illness), Javits became a Washington attorney. His specific role as Army lawyer in the MK-Ultra cover-up predates his Senate career; the KB uses his page primarily to anchor the Sheehan/Christic MK-Ultra litigation thread.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[mk-ultra]] — the program in which Javits covered up a non-consensual LSD death as Army lawyer
 - [[danny-sheehan]] — won the civil case that exposed the cover-up

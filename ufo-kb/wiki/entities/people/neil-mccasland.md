@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Retired USAF Major General; PhD in astronomical engineering (MIT); commanded AFRL at Wright-Patterson 2011–2013 ($2.2B portfolio); former executive secretary of SAPOC; UAP disclosure-adjacent through DeLonge/Podesta emails; disappeared February 27, 2026."
-sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
+sources: [raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/MVjBLIsXFHQ.md]
 name: Neil McCasland
 aliases: [General McCasland, McCasslin, McCastlin, Neil C. McCasland]
 roles: [official, researcher]
@@ -82,6 +82,7 @@ Despite 700 homes canvased, FBI involvement, Air Force OSI, New Mexico State Sea
 - [[disclosure-narratives]] — Trump UAP announcement timing; his disclosure-adjacent history
 - [[ufo-secrecy-cabal]] — as SAPOC executive secretary he sat at the apex of the SAP oversight structure
 - [[wlsQIbpEKSM]] — primary source transcript
+- [[MVjBLIsXFHQ]] — Corbell states on-camera "I believe he was murdered" and says "people that know far more about it than I do, who I trust, and shouldn't have mentioned it to me" are the basis for this belief; adds that George Knapp and he are "on" several similar disappearance-to-found-body cases
 - [[credibility-frameworks]] — verifiable career; documented email connection to DeLonge/Podesta; firsthand disclosure involvement confirmed by wife's statements
 
 ## Open Questions

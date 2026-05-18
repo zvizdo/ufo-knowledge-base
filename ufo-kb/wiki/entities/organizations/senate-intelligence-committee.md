@@ -17,6 +17,7 @@ The US Senate's permanent committee with jurisdiction over the intelligence comm
 The UAP Disclosure Act (UAPDA, 2023-2024 National Defense Authorization Act amendments) was primarily advanced through the Senate via this committee and through Armed Services. Rubio's early amendment to the 2020 Intelligence Authorization Act mandating the UAP Task Force report also came through here.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[uap-disclosure-act]] — primary legislative vehicle; Schumer/Rounds amendment
 - [[marco-rubio]] — member; UAP disclosure legislation architect

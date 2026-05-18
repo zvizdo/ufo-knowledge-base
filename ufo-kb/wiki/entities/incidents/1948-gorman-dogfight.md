@@ -37,3 +37,4 @@ Investigation officially rated "possible weather balloon." The 27-minute duratio
 - [[1948-mantell-incident]] — Concurrent 1948 case illustrating full range of Project Sign encounters: stationary/high-altitude (Mantell) vs. aggressive-maneuvering (Gorman)
 - [[1948-fukuoka-f61-intercept]] — Parallel case same year: interceptor vs. evading UAP pattern
 - [[credibility-frameworks]] — Rated ANG pilot with civilian professional background; tower and ground corroboration; 27-minute duration eliminates brief-observation ambiguity
+- [[thomas-mantell]] — concurrent 1948 Project Sign case; Mantell died pursuing a UAP the same year Gorman engaged one in an extended dogfight; together they represent the two signature 1948 Project Sign cases

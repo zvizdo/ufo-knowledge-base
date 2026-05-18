@@ -140,6 +140,10 @@ A town in Fukushima Prefecture, Japan ([[iino]], referenced in [[5udx_SDdL3Y]]) 
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
+
 - Mentioned in [[3yrKVu35uSE]]
 
 - Mentioned in [[2NVDCtSxIac]]
@@ -330,3 +334,4 @@ This also adds a new dimension to Coburn's claim that NHI communications disrupt
 - Mentioned in [[usaf-1955-10-azerbaijan-unconventional-aircraft]] — Soviet disc-launch facility with searchlight infrastructure implies strategic military significance; relevant to NHI nuclear-monitoring thesis or Soviet disc-weapons program
 - Mentioned in [[dow-uap-d14-mission-report-syria-2022-05-29]] — UAP observed while platform was conducting ISR on Russian nuclear-capable Slava-class cruiser and A-50U/Gorshkov vessels in Eastern Mediterranean; RFAF SU-30 intercept 2.5 hours prior
 - Mentioned in [[fbi-western-us-late-2025-uap-investigation]] — orb swarm at classified western US facility same day as "successful test" at site; "super-hot" FLIR thermal; FBI 302 senior IC witness; PURSUE Release 01
+- [[bob-lazar]] — Lazar's S4 facility is located adjacent to the Nevada Test Site (the US nuclear testing range); Element 115's gravity-wave amplification operates at nuclear-interaction scales; the AEC/DOE classification framework that Lazar's programs operated under is the same legal structure that defines the nuclear-UAP nexus's secrecy architecture

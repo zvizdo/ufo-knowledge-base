@@ -90,6 +90,7 @@ His argument:
 **Separate Event at San Agustín**: Brandenburg relays that the same red-haired colonel appeared separately at the [[1947-san-agustin-crash|Plains of San Agustín]] (~100 miles away) the same morning (July 4), where an intact saucer with a big hole in its side was recovered along with dead alien bodies and **one live alien**. Civilian witnesses at that site were threatened with death.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[1962-bluegill-uap-shootdown]] — The strange loop: the mechanism allegedly disclosed by the Roswell survivor was used (or observed) to down a UAP 15 years later. The shootdown incident is downstream of Roswell in the alleged technical lineage.
 - [[directed-energy-uap-weapon]] — The Roswell survivor's alleged disclosure is the origin point for this concept; all subsequent development traces back here if the account is credited.

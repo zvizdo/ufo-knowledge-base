@@ -24,6 +24,7 @@ Los Alamos National Laboratory (LANL) is a US Department of Energy (DOE) nationa
 **Classified physics nexus**: LANL, along with Sandia National Laboratories and Lawrence Livermore, constitutes the core of the US classified physics infrastructure. In UAP discourse, these laboratories are cited as the institutions most likely to have the classified physics knowledge relevant to understanding anomalous propulsion — and, in some claims, as the institutions actually holding relevant data.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
 
 - [[bill-richardson]] — Clinton DOE Secretary who oversaw LANL
 - [[manhattan-project]] — LANL's founding program

@@ -41,6 +41,8 @@ Rogers speculates the CCTV feed could have been sourcing from Lockheed Skunk Wor
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[45th-space-wing]] — Administrative command
 - [[egng]] — Prime contractor; operational manager
 - [[patrick-air-force-base]] — Adjacent USAF base; 45th Space Wing HQ

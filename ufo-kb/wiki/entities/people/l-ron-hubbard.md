@@ -37,6 +37,7 @@ This cosmology sits adjacent to — but distinct from — standard UFO/NHI disco
 Hubbard served in the US Navy during WWII. He claimed a decorated combat career; Navy records show a more ambiguous record. Multiple accounts allege early Scientology had CIA or ONI connections; these remain largely unverified in primary sources. What is documented: the FBI conducted extensive surveillance of Scientology, and the relationship between Scientology and the intelligence community was adversarial (Scientology's "Operation Snow White" — the largest documented infiltration of US government agencies by a private organization, 1973–1977).
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[jack-parsons]] — occult partner; Parsons-Hubbard connection is the aerospace-occult link
 - [[church-of-scientology]] — the organization he founded

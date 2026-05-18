@@ -34,6 +34,7 @@ The handoff from Mack to Powell is itself evidence of a networked community of c
 - [[0qlppHc3-gg]] — [[ky-dickens]] describes Powell running Mack's institute; the synchronicity of the Oregon house; both figures as part of a lineage of persecuted anomalous researchers
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[john-mack]] — founder; Harvard Psychiatry Department chair
 - [[diane-powell]] — current steward; Harvard-trained neuroscientist

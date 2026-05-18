@@ -19,3 +19,4 @@ Khemet (km.t in Egyptian transliteration) is conventionally read as 'the Black L
 - [[acid-mine-drainage]] — the chemical process whose gypsum byproduct created the fertile black soil
 - [[ancient-egypt]] — the civilization whose self-name Khemet encodes either soil color or industrial function
 - [[lost-civilization-hypothesis]] — broader framework: Khemet as a name inherited from an older technical civilization
+- [[tethys-sea]] — Tethys-era hydrothermal ore deposits are the geological precondition for the "land of chemistry" reading; the etymology Khemet names is meaningless without the Tethys feedstock

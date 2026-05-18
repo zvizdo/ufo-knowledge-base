@@ -24,6 +24,8 @@ Wright-Patterson Air Force Base (WPAFB) near Dayton, Ohio is the headquarters of
 **Aztec connection**: The [[1947-aztec]] crash retrieval claim involves material allegedly transported to Wright-Patterson for analysis by the Air Technical Intelligence Center.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[project-blue-book]] — operated from Wright-Patterson's ATIC
 - [[1947-roswell]] — crash debris allegedly transported to Wright-Patterson

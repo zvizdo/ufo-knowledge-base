@@ -54,6 +54,7 @@ Corso's Knights of Malta membership places him in the same transnational network
 Pines identifies Corso as a member of the **Psychological Strategy Board** (PSB) under Eisenhower — the interagency body that formalized the US government's treatment of UAP information as a psychological warfare asset. This is an institutional framing absent from *The Day After Roswell* itself: Corso's Foreign Technology Exploitation desk and the PSB's broader psyop mandate operated in parallel, with the same Eisenhower administration directing both. Corso's technology distribution operation can thus be understood not as a freelance act but as a PSB-authorized information management strategy: seed the technology into private industry to advance US capabilities while maintaining plausible deniability about the source.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[arthur-trudeau]] — Army general who supervised Corso in the Foreign Technology Division (1958–1962)
 

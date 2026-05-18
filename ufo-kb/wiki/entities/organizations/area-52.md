@@ -28,6 +28,7 @@ Area 52 appears to cover similar territory to American Alchemy — sightings, te
 - *It's Probably Nothing* live tour (2026) — co-produced with [[american-alchemy]]
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[chris-ramsey]] — host and driving figure
 - [[jesse-michaels]] — collaborator; co-host of the live tour

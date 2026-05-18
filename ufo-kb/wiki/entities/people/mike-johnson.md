@@ -25,6 +25,7 @@ US Representative from Louisiana (R-LA-4); 56th Speaker of the House (elected Oc
 **Significance**: The removal of these two provisions transformed the UAP Disclosure Act from potential compelled-disclosure legislation into a transparency-adjacent gesture. The KB treats this as the primary legislative example of [[controlled-disclosure]] — how disclosure can be simultaneously advanced (the law passed) and prevented (the enforcement mechanisms were removed).
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[controlled-disclosure]] — cited as the Speaker through whom lobbying succeeded against UAP disclosure provisions
 - [[uap-disclosure-act]] — the legislation whose key provisions were stripped via Johnson

@@ -68,6 +68,8 @@ The "white light" reported in NDEs crosses cultures and is not obviously cultura
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[consciousness-survives-death]] — NDEs are one of the primary evidence streams for this claim
 - [[transmission-theory-consciousness]] — the NDE could be explained as the brain's filtering function collapsing at death, allowing non-local consciousness to flood through
 - [[ancient-hallucinogens-religion]] — Eleusinian kykeon rituals were designed to produce a controlled NDE analog; psychedelics are the modern bridge

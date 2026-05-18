@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Pioneering remote viewer and Church of Scientology operative who was simultaneously a top talent in the ONI/CIA remote-viewing program and a spy reporting its activities back to Scientology's Guardian's Office."
-sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/vZEcVY2iZsk.md, raw/youtube-transcripts/OwrDI7GvenQ.md]
+sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/EzPmG_7WhXc.md, raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/vZEcVY2iZsk.md, raw/youtube-transcripts/OwrDI7GvenQ.md, raw/youtube-transcripts/37--O8Fw0Y0.md]
 name: Ingo Swann
 aliases: [Ingo Swan]
 roles: [researcher, other]
@@ -66,6 +66,8 @@ Despite the espionage angle, the remote-viewing program files (as Sheehan report
 Swann also remote-viewed **Mars** (independently of [[joe-mcmoneagle]]'s 1984 CIA session) and reported the same Nordic architectural style in ruins, with evidence of internal explosions consistent with a battle.
 
 ## Connections
+
+- Mentioned in [[hjzMV8H0YIQ]]
 
 - [[stargate-program]] — official program Swann helped develop; was simultaneously reporting on it to Scientology
 - [[naval-intelligence]] — ran the original program Swann spied on

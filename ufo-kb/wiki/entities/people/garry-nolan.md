@@ -65,6 +65,7 @@ Nolan has since "come out" publicly (as of 2016+), which Pasulka describes as "a
 - [[tS_64sTN5AU]] — the night before New Mexico crash site visit: Nolan shared ~2 hours of radiation-injury research; motivated by desire to stop these injuries from happening to people
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
 
 - Mentioned in [[3yrKVu35uSE]]
 

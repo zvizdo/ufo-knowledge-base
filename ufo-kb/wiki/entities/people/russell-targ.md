@@ -41,6 +41,9 @@ A detail surfaced by [[chris-ramsey]] in [[h3u8EkGI8OQ]]: before co-founding the
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+- Mentioned in [[37--O8Fw0Y0]]
+
 - [[hal-puthoff]] — co-founder of the SRI remote viewing program; long-term collaborator
 - [[ingo-swann]] — primary SRI subject; developed the coordinate remote viewing protocol
 - [[pat-price]] — the most operationally significant SRI subject

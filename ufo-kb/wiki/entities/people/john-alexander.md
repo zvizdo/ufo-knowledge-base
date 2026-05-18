@@ -35,6 +35,7 @@ Alexander worked with [[robert-bigelow]]'s [[nids]] organization extensively —
 This adds Alexander's role as a practical facilitator (not merely a conceptual figure) in the Wilson-Davis story, and places the NNSA Nevada office as a key node in that network.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
 
 - [[nnsa]] — NNSA Las Vegas connections; helped facilitate the Wilson-Davis meeting chain
 - [[thomas-wilson]] — Alexander helped facilitate Wilson's meeting with Davis via NNSA contacts

@@ -40,6 +40,8 @@ May took over from Hal Puthoff at the SRI/Stargate program and led the research 
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[stargate-program]] — led research arm final decade
 - [[hal-puthoff]] — predecessor as Stargate research director
 - [[decision-augmentation]] — his primary theoretical contribution

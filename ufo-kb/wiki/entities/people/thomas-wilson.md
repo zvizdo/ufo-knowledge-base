@@ -47,6 +47,7 @@ Wilson's account — if accurate — establishes that:
 [[greg-rogers]]' 1992 sighting at [[cape-canaveral]] (see [[1992-cape-canaveral-saucer]]) provides a physical correlate: a reverse-engineering test in progress — consistent with the program Wilson was denied access to five years later.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[2NVDCtSxIac]]
 - [[xnxasfyHtfo]] — source; summer 1997 Pentagon meeting; WOSAP detail; "hundreds of people"; non-human material; John Alexander and NNSA Las Vegas facilitation chain

@@ -134,6 +134,7 @@ Source: [[yAvD5UTziTo]]
 - [[dnnpyNuPdXs]] — first major on-camera interview (Shawn Ryan Show); origin story; psionic methodology; egg/eight-gon retrieval details; NJ drone investigation; Grusch relationship
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[michael-herrera]] — parallel witness; Indonesia psionic encounter; structural similarity; received Barber's key disclosures
 - [[psionics-uap-interface]] — his testimony is the core evidentiary anchor for this concept

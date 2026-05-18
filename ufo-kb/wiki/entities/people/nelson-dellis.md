@@ -35,6 +35,8 @@ Dellis is a data point for the thesis that psi ability is not confined to self-s
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[chris-ramsey]] — introduced Ramsay to remote viewing; catalyst for Area 52
 - [[brett-stewart]] — trained Dellis in ARV; retained by the hedge fund
 - [[remote-viewing]] — practicing ARV; well-documented sessions with Ramsay

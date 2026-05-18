@@ -34,6 +34,7 @@ L. Ron Hubbard's later writings (Scientology's OT III materials) describe an ela
 Multiple published accounts (including the Church's own critics) allege intelligence agency connections to Hubbard and early Scientology. These remain largely speculative in terms of primary documentation.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[l-ron-hubbard]] — founder
 - [[ingo-swann]] — Scientologist and primary SRI remote viewer

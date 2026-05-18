@@ -33,6 +33,7 @@ Todman told the story to his father's best friend, romance novelist [[sydney-she
 Sheehan was introduced to Todman through a Warner Brothers executive contact (Bob Remy, then president of the Academy of Arts and Sciences) while in LA to discuss an Iran-Contra film project. Todman specifically wanted to tell Sheehan — not to go public, but to ensure someone in the disclosure network knew.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[sydney-sheldon]] — told him the encounter; Sheldon fictionalized it in *The Doomsday Conspiracy*
 - [[danny-sheehan]] — heard the account directly from Todman

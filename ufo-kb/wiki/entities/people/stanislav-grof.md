@@ -26,6 +26,7 @@ Grof argued in one of his books: if advanced intelligent beings are non-physical
 Mack was inspired by Grof's work and used holotropic breathwork in his practice with abductees to help them access recall of anomalous experiences. This connection links abduction phenomenology to the transpersonal / non-ordinary-states tradition.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[john-mack]] — Grof was a major inspiration; Mack adopted holotropic breathwork clinically
 - [[andrew-gallimore]] — cites Grof's "interaction via the brain" argument as the foundation of the directed-DMT-world model

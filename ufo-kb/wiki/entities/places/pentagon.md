@@ -18,6 +18,8 @@ The Pentagon's role in UAP is dual: (1) as the institutional driver of UAP class
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - Mentioned in [[1f16VvXaSSE]]
 - [[aatip]] — Pentagon-housed UAP program under [[lue-elizondo]]
 - [[aaro]] — current all-domain anomaly resolution office

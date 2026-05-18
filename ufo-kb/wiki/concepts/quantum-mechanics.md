@@ -30,6 +30,7 @@ Quantum mechanics (QM) is the fundamental physical theory governing matter and e
 **Wu-Yang dictionary**: The Wu-Yang correspondence between gauge field theory (quantum mechanics generalized) and differential geometry is cited in the KB's [[general-relativity]] and [[standard-model]] context as a mathematical bridge potentially relevant to unified field theory for UAP propulsion.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[john-von-neumann]] — mathematical foundation of quantum mechanics
 - [[many-worlds-interpretation]] — the Everett interpretation of quantum measurement

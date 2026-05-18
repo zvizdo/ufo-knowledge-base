@@ -55,6 +55,7 @@ Vallée favors interpretation (2) as more epistemically interesting: the experie
 - Has any researcher attempted to retrieve the buried material?
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[barney-hill]] — husband; the Hill case is the combined account; their experiences are co-reported
 - [[1961-betty-barney-hill-abduction]] — the incident page for the 1961 event

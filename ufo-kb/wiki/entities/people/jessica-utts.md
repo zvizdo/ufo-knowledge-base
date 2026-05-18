@@ -43,6 +43,8 @@ The transcript describes the experimental protocol Utts evaluated: 200 National 
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - Mentioned in [[1f16VvXaSSE]]
 - [[stargate-program]] — analyzed the program's data; found effect statistically real
 - [[ray-hyman]] — co-reviewer who conceded the experiments were free of obvious flaws despite being a committed skeptic

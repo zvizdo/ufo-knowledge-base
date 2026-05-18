@@ -37,3 +37,4 @@ Puthoff connects this to a parapsychological study of 67 corporate CEOs in which
 - [[hal-puthoff]] — Briefer
 - [[remote-viewing]] — Subject of the briefing
 - [[credibility-frameworks]] — Casey's five-hour reception of the briefing is one of the program's strongest institutional-credibility data points
+- [[stansfield-turner]] — Casey's predecessor as DCI (Turner 1977–1981, Casey 1981–1987); both engaged seriously with the Stargate remote-viewing program across administrations, providing the institutional continuity that kept the program funded

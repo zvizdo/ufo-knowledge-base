@@ -7,7 +7,7 @@ type: gov-agency
 parent_org: ""
 country: US
 active_period: "~2023–present (alleged)"
-sources: [raw/youtube-transcripts/dnnpyNuPdXs.md]
+sources: [raw/youtube-transcripts/dnnpyNuPdXs.md, raw/youtube-transcripts/MVjBLIsXFHQ.md]
 tags: [uap-retrieval, jake-barber, whistleblower, post-program, classified, alleged]
 ---
 
@@ -27,6 +27,8 @@ Arrow appears to function as the operational coordination layer for Barber's ret
 
 Barber's framing positions Arrow as distinct from the legacy programs he defected from — a reorganization that allows the same operational capabilities to be used under different auspices and (implied) ethical norms.
 
+> ⚠ **Possible duplicate entity / name collision**: In [[MVjBLIsXFHQ]] (Corbell, DEBRIEFED ep. 88), Corbell describes a separate "Arrow" — characterized as an **ODNI-affiliated investigative and witness-intimidation unit** targeting U.S. Navy UAP witnesses. This Arrow conducts post-testimony interrogations, entrapment operations, and escalating pressure campaigns (see [[senior-chief-wiggins]]). The two described functions (Barber's retrieval-coordinating Arrow vs. Corbell's ODNI witness-suppression Arrow) are very different. These may be: (a) the same organization with multiple divisions, (b) two different entities using the same name, or (c) one account misidentifying the other. This conflict is unresolved. See [[MVjBLIsXFHQ]] and [[dnnpyNuPdXs]] for the respective source accounts.
+
 ## Key People
 
 - [[jake-barber]] — works with Arrow post-defection; primary source for Arrow's existence
@@ -45,4 +47,8 @@ Barber's framing positions Arrow as distinct from the legacy programs he defecte
 - [[aaro]] — Barber discusses both separately; Arrow is not equivalent to AARO
 - [[p3-psionic-assets]] — the legacy program Arrow apparently succeeded or reorganized from
 - [[disclosure-narratives]] — Arrow authorized disclosure; represents one node of controlled or semi-controlled disclosure
-- [[dnnpyNuPdXs]] — sole current source; treat as alleged until independently corroborated
+- [[senior-chief-wiggins]] — Navy UAP witness targeted by Corbell's described "Arrow" with interrogation and escalating pressure
+- [[jeremy-corbell]] — describes Arrow as ODNI-affiliated witness-intimidation unit; characterizes its interrogation methodology in detail
+- [[uap-suppression]] — Corbell's Arrow as a suppression mechanism for Navy UAP witnesses
+- [[dnnpyNuPdXs]] — sole source for Barber's retrieval-coordinating Arrow; treat as alleged until independently corroborated
+- [[MVjBLIsXFHQ]] — Corbell's account of Arrow as witness-intimidation unit; conflict with Barber's account flagged

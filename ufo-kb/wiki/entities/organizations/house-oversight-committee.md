@@ -31,6 +31,7 @@ The House Committee on Oversight and Accountability (informally the House Oversi
 - Interface with the Schumer-Rounds UAP Disclosure Act (Senate side)
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[nancy-mace]] — subcommittee chair
 - [[david-grusch]] — key witness

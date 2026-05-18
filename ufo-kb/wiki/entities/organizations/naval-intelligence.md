@@ -37,6 +37,9 @@ The eventual transfer of Bluegill debris to [[los-alamos]] for analysis by Lawre
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+- Mentioned in [[37--O8Fw0Y0]]
+
 - [[ufo-secrecy-cabal]] — Naval Intelligence is identified as an autonomous pillar of the UAP secrecy architecture, operating independently of and above CIA-level oversight.
 - [[aec]] — The AEC held the complementary nuclear secrecy compartment; Lawrence Geist's role as AEC Albuquerque Division head placed him at the interface between the two agencies' UAP holdings.
 - [[los-alamos]] — The facility where Naval Intelligence-recovered Bluegill debris was eventually brought for analysis under AEC custodianship.

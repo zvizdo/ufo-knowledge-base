@@ -164,6 +164,7 @@ Deep-dive interview with [[robert-hastings]], author of *[[ufos-and-nukes-hastin
 - Is the Condon Committee conclusion-first document (letter to Col. Hippel) publicly available in unredacted form?
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
 
 - [[robert-hastings]] — primary subject; this is his definitive American Alchemy interview
 - [[ufo-nuclear-nexus]] — central concept extensively developed here

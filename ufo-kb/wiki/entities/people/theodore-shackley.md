@@ -31,6 +31,7 @@ Career CIA officer. Known within intelligence circles as the "Blond Ghost" for h
 - [[2SQXAPCdmPE]] — primary source; Sheehan's account of the CIA throughline
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[allen-dulles]] — Dulles's CIA structure is what Shackley operated within; the Miami station that Shackley ran was a direct product of Dulles's anti-Castro apparatus
 - [[santos-trafficante]] — Trafficante's Mafia network was the operational partner of the Miami CIA station Shackley led

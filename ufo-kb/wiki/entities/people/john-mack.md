@@ -96,6 +96,8 @@ Mack founded the Program for Extraordinary Experience Research ([[peer-institute
 A recorded conversation between Mack and [[terence-mckenna]] is cited in [[0qlppHc3-gg]]: McKenna plays provocateur, asking what will happen to the Western paradigm, and Mack says it will "burst open." Mack articulates that the Western mind cannot tolerate anomalous phenomena *transgressing into the physical world* — that the one unforgivable sin is when something from the "spirit world" shows up materially. This is cited by Jesse Michaels as the key insight about why UAP and telepathy face such institutional resistance.
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[1f16VvXaSSE]]
 - [[danny-sheehan]] — legal counsel for 10 years; represented Mack in the Harvard investigation

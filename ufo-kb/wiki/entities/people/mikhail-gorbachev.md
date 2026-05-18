@@ -36,6 +36,7 @@ Gorbachev separately said (according to Ilyumzhinov) that "there are various civ
 - His pushing of Kissinger to "tell everything" implies he believed Kissinger had direct knowledge, not just the same secondhand account
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[yuri-andropov]] — close friend; source of the Nixon-Brezhnev UFO folder account
 - [[leonid-brezhnev]] — the Soviet leader shown the UFO folder

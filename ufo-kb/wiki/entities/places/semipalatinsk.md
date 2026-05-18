@@ -35,3 +35,4 @@ Per [[hal-puthoff|Hal Puthoff]] in [[Gf_tKn9TaP8]], CIA Deputy Director [[john-m
 - [[remote-viewing]] — Method used
 - [[cia]] — Sponsor
 - [[sugar-grove-naval-station]] — Companion case (US side) — Sugar Grove was the off-target hit that preceded Semipalatinsk's intentional Soviet targeting
+- [[bill-casey]] — Casey as DCI (1981–1987) inherited and extended the Stargate operational program that the Semipalatinsk success validated; the Pat Price Soviet-targeting hit was the proof-of-concept that persuaded NSC and subsequent CIA leadership including Casey to fund operational psi espionage

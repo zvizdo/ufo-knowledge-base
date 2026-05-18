@@ -62,6 +62,7 @@ Sheehan uses Rich as an emblem of the defense-contractor position on UAP disclos
 - [[G7Ns4Aq1tVc]] — Cook's direct account of interviewing Rich multiple times; ESP answer; stealth burial contemplation
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[lockheed-skunk-works]] — his institution; the organizational home of the most sensitive classified aerospace programs
 - [[kelly-johnson]] — his predecessor; the two differed on stealth development

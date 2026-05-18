@@ -18,6 +18,7 @@ As UAP became a legislative priority following the 2017 [[aatip]] revelations an
 **Oversight authority**: CRS reports on UAP have specifically addressed congressional authority over classified Special Access Programs (SAPs), which is the relevant mechanism: if UAP programs exist under SAP classification, Congress has statutory authority to compel access. The CRS analyses help establish that legal framework for members pursuing oversight.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[aaro]] — subject of CRS reports on DoD UAP institutional structure and reporting
 - [[uap-task-force]] — predecessor body analyzed in CRS legislative history reports

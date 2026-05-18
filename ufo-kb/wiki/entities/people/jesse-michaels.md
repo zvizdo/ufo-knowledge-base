@@ -234,3 +234,4 @@ No independent firsthand UFO claims in this episode. His commentary frames the U
 - Mentioned in [[u7g5Sn1DJF4]]
 - [[QkuDvTFN7ms]] — host; interviewed [[jim-weiner]] and [[charlie-foltz]], two of the four [[1976-allagash-abduction]] witnesses; 141 min; published 2026-05-10; [[james-fox]] contributed the introduction
 - [[dre-5Zy4f7c]] — rod-serling overlap (CIA documentary narrator here vs Godfather connection in American Alchemy); shared nuclear nexus, disclosure politics, john-lilly content
+- [[area-51]] — Jesse frames Area 51 as the primary US locus of reverse-engineered electrogravitic propulsion; the Livelsberger coordinate discussion and his broader disclosure narrative treat Area 51 as the central institutional node for domestic UAP technology programs

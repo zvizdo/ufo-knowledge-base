@@ -28,6 +28,8 @@ The Cold War UAP nexus refers to the deep intersection between US-Soviet militar
 - [[project-blue-book]] — US official Cold War UAP investigation
 - [[uap-suppression]] — Cold War security culture as an engine of UAP suppression
 - [[psychological-warfare]] — Cold War PSYOP context for UAP narrative management
+- [[aaro]] — AARO's PURSUE Release 01 batch consists almost entirely of CENTCOM/EUCOM theater mission reports from Cold War-legacy theaters (Iraq, Syria, Arabian Gulf, Mediterranean); AARO is the institutional heir of the Cold War investigation pipeline that classified UAP sightings as national security matters
+- [[phenomenology-categories]] — Cold War-era incident reports are the primary historical corpus from which the Hynek and Vallée classification systems were developed; the dual-causation ambiguity (genuine UAP vs. Soviet tech) is the epistemic origin of the Hynek CE scale's operational utility
 - Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — LaPaz's Soviet missile hypothesis and Cabell's inter-agency suppression directive demonstrate how the Cold War framework was applied to UAP phenomena to justify classification
 - Mentioned in [[usaf-1955-10-azerbaijan-unconventional-aircraft]] — Senator Russell and two Senate Committee staff directly observed two rotating disc aircraft in Azerbaijan USSR; Top Secret NOFORN; USAIRA B-2 (Probably True); Soviet trainmen closed curtains immediately after the sighting
 - Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]

@@ -51,6 +51,7 @@ Burish's story contains internally consistent technical detail but lacks indepen
 - What is the exact relationship between Burish, McConnell, and the S4 access structure?
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[s4]] — the facility where he claims to have worked
 - [[j-rod]] — the entity he claims to have interfaced with

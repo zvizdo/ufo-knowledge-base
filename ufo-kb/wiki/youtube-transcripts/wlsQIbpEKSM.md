@@ -136,6 +136,7 @@ tags: [missing-scientists, neil-mccasland, monica-resza, nuno-lorero, carl-gilmo
 - Was Lorero actively being surveilled before the Brown University shooting, and does the 48-hour gap in Valente's movements have a documented explanation?
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 - [[Rfmy5oW_r9c]] — Dan Sherman / Project Preserve Destiny deep-dive; cross-reference for NSA program context
 - [[09KP8XVf5nY]] — Harold Malmgren primary source; NHI-as-science-suppressor thesis
 - [[u7g5Sn1DJF4]] — Pentagon UAP pyramid; SAP oversight and DTRA context; overlaps with McCasland's career profile

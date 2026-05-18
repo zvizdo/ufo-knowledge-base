@@ -243,6 +243,10 @@ sources: [raw/youtube-transcripts/OwrDI7GvenQ.md]
 
 ---
 
+## Connections
+
+- [[hjzMV8H0YIQ]] — companion McMoneagle interview (Area52/DEBRIEFED ep. 65); McMoneagle confirms Atwater's Lawrence-Livermore-NHI-encounter and Alpha Centauri OBE narrative; McMoneagle replaced Atwater in the Monroe Institute RV-teaching role circa 2019
+
 ## Entities Mentioned
 
 [[skip-atwater]] · [[joe-mcmoneagle]] · [[hal-puthoff]] · [[russell-targ]] · [[ingo-swann]] · [[pat-price]] · [[kit-green]] · [[robert-monroe]] · [[sean-ryan]] · [[stargate-program]] · [[stanford-research-institute]] · [[monroe-institute]] · [[gateway-process]] · [[lawrence-livermore-national-lab]] · [[sugar-grove-naval-station]] · [[remote-viewing]] · [[consciousness-non-local]] · [[uap-consciousness-link]] · [[psionic-uap-interface]] · [[near-death-experience]] · [[ufo-secrecy-cabal]] · [[recurring-claims]] · [[credibility-frameworks]]

@@ -39,6 +39,8 @@ On the JRE #1315 episode with Lazar, Corbell authenticated the [[wilson-davis-me
 After 30 years, Corbell located [[mike-thigpen]] — the specific security clearance officer Lazar had named publicly in the 1980s — via Facebook/Google image matching through Thigpen's adult children. Thigpen confirmed in three phone calls that he performed security clearances for the base in 1989 and remembered Lazar. Thigpen came close to going on camera but declined. Corbell also located a handwritten note bearing Thigpen's signature left at a friend of Lazar's during the original clearance investigation.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[2NVDCtSxIac]]
 - [[george-knapp]] — primary collaborator; broken multiple stories together

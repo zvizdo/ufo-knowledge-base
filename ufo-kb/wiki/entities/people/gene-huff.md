@@ -15,7 +15,12 @@ Las Vegas real-estate appraiser and close friend of [[bob-lazar]]. One of a smal
 
 On **March 22, 1989**, Huff and [[john-lear]] accompanied Lazar and used a Celestron 8-inch telescope to confirm a disc-shaped craft before it became visible to the naked eye. Huff was also present at the Las Vegas casino meeting where Lazar's S4 supervisor [[dennis-mariani]] approached but refused to make eye contact with Lazar.
 
+## Background
+
+Real-estate appraiser and close friend and confidant of [[bob-lazar]]. Part of Lazar's inner circle along with [[george-knapp]].
+
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
 
 - [[bob-lazar]] — close friend and confidant; S4 disclosure companion
 - [[john-lear]] — co-witness on March 22, 1989

@@ -91,6 +91,8 @@ Stargate was publicly dismantled after two evaluators gave contradictory assessm
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - Mentioned in [[OwrDI7GvenQ]]
 - [[stargate-program]] — operations and training officer; the officer who ran the pipeline from viewers to the Pentagon
 - [[joe-mcmoneagle]] — primary remote viewer; shared Lawrence Livermore NHI encounter; confirmed alien presence the next morning

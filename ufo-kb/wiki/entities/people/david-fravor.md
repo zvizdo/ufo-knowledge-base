@@ -49,6 +49,8 @@ This is a second-hand quote (Nolan relaying Fravor) but consistent with the reac
 - [[dzTZbSNsKV8]] — Nolan relays Fravor's "conscious and almost breathing" description; craft rotates against 120-knot wind
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[B6WFLOIkyho]]
 
 - Mentioned in [[3yrKVu35uSE]]
 

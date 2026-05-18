@@ -31,6 +31,7 @@ Won the only successful case against the MK Ultra program — a Long Island tenn
 The Iran-Contra sanctions effectively destroyed the Institute financially and organizationally. Sheehan subsequently founded the New Paradigm Institute as a successor educational organization.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[danny-sheehan]] — founder and director
 - [[theodore-shackley]] — named defendant in the Iran-Contra complaint

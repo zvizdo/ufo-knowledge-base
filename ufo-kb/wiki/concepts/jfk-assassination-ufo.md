@@ -184,3 +184,4 @@ See [[levenda-jfk-uap-network]] for the full reconstruction.
 
 - Synthesized in [[apollo-skepticism-cluster]]
 - [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Schumer modeled UAP Disclosure Act on JFK records act; same 60-year suppression mechanism; Burchett JFK parallel
+- [[37--O8Fw0Y0]] — Sheehan's Garrison/Gorbachev chain via [[james-garrison]]; Brown Brothers Harriman → CIA → NSC 5412 institutional spine; Bush-refused-Carter UAP briefing claim extends the thesis's "secrecy structure preserved across administrations" component

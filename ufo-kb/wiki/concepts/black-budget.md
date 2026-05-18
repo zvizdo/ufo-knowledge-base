@@ -21,6 +21,7 @@ The "black budget" refers to classified or unacknowledged government expenditure
 **[[compartmentalization]] mechanism**: Black budget programs use the SAP/USAP structure and [[compartmentalization]] to restrict knowledge to program participants, preventing normal budget oversight from revealing program existence.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[compartmentalization]] — the classification architecture that enables black budget secrecy
 - [[yamashita-gold-black-budget-network]] — synthesis on alleged off-books funding chain

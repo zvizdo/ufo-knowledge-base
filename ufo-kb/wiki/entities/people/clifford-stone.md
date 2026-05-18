@@ -26,6 +26,7 @@ Clifford Stone is a retired US Army Sergeant who served in the military from 196
 **KB context**: Stone appears in the KB primarily through the [[2001-disclosure-project]] as one of Steven Greer's witnesses — his testimony is part of the broader disclosure movement's evidentiary base, which ranges from credible (AATIP-adjacent) to contested (species-count claims).
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[2001-disclosure-project]] — event at which Stone gave public testimony
 - [[crash-retrieval-research]] — the research tradition Stone's testimony contributes to

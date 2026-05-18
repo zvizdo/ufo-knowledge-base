@@ -46,6 +46,7 @@ This places Los Alamos at the center of the Epstein physics strategy — not mer
 The [[nnsa]] Nevada site (Las Vegas) also appears in this episode as a key node: Davis's NNSA contacts (Director of Intelligence and Director of Counter-Intelligence, both AFIO members) helped facilitate the Wilson-Davis meeting. The NNSA's lax security culture is consistent with Davis's Los Alamos / Epstein observation.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
 
 - Mentioned in [[1f16VvXaSSE]]
 - [[zoro-ranch]] — Epstein's New Mexico ranch, purchased 1993 to access retired LANL physicists; Davis confirmed

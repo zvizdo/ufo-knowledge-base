@@ -31,6 +31,7 @@ UAP-related primary source documents constitute the evidentiary foundation for e
 **FOIA landscape**: The Freedom of Information Act has been the primary mechanism for obtaining authenticated UAP documents. Key FOIA requesters include the Black Vault (John Greenewald Jr.) and various researchers. Redaction patterns in released documents are themselves analyzed as evidence of what remains classified.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[halt-memo]] — one of the most credible authenticated government UAP documents
 - [[majestic-12]] — the most prominent contested document set

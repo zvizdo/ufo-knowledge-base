@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Danny Sheehan's current legal and advocacy organization focused on UAP disclosure; authorized under the Senate UAP bill statute to recommend members for the UAP review board."
-sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
+sources: [raw/youtube-transcripts/C4rSj5Aum7w.md, raw/youtube-transcripts/37--O8Fw0Y0.md]
 name: New Paradigm Institute
 aliases: [New Paradigm Research Institute, Ubiquity University (associated)]
 type: research-group
@@ -37,7 +37,11 @@ Per Sheehan's account in [[C4rSj5Aum7w]]:
 - [[christic-institute]] — predecessor organization
 - [[uap-disclosure-legislation]] — the legislative mechanism the Institute works within
 - [[mike-rounds]] — Senate sponsor of the UAP bill
-- [[dan-crenshaw]] — House Intelligence Committee chair; key vote for bill passage
+- [[dan-crenshaw]] — previously named as incoming House Intel chair; [[brad-wenstrup]] is the confirmed chair as of Jan 2025
+- [[brad-wenstrup]] — actual new House Intelligence Committee chair; key vote for CDCA passage
 - [[lue-elizondo]] — Sheehan's client; AATIP director; disclosure network
 - [[controlled-disclosure]] — the Institute operates within a framework of managed, legislative disclosure rather than unilateral dump
+- [[controlled-disclosure-campaign-act]] — the 64-page bill the Institute drafted; Senate 17-0 / 94-6; 23 pages enacted
+- [[romero-institute]] — predecessor organization in Sheehan's org lineage
 - [[C4rSj5Aum7w]] — source; Sheehan describes the Institute's statutory role
+- [[37--O8Fw0Y0]] — source; most detailed CDCA legislative update; Citizens for Disclosure 1,500 volunteers; psionic assists investigation; Senate 17-0 then 94-6; September 2025 Archives deadline

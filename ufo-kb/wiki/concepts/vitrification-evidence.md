@@ -60,3 +60,4 @@ Some alternative researchers propose nuclear weapons or nuclear-powered technolo
 - [[older-dryas]] — earlier catastrophe potentially also causing vitrification
 - [[colossus-of-memnon]] — related burn-mark evidence
 - [[A_LsUSxTm7A]] — source
+- [[easter-island]] — Rongo Rongo + burn marks fit the global vitrification/plasma-discharge evidence pattern; Easter Island is one of the named sites in Lroy and Schoch's CME-catastrophe chain alongside Kepkesi and Colossus of Memnon

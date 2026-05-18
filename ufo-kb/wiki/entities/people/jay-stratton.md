@@ -34,6 +34,8 @@ Stratton's introduction of Davis to Grusch is the operational link that explains
 - What was his role after the UAPTF was succeeded by AARO?
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[david-grusch]] — introduced Grusch to Davis; Grusch worked under Stratton in UAPTF
 - [[eric-davis]] — introduced to Grusch by Stratton

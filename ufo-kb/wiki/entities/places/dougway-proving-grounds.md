@@ -43,6 +43,7 @@ Dugway is significantly more remote than Area 51 and has fewer civilian workers,
 - What is the relationship between Dugway and the [[naval-surface-warfare-crane]] "off-world technology division" model?
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
 
 - [[area-51]] — predecessor/parallel hub; programs allegedly relocated here
 - [[wein-brener]] — deathbed statement about dead extraterrestrials at Utah facility

@@ -59,6 +59,7 @@ Hof's mechanism: alkalizing blood via CO2 reduction → neurotransmitter signali
 The parallel to UAP-related consciousness technology: if human will can access and override the autonomic nervous system via breath, the same architecture (intentional neural signaling bypassing normally automatic control systems) could in principle interface with external systems — exactly as [[danny-sheehan]] proposes for UAP piloting.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[stargate-program]] — the primary government program operationalizing consciousness as intelligence technology
 - [[remote-viewing]] — the specific technique demonstrated; an applied version of consciousness-as-technology

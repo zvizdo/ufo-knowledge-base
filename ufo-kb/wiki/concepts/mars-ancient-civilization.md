@@ -90,6 +90,8 @@ The mechanism for Mars's atmospheric loss:
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[david-flynn]] — author of *Sidonia*; primary intellectual architect of this thesis
 - [[richard-hoagland]] — popularised Sidonia/face on Mars hypothesis in the 1990s
 - [[michael-heiser]] — co-presented with Flynn and Hoagland; also scholarly corroborator of the Watchers narrative

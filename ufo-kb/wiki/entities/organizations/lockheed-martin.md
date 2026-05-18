@@ -41,6 +41,7 @@ This is the most direct corporate-level implicit admission in the KB. Coulthart 
 > ⚠ Executive not named; account is secondhand from Coulthart to Jesse Michaels.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[1f16VvXaSSE]]
 - [[glenn-gaffney]] — blocked material transfer to BASS/Bigelow; CIA S&T oversight over Lockheed's UAP material

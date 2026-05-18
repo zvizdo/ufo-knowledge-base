@@ -49,6 +49,8 @@ See [[randall-carlson]] for methodology and [[geodesy-sacred-geometry]] for the 
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[giza-plateau]] — the broader plateau on which it sits
 - [[filippo-biondi]] — conducted phonon SAR imaging revealing deep subsurface anomalies
 - [[jeffrey-drum]] — chemical manufacturing function thesis

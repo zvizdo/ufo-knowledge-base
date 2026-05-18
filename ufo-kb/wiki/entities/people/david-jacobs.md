@@ -47,6 +47,8 @@ Alien abduction is hereditary: if one parent was an abductee, the children will 
 Jacobs, like Turner, argued that the abduction program is fundamentally deceptive. He opposed Vallée's conflation of abduction with folklore/trickster phenomena, arguing the grey alien abduction is a physically real, biologically-focused program distinct from other paranormal traditions.
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[abduction-phenomena]] — central figure; his research defines the standard model of grey alien abduction
 - [[bud-hopkins]] — close colleague; together interviewed thousands of abductees

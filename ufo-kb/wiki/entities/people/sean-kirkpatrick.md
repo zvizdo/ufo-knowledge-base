@@ -46,6 +46,7 @@ The article Kirkpatrick allegedly sourced included a second cover story beyond E
 - [[fzvwBBSmWYA]] — Hastings details DOE/Brookhaven background; Big Sur film allegation; Congress testimony
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[3yrKVu35uSE]]
 

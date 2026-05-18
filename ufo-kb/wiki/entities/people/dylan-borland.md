@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Witness who observed a large triangular craft with electrooptic lava-flow cloaking system over Langley, Virginia; has since gained exposure into legacy programs."
-sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
+sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md, raw/youtube-transcripts/MVjBLIsXFHQ.md]
 name: Dylan Borland
 aliases: []
 roles: [witness]
@@ -38,3 +38,5 @@ Borland also appeared on the Weaponized podcast and claimed DTRA (formerly AFSWP
 - [[uap-gerb]] — cited and analysed Borland's testimony
 - [[credibility-frameworks]] — firsthand witness with post-sighting legacy-program exposure
 - [[recurring-claims]] — triangle craft with plasma/lava cloaking is a recurring sub-type
+- [[arrow-organization]] — Corbell states Arrow ran "a significant operation to entrap [Borland] with a false, fictitious, completely fabricated crime"; Corbell claims he can prove this in a court of law
+- [[MVjBLIsXFHQ]] — Corbell describes Arrow entrapment operation targeting Borland; states Borland appeared in documentary "clearly shaken up" and fearful for his wife

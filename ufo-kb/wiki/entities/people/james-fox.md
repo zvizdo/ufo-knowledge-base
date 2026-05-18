@@ -121,6 +121,7 @@ Fox suspects [[john-lear]] and [[bill-cooper]] were disinformation assets ("agen
 - [[hBrfe4hFuM0]] — round 2 interview; Varginha update; Venturelli, Furtado, Leir tapes; Phoenix Lights MIB; Westall; Holloman new details
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
 
 - Mentioned in [[1f16VvXaSSE]]
 - [[steven-greer]] — long-term collaborator; Disclosure Project network

@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "U.S. Army clerk typist assigned to Project Blue Book who, on his deathbed, told Danny Sheehan he witnessed his commanding officer conducting telepathic communication with an ET at S4. Possibly the same person as 'Albert Stein' named in an earlier Sheehan account."
-sources: [raw/youtube-transcripts/C4rSj5Aum7w.md]
+sources: [raw/youtube-transcripts/C4rSj5Aum7w.md, raw/youtube-transcripts/37--O8Fw0Y0.md, raw/youtube-transcripts/MVjBLIsXFHQ.md]
 name: Oscar Wolf
 aliases: ["Oscar Lane (Sheehan uncertain)", "Albert Stein (possible same person — name given in prior episode)"]
 roles: [witness]
@@ -60,4 +60,8 @@ Sheehan states that [[jeremy-corbell]] and [[richard-dolan]] separately intervie
 - [[consciousness-as-technology]] — telepathic interface as primary communication mode
 - [[jeremy-corbell]] — reportedly interviewed Wolf independently
 - [[richard-dolan]] — reportedly interviewed Wolf independently
-- [[C4rSj5Aum7w]] — source; this episode's account
+- [[worldwide-church-of-god]] — shared religious affiliation with his commander; the trust mechanism that enabled the S4 trip
+- [[ruben-langden]] — arranged the Corbell/Dolan interview through his personal connection to Wolf; Langden's approach to Corbell after Citizen Hearing bankruptcy was the mechanism that produced this account
+- [[C4rSj5Aum7w]] — source; earlier Sheehan account
+- [[37--O8Fw0Y0]] — source; Area52; Sheehan adds detail: Wolf never told his wife; Sheehan forgot to turn sound on the recorder; three-four craft in hangar bays; being ~5.5 ft in blue jumpsuit; new detail on index-card Q&A format
+- [[MVjBLIsXFHQ]] — source; Corbell's detailed account of interview mechanics: Dolan conducted the formal interview; Wolf got up from dialysis, completed interview, returned to hospital; Corbell says "sharp as a dagger"; Wolf went against wife's religious objections; briefly appears in the documentary; interview access chain goes through Ruben Langden

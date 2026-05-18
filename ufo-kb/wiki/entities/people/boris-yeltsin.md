@@ -28,6 +28,7 @@ Ilyumzhinov confirmed the encounter briefly. Yeltsin responded: **"Yes, I know. 
 - [[IFaXi-NrPV0]] — debriefing interaction described
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[kirsan-ilyumzhinov]] — president of Kalmykia under Yeltsin's federation; briefed Yeltsin on alien encounter
 - [[1997-ilyumzhinov-encounter]] — the incident Yeltsin acknowledged

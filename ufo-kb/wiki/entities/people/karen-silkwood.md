@@ -31,6 +31,7 @@ Silkwood was driving to meet New York Times reporter David Burnham with document
 The [[christic-institute]] (under Sheehan) led the investigation. Multiple theories circulated about what happened; Sheehan's conclusion: pieces of two or three competing theories were true, but no single theory fully explained it. The investigation demonstrated CIA involvement in nuclear proliferation to US treaty partners.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[theodore-shackley]] — CIA facilitator of plutonium diversion to Israel and Iran
 - [[christic-institute]] — investigated her death

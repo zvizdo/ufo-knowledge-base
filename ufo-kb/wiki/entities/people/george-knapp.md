@@ -56,6 +56,8 @@ Knapp's investigation into Lazar's background at Los Alamos included tracking do
 In 2001, a **senior [[egng]] manager named [[alfred-odonnell]]** disclosed to Knapp that EG&G had recovered a flying saucer in New Mexico and held a live being with humanlike features. This was reported by [[jesse-michaels]] in [[TNtlzEnl8rA]] as part of a broader examination of EG&G's role in UAP secrecy. If accurate, the claim establishes EG&G as not just a logistics and management contractor but a direct custodian of crash retrieval assets.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[bob-lazar]] — the figure he broke to the public; has investigated and defended for 35 years
 - [[skinwalker-ranch]] — investigated extensively; co-authored both primary books on it

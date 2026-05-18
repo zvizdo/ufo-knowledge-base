@@ -50,6 +50,7 @@ The Anderson Trust gold funded covert anti-communist operations in Europe and As
 - [[C4rSj5Aum7w]] — primary; Sheehan describes in detail, including his meeting with Philippines Senator Pimentel who headed the Blue Ribbon Commission
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[ed-lansdale]] — discovered and recovered the 12 troves
 - [[charles-willoughby]] — MacArthur's G2 who flew with Lansdale to Washington

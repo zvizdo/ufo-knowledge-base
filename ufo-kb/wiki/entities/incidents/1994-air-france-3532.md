@@ -44,3 +44,4 @@ This is the primary French domestic case in the COMETA Report (Chapter 1) and is
 - [[jean-jacques-velasco]] — Head of SEPRA at the time of investigation
 - [[credibility-frameworks]] — Dual-confirmation (visual + primary radar); Category D classification
 - [[cold-war-uap-nexus]] — Post-Cold War French airspace, military CDC involvement
+- [[cnes]] — parent agency of SEPRA (the unit that investigated and classified Category D); the flagship case in the institutional French UAP-investigation chain CNES→GEPAN→SEPRA→GEIPAN

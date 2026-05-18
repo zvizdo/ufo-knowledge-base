@@ -36,6 +36,7 @@ The event was significant for several reasons:
 - Some witnesses' accounts were not independently corroborated
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[steven-greer]] — organizer
 - [[mark-mccandish]] — Flux Liner / ARV testimony

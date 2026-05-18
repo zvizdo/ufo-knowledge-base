@@ -27,6 +27,7 @@ According to the notes:
 The document appeared online in June 2019, leaked from the estate of astronaut [[edgar-mitchell]]. Both Wilson and Davis have publicly denied or declined to confirm the document's authenticity. The document's internal details have been extensively analyzed by UAP researchers and journalists.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[3yrKVu35uSE]]
 

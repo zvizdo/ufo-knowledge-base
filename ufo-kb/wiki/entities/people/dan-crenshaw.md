@@ -18,6 +18,7 @@ US Congressman (R-TX), Chair of the House Permanent Select Committee on Intellig
 Crenshaw is mentioned alongside Senate counterpart [[mike-rounds]] as representing the bipartisan congressional pressure on UAP transparency that intensified after 2023.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[danny-sheehan]] — cites Crenshaw's chairmanship as a disclosure indicator
 - [[new-paradigm-institute]] — legislative advocacy context

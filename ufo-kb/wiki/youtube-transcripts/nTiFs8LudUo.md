@@ -349,6 +349,7 @@ Future episode teased:
 ---
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[u7g5Sn1DJF4]] — companion American Alchemy episode with 53 shared context nodes; both cover overlapping legacy program territory (BDM, Operation Laser Strike, Office of Global Access, crash retrievals)
 - [[1988-norton-afb]] — central incident; most operationally detailed public account in this episode

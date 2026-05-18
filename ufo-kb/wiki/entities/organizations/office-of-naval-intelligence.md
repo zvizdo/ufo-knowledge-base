@@ -47,6 +47,7 @@ Beyond the McKinnon case, ONI appears in UAP discourse as a suspected custodian 
 [[harold-malmgren]]'s specific warning — that ONI operates as a system from which no information exits once classified — provides a theoretical framework for why McKinnon's spreadsheet data was seized, absorbed, and never publicly surfaced: the institution was designed to be information-absorptive rather than information-releasing.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[gary-mckinnon]] — ONI seized his hard drives; its Washington visit triggered the extradition escalation
 - [[non-terrestrial-officers]] — the spreadsheet was on a US Navy network; ONI holds the physical evidence

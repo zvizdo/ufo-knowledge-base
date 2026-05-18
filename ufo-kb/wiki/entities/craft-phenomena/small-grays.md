@@ -96,6 +96,8 @@ This subdivision is consistent with [[charles-hall]]'s observation that Grays we
 - Where is the L-shaped Nevada valley Hall describes, with 13 tunnel granaries?
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[tall-gray]] — the commanding entity type consistently associated with small Gray groups
 - [[mario-woods]] — first-person witness; Ellsworth 1977

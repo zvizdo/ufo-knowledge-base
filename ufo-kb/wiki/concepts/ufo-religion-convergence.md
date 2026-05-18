@@ -104,6 +104,7 @@ The 1947 Roswell event is a cultural dividing line: before it, contact phenomena
 - Does the formalization of UFO belief into religion represent a natural evolution of human meaning-making, or an engineered disclosure strategy?
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
 
 - [[catholic-aerial-phenomena-medieval]] — Pasulka's 1200–1800 CE corpus; St. Francis stigmata as electromagnetic injury; 1947 dividing line; aerospace industry interest in injury reports
 - [[vallee-enlightenment-schism-uap]] — Vallée's thesis that UAP research is uniquely positioned to heal the Enlightenment science/spirit split

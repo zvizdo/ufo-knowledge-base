@@ -30,6 +30,8 @@ Geller's TV appearances in the early-to-mid 1970s apparently triggered spontaneo
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - Mentioned in [[1f16VvXaSSE]]
 - [[hal-puthoff]] — SRI lead who tested Geller; the same researcher who later became central to AAWSAP
 - [[stargate-program]] — Geller's SRI testing was part of the early remote-viewing research that evolved into Stargate

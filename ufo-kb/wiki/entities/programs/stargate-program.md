@@ -60,6 +60,9 @@ Sheehan saw these reports directly inside Scientology's Florida HQ files while r
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+- Mentioned in [[37--O8Fw0Y0]]
+
 - [[ingo-swann]] — key protocol developer; simultaneously Scientology spy against the program
 - [[pat-price]] — most operationally capable remote viewer; Scientology clear; UAP-over-submarine session
 - [[church-of-scientology]] — penetrated the program through Swann; received intelligence reports

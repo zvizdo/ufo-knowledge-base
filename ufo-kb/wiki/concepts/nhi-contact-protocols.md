@@ -21,6 +21,7 @@ NHI contact protocols are proposed frameworks for initiating, establishing, or s
 **Diplomatic protocols**: At the government level, if UAP represent NHI with territorial claims or strategic interests, contact protocols would need to include diplomatic frameworks — the framework that allegedly produced the "Eisenhower treaty" era agreements. See [[1954-eisenhower-ufo-meeting]] and [[nhi-government-contact]].
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[ce-5-protocols]] — civilian consciousness-based contact methodology
 - [[eleusinian-mysteries]] — ancient mystery tradition as historical contact protocol template

@@ -33,6 +33,7 @@ On his journey to the Moon, Mitchell conducted a **private ESP experiment** — 
 Mitchell founded the **Institute of Noetic Sciences (IONS)** after his Apollo 14 mission, motivated by the profound consciousness shift he experienced during the flight. [[rupert-sheldrake]] is a fellow of IONS. In [[wT5-hXWIkzM]], Jesse and Sheldrake note that astronauts who have been to space "turn entirely inward" upon return — the subsequent work is consciousness-related, not hard science — and cite Mitchell's founding of IONS as the institutional expression of this pattern.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
 
 - [[institute-of-noetic-sciences]] — founded by Mitchell; Rupert Sheldrake is a fellow
 - [[wernher-von-braun]] — alleged source of UFO/ET disclosures

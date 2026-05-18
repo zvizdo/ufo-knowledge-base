@@ -229,6 +229,7 @@ Rogan contextualizes the episode repeatedly:
 - Project Looking Glass time-distortion weapon: what was the weapon application being explored? Lazar was briefed only at an overview level.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
 
 - [[bob-lazar]] — primary witness; this episode adds Russian scientists at S4, projectile-damaged craft, blue corona discharge detail, three-level craft architecture, getting-caught motor home incident, Teller introduction at Los Alamos
 - [[jeremy-corbell]] — co-guest; authenticated Wilson-Davis Memo; revealed Mike Thigpen and Dr. Krangle corroborations; biometric scanner find via Rogoway

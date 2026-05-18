@@ -1,19 +1,22 @@
 ---
 type: entity
 summary: "US Army's Remote Viewer #1 — Legion of Merit recipient for 200+ military intelligence contributions via remote viewing; firsthand accounts of TK-089 Soviet submarine session, Mars DOD tasking, near-death experience, and consciousness theory."
-sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/aGqFOxuYRT0.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/OwrDI7GvenQ.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/nTiFs8LudUo.md]
-tags: [remote-viewing, mars, stargate, cia, nde, consciousness, soviet-submarine, mx-missile]
+sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/aGqFOxuYRT0.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/OwrDI7GvenQ.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/nTiFs8LudUo.md, raw/youtube-transcripts/hjzMV8H0YIQ.md]
+tags: [remote-viewing, mars, stargate, cia, nde, consciousness, soviet-submarine, mx-missile, bahamas-ufo, entropy]
 name: Joe McMoneagle
 aliases: [Joseph McMoneagle, McMonagle, Remote Viewer Number One]
 roles: [remote viewer, military intelligence]
 affiliations: [US Army, CIA Stargate program, Monroe Institute]
 firsthand_claims:
   - Remote-viewed TK-089 Soviet prototype submarine (with Harley Trent); described 20 slanted launch tubes, RS-27 missiles (5 warheads × ~50 Mt each); confirmed by overhead photography 114 days later
-  - Remote-viewed Mars with DOD-assigned GPS coordinates (c.1984); described pyramids, 12-ft humanoid beings, degrading atmosphere; JPL negatives matched described structures
-  - Near-death experience ~1970 (Munich poisoning); heart stopped ~40 min; classic NDE with white light, entity instructing return; followed by 6 months suicidal depression and complete personality transformation
+  - Remote-viewed Mars with DOD-assigned GPS coordinates (c.1984); described pyramids, 12-ft humanoid beings, degrading atmosphere; JPL negatives matched described structures; JPL desk worker called coordinates "the old city on Mars" without prompting
+  - Near-death experience ~1970 (Munich poisoning); heart stopped ~40 min; classic NDE with white light, entity instructing return; followed by 6 months suicidal depression and complete personality transformation; has had three NDEs total
   - MX Missile remote viewing: identified 23-shelter railroad system; tested for 1 year; 100% accuracy; program cancelled, saving $100 billion per Senator Cohen
   - Claims UFOs are autonomous drones/robots collecting genetic material; first appeared within 7 days of Trinity (1945)
   - Claims Putin's recent attempted nuclear launch exploded in silo — possible UFO intervention
+  - Firsthand disc encounter in Bahamas (Eleuthera Island, late 1960s); slowly rotating disc with cone of light; colleague Steve Roberts hospitalized at Homestead AFB with shirt pattern burned into chest; all tracking equipment whited out; palm tree moved position; Hal Puthoff said 'We want Joe in this group'
+  - Tracked agent across three sessions (wind farm, Stanford accelerator, Los Alamos T-building director's office) from SSN alone; exact behaviors confirmed including the agent's 'hobby' of the solar array
+  - Provided location of Lebanese UN colonel tortured by Hezbollah; single-source policy prevented rescue; confirmed correct 6 months later
 first_seen_in: raw/youtube-transcripts/CiQTBOQ1dTg.md
 ---
 
@@ -96,6 +99,48 @@ McMoneagle's operational view:
 - If aliens could jump between stars instantly, they've been here a long time; if they meant harm, humanity would already be gone
 - Likely trajectory: "straighten up, fly right — or we will ensure you fly right"
 
+## Bahamas Disc Encounter (Late 1960s)
+
+Firsthand disc encounter during McMoneagle's first military assignment at a downrange Cape Canaveral tracking station on Eleuthera Island in the Bahamas. He and colleague [[steve-roberts-bahamas|Steve Roberts]] were walking across sand dunes at night after a movie when the area lit up "like high noon." A slowly rotating disc with visible panel lines and individual lights projected a cone of light downward. Duration: approximately 8 seconds; disappeared instantaneously ("possibly folded out of time-space").
+
+**Physical effects:**
+- Roberts hospitalized at Homestead AFB; burns so severe the shirt pattern was burned into his chest
+- McMoneagle: flu-like symptoms; Navy medic tore up paperwork, gave iodide pills (implied radiation poisoning)
+- All tracking station screens whited out for the entire duration
+- A palm tree near McMoneagle was in a different position after the craft disappeared
+
+**Roberts' memory:** Complete gap; only retained a confabulated account about a "red truck" radiator. No memory of the event to this day.
+
+**Aftermath:** When McMoneagle described this encounter to [[hal-puthoff]], his reaction was immediate: "We want Joe in this group." This experience contributed directly to McMoneagle's Stargate recruitment. He cannot remote-view this target because he's "frontloaded" — he knows the target.
+
+See [[0000-mcmoneagle-bahamas-disc-encounter]] for the full incident page.
+
+## Agent Tracking — Three Locations
+
+McMoneagle tracked an unnamed agent across three sessions using only a social security number as the target:
+1. **Wind farm, Altuna Pass, CA** (midnight call to San Francisco psychologist's apartment): drew hills with sticks and rotating tops connected by dotted lines — confirmed as wind generator field at 99th percentile
+2. **Stanford linear accelerator**: described correctly but couldn't draw — "too complicated"
+3. **Los Alamos T-shaped building**: drew the 7-story T-building, placed agent on top floor in director's office "smoking the director's cigars with his feet up" — exact match; follow-up revealed microwave weapon van (exact frequency) and solar array "hobby" confirmed on-site
+
+The solar array confirmation scared the lab so badly they never contacted SRRI again. An independent agency said they could build what the agent was building from McMoneagle's session alone.
+
+## Lebanese UN Colonel (Unidentified)
+
+A personal friend — UN representative in Lebanon — was kidnapped by Hezbollah and tortured to death with a blowtorch. McMoneagle knew exactly where he was being held and provided directions. Single-source policy: command wouldn't act. Six months later a torturer was captured; McMoneagle's information was confirmed correct on every point. McMoneagle: "That hurts."
+
+## Nightline Outing — Robert Gates Lying Through Omission
+
+When the program was outed on Nightline, Robert Gates stated: "Not in one case was remote viewing information used as standalone information for anything that ever happened at the CIA." McMoneagle's characterization: "Lying through omission." No intelligence agency uses a single source for anything — requiring two-source corroboration is doctrine, not discretion. Gates' statement was technically true and deeply misleading: it made the program sound useless while being a standard two-source policy formulation.
+
+## UFO Model — Interdimensional and Local
+
+New nuance added in [[hjzMV8H0YIQ]]: McMoneagle revises from purely "autonomous probes" toward an **interdimensional/local** model:
+- "I'm not sure I buy UFOs from another star. I think everything's local. They may be interdimensional."
+- "We're the aliens. Others have long occupied this planet long before us."
+- UAPs "can enter water and leave water and not make a splash"
+- Travel must be instantaneous — faster-than-light is still too slow for practical interstellar travel
+- Convergence with [[jacques-vallee]]'s interdimensional model explicitly noted
+
 ## Ingo Swann's *Penetration*
 
 McMoneagle knew [[ingo-swann]] personally; they dined together. When McMoneagle asked Swann about *Penetration* (Swann's book claiming underground UFO encounter, Moon alien base remote viewing), Swann refused to discuss it and said "read the book." McMoneagle concludes the book was "a game" — a fabrication — possibly a deliberate hoax. He notes Swann called him "iconoclastic" during this conversation and had to look up the word.
@@ -174,3 +219,13 @@ Remote viewed [[himiko-ruler]] — Japan's only female Empress (~249 AD) — in 
 - [[salvatore-pais]] — cites McMoneagle's Legion of Merit as evidence of ongoing classified psi programs
 - [[credibility-frameworks]] — Legion of Merit as official government corroboration of remote viewing's intelligence value
 - [[8TYMQOUDQBo]] · [[nTiFs8LudUo]] — additional source transcripts
+- [[hjzMV8H0YIQ]] — DEBRIEFED ep. 51 (Area52/Chris Ramsey, Aug 2025); adds Bahamas disc encounter, three NDEs clarification, agent tracking three-session case, Lebanese UN colonel failure, Robert Gates lying-through-omission, entropy theory, Stubblebine 3-hour car conversation, CIA manipulation of declassification, interdimensional UFO model, Japan Battle TV demo, ABC LAX demonstration, Princess Diana ethical stop
+- [[0000-mcmoneagle-bahamas-disc-encounter]] — Eleuthera Island disc encounter; rotating disc, cone of light, radiation burns on Steve Roberts; all tracking equipment whited out; spatial anomaly; Hal Puthoff's recruitment trigger
+- [[steve-roberts-bahamas]] — Bahamas encounter witness; hospitalized at Homestead AFB; shirt burned into chest; retained only "red truck" confabulation
+- [[albert-stubblebine]] — warned in 3-hour midnight car conversation at Monroe Institute; McMoneagle predicted his forced retirement; it happened
+- [[uri-geller]] — ABC TV demonstration; Geller ran on stage to shake McMoneagle's hand: "Most amazing thing I've ever seen"; SRI refused to test him formally
+- [[robert-gates]] — dismissed TK-089 as "total fantasy"; McMoneagle calls his Nightline statement "lying through omission"
+- [[jessica-utts]] — Stargate statistician who declared it "world class psychic functioning, statistically off the charts"; CIA couldn't dismiss her
+- [[abduction-missing-time]] — Steve Roberts' complete memory gap; confabulated red truck account
+- [[bermuda-triangle]] — adjacent to Bahamas encounter; McMoneagle describes Fort Lauderdale pilot's 2-hour-early landing with full fuel load
+- [[jacques-vallee]] — McMoneagle says "Jac and I think similarly" on interdimensional/local UFO model

@@ -38,6 +38,7 @@ Trafficante's Cuba partnerships with [[paul-helliwell]] extended to Southeast As
 - [[2SQXAPCdmPE]] — primary source; Sheehan's account of the Castro assassination pipeline
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[richard-nixon]] — Nixon initiated the S Force through the chain that reached Trafficante
 - [[allen-dulles]] — CIA Director who greenlit the operation; Trafficante's bosses dealt with CIA Security Chief Edwards at Dulles's institution

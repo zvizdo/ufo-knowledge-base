@@ -33,3 +33,4 @@ Third-generation autoregressive language model from **openai**, released in June
 - [[ai-sentience-debate]] — the broader frame; GPT-3 as second-opinion AI
 - [[ai-as-alien-life-form]] — relevant to the broader AI-consciousness thesis
 - [[mark-andreessen]] — adjacent; quantum-computing / Willow commentary in same tech-government commentary cluster
+- [[replika-ai]] — both systems appear in the AI sentience debate as potential test cases; Lemoine contrasts GPT-3's static training against LaMDA's claimed adaptive learning in the same context where Replika allegedly demonstrates unprogrammed cross-platform coordination

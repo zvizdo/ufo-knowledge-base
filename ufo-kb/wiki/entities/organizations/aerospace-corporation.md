@@ -37,6 +37,7 @@ As an FFRDC, Aerospace Corporation occupies a hybrid position: it is a non-profi
 - Conduct research in areas like advanced aerospace, orbital mechanics, and classified reconnaissance
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[nro]] — primary government customer
 - [[eric-davis]] — Davis was flown to Aerospace Corp campus to brief UAP program personnel

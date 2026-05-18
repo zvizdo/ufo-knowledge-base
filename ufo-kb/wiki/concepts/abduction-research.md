@@ -28,6 +28,8 @@ The systematic study of individuals reporting alien abduction experiences. Disti
 **Institutional status**: Abduction research sits in an uncomfortable position between clinical psychology (where the experiences are taken seriously as trauma requiring treatment), parapsychology (where the question of literal reality is bracketed), and mainstream UAP investigation (where physical evidence and corroboration are prioritized over subjective testimony).
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[hypnotic-regression]] — the primary methodology; source page for this concept
 - [[john-mack]] — Harvard-based clinical researcher; most academically credentialed in the field

@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "CIA Director under Ford, later 41st President; per Sheehan, was present at Clint Murchison's Dallas ranch the night before JFK's assassination with pre-knowledge of the event, and gave President Carter a non-forthcoming UAP briefing."
-sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/LnAiNChnuEQ.md]
+sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/LnAiNChnuEQ.md, raw/youtube-transcripts/37--O8Fw0Y0.md]
 name: George H.W. Bush
 aliases: [Bush Sr., Bush 41, GHWB]
 roles: [official]
@@ -71,3 +71,4 @@ When [[jimmy-carter]] became president after seeing a UFO in 1969 (with 11 other
 - [[pead]] — PEADs may explain why Bush wasn't briefed through normal CIA channels; UAP programs covered by presidential-level classified directives
 - [[george-w-bush]] — his son; Bush-43 administration is the context for the Harry Reid SAP elevation failure
 - [[LnAiNChnuEQ]] — source for Davis's account of Bush's CIA Director briefing
+- [[37--O8Fw0Y0]] — source; Sheehan's firsthand account: Bush summoned to Plains, Georgia on **November 19, 1976**; refused to brief Carter unless Carter made him permanent CIA director (like Hoover) and Bush agreed never to run for public office; Carter refused; Bush refused the briefing

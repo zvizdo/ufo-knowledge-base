@@ -34,3 +34,4 @@ The craft's apparent diameter of 250m and its instantaneous disappearance are em
 - [[geipan]] — SEPRA investigated and classified the sighting as UAP-D
 - [[credibility-frameworks]] — Case exemplifies COMETA's quality criteria: dual-crew visual + primary radar
 - [[jean-jacques-velasco]] — SEPRA (under Vélasco) investigated and classified the AF 3532 sighting as UAP-D; Vélasco is the institutional analyst who processed Duboc's report and co-authored the COMETA Report that features it
+- [[cnes]] — SEPRA, the investigating body, operated within CNES; Duboc's case is the first major French testimony in the COMETA Report produced by CNES's official UAP investigation chain

@@ -28,3 +28,4 @@ The official Air Force explanation (planet Venus + hypoxia) was contested within
 - [[1948-mantell-incident]] — The incident bearing his name; documented in seven sub-cases (33–33g)
 - [[project-sign]] — His death was one of the landmark cases driving Project Sign's investigations
 - [[credibility-frameworks]] — Rated military pilot (ANG flight leader); tower and civilian corroboration; official Venus explanation contested within USAF
+- [[1948-gorman-dogfight]] — concurrent 1948 Project Sign case where George Gorman engaged a luminous orb in a 27-minute dogfight; together the Mantell and Gorman cases bracket the full range of Project Sign encounters that year — one fatal pursuit, one extended engagement

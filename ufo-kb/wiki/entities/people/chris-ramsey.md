@@ -71,6 +71,11 @@ Though Ramsay declines to name specific targets, he believes deliberate misdirec
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
+
 - [[jesse-michaels]] — close collaborator; "It's Probably Nothing" live tour; host of primary interview
 - [[area-52]] — his YouTube channel; founded 2023; grew from RV documentation project
 - [[nelson-dellis]] — bridge from memory to remote viewing to UAP; introduced Ramsay to ARV

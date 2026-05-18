@@ -20,6 +20,7 @@ Pages in this category cover alleged or confirmed alien technology, recovered ma
 - [[bluegill-uap-debris]] — recovered material from Bluegill nuclear test UAP
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[recurring-claims]] — reverse engineering and crash retrievals as claim categories
 - [[nhi-biologics]] — biological rather than technological artifacts

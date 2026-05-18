@@ -25,6 +25,7 @@ This work transformed Dolan from an unrecognized graduate student dropout into t
 Dolan began the research after encountering [[above-top-secret]] by [[timothy-good]] in 1994 in a Syracuse bookstore. The cognitive dissonance of recognizing Truman-era departments and names from his own historical research, combined with the complete absence of any academic treatment of the UFO issue in the historical literature, drove him to spend two or three months resolving the question for himself — and then never left.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[richard-dolan]] — author
 - [[above-top-secret]] — Timothy Good's book that catalyzed Dolan's research

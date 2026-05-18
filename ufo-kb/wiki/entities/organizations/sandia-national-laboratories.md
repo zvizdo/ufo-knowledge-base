@@ -28,6 +28,8 @@ One of three primary US nuclear weapons labs (with Los Alamos and Lawrence Liver
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[kirtland-air-force-base]] — physically co-located
 - [[henry-kissinger]] — Eric Wang reportedly reported to Kissinger via Sandia chain
 - [[1953-kingman-crash]] — Eric Wang's chain runs through Sandia

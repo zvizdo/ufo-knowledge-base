@@ -23,6 +23,9 @@ Multiple UAP witnesses and whistleblowers in the KB — including [[john-lear]],
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+- Mentioned in [[37--O8Fw0Y0]]
+
 - Mentioned in [[2NVDCtSxIac]]
 - [[project-blue-book]] — the Air Force's primary public UAP investigation program; officially concluded 1969
 - [[space-force]] — the 2019 branch that absorbed Air Force Space Command and took over space-domain responsibilities

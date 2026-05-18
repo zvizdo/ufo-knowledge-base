@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Exceptionally capable remote viewer in the ONI/CIA program, simultaneously a high-level Scientology clear; demonstrated abilities including locating documents inside top-secret facilities by coordinate and tracking Soviet nuclear submarines from photographs."
-sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/OwrDI7GvenQ.md]
+sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/OwrDI7GvenQ.md, raw/youtube-transcripts/37--O8Fw0Y0.md]
 name: Pat Price
 aliases: []
 roles: [researcher, other]

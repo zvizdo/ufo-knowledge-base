@@ -34,6 +34,7 @@ This produced a personal loop: Levenda's youthful intelligence-adjacent religiou
 - [[Y7PLeu5rTv4]] — primary source; Levenda's personal research into the files
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[clay-shaw]] — primary trial target; the only person prosecuted
 - [[david-ferrie]] — central suspect; died during investigation

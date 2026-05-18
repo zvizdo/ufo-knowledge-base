@@ -125,6 +125,7 @@ Received around 2012 from the Lady: when Regulus (a blue star) appears **red on 
 - [[bM18PJY6_Zc]] — major new firsthand account; Dragon Control, Zanesville, Vivex, Hammer, Lady 2012, Regulus, Faraday cage, memory recovery
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
 
 - [[bob-maguire]] — four-day firsthand visit; witnessed orbs and purple aura
 - [[jim-semivan]] — CIA officer who visited Bledsoe and opened Bob's access

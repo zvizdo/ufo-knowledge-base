@@ -67,6 +67,7 @@ This explains why Carter couldn't get a real CIA briefing, why the Schumer Amend
 The CIA's posture after exposure ("it didn't work, we were stupid, we're sorry") mirrors its UAP posture ("we don't know what these are, we're studying them") — both are managed false-confession strategies to prevent Congressional follow-through.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[ufo-secrecy-cabal]] — the UAP-specific expression of this broader continuous apparatus
 - [[brown-brothers-harriman]] — origin institution

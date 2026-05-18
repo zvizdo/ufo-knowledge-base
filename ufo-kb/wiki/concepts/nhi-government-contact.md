@@ -20,6 +20,9 @@ The class of claims that representatives of the US government (and to a lesser d
 **Epistemics**: No primary documentation confirms formal NHI-government contact. All known accounts rely on secondhand or tertiary testimony, alleged leaked documents with disputed provenance, or interpretation of circumstantial evidence. The KB records these as contested claims with diverse credibility tiers.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[1954-eisenhower-ufo-meeting]] — the paradigm claimed contact event
 - [[project-preserve-destiny]] — Dan Sherman's claimed ongoing NHI communication program at NSA

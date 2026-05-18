@@ -18,6 +18,7 @@ Major US defense contractor; manufacturer of the B-2 Spirit stealth bomber and o
 3. **Karl Nell's orbit** — [[carl-nell]] (Army UAP Task Force) previously worked in defense contracting spheres adjacent to Northrop.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[thomas-townsend-brown]] — Brown → Rand → Northrop electrogravitics chain (per Greer)
 - [[free-energy-suppression]] — Fortune 50 companies suppressing zero-point/electrogravitics

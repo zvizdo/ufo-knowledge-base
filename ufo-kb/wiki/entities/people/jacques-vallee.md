@@ -98,6 +98,9 @@ Vallée is a fan of [[philip-k-dick]] — specifically *VALIS* — and endorses 
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+- Mentioned in [[B6WFLOIkyho]]
+
 - Mentioned in [[3yrKVu35uSE]]
 
 - Mentioned in [[2NVDCtSxIac]]

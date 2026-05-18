@@ -60,6 +60,8 @@ Dolan's theory, discussed by [[james-fox]] in [[hBrfe4hFuM0]], holds that the [[
 - [[hBrfe4hFuM0]] — MIB as NHI counterintel theory; cited by Fox in discussion of de Souza encounter
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[2NVDCtSxIac]]
 - [[bob-maguire]] — Bob's primary UFO education source

@@ -25,6 +25,7 @@ Russia is [[eric-haseltine]]'s primary suspect for the [[2016-havana-syndrome]] 
 The Soviet Union ran its own UAP research programs. The [[1989-voronezh-landing]] and other Soviet-era sightings were investigated by official Soviet scientific bodies. Yevgeny Primakov ([[yevgeny-primakov]]) and other senior Soviet figures had documented interest in the paranormal.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[2016-havana-syndrome]] — primary suspected perpetrator
 - [[maskirovka]] — Russian deception doctrine applied to UAP

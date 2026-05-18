@@ -33,6 +33,7 @@ Barney Hill developed chronic health problems and significant anxiety following 
 Barney Hill's granddaughter is **[[angela-hill]]** — UFC strawweight fighter. Angela appeared on [[jesse-michaels]]' American Alchemy podcast but did not disclose her ancestry until after recording. [[joe-rogan]] describes learning this as a missed opportunity.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[betty-hill]] — wife; the Hill case is their combined account
 - [[1961-betty-barney-hill-abduction]] — the incident page for the 1961 event

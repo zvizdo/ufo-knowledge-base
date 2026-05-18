@@ -33,6 +33,8 @@ Investigate UFO reports; maintain public confidence that the USAF took the issue
 - **Battelle Memorial Institute analysis** (cited in [[1iaH1a3A4Lk]]): Battelle — already managing nuclear materials programs — conducted a statistical analysis of 1947–52 sightings; found **33% of the most credible, sufficiently-documented cases were classified as unknown**. [[edward-ruppelt]]'s separate analysis found ~70% of credible cases in proximity to nuclear sites, which is why Battelle was involved in the first place.
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[project-sign]] — predecessor
 - [[edward-ruppelt]] — first director; ~70% nuclear-proximity finding

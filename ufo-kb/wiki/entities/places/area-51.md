@@ -35,6 +35,7 @@ Area 51 has been the most consistently named site in UAP research for reverse en
 [[albert-stein]]'s deathbed account (per [[danny-sheehan]]) and [[bob-lazar]]'s testimony both place a distinct facility called **[[s4]]** approximately 11 miles from Area 51 (in the Papoose Lake area). S4 is described as the storage/study site for recovered alien craft — hangar doors built into a hillside, personnel transported from Area 51 with blacked-out windows. The two facilities appear to serve different functions within the same classified complex: Area 51 for advanced aviation development, S4 for alien craft study/reverse engineering and — per Stein — direct ET communication.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[1f16VvXaSSE]]
 - [[edgar-fouche]] — USAF Master Sergeant with verifiable 1970s Area 51 service; claimed knowledge of TR3B program
@@ -55,6 +56,7 @@ Area 51 has been the most consistently named site in UAP research for reverse en
 - [[QgxjtDS2sIQ]] — Charles Hall interview; geography clarification distinguishing Area 51 from Dreamland/Indian Springs.
 - [[randy-anderson]] — works at the Nevada Test Range as OPFOR cadre; observed a **green orb** fly over during training operations; cadre responded "if you saw it, we've got a lot of paperwork to do" — then told the witness to stand down
 - [[matthew-livelsberger]] — Las Vegas Cybertruck bomber; email to Sam Shoemate included coordinates pointing to Area 51, which Jesse Michaels frames as the locus of US electrogravitic propulsion operations
+- [[jesse-michaels]] — Michaels frames Area 51 as the central node of US reverse-engineered electrogravitic propulsion operations; the Livelsberger coordinate discussion, Bob Lazar's S4 claims, and Michaels's broader disclosure narrative all converge on Area 51 as the primary institutional locus of domestic UAP technology
 - [[Sct30Qijfv8]] — Randy Anderson and green orb incident; Livelsberger coordinate discussion
 - [[naval-surface-warfare-crane]] — Jesse Michaels's Navy Special Warfare contacts describe Crane as the Navy's off-world reverse engineering center, analogous to Area 51 / Wright-Patterson for the Air Force
 - [[egng]] — EG&G was the operational gatekeeper for Area 51: ran commuter flights (Janet Airlines), security badging, access lists, and personnel screening; Bob Lazar's employment was routed through EG&G

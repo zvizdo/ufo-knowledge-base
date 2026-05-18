@@ -30,6 +30,7 @@ The fact that Reid used the wrong channel — sending a letter directly to the D
 In a separate account (relayed by [[hal-puthoff]] on Joe Rogan), the Bush-43 NSC under NSA [[steven-hadley]] read Liu Cixin's *The Three-Body Problem* as part of an exercise considering whether to disclose UAP. The conclusion was that disclosure was not worth it. [[ralph-moat-larson]], who knew Hadley well, said he had never heard of this exercise — neither confirming nor refuting it.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[1f16VvXaSSE]]
 - [[harry-reid]] — Reid attempted SAP elevation during Bush's term; Davis says Reid used the wrong channel

@@ -11,7 +11,7 @@ firsthand_claims:
   - Described the object as silent, hovering, with a departure that went "straight vertical, fast, faster, faster" until gone
   - Gave his first and only on-camera interview to James Fox for inclusion in 'The Program' (2024)
 first_seen_in: raw/youtube-transcripts/3yrKVu35uSE.md
-sources: [raw/youtube-transcripts/3yrKVu35uSE.md]
+sources: [raw/youtube-transcripts/3yrKVu35uSE.md, raw/youtube-transcripts/B6WFLOIkyho.md]
 tags: [calvine, raf, scotland, uk, photograph, suppression, the-program]
 ---
 

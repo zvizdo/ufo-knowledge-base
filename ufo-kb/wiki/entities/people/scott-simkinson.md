@@ -41,3 +41,4 @@ Knuth: "If there's a painting of a UFO in that photo and it's found in his recor
 - [[IWui5cBkwoE]] — source summary
 - [[1977-skylab-ufo]] — adjacent space-based encounter Knuth uses in the same astronaut-archive thread
 - [[story-musgrave]] — peer NASA-archive figure in the same astronomical-data-suppression argument
+- [[akinashev-cosmonaut]] — Soviet counterpart in the astronaut-suppression chain; Akinashev's account of state photo-confiscation is the East-bloc analogue to Simkinson's internal-only lithograph preservation

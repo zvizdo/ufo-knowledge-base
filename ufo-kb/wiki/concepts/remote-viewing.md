@@ -87,6 +87,9 @@ Puthoff references (without naming the specific session) that remote viewers pla
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+- Mentioned in [[37--O8Fw0Y0]]
+
 - Mentioned in [[1f16VvXaSSE]]
 - [[stargate-program]] — the government operational program
 - [[hal-puthoff]] — co-founder of the SRI program

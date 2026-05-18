@@ -104,6 +104,9 @@ Elizondo traveled personally to Italy, met a **senior Vatican academic**, who to
 - Is the "multiple NHI groups" claim based on craft morphology data, behavior data, or something more specific?
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[3yrKVu35uSE]]
 

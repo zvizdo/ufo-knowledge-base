@@ -80,6 +80,8 @@ This establishes three UAP-nuclear capabilities:
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - Mentioned in [[1f16VvXaSSE]]
 - [[1967-oscar-flight]] · [[1967-echo-flight]] · [[1966-minot-ufo-missiles]] — the three core anchor incidents (missile shutdowns)
 - [[1977-ellsworth-woods-abduction]] — CE3 case: UAP physically on the blast door of a live Minuteman II warhead; dual-prong alarm triggered

@@ -288,6 +288,7 @@ tags: [jfk, cia, s-force, ufo-disclosure, remote-viewing, anderson-trust, yamash
 - What happened to Sheehan's planned Kennedy-Mack collaboration (the project they were designing before Mack was killed)?
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[danny-sheehan]] — primary speaker; all claims attributed to him across the entire episode
 - [[s-force]] — 15-man CIA-adjacent assassination team assembled by Trafficante; central to the JFK thesis

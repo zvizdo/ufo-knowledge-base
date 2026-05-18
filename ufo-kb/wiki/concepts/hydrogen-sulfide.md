@@ -20,3 +20,4 @@ Hydrogen sulfide rising from the [[karst-cave-system]] beneath Giza is, in [[jef
 - [[jeffrey-drum]] — proposes the H2S-to-sulfuric-acid oxidation chain as the pyramid's core chemistry
 - [[hydrothermal-vents]] — the Tethys-era geological structures whose iron-oxide deposits catalyze H2S oxidation
 - [[independent-aquifer]] — co-located subsurface fluid system; both H2S and brackish water indicate an active subterranean circulation
+- [[fulgurite]] — co-evidence in the chemical-factory thesis: H2S supplies the feedstock chemistry; fulgurites embedded in ore veins are the physical record of the high-voltage current the process requires

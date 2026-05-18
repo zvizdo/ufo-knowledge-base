@@ -64,6 +64,7 @@ Sheehan's critical insight: the JFK assassination doesn't end in 1963. The S For
 - Warren Commission (Allen Dulles appointed as member — structural conflict of interest)
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[jfk-assassination-ufo]] — the UAP-motive dimension of the assassination; this incident page covers both the operational (S Force) and the ideological (nuclear/UAP disarmament) dimensions
 - [[ufo-secrecy-cabal]] — the assassination is the most extreme example of the covert apparatus defending itself against an elected official

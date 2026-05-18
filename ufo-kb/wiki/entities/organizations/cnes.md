@@ -26,3 +26,4 @@ Former CNES President [[andre-lebeau]] wrote the foreword to the COMETA Report. 
 - [[cometa-report]] — CNES-hosted SEPRA provides the primary evidence base
 - [[cometa-ufos-and-defense-what-should-we-prepare-for]] — Source document
 - [[credibility-frameworks]] — SEPRA's scientific methodology (within CNES) is COMETA's evidence anchor
+- [[jean-charles-duboc]] — CNES/SEPRA (under Vélasco) investigated and classified Duboc's 1994 Air France 3532 sighting as UAP-D; Duboc's case is the flagship French case in the COMETA Report that CNES's SEPRA produced

@@ -60,6 +60,11 @@ Every person page ends with a Connections section that implicitly applies this l
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
+
 - Mentioned in [[3yrKVu35uSE]]
 
 - Mentioned in [[2NVDCtSxIac]]

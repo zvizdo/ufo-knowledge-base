@@ -22,6 +22,7 @@ US Senator from South Dakota (R); former Governor of South Dakota (2003–2011);
 **Conference committee defeat**: The bill's weakening in conference committee is attributed to resistance from the DoD and intelligence community — a pattern the KB documents under [[ufo-secrecy]]: the executive branch using conference negotiation to gut congressional oversight mechanisms before they become law.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[chuck-schumer]] — Democratic co-author of the UAP Disclosure Act; Senate Majority Leader
 - [[uap-disclosure-act]] — the legislation Rounds co-authored

@@ -67,6 +67,7 @@ The chemical family relationship between element 115 and bismuth — combined wi
 The debate remains unresolved. The question of a stable isotope is the load-bearing scientific claim that cannot yet be tested.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
 
 - [[bob-lazar]] — identified element 115 at S4; the claim is his most specific and falsifiable
 - [[barry-castillo]] — co-characterized the element via spectroscopy and X-ray diffraction

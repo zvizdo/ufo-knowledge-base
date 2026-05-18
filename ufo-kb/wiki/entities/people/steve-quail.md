@@ -29,3 +29,4 @@ After Ellie Marculli published an independent corroborating account, the pilot r
 - [[nephilim-giants-thesis]] — primary research focus
 - [[book-of-enoch]] — foundational text for his research framework
 - [[ellie-marculli]] — colleague whose independent Kandahar corroboration was verified through Quail
+- [[1920-sardinia-giants-cluster]] — Quail co-founded Gen 6 Productions with Tim Alberino, whose on-site Sardinian investigation documented the cluster; Quail's research framework (Nephilim thesis, Book of Enoch, Canaanite suppression) is the conceptual basis for Alberino's interpretation of the Sardinian evidence

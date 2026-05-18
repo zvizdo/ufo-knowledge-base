@@ -78,6 +78,8 @@ In the 2019 JRE #1315 ([[BEWz4SXfyCQ]]), Lazar added previously unreported opera
 As of 2026, Lazar is conducting experiments in his home laboratory aimed at reproducing the force effects he observed from the [[s4-reactor]]. He will not elaborate on methodology but states he is "100% confident" he can replicate the effects at scale. His claimed advantage: *"I know exactly what not to do — that's what we did at S4."* He has reportedly obtained "interesting results." He also hedged non-denied having had a sample of element 115 at home at some point.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[area-51]] — adjacent base
 - [[s4]] — alleged site of the back-engineering program
@@ -124,6 +126,7 @@ As of 2026, Lazar is conducting experiments in his home laboratory aimed at repr
 - [[dna-intelligence-encoding]] — containers-of-information interpretation
 - [[doe-secret-science-nexus]] — DOE ran both UAP reverse-engineering and Human Genome Project
 - [[ufo-secrecy-cabal]] — Lazar's experience as a target of active credential erasure and intimidation
+- [[ufo-nuclear-nexus]] — Lazar's S4 work was conducted at a facility adjacent to the Nevada Test Site (the primary US nuclear testing range); Element 115's claimed gravity-wave amplification mechanism involves nuclear-scale interactions; S4/Area 51's placement within the AEC/DOE nuclear infrastructure is the structural legal basis for the deepest classification applied to Lazar-adjacent programs
 - [[credibility-frameworks]] — credential dispute is the central contested dimension
 - [[joe-rogan]] — Lazar's 2019 JRE is the most-viewed UAP content ever
 - [[albert-stein]] — appears in the same source context

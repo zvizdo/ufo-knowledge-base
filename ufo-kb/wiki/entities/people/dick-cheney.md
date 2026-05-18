@@ -39,6 +39,7 @@ UAPGerb finds this "highly likely, probably true." This convergence of sources (
 - Who (if anyone) succeeded Cheney at the pyramid apex after 2009?
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[lue-elizondo]] — named Cheney as apex UAP classification figure
 - [[david-grusch]] — named Cheney as pyramid head (via Walter Kern)

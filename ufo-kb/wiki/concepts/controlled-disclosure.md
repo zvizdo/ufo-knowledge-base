@@ -57,6 +57,8 @@ Per Sheehan's account, the genuinely undisclosed material includes:
 - Implicitly: various figures in the disclosure community who describe the authorized nature of Elizondo/Mellon's 2017 work
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[3yrKVu35uSE]]
 

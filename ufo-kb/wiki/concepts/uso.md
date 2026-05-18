@@ -26,6 +26,8 @@ Unidentified Submerged Objects (USOs) are the underwater counterpart to aerial U
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - Mentioned in [[2NVDCtSxIac]]
 - [[water-world-ufo-habitat]] — the hypothesis that USOs indicate ocean-based NHI presence
 - [[1977-hmnzs-southland-uso]] — the RNZN sonar contact cited as most anomalous by Knuth

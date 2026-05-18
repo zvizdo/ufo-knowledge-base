@@ -23,6 +23,9 @@ Psychological warfare (PSYWAR or PSYOP) is the use of propaganda, deception, fal
 **Disinformation claims**: Some researchers (Richard Dolan, Jacques Vallée) argue that UAP disinformation has been deliberately seeded by intelligence agencies to muddy the waters around both genuine phenomena and classified programs — making it impossible to distinguish real cases from planted ones.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[robertson-panel]] — 1953 CIA study that institutionalized debunking as a PSYWAR measure
 - [[cd-jackson]] — Eisenhower psychological warfare advisor; CIA connected

@@ -94,6 +94,8 @@ Wargo articulates the physics prerequisite more explicitly: the brain's quantum 
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[eric-wargo]] — thesis originator
 - [[quantum-biology]] — enabling evidence that warm biological systems support quantum effects
 - [[remote-viewing]] — Wargo reframes as retrocausal feedback perception

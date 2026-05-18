@@ -66,6 +66,7 @@ Dulles's instruction was simple: "get up off their neck" — allow the team to p
 - [[C4rSj5Aum7w]] — most detailed account; Danny Sheehan's primary narration
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[zr-rifle]] — the CIA program that provided training and cover
 - [[operation-40]] — the original anti-Castro operation from which S-Force was drawn

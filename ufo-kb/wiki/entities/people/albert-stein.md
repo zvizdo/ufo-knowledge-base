@@ -40,6 +40,7 @@ Stein's deathbed account (relayed by Sheehan — **hearsay**):
 - [[2SQXAPCdmPE]] — primary and only known source; Sheehan relaying Stein's deathbed account
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[danny-sheehan]] — flew to hospice to receive Stein's testimony firsthand
 - [[project-blue-book]] — Stein's official assignment; the access that put him in proximity to classified UAP materials

@@ -28,6 +28,7 @@ She identified the beings as potentially **interdimensional** (consistent with c
 [[ross-coulthart]] reports that Luna tweeted that AARO is "a hopeless cause" and should be defunded, with the implication that the money should go to the FBI. Coulthart reads this as indicating the FBI's ongoing UAP crime investigation — focused on murders [[jake-barber]] alleged were committed to protect the secret — is the intended successor to AARO's role.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[book-of-enoch]] — publicly recommended this text in a UAP disclosure context
 - [[watchers-thesis]] — her framing closely parallels Alberino's Watchers-as-UAP-explanation thesis

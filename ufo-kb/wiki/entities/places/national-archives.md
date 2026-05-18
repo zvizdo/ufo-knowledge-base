@@ -21,6 +21,7 @@ Official U.S. government repository for federal records, located primarily in Wa
 - Project Blue Book files were declassified and transferred to NARA
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[danny-sheehan]] — claims to have viewed classified Blue Book photos here
 - [[1977-sheehan-blue-book-photos]] — the specific incident

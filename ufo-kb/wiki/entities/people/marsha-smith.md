@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Science advisor to President Jimmy Carter, reportedly present for a classified UAP briefing Carter received. Cited in connection with Carter's 1969 UAP sighting and his post-presidential statements about being denied UAP access."
-sources: []
+sources: [raw/youtube-transcripts/37--O8Fw0Y0.md]
 name: Marsha Smith
 aliases: []
 roles: [official, researcher]
@@ -40,4 +40,6 @@ Smith worked at the [[congressional-research-service]] on science and space poli
 - [[credibility-frameworks]] — her role in the Carter briefing episode is secondhand; primary documentation thin
 - [[congressional-research-service]] — her institutional home
 - [[1977-sheehan-blue-book-photos]] — contemporaneous with her White House period
+- [[rosemary-chalk]] — National Academy of Science executive secretary; personal friend of Smith who introduced Sheehan to her
 - [[2SQXAPCdmPE]] — Smith is the CRS Science and Technology division head who contacted Sheehan, commissioned his Jesuit Vatican archive outreach, and arranged his Blue Book basement access
+- [[37--O8Fw0Y0]] — source; Sheehan describes Smith's role in more detail: she arranged the Madison Building access specifically as special legal counsel to the CRS UAP study commissioned by Carter after Bush's briefing refusal

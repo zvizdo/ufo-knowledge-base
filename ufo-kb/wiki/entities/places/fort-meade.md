@@ -19,6 +19,8 @@ Fort Meade is also the location where [[stargate-program]] adjacent remote viewi
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[nsa]] — primary tenant; NSA headquarters are located at Fort Meade
 - [[dan-sherman]] — read into Project Preserve Destiny at the NSA main building on Fort Meade
 - [[project-preserve-destiny]] — the classified intuitive communicator program for which Sherman was briefed at Fort Meade

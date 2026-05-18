@@ -59,3 +59,4 @@ Long-form interview format; typically 1.5–3 hours per episode. Michaels brings
 - [[index]] — full episode index for all imported transcripts
 - Mentioned in [[u7g5Sn1DJF4]]
 - [[hal-puthoff]] — major multi-episode subject; discussed across at least 6 episodes covering Stargate origins, Zanesville metal, AATIP metric engineering, Three-Body Problem NSC disclosure exercise, and Skinwalker SCIF silence
+- [[ufo-secrecy-cabal]] — the podcast's primary investigative frame; virtually every American Alchemy episode contributes evidence to the cabal thesis (Sheehan's institutional genealogy, Lazar's credential erasure, Elizondo's AATIP suppression, Maguire's AEA classification analysis); American Alchemy is the KB's single largest source corpus for the cabal concept

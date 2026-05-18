@@ -40,3 +40,4 @@ Carter himself later breached the security of the operation in a Georgia speech 
 - [[hal-puthoff]] — Stargate's program lead under Turner's directorship
 - [[joe-mcmoneagle]] — Carter-era Stargate Army viewer whose work fell under Turner's CIA umbrella
 - [[credibility-frameworks]] — Carter-administration DCI engagement with psi research adds institutional credibility to the program record
+- [[bill-casey]] — Casey succeeded Turner as DCI (Turner 1977–1981, Casey 1981–1987); both engaged substantively with the Stargate remote-viewing program, demonstrating that CIA leadership interest crossed party lines and administrations

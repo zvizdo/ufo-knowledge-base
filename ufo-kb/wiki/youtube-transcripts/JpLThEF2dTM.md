@@ -283,3 +283,4 @@ tags: [remote-viewing, stargate, mars, near-death-experience, ufo-nuclear-nexus,
 ## Connections
 
 - Synthesized in [[nuclear-uap-multilateral-evidence]]
+- [[hjzMV8H0YIQ]] — companion McMoneagle interview at Monroe Institute (Area52/DEBRIEFED ep. 65); adds Bahamas UFO encounter, three NDEs clarified, Robert Gates "lying through omission," Stubblebine 3-hour car warning, McMoneagle replaced Atwater at Monroe; expands the Mars-session, entropy-principle, and CIA-Nightline material

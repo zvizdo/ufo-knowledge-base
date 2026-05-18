@@ -52,6 +52,8 @@ The survival thesis matters for UAP research because:
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[consciousness-non-local]] — the theoretical framework that makes survival coherent; if consciousness is the substrate, brain death does not end it
 - [[ian-stevenson]] — primary empirical researcher
 - [[autistic-savant-telepathy]] — the teleology: if autism gives access to the non-local field, and the field persists across deaths, these threads connect

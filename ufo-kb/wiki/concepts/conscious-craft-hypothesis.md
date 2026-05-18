@@ -23,6 +23,8 @@ The conscious craft hypothesis proposes that UAP are not conventional mechanical
 **Scientific challenges**: The hypothesis is difficult to test because it requires detecting consciousness (unsolved problem) in a phenomenon that is itself poorly understood. However, it makes specific predictions: UAP should respond preferentially to human consciousness states and should exhibit behavior distinguishable from mechanical pattern-following by its context-sensitivity.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[jordan-skywatcher]] — observer whose work reflects conscious-craft assumptions
 - [[craft-as-biological-entity]] — adjacent hypothesis emphasizing biological behavioral signatures

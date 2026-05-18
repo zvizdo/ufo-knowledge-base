@@ -19,6 +19,7 @@ USAF Staff Sergeant stationed at RAF Bentwaters, UK, who was one of the primary 
 Cited by [[jake-barber]] in [[dnnpyNuPdXs]] as a historical precedent for UAP activity near military installations — alongside Penniston, framed as proof that the pattern has decades of documented military precedent.
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
 
 - [[1980-rendlesham-forest]] — primary associated incident; witnessed the landing
 - [[jim-penniston]] — co-witness; approached the craft together

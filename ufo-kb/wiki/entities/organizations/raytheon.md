@@ -30,6 +30,7 @@ In the UAP knowledge base context, Raytheon is relevant primarily through [[eric
 - Classified programs across DoD and intelligence community
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[eric-hecker]] — Raytheon contractor; South Pole whistleblower
 - [[south-pole-neutrino-detector]] — facility where Hecker worked as a Raytheon contractor

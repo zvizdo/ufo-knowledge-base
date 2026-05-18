@@ -30,6 +30,7 @@ The book is a direct-testimony claim with significant controversy. It has been d
 [[pippa-malmgren]]'s heuristic — "look for technologies where there's no onramp" — directly engages with Corso's framework.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[philip-corso]] — Author and primary source
 - [[1947-roswell]] — The central event the book describes

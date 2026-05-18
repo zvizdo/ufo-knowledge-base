@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Recent US government UAP whistleblower who encountered the 'Immaculate Constellation' document within the government; described trans-medium objects as 'made to purpose' — designed for specific functional use cases."
-sources: [raw/youtube-transcripts/aGqFOxuYRT0.md]
+sources: [raw/youtube-transcripts/aGqFOxuYRT0.md, raw/youtube-transcripts/MVjBLIsXFHQ.md]
 name: Matthew Brown (whistleblower)
 aliases: [Matthew Brown UAP]
 roles: [whistleblower]
@@ -34,3 +34,4 @@ Jesse Michaels raises this in the context of the [[baltic-sea-anomaly]] — spec
 - [[credibility-frameworks]] — government insider; document-corroborated; disclosure incentive unclear
 - [[aGqFOxuYRT0]] — source where he is referenced
 - Mentioned in [[u7g5Sn1DJF4]]
+- [[MVjBLIsXFHQ]] — cited by Corbell re: sophisticated methods to recover deleted footage; context is Reaper drone operators at Wright-Patterson who saw "clear as day discs," footage deleted in 10-minute chunks afterward

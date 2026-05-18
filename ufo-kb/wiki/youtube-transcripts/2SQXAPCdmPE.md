@@ -364,6 +364,7 @@ Additional: Dick Billings (Life Magazine / House Select Committee on Assassinati
 23. If Sheehan knows two classified Howard Hughes programs beyond the Glomar Explorer, what prevents disclosure — attorney-client privilege, personal safety concerns, or strategic timing?
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[1963-jfk-assassination]] — Sheehan adds S Force theory with named shooter (Roger Morales), named pre-knowledge holders (Bush, LBJ), and the nuclear-disarmament motive
 - [[jfk-assassination-ufo]] — Kennedy's June 5, 1963 UFO briefing request and the 18-letter disarmament exchange with Khrushchev as the assassination motive

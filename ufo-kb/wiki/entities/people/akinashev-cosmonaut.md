@@ -50,3 +50,4 @@ The confiscation of photographs by the Soviet government is a parallel to Wester
 - [[astronomical-data-suppression]] — Soviet confiscation of UAP photos parallels Western suppression
 - [[credibility-frameworks]] — state-level photograph confiscation is a strong signal of credibility
 - [[IWui5cBkwoE]] — source summary
+- [[scott-simkinson]] — Western counterpart in the astronaut-suppression evidence chain; Simkinson's NASA-internal Gemini 11 lithograph parallels the Soviet photo-confiscation pattern Akinashev describes

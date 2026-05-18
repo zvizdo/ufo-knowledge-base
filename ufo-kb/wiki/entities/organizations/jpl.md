@@ -34,6 +34,8 @@ JPL's founding by [[jack-parsons]] while he was simultaneously leading the [[oto
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[jack-parsons]] — co-founder; simultaneous OTO lodge leader
 - [[caltech]] — institutional parent; where the Suicide Squad first met
 - [[george-ellery-hale]] — upstream: Hale's transformation of Caltech created the environment

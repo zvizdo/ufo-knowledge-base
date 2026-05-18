@@ -76,6 +76,8 @@ This analogy maps directly onto the William James "transmission" thesis (see [[t
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[autistic-savant-telepathy]] — the phenomenon that makes non-local consciousness an active empirical question
 - [[nhi-telepathic-communication]] — NHI communication implies the non-local channel has been accessed from both directions
 - [[consciousness-survives-death]] — if consciousness is non-local, post-death persistence follows naturally; the brain's death does not end the underlying field

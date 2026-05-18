@@ -50,6 +50,7 @@ The neutralization of NICAP circa 1962 — by whatever mechanism — demonstrate
 - [[GQlWf54K_7Y]] — Dolan describes Hillenkoetter's NICAP membership and his suspicious 1962 resignation
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[roscoe-hillenkoetter]] — served as director; first CIA director affiliated with the organization
 - [[donald-keyhoe]] — primary advocate for congressional hearings while associated with NICAP

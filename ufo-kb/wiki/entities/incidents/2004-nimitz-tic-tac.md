@@ -49,6 +49,8 @@ In [[jMCavr3dVP0]], [[eric-haseltine]] (NSA Director of Research, developed free
 - For glowing orbs (separate from Tic Tacs), free-air plasma is a more plausible mechanism — Haseltine distinguishes clearly between the two UAP types.
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
+- Mentioned in [[B6WFLOIkyho]]
 
 - Mentioned in [[2NVDCtSxIac]]
 - [[david-fravor]] — primary witness and commanding officer

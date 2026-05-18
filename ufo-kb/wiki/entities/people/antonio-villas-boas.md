@@ -58,3 +58,4 @@ Masters: "Antonio Villas Boas had physical intercourse with this woman who he de
 - [[abduction-phenomena]] — taxonomic category
 - [[phenomenology-categories]] — CE4 (abduction with physical interaction)
 - [[Y26iMB0r-f8]] — source
+- [[amy-rylance]] — modern parallel abduction case (2009 Queensland) Masters cites alongside Villas Boas; the Boas (1957) and Rylance (2009) cases bracket the half-century of human-physiology / reproductive-compatibility evidence in the future-humans hypothesis

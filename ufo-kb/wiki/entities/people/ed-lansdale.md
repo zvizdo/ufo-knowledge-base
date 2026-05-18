@@ -18,6 +18,7 @@ USAF Brigadier General and CIA operative, widely considered one of the most skil
 Also cited in connection with the [[anderson-trust-gold]] operation — the recovery and movement of Yamashita's Gold — as a figure who bridged CIA black finance and political operations.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[danny-sheehan]] — primary source citing Lansdale's Dealey Plaza presence
 - [[1963-jfk-assassination]] — alleged planning role

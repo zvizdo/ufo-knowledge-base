@@ -66,3 +66,4 @@ Alberino argues suppression is driven primarily by **occult interests** — an e
 - [[occult-aerospace-connection]] — suppression driven by occult elite interests
 - [[2002-kandahar-giant]] — parallel contemporary evidence for living giants
 - [[wright-patterson]] — alleged destination of Kandahar Giant body; similar suppression/removal pattern
+- [[steve-quail]] — co-founder of Gen 6 Productions alongside Alberino; Quail's Nephilim/Book of Enoch research framework is the interpretive basis for the suppression and incubation-rite conclusions Alberino draws from the Sardinian evidence

@@ -18,6 +18,7 @@ US Senate Majority Leader (D-NY). Schumer co-authored the Unidentified Anomalous
 The Schumer-Rounds UAP Disclosure Act is considered the most significant legislative push for UAP transparency since AATIP, and its weakening in conference has been cited by researchers including [[danny-sheehan]] and [[dan-farah]] as evidence of continued suppression.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[mike-rounds]] — co-author of the UAP Disclosure Act
 - [[age-of-disclosure]] — legislative backdrop

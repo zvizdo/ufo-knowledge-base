@@ -24,6 +24,8 @@ McMoneagle trained at the Monroe Institute as part of his preparation for remote
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[stargate-program]] — hired by DOD to train remote viewers; Institute used for personnel preparation
 - [[joe-mcmoneagle]] — trained by Monroe in controlled OBE techniques
 - [[monroe-institute]] — the institutional vehicle for his research and training programs

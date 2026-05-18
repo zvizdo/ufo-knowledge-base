@@ -25,3 +25,4 @@ Gorman's dual background (rated military pilot with professional civilian employ
 - [[1948-gorman-dogfight]] — The incident bearing his name; Incident 172 in Project Sign records
 - [[project-sign]] — His dogfight is one of the landmark maneuverability cases in the Project Sign corpus
 - [[credibility-frameworks]] — Dual-credentialed (rated military pilot + civilian professional); corroborated by tower controllers and ground witnesses
+- [[thomas-mantell]] — companion 1948 Project Sign pilot case; together the Mantell fatal pursuit (Jan 1948) and Gorman dogfight (Oct 1948) bracket the year's two landmark ANG-pilot encounters that drove Sign's early investigations

@@ -90,6 +90,7 @@ Greer visited [[jy-ranch]] (Lawrence Rockefeller's Teton ranch) in September 199
 - [[areO7Mej44E]] — long-form American Alchemy interview; CE-5 origin story; MAGIC/MJ-12 current name; Stubblebine $2B offer; Rockefeller JY Ranch 1993; human-staged abductions; free energy suppression; JFK/GAPS; 9/11 diversion thesis
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[danny-sheehan]] — Sheehan is his attorney; vouches for his contact experiences
 - [[lue-elizondo]] — mutual antagonism; represents the political fault line within disclosure between civilian contact advocates and ex-government insiders

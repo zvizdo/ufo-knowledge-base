@@ -38,6 +38,7 @@ The Disclosure Project grew from Greer's earlier Center for the Study of Extrate
 - Some witnesses from the 2001 event later distanced themselves from Greer's framing
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[steven-greer]] — founder; CE-5 promoter; controversial figure
 - [[donna-hare]] — witness from 2001 event

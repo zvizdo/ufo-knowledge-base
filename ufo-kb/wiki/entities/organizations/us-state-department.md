@@ -25,6 +25,9 @@ The United States Department of State is the Cabinet-level executive agency resp
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+- Mentioned in [[37--O8Fw0Y0]]
+
 - [[2016-havana-syndrome]] — primary KB connection; State Department personnel are the largest affected group
 - [[1976-moscow-embassy-microwave-incident]] — historical precedent with the same organizational victim
 - [[neuroweapons]] — the directed energy weapons attributed to State Department attacks

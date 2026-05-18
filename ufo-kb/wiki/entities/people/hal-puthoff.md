@@ -169,6 +169,9 @@ Cites [[diana-pasulka|Diana Pasulka]]'s "donations" framing: some recovered craf
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+- Mentioned in [[37--O8Fw0Y0]]
+
 - Mentioned in [[3yrKVu35uSE]]
 
 - [[pippa-malmgren]] — Named him in context of Bush-era UAP disclosure deliberations

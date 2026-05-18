@@ -29,6 +29,8 @@ Gateway Process (declassified 1983 CIA report) grew directly from Monroe Institu
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[stargate-program]] — shared personnel and methodology
 - [[joe-mcmoneagle]] — trained there; endorses
 - [[remote-viewing]] — methodology overlap

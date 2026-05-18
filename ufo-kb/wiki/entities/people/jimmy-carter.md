@@ -36,6 +36,7 @@ Carter's experience is a key data point for [[controlled-disclosure]] — that U
 - [[2SQXAPCdmPE]] — Sheehan's account of Carter's UAP interest and the CRS study commissioning
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[1f16VvXaSSE]]
 - [[george-hw-bush]] — gave Carter a non-forthcoming CIA briefing as outgoing CIA Director

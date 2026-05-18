@@ -116,6 +116,9 @@ The AEC's foreknowledge implied by Lawrence Geist's behavior at Los Alamos is th
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+- Mentioned in [[37--O8Fw0Y0]]
+
 - [[anton-bilton]] — researching whether DMT subjects in adjacent Faraday cages can share imagery telepathically; the Faraday cage design tests whether the channel is electromagnetic or genuinely non-local — directly relevant to the NHI communication mechanism
 - [[andrew-gallimore]] — the directed-DMT-world model is the most mechanistically specific proposal for NHI-to-human communication: entities commandeer the brain's world-model; if Bilton's Faraday experiment works, it validates that the channel is non-electromagnetic
 - [[directed-energy-uap-weapon]] — The Roswell survivor's alleged transmission of the directed energy weapons concept to CIA and AEC officials is the most consequential documented instance of NHI-to-human knowledge transfer; it belongs to the same phenomenon class as Malmgren's debris experience.

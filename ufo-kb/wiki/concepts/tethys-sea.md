@@ -19,3 +19,4 @@ The Tethys Sea was a Mesozoic-era ocean that covered much of the present-day Med
 - [[jeffrey-drum]] — researcher who builds the chemical-factory thesis on Tethys-era geology
 - [[acid-mine-drainage]] — the extraction process applied to the Tethys-deposited iron ore
 - [[ancient-egypt]] — civilization that allegedly inherited infrastructure built atop the Tethys deposits
+- [[khemet]] — the "land of chemistry" reading depends on Tethys-deposited iron ore as the feedstock; Tethys geology supplies the raw material Khemet's etymology names the processing of

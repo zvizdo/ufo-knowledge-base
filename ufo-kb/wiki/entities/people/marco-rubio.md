@@ -28,6 +28,7 @@ US Senator from Florida, former Acting Chairman of the Senate Select Committee o
 - [[1iaH1a3A4Lk]] — cited as the legislative initiator and as a source of repeated credible-witness statements
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[3yrKVu35uSE]]
 

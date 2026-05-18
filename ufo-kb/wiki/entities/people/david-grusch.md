@@ -121,6 +121,8 @@ Grusch also mentions that some craft appear to have been "gifted" rather than cr
 - [[6WC4o2yY9Ws]] — Graves's characterization of Grusch at the hearing; "alternative timeline" quote
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[3yrKVu35uSE]]
 

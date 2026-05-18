@@ -67,6 +67,8 @@ In the late 1970s, SEI was privatized, rebranded as SURL Metadata, acquired by p
 
 ## Connections
 
+- Mentioned in [[hjzMV8H0YIQ]]
+
 - [[cia]] — operational parent
 - [[jolly-west]] — key practitioner; 1955 memory-implant report; Haight-Ashbury LSD research; Ruby psychotic break; McVeigh interview; Patty Hearst trial
 - [[sidney-gottlieb]] — program director, "the poisoner in chief"; Frank Olson murder

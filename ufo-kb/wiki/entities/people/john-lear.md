@@ -50,6 +50,7 @@ Bill Lear's Lear Corporation was located directly across the street from Brown's
 - [[RTEWLSTyUic]] — extended analysis by Jesse Michaels; hypothesis developed at length
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
 
 - [[bill-lear]] — father; key link to Thomas Townsend Brown and exotic propulsion world
 - [[bob-lazar]] — introduced to George Knapp; the disinformation mechanism

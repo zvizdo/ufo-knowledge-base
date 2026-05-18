@@ -3,7 +3,7 @@ type: entity
 entity-type: people
 name: Albert Stubblebine
 summary: "Major General Albert N. Stubblebine III, US Army (ret.); commanded the Army Intelligence and Security Command (INSCOM) 1981–1984, where he championed remote viewing and paranormal research programs; later became an outspoken UAP believer and alternative medicine advocate."
-sources: [raw/youtube-transcripts/areO7Mej44E.md]
+sources: [raw/youtube-transcripts/areO7Mej44E.md, raw/youtube-transcripts/hjzMV8H0YIQ.md]
 tags: [military, remote-viewing, paranormal, ufology, bribery-attempt, army-intelligence]
 aliases: []
 roles: [other]
@@ -15,6 +15,14 @@ firsthand_claims: []
 Major General Albert N. Stubblebine III (1930–2017) was a senior US Army intelligence officer who served as commanding general of the Army Intelligence and Security Command (INSCOM) from 1981 to 1984. During his command he became the primary institutional champion of unconventional research within the Army's intelligence apparatus, overseeing or supporting programs that explored remote viewing, psychokinesis, and other anomalous human performance research — programs that intersected with the CIA's [[stargate-program]].
 
 Stubblebine was reportedly a serious practitioner as well as an administrator, claiming personal success with remote viewing. He famously attempted — according to Jon Ronson's The Men Who Stare at Goats (2004), which documented this period — to walk through walls as a literal application of mind-over-matter principles he had internalized. After retiring from the Army, he became progressively more publicly outspoken on topics including UAP (asserting that the government was concealing evidence of extraterrestrial contact), alternative medicine, and vaccine skepticism. His trajectory from mainstream military officer to public believer in suppressed knowledge is frequently cited in discussions of how UAP beliefs spread within the defense intelligence community.
+
+## McMoneagle's Three-Hour Warning (Monroe Institute)
+
+[[joe-mcmoneagle]] describes confronting Stubblebine directly: he got into Stubblebine's car at midnight as the general was leaving the [[monroe-institute]], and talked to him for **3 hours** in the car. McMoneagle's message: "In my opinion, you're on the edge. If you continue in the same vein, you're going to be asked to retire early by the army." Stubblebine listened the entire time, asked a few questions, and at the end said: "You've given me a lot to think about, Joe. I appreciate it."
+
+McMoneagle: "Then he got worse. And the Army Chief of Staff for intelligence at the Pentagon retired him. That's basically why he retired."
+
+McMoneagle's assessment of the overall problem: Stubblebine "loved" the Stargate project from the beginning ("that was his kind of thing — free information, free intel"), began personally trying to do remote viewing himself ("in my opinion, that was dangerous"), and went public in ways that made the Army's classified program politically untenable. McMoneagle, whose job was to advise the general and the Army Chief of Staff for intelligence, described trying to warn both as "talking to a wall."
 
 ## $2 Billion Bribe Attempt (May 1992)
 
@@ -34,3 +42,6 @@ The CE-5 event with four ETs materializing near Pensacola, Florida (in which Stu
 - [[majestic-12]] — "his little cabal" aligns with the MJ-12/MAGIC control structure
 - [[areO7Mej44E]] — source for $2B bribe account
 - Mentioned in [[u7g5Sn1DJF4]]
+- [[joe-mcmoneagle]] — spent 3 hours warning Stubblebine in his car at Monroe Institute; predicted the forced retirement; it happened
+- [[monroe-institute]] — venue of the midnight warning conversation
+- [[hjzMV8H0YIQ]] — source for the three-hour warning; McMoneagle's firsthand account of Stubblebine's overreach and forced retirement

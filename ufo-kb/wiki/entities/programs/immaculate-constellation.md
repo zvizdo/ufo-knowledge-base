@@ -60,6 +60,7 @@ The Brown disclosure and the Shellenberger disclosure may describe the same prog
 - Are the Shellenberger and Brown sources describing the same document, or different layers of the same program?
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
 
 - [[michael-shellenberger]] — journalist who published the whistleblower report
 - [[DPmO-2E7Ayg]] — primary source transcript discussing the report

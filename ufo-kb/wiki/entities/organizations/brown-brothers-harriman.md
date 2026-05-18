@@ -36,6 +36,7 @@ Sheehan's argument: BBH → CIA → S Force (JFK assassination) → Watergate co
 **General Smedley Butler's 1934 testimony** to Congress that a BBH-adjacent circle recruited him to lead a fascist coup against FDR is an early data point in this lineage — the same network that financed Hitler attempted to install fascism in the U.S.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[allen-dulles]] — BBH-adjacent; CIA Director; his covert operations authority derived from the Lovett memo
 - [[george-hw-bush]] — grandson of George Herbert Walker (Union Bank of New York founder)

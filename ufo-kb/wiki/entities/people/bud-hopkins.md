@@ -24,6 +24,7 @@ New York artist turned UFO researcher who became one of the most prominent docum
 Hopkins represents the investigator-as-archivist model: documenting cases, identifying recurring patterns (entity types, procedures, implants, missing time), and building the empirical database that later researchers — including Mack — worked from. He was among the first to take seriously the physical-evidence aspects of abduction (implants, landing traces, physiological effects).
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
 
 - [[john-mack]] — childhood friend; Hopkins's work catalyzed Mack's entry into abduction research
 - [[insectoid-beings]] — Hopkins documented the medical-examination abduction typology that maps to both DMT insectoid entities and Mack's abductees

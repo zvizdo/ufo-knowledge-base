@@ -23,6 +23,7 @@ Turner represents the institutional skeptic faction within Congress: not necessa
 > Note: Turner represents the congressional district containing [[wright-patterson]] AFB — one of the most historically significant UAP-adjacent facilities.
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[schumer-uap-amendment]] — key congressional figure in the amendment's legislative fate; gutted the eminent domain clause
 - [[chris-mellon]] — advocate who worked the Hill on UAP disclosure; Turner's committee is the gatekeeping body

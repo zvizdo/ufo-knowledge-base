@@ -82,6 +82,8 @@ Notably, the East Coast objects did **not** display the reactive/interactive beh
 - The contactee/experiencer distinction is applied on person pages to distinguish testimony type.
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[j-allen-hynek]] — creator of the CE scale; [[project-blue-book]] consultant who changed sides
 - [[jacques-vallee]] — Vallée classification system; applies an information-theoretic and paraphysical overlay
@@ -101,6 +103,7 @@ Notably, the East Coast objects did **not** display the reactive/interactive beh
 - [[1942-battle-of-los-angeles]] — CE1/CE2 incident: city-wide observation of a UAP under sustained anti-aircraft fire; the earliest multi-witness instrumented military UAP encounter in the modern era
 - [[uri-geller]] — CE5-adjacent; SRI-tested contactee whose claimed NHI communication fits the CE5 experiencer category
 - [[recurring-claims]] — the category-level claims that phenomenology reports generate; CE3+ reports map onto specific recurring-claims
+- [[cold-war-uap-nexus]] — the Cold War era is the primary historical period from which the Hynek CE scale and Vallée classification system were developed; the dual-causation problem (genuine UAP vs. classified military technology) is embedded in both classification frameworks as an irreducible epistemic feature
 - Mentioned in [[dow-uap-d74-mission-report-syria-2023-11-09]] — spherical ("bouncy ball") UAP morphology; solid; 424 kn consistent for 7 min; no emissions; USCENTCOM ISR observation 2023-11-09
 - Mentioned in [[dow-uap-d23-mission-report-arabian-gulf-2023-10-31]] — two solid UAP (320+440 MPH, COLD thermal signature on UAP 1); Arabian Gulf; 2023-10-24
 - Mentioned in [[nasa-uap-d2-apollo-17-transcript-1972]] — Apollo 17: CDR Cernan's rotating object at 10-12 Earth diameters (DD/visual); LMP Schmitt's lunar flash (TLP or meteorite impact)

@@ -32,6 +32,7 @@ Gabbard is explicitly pro-Bitcoin. As [[matthew-pines]] notes, Senator Gillibran
 - [[9QMrhcpJq8I]] — mentioned by [[matthew-pines]] as evidence of Bitcoin-UAP policy convergence
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - [[matthew-pines]] — analyst who identifies her as the cross-domain policy bridge
 - [[disclosure-narratives]] — her DNI role positions her at the disclosure decision point

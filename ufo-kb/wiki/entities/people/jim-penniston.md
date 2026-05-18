@@ -70,6 +70,7 @@ Penniston's co-witness [[john-burroughs]] experienced lingering physical effects
 - [[fzvwBBSmWYA]] — Hastings; sodium pentothal detail; nuclear weapon storage context
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
 
 - [[1980-rendlesham-forest]] — the incident in which Penniston's contact occurred
 - [[future-humans-hypothesis]] — his contact content is the strongest textual support for the claim

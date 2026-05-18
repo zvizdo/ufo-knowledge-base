@@ -127,6 +127,7 @@ This is notable as a contemporary firsthand dream account from a highly public f
 ---
 
 ## Connections
+- Mentioned in [[B6WFLOIkyho]]
 
 - [[nhi-telepathic-communication]] — The most plausible mechanism for timeline manipulation via NHI would likely operate through consciousness-level information transfer; the telepathic communication pattern documented at Los Alamos and elsewhere is structurally compatible with knowledge transmission across time.
 - [[physics-lockdown]] — The theoretical physics of gravitational time dilation and the Brown-Tesla anti-gravity framework are part of the suppressed science domain; understanding UAP time-travel capability requires access to classified physics that is currently unavailable to mainstream researchers.

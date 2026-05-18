@@ -38,3 +38,4 @@ Lroy favors plasma discharge. The vitrification pattern (surface-only melting on
 - [[plasma-discharge-theory]] — proposed mechanism
 - [[mount-nemrut]] — nearby volcanic feature
 - [[A_LsUSxTm7A]] — source
+- [[easter-island]] — parallel site in the same global plasma-discharge evidence pattern; Rongo Rongo script is interpreted by Schoch as a visual record of the same CME catastrophe that vitrified Kepkesi's basalt surfaces; both sites are part of Lroy's global evidence chain

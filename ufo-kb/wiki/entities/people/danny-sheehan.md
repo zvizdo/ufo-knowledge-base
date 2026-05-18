@@ -1,12 +1,12 @@
 ---
 type: entity
 summary: "Harvard-trained constitutional attorney; founder of the Christic Institute; special counsel to the Carter CRS UAP study; personally viewed classified Blue Book crash-retrieval photos in 1977; attorney to Elizondo, Mack, and Greer; argues the JFK assassination was a Nixon-organized 'S Force' operation."
-sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/C4rSj5Aum7w.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/wlsQIbpEKSM.md]
+sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/C4rSj5Aum7w.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/37--O8Fw0Y0.md]
 name: Danny Sheehan
 aliases: [Daniel Sheehan, Daniel P. Sheehan, Sheehan]
 roles: [attorney, researcher, activist]
 affiliations: [Christic Institute, New Paradigm Institute, Jesuit National Headquarters (former counsel)]
-firsthand_claims: ["viewed classified Blue Book microfiche photos of a ~40ft saucer crash in snow-covered embankment with AF personnel and dome symbols, January 1977, Madison Building, National Archives", "saw Ingo Swann's Scientology Guardian's Office ONI spy reports in Scientology Florida HQ files", "saw Pat Price's remote-viewing capability reports in same Scientology files", "received Albert Stein's deathbed account of ET telepathic communication at S4", "learned of JFK S Force from Santos Trafficante's law-firm revelations"]
+firsthand_claims: ["viewed classified Blue Book microfiche photos of a ~40ft saucer crash in snow-covered embankment with AF personnel and dome symbols, January 1977, Madison Building, National Archives", "saw Ingo Swann's Scientology Guardian's Office ONI spy reports in Scientology Florida HQ files", "saw Pat Price's remote-viewing capability reports in same Scientology files", "received Albert Stein's deathbed account of ET telepathic communication at S4", "learned of JFK S Force from Santos Trafficante's law-firm revelations", "learned of classified psionic-assists program (derived from Roswell helmet) killing American pilots; under informal secrecy oath since late 2023", "George H.W. Bush was summoned to Plains Georgia on Nov 19 1976 and refused to brief Carter on UAPs unless made permanent CIA director"]
 first_seen_in: raw/youtube-transcripts/09KP8XVf5nY.md
 tags: [legal-disclosure, uap-advocacy, jfk-assassination, watergate, iran-contra, christic-institute, blue-book-photos, remote-viewing, mk-ultra, consciousness, s-force]
 ---
@@ -89,13 +89,27 @@ In [[wlsQIbpEKSM]], Sheehan describes what he calls "The Association" — a cove
 
 Sheehan states he has the names of all 24 members but they are not public. The relevance to [[neil-mccasland]] — who fits every criterion (retired, credentialed, disclosure-sympathetic, connected) — is directly noted by Michaels.
 
+## Psionic Assists — New Claim (37--O8Fw0Y0)
+
+In [[37--O8Fw0Y0]] (Area52, March 2025), Sheehan discloses that approximately 1.5 years prior he learned under an informal secrecy oath about **"psionic assists"** — a classified program using technology derived from the [[1947-roswell]] helmet to amplify telepathic capacity in human subjects. The program has killed American pilots and continues operating. Sheehan is pursuing a DOJ-level investigation with [[kash-patel]] (FBI) and [[pam-bondi]] (AG) as relevant officials. See [[psionic-assists]].
+
+## George H.W. Bush — Briefing Refusal (37--O8Fw0Y0)
+
+In [[37--O8Fw0Y0]], Sheehan gives a specific date for Bush's refusal to brief Carter: **November 19, 1976**. Bush (CIA director) was summoned to Plains, Georgia and refused unless Carter agreed to make him permanent CIA director like J. Edgar Hoover at the FBI. Carter refused; Bush refused the briefing. This is the most specific account Sheehan has given of this event, including the conditions Bush demanded.
+
+## Controlled Disclosure Campaign Act — Updated Status (37--O8Fw0Y0)
+
+In [[37--O8Fw0Y0]], Sheehan provides the most detailed update on the [[controlled-disclosure-campaign-act]]: Senate Intelligence Committee 17-0, full Senate 94-6, 23 pages enacted. House blocked by [[michael-turner]] (Wright-Patterson district), who has been replaced by [[brad-wenstrup]]. Executive alignment achieved with Gabbard, Ratcliffe, and Rubio. Citizens for Disclosure network at 1,500 volunteers across 435 congressional districts.
+
 ## Sources Where They Appear
 
 - [[09KP8XVf5nY]] — UAP legal advocacy and researcher network context
 - [[2SQXAPCdmPE]] — comprehensive disclosure of firsthand claims; JFK/Watergate/remote viewing/consciousness; primary source episode
 - [[C4rSj5Aum7w]] — most detailed JFK S-Force narrative; Anderson Trust; Oscar Wolf name; current disclosure legislation status
+- [[37--O8Fw0Y0]] — Area52, 211 min; psionic assists new claim; Bush Nov 19 1976 briefing refusal; CDCA legislative update; Garrison-Gorbachev chain; symbols drawn on camera
 
 ## Connections
+- Mentioned in [[MVjBLIsXFHQ]]
 
 - Mentioned in [[1f16VvXaSSE]]
 - [[ufo-secrecy-cabal]] — has actively litigated against it; his Iran-Contra suit named its personnel
@@ -111,7 +125,13 @@ Sheehan states he has the names of all 24 members but they are not public. The r
 - [[majestic-12]] — has publicly discussed MJ-12 as an operative governance structure
 - [[david-grusch]] — contemporary whistleblower in the same network
 - [[lue-elizondo]] — current client; authorized disclosure insider
-- [[oscar-wolf]] — deathbed Blue Book witness (S4 ET communication); named in [[C4rSj5Aum7w]]; possibly same as [[albert-stein]] named in prior episode
+- [[oscar-wolf]] — deathbed Blue Book witness (S4 ET communication); named in [[C4rSj5Aum7w]] and [[37--O8Fw0Y0]]; possibly same as [[albert-stein]] named in prior episode
+- [[psionic-assists]] — new claim in [[37--O8Fw0Y0]]; classified program derived from Roswell helmet killing pilots; pursuing DOJ investigation
+- [[controlled-disclosure-campaign-act]] — 64-page bill Sheehan drafted; Senate 17-0 / 94-6; 23 pages enacted; House blocked by Turner (now replaced by Wenstrup)
+- [[james-garrison]] — Harvard Divinity School classmate; president of [[gorbachev-foundation]]; described in [[37--O8Fw0Y0]]
+- [[brad-wenstrup]] — new House Intel chair; key vote for CDCA passage
+- [[pam-bondi]] — AG; relevant to psionic assists DOJ investigation
+- [[37--O8Fw0Y0]] — Area52 211-min episode; primary source for psionic assists, Bush briefing refusal, Garrison-Gorbachev, symbols drawn on camera
 - [[anderson-trust-gold]] — covert funding mechanism Sheehan describes; not UAP-related
 - [[new-paradigm-institute]] — his current legal/advocacy institution for UAP disclosure
 - [[nhi-hieroglyphic-symbols]] — his 1977 Blue Book tracings (helipad overlay on microfiche viewer) are the earliest documented drawing of UAP craft symbols; [[randy-anderson]] confirms the symbols on the Crane gauntlet device look "a lot like" Sheehan's tracings

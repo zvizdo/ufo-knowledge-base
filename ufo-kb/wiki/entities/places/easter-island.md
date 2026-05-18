@@ -34,3 +34,4 @@ If Schoch is correct, Rongo Rongo preserves direct visual memory of an ancient c
 - [[colossus-of-memnon]] — parallel burn-mark evidence
 - [[younger-dryas-impact]] — the CME event these may record
 - [[A_LsUSxTm7A]] — source
+- [[kepkesi]] — parallel megalithic site in the same global plasma-discharge evidence pattern; Kepkesi's vitrified basalt surfaces (requiring 2,000°C+) are the Turkish counterpart to the burn marks and Rongo Rongo records at Easter Island; both are in Lroy and Schoch's global evidence chain for the Younger Dryas CME catastrophe

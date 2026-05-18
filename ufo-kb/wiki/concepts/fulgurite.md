@@ -19,3 +19,4 @@ A fulgurite is the natural glass produced when a high-voltage electric discharge
 - [[hydrothermal-vents]] — the geological source of the iron ore veins in which the fulgurites were found
 - [[acid-mine-drainage]] — the electrochemical metal-recovery process that high-voltage current would have supported
 - [[tethys-sea]] — the ancient ocean whose vents created the mineral matrix now containing the fulgurites
+- [[hydrogen-sulfide]] — paired chemical evidence: H2S is the feedstock the process required; fulgurites are the physical signature of the electrical current that drove the process

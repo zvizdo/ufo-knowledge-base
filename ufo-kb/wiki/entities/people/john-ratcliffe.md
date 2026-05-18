@@ -32,6 +32,7 @@ This statement implies:
 - [[1iaH1a3A4Lk]] — cited by Merrick as part of the chain of high-level official UAP acknowledgments
 
 ## Connections
+- Mentioned in [[37--O8Fw0Y0]]
 
 - Mentioned in [[3yrKVu35uSE]]
 
