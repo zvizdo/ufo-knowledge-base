@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Raytheon Technologies (RTX): major US defense contractor; Eric Hecker's employer when he worked at the South Pole; contractor with access to classified defense programs and potential overlap with UAP-adjacent classified work."
-sources: []
+sources: [raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Raytheon Technologies
 aliases: [Raytheon, RTX, Raytheon Company]
 type_field: private-co
@@ -38,3 +38,4 @@ In the UAP knowledge base context, Raytheon is relevant primarily through [[eric
 - [[deep-state-continuity]] — defense contractor as vehicle for institutional program continuity across administrations
 - [[whistleblower-protection-gap]] — Hecker's disclosures about Raytheon contracts fit the whistleblower pattern
 - [[credibility-frameworks]] — Hecker's contractor status shapes how his claims are evaluated
+- Mentioned in [[OOr98r51Sj0]]

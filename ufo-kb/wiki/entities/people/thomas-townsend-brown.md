@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "American physicist and inventor who pioneered electrogravitics research, claimed contact with non-human intelligence, and allegedly served as president of the Nassau-based time travel group. His IP was transferred to Northrop via Floyd Odlum and is alleged to underlie the B2 stealth bomber."
-sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/RTEWLSTyUic.md, raw/youtube-transcripts/SZBI85yvV5A.md, raw/youtube-transcripts/TH10mD9hQas.md, raw/youtube-transcripts/areO7Mej44E.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/kRO5jOa06Qw.md, raw/youtube-transcripts/mOWwdIuyaQA.md, raw/youtube-transcripts/nTiFs8LudUo.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
+sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/5udx_SDdL3Y.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/RTEWLSTyUic.md, raw/youtube-transcripts/SZBI85yvV5A.md, raw/youtube-transcripts/TH10mD9hQas.md, raw/youtube-transcripts/areO7Mej44E.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/kRO5jOa06Qw.md, raw/youtube-transcripts/mOWwdIuyaQA.md, raw/youtube-transcripts/nTiFs8LudUo.md, raw/youtube-transcripts/zjpvfDFc4fg.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Thomas Townsend Brown
 aliases: [T.T. Brown, T. T. Brown, t-k-townsend-brown, Thomas T. Brown, Townsend Brown]
 roles: [physicist, inventor, researcher]
@@ -177,3 +177,4 @@ Brown's birthplace ([[zanesville-ohio]]) became a pilgrimage site within the mod
 - [[2ttdlCa5ZCI]] — McKinnon discusses Brown's work and non-terrestrial chemicals
 - [[david-grusch]] — Lockheed's non-denying response to Grusch traces back through Brown's contractors
 - [[SZBI85yvV5A]] — Michaels and Viktor Hovland discuss the *Back to the Future* synchronicity
+- Mentioned in [[OOr98r51Sj0]]

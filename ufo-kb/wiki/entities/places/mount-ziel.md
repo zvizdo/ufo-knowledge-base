@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Mountain in the MacDonnell Ranges, Northern Territory, Australia; identified by an SRI remote viewer (likely Pat Price) as a possible UFO base on Earth, and confirmed informally by the CIA Australian station-keeper as 'where the UFOs are always flying around.'"
-sources: [raw/youtube-transcripts/Gf_tKn9TaP8.md]
+sources: [raw/youtube-transcripts/Gf_tKn9TaP8.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Mount Ziel
 aliases: [Mt Ziel, Mount Zeil, Mt Zeil]
 region: Northern Territory
@@ -37,3 +37,4 @@ This anecdote sits alongside Pat Price's broader UFO-base list — four mountain
 - [[skip-atwater]] — Later recipient of Price's UFO-base transcripts
 - [[uap-donation-hypothesis]] — Adjacent concept: candidate-base sites and donated craft are companion classes of NHI-presence evidence
 - [[recurring-claims]] — Mount Ziel is one of the named candidate UAP-base sites in the SRI record
+- Mentioned in [[OOr98r51Sj0]]

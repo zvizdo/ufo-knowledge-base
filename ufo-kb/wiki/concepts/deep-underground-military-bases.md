@@ -1,7 +1,7 @@
 ---
 type: concept
 summary: "Alleged network of classified underground military and research installations, some potentially used for UAP-related programs; researched by Richard Sauder; connected by Catherine Austin Fitts to unaccounted Pentagon funding and the breakaway civilization thesis."
-sources: [raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/HxQN2tkQHs8.md]
+sources: [raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/HxQN2tkQHs8.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [underground-bases, black-budget, breakaway-civilization, richard-sauder, dumb, classified-programs]
 ---
 
@@ -71,3 +71,4 @@ Greg Bishop's investigation (*[[project-beta]]*) documents how the Dulce myth wa
 - [[HxQN2tkQHs8]] — Nazca tunnel system as subterranean-civilization angle; Dulce/S4 cited in context of tridactyl theories
 - [[WBTqsbwJyqU]] — source (Greg Bishop's documented origin account of the Dulce myth)
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[OOr98r51Sj0]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 summary: "Special Access Programs (SAPs) — four types of classified compartments; functionally equivalent to hidden SCIs per Davis and Grusch; mechanism for keeping UAP programs outside congressional oversight."
-sources: [raw/youtube-transcripts/LnAiNChnuEQ.md]
+sources: [raw/youtube-transcripts/LnAiNChnuEQ.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [classification, sap, sci, congressional-oversight, compartmentalization, disclosure]
 ---
 
@@ -74,3 +74,4 @@ Davis confirms: "you end up duplicating programs doing the same thing so we're n
 - [[disclosure-narratives]] — SAP architecture is why disclosure is structurally difficult
 - [[ufo-secrecy-cabal]] — the institutional network that operates within and through SAPs
 - [[LnAiNChnuEQ]] — primary source
+- Mentioned in [[OOr98r51Sj0]]

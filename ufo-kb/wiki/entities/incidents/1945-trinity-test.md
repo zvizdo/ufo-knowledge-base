@@ -6,7 +6,7 @@ witnesses: []
 craft_type: ""
 corroboration: instrumented
 tags: [nuclear, trinity, first-nuclear-detonation, ufo-nuclear-nexus]
-sources: [raw/youtube-transcripts/fyX8V1XXmQM.md]
+sources: [raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 ---
 
 # Trinity Test (1945)
@@ -47,3 +47,4 @@ Triggered the post-war nuclear arms race and coincided with the onset of the mod
 - [[nuclear-uap-multilateral-evidence]] — multilateral-evidence synthesis
 - [[1945-san-antonio-trinity-crash]] — alleged crash 20 days later; Vallée and Harris book
 - [[control-system-hypothesis]] — Vallée interprets the crash's timing as a deliberate response to the detonation
+- Mentioned in [[OOr98r51Sj0]]

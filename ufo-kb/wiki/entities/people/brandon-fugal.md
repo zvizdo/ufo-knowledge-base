@@ -8,6 +8,7 @@ affiliations: [Skinwalker Ranch]
 firsthand_claims:
   - Purchased Skinwalker Ranch in 2016 and has witnessed anomalous phenomena firsthand since acquiring it
 first_seen_in: raw/youtube-transcripts/7W7iOt57fOo.md
+sources: [raw/youtube-transcripts/7W7iOt57fOo.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [skinwalker-ranch, bigelow, real-estate, utah, secret-of-skinwalker-ranch, history-channel]
 ---
 
@@ -31,3 +32,4 @@ Fugal was initially skeptical but describes experiencing anomalous phenomena per
 - [[hitchhiker-effect]] — documented at the ranch; continues under Fugal's ownership
 - [[7W7iOt57fOo]] — source transcript
 - [[KGD1nuM4MR8]] — source transcript
+- Mentioned in [[OOr98r51Sj0]]

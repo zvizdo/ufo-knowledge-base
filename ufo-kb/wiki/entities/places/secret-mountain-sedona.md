@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Named mountain near Sedona, Arizona alleged to conceal a deep underground military facility; site of documented UAP orb activity escorted by Blackhawk helicopters; publicly accessible land surrounding it is being patrolled by armed tier-one operators."
-sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
+sources: [raw/youtube-transcripts/V00WcEiKRAY.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Secret Mountain (Sedona)
 aliases: [Secret Mountain, Secret Canyon]
 region: Sedona, Arizona
@@ -49,3 +49,4 @@ Coulthart mentions that people with claimed psionic abilities have reported dete
 - [[nhi-origin-hypotheses]] — alleged NHI presence; military protecting rather than containing
 - [[deep-underground-military-bases]] — consistent with the class of facilities described by authors like Richard Sauder
 - [[V00WcEiKRAY]] — source
+- Mentioned in [[OOr98r51Sj0]]

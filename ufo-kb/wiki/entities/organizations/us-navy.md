@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "The United States Navy; central to UAP disclosure via the Nimitz, Gimbal, Go Fast, and Roosevelt incidents; home of AATIP cooperation, Ryan Graves testimony, the UAP Task Force, and Salvatore Pais patents."
-sources: []
+sources: [raw/youtube-transcripts/OOr98r51Sj0.md]
 name: US Navy
 aliases: [United States Navy, USN, Department of the Navy]
 type_field: gov-agency
@@ -43,3 +43,4 @@ The United States Navy is one of the six branches of the US Armed Forces. In the
 - [[salvatore-pais]] — Navy-affiliated exotic propulsion patent filer
 - [[uap-task-force]] — housed within the Navy
 - [[naval-intelligence]] — intelligence branch
+- Mentioned in [[OOr98r51Sj0]]

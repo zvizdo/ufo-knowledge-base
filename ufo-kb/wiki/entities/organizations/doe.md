@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "US Department of Energy; successor to the Atomic Energy Commission (AEC). Custodian of the Atomic Energy Act classification framework that is cited as the primary legal mechanism for concealing UAP-related physics and recovered materials."
-sources: [raw/youtube-transcripts/ATJwqp5twAg.md]
+sources: [raw/youtube-transcripts/ATJwqp5twAg.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Department of Energy
 aliases: [DOE, Department of Energy, NNSA, Energy Department]
 type_field: gov-agency
@@ -57,3 +57,4 @@ The DOE's predecessor AEC contracted [[battelle-memorial-institute]] for materia
 - [[ralph-moat-larson]] — Director of Intelligence and Counterintelligence 2005–2008; never briefed on UAP; confirms extreme compartmentalization
 - [[glenn-gaffney]] — CIA Director of S&T; alleged to have blocked Lockheed→Bigelow UAP material transfer; operated in parallel lane from Larson's intel role
 - [[ufo-nuclear-nexus]] — NNSA scientists at the Soul Foundation; UAP incursions at DOE facilities reported but not surfaced in Larson's briefings
+- Mentioned in [[OOr98r51Sj0]]

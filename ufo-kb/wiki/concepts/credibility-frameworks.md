@@ -1,7 +1,7 @@
 ---
 type: concept
 summary: "Lens for weighing witness and source reliability in UAP discourse: firsthand vs. hearsay, documented access vs. claimed access, corroboration count, institutional affiliation, and track record. Not a numeric score — captured qualitatively."
-sources: [CONSTITUTION.md, raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1iaH1a3A4Lk.md]
+sources: [CONSTITUTION.md, raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [epistemics, sourcing, witness-reliability, methodology]
 ---
 
@@ -156,3 +156,4 @@ Every person page ends with a Connections section that implicitly applies this l
 - Mentioned in [[fbi-september-2023-uap-sighting-us-transport-facility]] — 15-year government facility employee familiar with all US military aircraft/drones; multiple witnesses; formal FBI 302 investigation; FBI Lab composite sketch corroboration
 - Mentioned in [[dos-uap-d1-cable-1-papua-new-guinea-1985-01]] — Air Niugini commercial pilot radar confirmation; NIO attributing institutional credibility to this report; official Embassy cable to USCINCPAC
 - Mentioned in [[western-us-event-slides-2023-incident-released-2026-05-08]] — seven federal law enforcement special agents; three independent teams from varying vantage points; AARO follow-up measurements independently confirmed dimensions and distance
+- Mentioned in [[OOr98r51Sj0]]

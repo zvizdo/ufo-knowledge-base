@@ -3,7 +3,8 @@ type: entity
 entity-type: organizations
 name: Lockheed Skunk Works
 summary: "Lockheed Martin's Advanced Development Programs division; responsible for U-2, SR-71, F-117; Ben Rich made deathbed claims about ET technology; Nick Cook personally visited Palmdale HQ and spotted 'ASTRA' designation on an org chart; Jack Gordon admitted to 3 unacknowledged aircraft; Aurora and ASTRA programs are likely Skunk Works products."
-tags: [private-co, aerospace, ben-rich, reverse-engineering]
+sources: [raw/youtube-transcripts/OOr98r51Sj0.md]
+tags: [private-co, aerospace, ben-rich, reverse-engineering, biofusion, mind-controlled-craft, charles-chase]
 aliases: []
 ---
 
@@ -52,3 +53,4 @@ This would make Skunk Works not merely a custodian of RE research but a **manufa
 - [[astra-program]] — mysterious designation Cook spotted on the Skunk Works org chart
 - [[bill-sweetman]] — Cook's colleague who independently investigated Aurora
 - [[G7Ns4Aq1tVc]] — Cook's firsthand account of his Palmdale visit and ASTRA incident
+- Mentioned in [[OOr98r51Sj0]]

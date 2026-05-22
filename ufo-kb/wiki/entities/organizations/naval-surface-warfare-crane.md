@@ -6,7 +6,7 @@ parent_org: US Navy
 country: USA
 active_period: "1941–present"
 tags: [navy, weapons, indiana, classified-programs, deep-underground, offworld-technology, reverse-engineering, doe-nexus]
-sources: [raw/youtube-transcripts/Sct30Qijfv8.md]
+sources: [raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 ---
 
 # Naval Surface Warfare Center Crane Division
@@ -63,3 +63,4 @@ See full account at [[2014-nswc-crane-offworld-tech]].
 - [[GQlWf54K_7Y]] — Dolan episode
 - [[-0g3lLGxNfc]] — referenced
 - [[Sct30Qijfv8]] — primary source for the 2014 Off-World Technology Division account
+- Mentioned in [[OOr98r51Sj0]]

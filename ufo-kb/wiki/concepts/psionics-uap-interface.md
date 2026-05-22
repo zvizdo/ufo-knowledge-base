@@ -1,7 +1,7 @@
 ---
 type: concept
 summary: "The claimed operational doctrine that certain humans ('psionic assets') can mentally interface with, control, or summon non-human craft through direct consciousness-to-craft connection; including the systematic government identification and training of such individuals."
-sources: [raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/RNjC1vLcxKo.md, raw/youtube-transcripts/y_8IKKcTntQ.md]
+sources: [raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/RNjC1vLcxKo.md, raw/youtube-transcripts/y_8IKKcTntQ.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [psionics, remote-viewing, uap-interface, consciousness-technology, psionic-assets, crash-retrieval, double-blind, jordan-skywatcher, sky-watchers]
 ---
 
@@ -138,3 +138,4 @@ Compare with [[stargate-program]] remote viewing protocols and the Lemoine/LaMDA
 - [[sky-watchers]] — organizational context for Jordan's role
 - [[y_8IKKcTntQ]] — source for Jordan double-blind demonstrations
 - Mentioned in [[KhmUixSXxDo]] — Jones/Michaels discussion of quantum observer effect and parasychology as control-suppressed domain
+- Mentioned in [[OOr98r51Sj0]]

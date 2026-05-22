@@ -34,3 +34,4 @@ Suppressed technology refers to technologies that exist or have been developed b
 - [[electrogravitics]] — suppressed propulsion technology claims
 - [[ffrdc-uap-architecture]] — proposed structure for UAP technology reverse-engineering
 - [[reverse-engineered-craft]] — the NHI technology angle on the suppression claim
+- Mentioned in [[OOr98r51Sj0]]

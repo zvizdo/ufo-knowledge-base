@@ -2,6 +2,7 @@
 type: concept
 summary: "U.S. law (35 U.S.C. §§ 181–188, 1951) authorizing the Patent and Trademark Office to impose secrecy orders on patent applications whose disclosure would harm national security — used in the UAP context as a mechanism for suppressing advanced-technology patents that may reveal classified propulsion or materials research."
 tags: [law, patents, secrecy, national-security, suppressed-technology, uap, invention]
+sources: [raw/youtube-transcripts/OOr98r51Sj0.md]
 ---
 
 # Invention Secrecy Act
@@ -20,3 +21,4 @@ The KB documents a specific application: a patent filed by inventor Buhler for a
 - [[electrogravitics]] — the specific physics domain where secrecy orders on propulsion patents would be most consequential
 - [[thomas-townsend-brown]] — his post-Navy work would have been subject to Invention Secrecy Act scrutiny
 - [[doe-secret-science-nexus]] — DOE as a primary government agency with secrecy-order authority
+- Mentioned in [[OOr98r51Sj0]]

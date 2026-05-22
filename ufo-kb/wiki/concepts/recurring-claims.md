@@ -1,7 +1,7 @@
 ---
 type: concept
 summary: "Two-layer index for the UFO/UAP discourse: the nine recurring claim *categories* (crash retrieval, reverse engineering, NHI biologics, consciousness link, nuclear nexus, breakaway civilization, time-travelling humans, ancient contact, suppression) AND every discrete *claim-thesis* page in the KB. Categories are coarse buckets; claim-thesis pages aggregate evidence for individual propositions like 'Moon is artificial' or 'Element 115 powers the Lazar craft'."
-sources: [CONSTITUTION.md, raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/0qlppHc3-gg.md]
+sources: [CONSTITUTION.md, raw/youtube-transcripts/-0g3lLGxNfc.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/0qlppHc3-gg.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [claims-taxonomy, claims-theses, crash-retrieval, reverse-engineering, nhi, consciousness, breakaway-civilization]
 aliases: [claims-theses]
 ---
@@ -89,3 +89,4 @@ Every discrete-proposition page in the KB. Alphabetical, with no per-bucket dupl
 - Mentioned in [[u7g5Sn1DJF4]]
 - Mentioned in [[BEWz4SXfyCQ]]
 - Mentioned in [[9gLPtRwXgCM]]
+- Mentioned in [[OOr98r51Sj0]]

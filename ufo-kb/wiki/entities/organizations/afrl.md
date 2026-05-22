@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Air Force Research Laboratory at Wright-Patterson Air Force Base; a $2.2B science and technology portfolio covering advanced materials, directed energy, space systems, and exotic propulsion; commanded by Neil McCasland 2011–2013; alleged Roswell debris study site."
-sources: [raw/youtube-transcripts/wlsQIbpEKSM.md]
+sources: [raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Air Force Research Laboratory
 aliases: [AFRL, Air Force Research Lab]
 type: gov-agency
@@ -49,3 +49,4 @@ In UFO discourse, AFRL occupies a structurally significant position:
 - [[sapoc]] — Special Access Program Oversight Committee; McCasland was its executive secretary before commanding AFRL
 - [[wlsQIbpEKSM]] — primary source transcript
 - [[physics-lockdown]] — AFRL's classified materials and propulsion work is part of the broader classified physics domain
+- Mentioned in [[OOr98r51Sj0]]

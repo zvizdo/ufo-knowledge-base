@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "US Army's Remote Viewer #1 — Legion of Merit recipient for 200+ military intelligence contributions via remote viewing; firsthand accounts of TK-089 Soviet submarine session, Mars DOD tasking, near-death experience, and consciousness theory."
-sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/aGqFOxuYRT0.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/OwrDI7GvenQ.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/nTiFs8LudUo.md, raw/youtube-transcripts/hjzMV8H0YIQ.md]
+sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/aGqFOxuYRT0.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/OwrDI7GvenQ.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/nTiFs8LudUo.md, raw/youtube-transcripts/hjzMV8H0YIQ.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [remote-viewing, mars, stargate, cia, nde, consciousness, soviet-submarine, mx-missile, bahamas-ufo, entropy]
 name: Joe McMoneagle
 aliases: [Joseph McMoneagle, McMonagle, Remote Viewer Number One]
@@ -229,3 +229,4 @@ Remote viewed [[himiko-ruler]] — Japan's only female Empress (~249 AD) — in 
 - [[abduction-missing-time]] — Steve Roberts' complete memory gap; confabulated red truck account
 - [[bermuda-triangle]] — adjacent to Bahamas encounter; McMoneagle describes Fort Lauderdale pilot's 2-hour-early landing with full fuel load
 - [[jacques-vallee]] — McMoneagle says "Jac and I think similarly" on interdimensional/local UFO model
+- Mentioned in [[OOr98r51Sj0]]

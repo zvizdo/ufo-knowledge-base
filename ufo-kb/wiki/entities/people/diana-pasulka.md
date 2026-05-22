@@ -2,7 +2,7 @@
 type: entity
 summary: "Religious studies professor at UNC Wilmington; author examining convergence between Catholic mystical experience descriptions and alien contact accounts; linked apparitional/divine encounter phenomenology to the UAP field; identified cosmism as the founding epistemology of both the US and Russian space programs."
 
-sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/I9VyyV4-3Js.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/zjpvfDFc4fg.md]
+sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/I9VyyV4-3Js.md, raw/youtube-transcripts/aKZ_MUbuk_Q.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/zjpvfDFc4fg.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Diana Pasulka
 aliases: []
 roles: [researcher]
@@ -181,3 +181,4 @@ In response to Jesse's coinage of "forcing function," Pasulka endorses it fully:
 - [[jeffrey-kripal]] — Rice scholar in the same constellation; levitation briefing at Skunk Works
 - [[zjpvfDFc4fg]] — source; cosmism / Tsiolkovsky verbatim quote; Tim Taylor "religion" statement; Skunk Works consciousness research
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[OOr98r51Sj0]]

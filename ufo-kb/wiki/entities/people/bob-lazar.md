@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Self-described physicist who claims to have worked at S4, a facility near Area 51, reverse-engineering recovered alien propulsion systems. His claims introduced 'Element 115' into UFO discourse and remain the most influential and contested whistleblower account in ufology."
-sources: [raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/BEWz4SXfyCQ.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JE1oM89dpBc.md, raw/youtube-transcripts/RTEWLSTyUic.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/q7Czo77qhHA.md, raw/youtube-transcripts/xnxasfyHtfo.md, raw/youtube-transcripts/9gLPtRwXgCM.md, raw/youtube-transcripts/dre-5Zy4f7c.md, raw/youtube-transcripts/h8vjx6-ZFvI.md]
+sources: [raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/BEWz4SXfyCQ.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JE1oM89dpBc.md, raw/youtube-transcripts/RTEWLSTyUic.md, raw/youtube-transcripts/d9tdJ2SkBKQ.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/q7Czo77qhHA.md, raw/youtube-transcripts/xnxasfyHtfo.md, raw/youtube-transcripts/9gLPtRwXgCM.md, raw/youtube-transcripts/dre-5Zy4f7c.md, raw/youtube-transcripts/h8vjx6-ZFvI.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Bob Lazar
 aliases: [Robert Scott Lazar]
 roles: [whistleblower, researcher]
@@ -131,3 +131,4 @@ As of 2026, Lazar is conducting experiments in his home laboratory aimed at repr
 - [[joe-rogan]] — Lazar's 2019 JRE is the most-viewed UAP content ever
 - [[albert-stein]] — appears in the same source context
 - [[3yrKVu35uSE]] · [[5OUzGygIrSw]] · [[BEWz4SXfyCQ]] · [[C_Na1tI5qpw]] · [[JE1oM89dpBc]] · [[RTEWLSTyUic]] · [[d9tdJ2SkBKQ]] · [[fyX8V1XXmQM]] · [[q7Czo77qhHA]] · [[xnxasfyHtfo]] · [[9gLPtRwXgCM]] · [[dre-5Zy4f7c]] · [[h8vjx6-ZFvI]] · [[8TYMQOUDQBo]] · [[sKwq7mpBTrY]] · [[u7g5Sn1DJF4]] · [[Hc6pbG4wICA]] — source transcripts
+- Mentioned in [[OOr98r51Sj0]]

@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Emergency physician turned UFO disclosure advocate; runs CE-5/C5 contact protocols claiming human-initiated contact with NHI; former client of Danny Sheehan; antagonist of Lue Elizondo within the disclosure community."
-sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/JE1oM89dpBc.md, raw/youtube-transcripts/areO7Mej44E.md]
+sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/JE1oM89dpBc.md, raw/youtube-transcripts/areO7Mej44E.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Steven Greer
 aliases: [Greer, Dr. Greer]
 roles: [researcher, other]
@@ -115,3 +115,4 @@ Greer visited [[jy-ranch]] (Lawrence Rockefeller's Teton ranch) in September 199
 - [[majestic-12]] — MAGIC = Majority Joint Intelligence Committee; Greer's current name for the control structure
 - [[credibility-frameworks]] — Greer is a central case study: credentialed ER physician, organized the 2001 NPC with genuine military witnesses, but subsequent CE-5 contact claims and CSETI commercialization have significantly reduced credibility within the UAP insider community
 - [[areO7Mej44E]] — source
+- Mentioned in [[OOr98r51Sj0]]

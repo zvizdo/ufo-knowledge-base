@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "November 2004 encounter off the coast of Southern California during USS Nimitz carrier group operations; Commander David Fravor and three other aviators observed and attempted to intercept a white Tic-Tac shaped object; FLIR footage was recorded by a separate crew."
-sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/jMCavr3dVP0.md, raw/youtube-transcripts/h8vjx6-ZFvI.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/qAou_h1POWs.md]
+sources: [raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/jMCavr3dVP0.md, raw/youtube-transcripts/h8vjx6-ZFvI.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/qAou_h1POWs.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: 2004 Nimitz Tic-Tac Encounter
 date: "2004-11-14"
 location: Pacific Ocean, off the coast of Southern California (~100 miles SW of San Diego)
@@ -77,3 +77,4 @@ In [[jMCavr3dVP0]], [[eric-haseltine]] (NSA Director of Research, developed free
 - Mentioned in [[Hc6pbG4wICA]]
 - Mentioned in [[dre-5Zy4f7c]]
 - Mentioned in [[h8vjx6-ZFvI]]
+- Mentioned in [[OOr98r51Sj0]]

@@ -1,7 +1,7 @@
 ---
 type: concept
 summary: "The thesis that UFO encounters are phenomenologically identical to religious conversion experiences, and that UFO belief is on a trajectory to formalize as religion — potentially converging with simulation theory into a neo-Gnostic framework."
-sources: [raw/youtube-transcripts/2Mb6NPPjCyg.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/I9VyyV4-3Js.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/wT5-hXWIkzM.md]
+sources: [raw/youtube-transcripts/2Mb6NPPjCyg.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/I9VyyV4-3Js.md, raw/youtube-transcripts/aa9Xx5wI8Rw.md, raw/youtube-transcripts/fyX8V1XXmQM.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/wT5-hXWIkzM.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [ufo-religion, gnosis, simulation-theory, conversion-experience, phenomenology, claims-theses, disclosure-narratives]
 ---
 
@@ -138,3 +138,4 @@ The 1947 Roswell event is a cultural dividing line: before it, contact phenomena
 - [[contact-forcing-function]] — the mechanism by which the convergence operates on individuals
 - [[john-mack]] — abduction book (1994); "Melissa" orb case as classic convergence example
 - [[elaine-pagels]] — Princeton Gnostic scholar; Gospel of Thomas; mystery-initiation in early Christianity; parallel figure to Pasulka (both study heretical/esoteric traditions)
+- Mentioned in [[OOr98r51Sj0]]

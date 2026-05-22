@@ -13,6 +13,7 @@ nationality: USA
 dates: 1934–2017
 sources:
   - raw/documents/nasa-uap-d2-apollo-17-transcript-1972.md
+  - raw/youtube-transcripts/OOr98r51Sj0.md
 tags: [astronaut, nasa, apollo, witness, 1972]
 ---
 
@@ -43,3 +44,4 @@ Cernan also reported cosmic ray phosphene flashes during sleep — standard deep
 - Mentioned in [[nasa-uap-d3-gemini-7-transcript-1965]] — Borman (Gemini 7 CDR) analogous to Cernan (Apollo 17 CDR): both mission commanders made first-person UAP reports on master mission tapes; 1965 bogey call precedes Cernan's 1972 rotating object by 7 years
 - Mentioned in [[nasa-uap-d6-apollo-17-technical-crew-debriefing-1973]] — post-mission technical debriefing; Cernan's only "unusual sighting" during landing/recovery was recovery ship superstructure
 - Mentioned in [[nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973]] — science instruments debriefing (MSC-07632); cosmological UV background results; no anomalous sightings reported
+- Mentioned in [[OOr98r51Sj0]]

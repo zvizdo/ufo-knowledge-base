@@ -118,3 +118,4 @@ See [[astronomical-data-suppression]] for the full pattern.
 - [[american-alchemy]] — the KB's largest single source corpus for the cabal concept; virtually every American Alchemy episode contributes evidence across Sheehan's institutional genealogy, Lazar's credential erasure, Elizondo's AATIP suppression, and Maguire's AEA classification analysis
 - [[MVjBLIsXFHQ]] — Corbell's Area52 "surviving aliens" episode: Arrow ODNI intimidation unit targeting Navy UAP witnesses, Reaper drone footage deletion at Wright-Patterson, FBI raids on Lazar's element-115 sample, and the false 2027–2036 narrative as cabal operational signatures
 - [[B6WFLOIkyho]] — Pope describes the UK MoD UFO-desk equivalent of the cabal's institutional cover: civilian-case absorber paralleling Project Blue Book; JRIC's classified "real 75ft craft" assessment of the Calvine photograph withheld from public; MoD self-censorship policy on abduction
+- Mentioned in [[OOr98r51Sj0]]

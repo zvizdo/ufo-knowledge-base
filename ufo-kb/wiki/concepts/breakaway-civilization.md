@@ -1,7 +1,7 @@
 ---
 type: concept
 summary: "Hypothesis that a secret group — human or part-human — has achieved advanced technology (possibly from reverse-engineered alien craft) and operates outside all known governmental and institutional structures, constituting a 'civilization within a civilization'."
-sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/JGE1NIGhBzw.md]
+sources: [raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/JGE1NIGhBzw.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [secret-space-program, reverse-engineering, ufo-secrecy, deep-state, richard-dolan]
 ---
 
@@ -56,3 +56,4 @@ The breakaway civilization concept differs from simple "deep state" theories: it
 - [[moon-artificial-satellite]] — proposed physical location of the prehistoric breakaway branch
 - [[younger-dryas-impact]] — the Taurid-stream event that ended the prior civilization
 - [[JGE1NIGhBzw]] — Carlson/Michaels discussion of the prehistoric-refuge variant
+- Mentioned in [[OOr98r51Sj0]]

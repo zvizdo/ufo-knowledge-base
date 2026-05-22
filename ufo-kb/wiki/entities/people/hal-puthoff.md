@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Physicist; co-founder of the CIA/DIA Stargate remote viewing program at SRI; referenced in context of George W. Bush administration UAP disclosure discussions alongside NSA Steven Hadley."
-sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/Rfmy5oW_r9c.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/p0S0BfoZy0w.md, raw/youtube-transcripts/qAou_h1POWs.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/vZEcVY2iZsk.md, raw/youtube-transcripts/9gLPtRwXgCM.md, raw/youtube-transcripts/Gf_tKn9TaP8.md]
+sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/ABOP8ZJsyIk.md, raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/Rfmy5oW_r9c.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/dzTZbSNsKV8.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/p0S0BfoZy0w.md, raw/youtube-transcripts/qAou_h1POWs.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/vZEcVY2iZsk.md, raw/youtube-transcripts/9gLPtRwXgCM.md, raw/youtube-transcripts/Gf_tKn9TaP8.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Hal Puthoff
 aliases: [Harold E. Puthoff, Harold Puthoff, Puthoff]
 roles: [researcher, official]
@@ -262,3 +262,4 @@ Cites [[diana-pasulka|Diana Pasulka]]'s "donations" framing: some recovered craf
 - [[pat-price]] — SRI remote viewer who identified four UFO-base mountains; Puthoff held Price's 1973 transcripts and passed them to Atwater
 - Mentioned in [[dre-5Zy4f7c]]
 - [[american-alchemy]] — primary platform where Puthoff's work is discussed across the KB; covered across multiple episodes: Stargate origins, SKIF briefing, Zanesville metal, stock-market RV, Three-Body Problem disclosure exercise, and Skinwalker SCIF silence
+- Mentioned in [[OOr98r51Sj0]]

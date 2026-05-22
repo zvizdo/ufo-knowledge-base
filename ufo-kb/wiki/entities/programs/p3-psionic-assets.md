@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Alleged classified program that recruits humans with innate psionic ability (often from third-world countries), subjects them to drug cocktails and stress induction, and deploys them with retrieval teams to attract and interface with non-human craft; internally labeled 'P3' (Psionic Potential Predisposition); program refers to assets as 'pink assets.'"
-sources: [raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/bM18PJY6_Zc.md]
+sources: [raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/bM18PJY6_Zc.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: P3 Psionic Asset Program
 aliases: [P3, Psionic Potential Predisposition, pink assets program]
 parent_org: ""
@@ -13,6 +13,13 @@ tags: [psionics, psionic-assets, classified, human-trafficking, consciousness, n
 # P3 Psionic Asset Program
 
 The informal name ("P3" — Psionic Potential Predisposition) for an alleged classified program that identifies, recruits, and operationally deploys humans with innate psionic ability to attract and interface with non-human craft. First disclosed to [[michael-herrera]] by [[jake-barber]] as the explanation for the [[2009-indonesia-ufo]] encounter's container cargo.
+
+### New detail from [[OOr98r51Sj0]] (May 2026)
+
+- **Recruitment pipelines named explicitly.** Barber: the **unaccompanied-minor crisis** and **caravans through the Darién Gap** across the US-Mexico border; plus the **Ukraine war's displaced-persons flow**. These pipelines are described as a feature, not a bug — refugees are valued because "people that live a simpler life and are outdoors more and have less contaminants in their food… seem to be a little bit better at disassociating and heightening their intuition."
+- **Attrition profile.** Per the 2023 [[joey-is-not-my-name]] leak (re-attributed to Barber): "After several years of this experimentation and drug use, a lot of these people die or slip into a coma. These people are essentially treated like biological equipment, maintained and then replaced when worn out." Internal slang: **"pink assets" → "experimental human meat."**
+- **The BMI bridge.** Per the same leak: black-program pilots without innate psionic ability cannot fly recovered ET craft directly — "the craft won't talk to him." A pilot's commands are routed through a brain-machine interface into a psionic asset's brain, which the craft can read. The asset becomes "a psychic joystick." ([[mind-controlled-craft]] / [[biofusion]])
+- **The DOPSR-novel embodiment.** [[sentinels-of-ether]] codifies this whole pipeline in narrative form; Jake intentionally exposed the framework to the [[dopsr]] review process to use redaction as authentication.
 
 ## Mechanism
 

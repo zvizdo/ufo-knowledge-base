@@ -203,3 +203,4 @@ In [[LpLFWdsIU7M]], [[matthew-pines]] adds a new dimension to the physics lockdo
 ## Civilian Observation as Release Valve (y_8IKKcTntQ — Valor)
 
 [[james-valor]] adds an operational corollary from the [[sky-watchers]] field program: if classified physics cannot be released through official channels, private civilian companies can independently observe the *phenomena* and reverse-engineer the underlying physics themselves. This is the [[soft-disclosure-civilian-observation]] model — the release valve for the physics lockdown that requires no government action, only non-interference. Valor's supporting evidence: [[sky-watchers]] has operated government-contracted events without receiving NDAs or cessation orders, suggesting implicit permission to observe and publish.
+- Mentioned in [[OOr98r51Sj0]]

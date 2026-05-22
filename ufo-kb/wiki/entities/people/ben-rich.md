@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Director of Lockheed Skunk Works 1975–1991; coined 'UFOs are unfunded opportunities'; gave Nick Cook an ESP/all-points-in-space-time answer when asked about taking ET home; deathbed claim 'We already have the means to travel among the stars'; succeeded Kelly Johnson; contemplated burying stealth technology entirely."
-sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md]
+sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/G7Ns4Aq1tVc.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Ben Rich
 aliases: []
 roles: [other]
@@ -80,3 +80,4 @@ Sheehan uses Rich as an emblem of the defense-contractor position on UAP disclos
 - [[2ttdlCa5ZCI]] — McKinnon discusses Rich's "take ET home" statement
 - [[G7Ns4Aq1tVc]] — Cook's direct interview account
 - [[09KP8XVf5nY]] — Malmgren notes LeMay founded RAND; Ben Rich (son of RAND's long-time president Michael Rich) as part of the interlocked UAP/aerospace network
+- Mentioned in [[OOr98r51Sj0]]

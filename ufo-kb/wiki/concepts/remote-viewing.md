@@ -1,7 +1,7 @@
 ---
 type: concept
 summary: "The practice of perceiving distant or shielded locations, objects, or events through apparent extrasensory means. Formalized as Coordinate Remote Viewing (CRV) by Ingo Swann and validated at SRI by Russell Targ and Hal Puthoff. The US government funded remote viewing research and operations for over two decades under the Stargate Program."
-sources: [raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/OwrDI7GvenQ.md]
+sources: [raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/h3u8EkGI8OQ.md, raw/youtube-transcripts/hXYdkcv5TtY.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/OwrDI7GvenQ.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [remote-viewing, stargate, cia, sri, psi, parapsychology, crv, ingo-swann]
 ---
 
@@ -142,3 +142,4 @@ Puthoff references (without naming the specific session) that remote viewers pla
 - [[skip-atwater]] — operations and training officer who ran the operational pipeline; his account adds the institutional and psychological texture that viewer accounts alone lack
 
 - Mentioned in [[QkuDvTFN7ms]] — [[john-norsine]] (engineer, Navy pilot, Lockheed Martin neuroengineer, remote viewer) claimed to have been at the [[1976-allagash-abduction]] site in August 1976 conducting a TTR exercise; his claimed presence connects remote viewing to abduction case operational context
+- Mentioned in [[OOr98r51Sj0]]

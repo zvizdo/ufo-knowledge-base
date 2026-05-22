@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "CIA/DIA remote viewing program founded by Hal Puthoff and Russell Targ at SRI; produced operationally validated intelligence and connects to UAP-associated telepathic phenomena."
-sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/vZEcVY2iZsk.md, raw/youtube-transcripts/OwrDI7GvenQ.md, raw/youtube-transcripts/R8TqBrrqL4U.md]
+sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/JpLThEF2dTM.md, raw/youtube-transcripts/RofQnByLwOo.md, raw/youtube-transcripts/eQIMantuasQ.md, raw/youtube-transcripts/iQOibpIDx-4.md, raw/youtube-transcripts/vZEcVY2iZsk.md, raw/youtube-transcripts/OwrDI7GvenQ.md, raw/youtube-transcripts/R8TqBrrqL4U.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Stargate Program
 aliases: [Project Stargate, SCANATE, Gondola Wish, Grill Flame, Center Lane, Sun Streak, Star Gate]
 parent_org: CIA / Defense Intelligence Agency (DIA)
@@ -103,3 +103,4 @@ Sheehan saw these reports directly inside Scientology's Florida HQ files while r
 - [[sugar-grove-naval-station]] — institutional landmark: Pat Price's off-target session there created the "Awakening" for SRI scientists and served as the foundational validation event
 - [[pat-price]] — identified four UFO-base mountain locations; Price's 1973 transcripts became the basis for Project 8200
 - Mentioned in [[R8TqBrrqL4U]] — Grusch confirms legitimacy from personal conversations with SRI operators; notes Pat Price's suspicious 1975 death; cites five successor programs after official cancellation
+- Mentioned in [[OOr98r51Sj0]]

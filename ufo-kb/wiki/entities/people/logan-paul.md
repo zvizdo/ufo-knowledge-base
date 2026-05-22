@@ -6,6 +6,7 @@ aliases: []
 roles: [other]
 affiliations: []
 firsthand_claims: []
+sources: [raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [logan-paul, ufo-adjacent, chuck-clark, james-fox, area-51, pop-culture]
 ---
 
@@ -28,3 +29,4 @@ American YouTuber and entertainer (b. 1995). In the UAP KB, Paul appears in two 
 - [[area-51]] — broader geographic context; S-4 site nearby
 - [[soft-disclosure-civilian-observation]] — Paul as entertainment-tier amplifier of UAP footage
 - [[d9tdJ2SkBKQ]] — source episode
+- Mentioned in [[OOr98r51Sj0]]

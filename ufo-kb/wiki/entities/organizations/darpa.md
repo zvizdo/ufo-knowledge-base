@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Defense Advanced Research Projects Agency — US DoD agency funding high-risk, high-reward military technology research; founded 1958; appears in ufo-kb as a potential conduit for distributing recovered NHI technologies into the U.S. private sector, per the Corso/Trudeau thesis articulated by John Blitch."
-sources: [raw/youtube-transcripts/yAvD5UTziTo.md]
+sources: [raw/youtube-transcripts/yAvD5UTziTo.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: DARPA
 aliases: [Defense Advanced Research Projects Agency, ARPA]
 type: gov-agency
@@ -55,3 +55,4 @@ Blitch was called back from his SAIC VP role by DARPA director Art Morris for a 
 - [[extended-electrodynamics]] — physics potentially within DARPA's scope
 - [[ufo-legacy-program-pyramid]] — DARPA sits in the acquisition/distribution layer
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[OOr98r51Sj0]]

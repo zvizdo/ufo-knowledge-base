@@ -6,7 +6,7 @@ roles: [other]
 affiliations: [Lockheed Martin, Lockheed Skunk Works]
 firsthand_claims: ["Invited philosopher Jeffrey Kripal to brief Skunk Works engineers on levitation — signaling institutional interest in consciousness-based propulsion"]
 first_seen_in: raw/youtube-transcripts/zjpvfDFc4fg.md
-sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
+sources: [raw/youtube-transcripts/zjpvfDFc4fg.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [skunkworks, lockheed, consciousness, levitation, uap-insider, secret-machines]
 summary: "Director of Lockheed's Revolutionary Projects Organization at Skunk Works; invited religious studies scholar Jeffrey Kripal to brief engineers on levitation; advised Tom DeLonge's Secret Machines project."
 ---
@@ -39,3 +39,4 @@ Chase represents the clearest named institutional connection between a classifie
 - [[consciousness-as-technology]] — levitation as propulsion research framing
 - [[occult-aerospace-connection]] — institutional data point
 - [[zjpvfDFc4fg]] — source
+- Mentioned in [[OOr98r51Sj0]]

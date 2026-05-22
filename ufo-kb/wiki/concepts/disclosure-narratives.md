@@ -1,7 +1,7 @@
 ---
 type: concept
 summary: "Competing meta-theories about how UFO/UAP truth is or isn't being released: slow disclosure, controlled opposition, psyop, genuine reveal, false-flag prep, catastrophic revelation. Applied when a source explicitly or implicitly endorses a narrative model about *why* information is emerging (or not)."
-sources: [CONSTITUTION.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/ATJwqp5twAg.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/HxQN2tkQHs8.md, raw/youtube-transcripts/KRDE1i3LDuU.md, raw/youtube-transcripts/LpLFWdsIU7M.md, raw/youtube-transcripts/tS_64sTN5AU.md]
+sources: [CONSTITUTION.md, raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/1iaH1a3A4Lk.md, raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/6WC4o2yY9Ws.md, raw/youtube-transcripts/ATJwqp5twAg.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/HxQN2tkQHs8.md, raw/youtube-transcripts/KRDE1i3LDuU.md, raw/youtube-transcripts/LpLFWdsIU7M.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [disclosure, psyop, cover-up, controlled-release, meta-theory, politics]
 ---
 
@@ -134,3 +134,7 @@ Key implication: neither the government nor the public "owns" the disclosure tra
 - Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]
 - Mentioned in [[cometa-ufos-and-defense-what-should-we-prepare-for]]
 - Mentioned in [[dos-1952-07-18-increased-ufo-reports-memo]] — Maxwell Hunter II (NASC, 1963): "no one of consequence is going to take this rubbish seriously unless it happens. At that point, our policy will be determined in the traditional manner of grand panic" — 1963 government prediction of reactive disclosure
+- [[jake-barber]] — operates inside the controlled-vs-genuine-vs-psyop debate by inverting [[dopsr]]'s pre-publication review and turning *[[sentinels-of-ether]]* into an authenticated-by-redaction disclosure vehicle (anchor: AA 10.29; Barber as a [[novel-as-disclosure]] practitioner)
+- [[novel-as-disclosure]] — disclosure-via-fiction sub-pattern (DeLonge → Barber lineage)
+- [[2026-department-of-war-uap-release]] — exemplar of the "controlled drip + simultaneous distraction" hybrid Michels argues for in [[OOr98r51Sj0]]
+- Mentioned in [[OOr98r51Sj0]]

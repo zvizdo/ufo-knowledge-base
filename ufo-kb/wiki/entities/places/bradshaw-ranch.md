@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Former working ranch near Sedona, Arizona, allegedly now a fenced federal facility; site of a photographed interdimensional portal, underground GPR-confirmed tunnel, and anomalous infrastructure including underground power and a camera aimed at the portal location."
-sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
+sources: [raw/youtube-transcripts/V00WcEiKRAY.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Bradshaw Ranch
 aliases: []
 region: Sedona, Arizona
@@ -44,3 +44,4 @@ Linda Bradshaw photographed what appeared to be a portal opening in a specific p
 - [[jeremiah-hostman]] — Sedona researcher who documented and contextualized the site
 - [[ufo-secrecy-cabal]] — the active suppression of public access to this site on civilian public land
 - [[V00WcEiKRAY]] — source
+- Mentioned in [[OOr98r51Sj0]]

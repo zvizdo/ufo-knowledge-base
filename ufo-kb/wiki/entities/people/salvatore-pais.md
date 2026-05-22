@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "US Navy physicist who filed three interdependent exotic-propulsion patents (2016–2019) describing quantum vacuum manipulation, high-energy electromagnetic field concentration, and space-time metric warping — assessed by Bob Maguire as likely derived from recovered crash material."
-sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md]
+sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/5OUzGygIrSw.md, raw/youtube-transcripts/8TYMQOUDQBo.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Salvatore Pais
 aliases: [Pais, "P" (Maguire's shorthand)]
 roles: [researcher, official]
@@ -120,3 +120,4 @@ Pais is scathing: "Immaculate Constipation — such little information was excre
 - [[8TYMQOUDQBo]] — first in-person interview; fullest first-person explanation of the Pais effect
 - [[2Xxmguz0GEQ]] — source
 - [[5OUzGygIrSw]] — Rossi account; Pais confirmed temporal model
+- Mentioned in [[OOr98r51Sj0]]

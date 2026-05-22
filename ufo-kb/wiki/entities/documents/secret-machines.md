@@ -7,7 +7,7 @@ type_doc: book
 classification: public
 tags: [delonge, levenda, uap, consciousness, mystical-machines, skunkworks, aerospace-insiders, nhi]
 summary: "Book series by Tom DeLonge and Peter Levenda arguing that UAP are 'mystical machines' — advised by senior Lockheed Skunk Works executives and Air Force Research Lab commanders who consistently identified human consciousness as the key variable."
-sources: [raw/youtube-transcripts/zjpvfDFc4fg.md]
+sources: [raw/youtube-transcripts/zjpvfDFc4fg.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 ---
 
 # Secret Machines
@@ -52,3 +52,4 @@ This connects to the broader [[occult-aerospace-connection]] and [[consciousness
 
 - Synthesized in [[occult-intelligence-space-nexus]]
 - Mentioned in [[Y7PLeu5rTv4]] — Levenda is co-author with Tom DeLonge; discusses Prometheus myth as encrypted NHI history; vol.1 titled Gods
+- Mentioned in [[OOr98r51Sj0]]

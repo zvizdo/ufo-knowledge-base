@@ -7,7 +7,8 @@ type: private-co
 parent_org: null
 country: USA
 active_period: 1995–present (Lockheed Martin merger); Lockheed: 1912–1995; Martin Marietta: 1961–1995
-tags: [crash-retrieval, uap-material, skunk-works, gaffney, bigelow, classified-programs, arv]
+sources: [raw/youtube-transcripts/OOr98r51Sj0.md]
+tags: [crash-retrieval, uap-material, skunk-works, gaffney, bigelow, classified-programs, arv, biofusion, mind-controlled-craft, charles-chase, gerald-yonas, john-norsine]
 ---
 
 # Lockheed Martin
@@ -61,3 +62,4 @@ This is the most direct corporate-level implicit admission in the KB. Coulthart 
 - [[V00WcEiKRAY]] — Coulthart executive source; spacecraft transfer narrative
 - Mentioned in [[u7g5Sn1DJF4]]
 - Mentioned in [[dre-5Zy4f7c]]
+- Mentioned in [[OOr98r51Sj0]]

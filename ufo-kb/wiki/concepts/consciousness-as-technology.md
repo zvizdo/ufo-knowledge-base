@@ -83,3 +83,4 @@ The parallel to UAP-related consciousness technology: if human will can access a
 - [[tim-taylor]] — protocols are the operative example; also: his religious conversion at Vatican Observatory re-interpreted the signals as saint-like rather than technology-like
 - [[muses-as-real-entities]] — the Muse tradition as the historical framework for what Tyler calls "downloads" — consciousness-as-technology has been practiced under a different name for millennia
 - Mentioned in [[KhmUixSXxDo]] — Jones frames consciousness as a channel that elites suppress because an unrulable populace with full psychological power can't be governed
+- Mentioned in [[OOr98r51Sj0]]

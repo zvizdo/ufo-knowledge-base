@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Astrophysicist, director of Hayden Planetarium, popular science communicator; cited in UAP discourse as a prominent institutional skeptic who dismisses UAP witness accounts; contrasted with researchers like Avi Loeb who take evidence-based approaches."
-sources: [raw/youtube-transcripts/TNtlzEnl8rA.md, raw/youtube-transcripts/IWui5cBkwoE.md]
+sources: [raw/youtube-transcripts/TNtlzEnl8rA.md, raw/youtube-transcripts/IWui5cBkwoE.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Neil deGrasse Tyson
 aliases: [NdGT]
 roles: [researcher, other]
@@ -28,3 +28,4 @@ This contrasts with [[avi-loeb]] (Harvard astrophysicist) who represents an alte
 - [[greg-rogers]] — Rogers names Tyson as a skeptic he criticizes
 - [[avi-loeb]] — contrasting academic figure who takes UAP seriously
 - [[TNtlzEnl8rA]] · [[IWui5cBkwoE]] — source transcripts
+- Mentioned in [[OOr98r51Sj0]]

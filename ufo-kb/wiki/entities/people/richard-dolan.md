@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "UFO historian, author of UFOs and the National Security State and the USO book series; coined the term 'breakaway civilization'; former ABD historian at University of Rochester whose entry into UAP research in 1994 came through Timothy Good's Above Top Secret."
-sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/hBrfe4hFuM0.md]
+sources: [raw/youtube-transcripts/2Xxmguz0GEQ.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/hBrfe4hFuM0.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Richard Dolan
 aliases: []
 roles: [researcher, journalist, author]
@@ -86,3 +86,4 @@ Dolan's theory, discussed by [[james-fox]] in [[hBrfe4hFuM0]], holds that the [[
 - [[GQlWf54K_7Y]] — source
 - [[after-disclosure]] — co-authored with Bryce Zabel; models societal, institutional, and psychological aftermath of formal UAP disclosure
 - [[bryce-zabel]] — co-author of After Disclosure; Dark Skies creator
+- Mentioned in [[OOr98r51Sj0]]

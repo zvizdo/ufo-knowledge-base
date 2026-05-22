@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Central Intelligence Agency; the primary US foreign intelligence service; a central institutional actor in UAP secrecy, allegedly operating crash retrieval and reverse-engineering programs above presidential clearance level."
-sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/75Je_0hZovQ.md]
+sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/75Je_0hZovQ.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Central Intelligence Agency
 aliases: [CIA, The Agency]
 type_field: gov-agency
@@ -68,3 +68,4 @@ These operations demonstrate the CIA's documented willingness to apply coercive 
 - [[credibility-frameworks]] — CIA's documented institutional track record (MK-Ultra, Operation CHAOS, COINTELPRO) is essential context for credibility-weighting any insider source claiming CIA knowledge of UAP
 - [[jesse-michaels]] — American Alchemy host; CIA figures (Semivan, Mowatt-Larssen, Maguire, Brandon) appear across multiple episodes; CIA institutional track record is a recurring epistemic reference
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[OOr98r51Sj0]]

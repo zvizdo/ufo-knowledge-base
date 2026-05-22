@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Independent researcher who built an extensive documented case for the existence of deep underground military bases (DUMBs) from declassified construction records, patents, and government documents."
-sources: [raw/youtube-transcripts/GQlWf54K_7Y.md]
+sources: [raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Richard Sauder
 aliases: []
 roles: [researcher]
@@ -36,3 +36,4 @@ Dolan's summary of Sauder's finding: the military's interest in deep underground
 - [[ufo-secrecy-cabal]] — DUMBs as physical locus of the secrecy apparatus
 - [[GQlWf54K_7Y]] — source
 - [[john-peterson]] — both focused on underground bases research
+- Mentioned in [[OOr98r51Sj0]]

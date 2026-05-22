@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Harvard-trained constitutional attorney; founder of the Christic Institute; special counsel to the Carter CRS UAP study; personally viewed classified Blue Book crash-retrieval photos in 1977; attorney to Elizondo, Mack, and Greer; argues the JFK assassination was a Nixon-organized 'S Force' operation."
-sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/C4rSj5Aum7w.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/37--O8Fw0Y0.md]
+sources: [raw/youtube-transcripts/09KP8XVf5nY.md, raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/C4rSj5Aum7w.md, raw/youtube-transcripts/GQlWf54K_7Y.md, raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/37--O8Fw0Y0.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Danny Sheehan
 aliases: [Daniel Sheehan, Daniel P. Sheehan, Sheehan]
 roles: [attorney, researcher, activist]
@@ -149,3 +149,4 @@ In [[37--O8Fw0Y0]], Sheehan provides the most detailed update on the [[controlle
 
 - Synthesized in [[cia-mob-jfk-uap-same-infrastructure]]
 - [[2SQXAPCdmPE]] — comprehensive episode covering S Force origin → JFK → Watergate → Iran-Contra → Blue Book photos → Pat Price / ONI abilities → ONI mass mind-influence experiment (85% tax-filing compliance) → MK-Ultra won lawsuit (Jacob Javits + Warren Burger coverup) → Schumer Amendment mechanics → Lockheed patent-rights objective → consciousness-based UAP propulsion → Barbara Lamb reptilian visitor → holotropic abductee training program
+- Mentioned in [[OOr98r51Sj0]]

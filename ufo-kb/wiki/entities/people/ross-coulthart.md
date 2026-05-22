@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Australian investigative journalist, author of In Plain Sight (2021), and NewsNation correspondent who broke the David Grusch and Jake Barber stories; conducted UAP research using analog tradecraft to avoid surveillance; firsthand witness to a UAP orb over Secret Mountain, Sedona."
-sources: [raw/youtube-transcripts/V00WcEiKRAY.md]
+sources: [raw/youtube-transcripts/V00WcEiKRAY.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Ross Coulthart
 aliases: []
 roles: [journalist, witness]
@@ -94,3 +94,4 @@ After the Grusch story aired, Coulthart was detained by US CBP. A mutual friend 
 - [[D2tKCFmJjks]] — source (Herrera mentions Barber story)
 - [[V00WcEiKRAY]] — primary source for this entry
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[OOr98r51Sj0]]

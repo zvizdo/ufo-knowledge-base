@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "US Army Green Beret (18B Special Forces Weapons Sergeant) who in March 2014 was taken underground at Naval Surface Warfare Center Crane and shown a room labeled 'Off-World Technology Division' containing two anomalous artifacts: a levitating orb and a hieroglyphic-displaying gauntlet device."
-sources: [raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/yAvD5UTziTo.md]
+sources: [raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/yAvD5UTziTo.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Randy Anderson
 aliases: [Randy M. Anderson]
 roles: [witness, military, whistleblower]
@@ -111,3 +111,4 @@ Anderson cites [[david-grusch]] and [[michael-herrera]] as inspirations — fram
 - [[yAvD5UTziTo]] — Blitch assessment source
 - [[V00WcEiKRAY]] — Bogotá sphere symbol recognition corroboration
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[OOr98r51Sj0]]

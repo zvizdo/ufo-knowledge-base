@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Former tier-one Air Force retrieval specialist turned whistleblower; describes helicopter retrieval of two non-human craft, psionic consciousness-lock experience with an octagonal craft, and — after defecting from legacy programs — disclosed P3 psionic asset program details, Russia/China gentleman's agreement on downed craft, and founded Sky Watchers."
-sources: [raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/SZBI85yvV5A.md, raw/youtube-transcripts/dnnpyNuPdXs.md, raw/youtube-transcripts/nTiFs8LudUo.md, raw/youtube-transcripts/yAvD5UTziTo.md, raw/youtube-transcripts/y_8IKKcTntQ.md]
+sources: [raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/SZBI85yvV5A.md, raw/youtube-transcripts/dnnpyNuPdXs.md, raw/youtube-transcripts/nTiFs8LudUo.md, raw/youtube-transcripts/yAvD5UTziTo.md, raw/youtube-transcripts/y_8IKKcTntQ.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Jake Barber
 aliases: [Barber]
 roles: [witness, whistleblower]
@@ -24,6 +24,18 @@ tags: [crash-retrieval, psionics, psionic-interface, uap-witness, whistleblower,
 ## Background
 
 Jake Barber is a crash retrieval witness who publicly disclosed his account of participating in recovery operations for non-human craft. His testimony is notable for being among the most operationally specific accounts combining physical craft retrieval with firsthand psionic experience.
+
+### Sentinels of Ether (2026)
+
+Per [[OOr98r51Sj0]], Barber and a ghost writer (publishing under the pen name [[alva-douglas]]) authored the **120,000-word novel *[[sentinels-of-ether]]*** as a weaponized disclosure vector. Barber submitted the manuscript to [[dopsr]] in 20-page chunks and used the redaction trail backward as a real-time classification map — "the Pentagon's own bureaucracy becomes the delivery mechanism." First 20 pages took six months to process; returned seven pages of redactions on roughly 10% of the manuscript. The book recapitulates Barber's operational claims (P3 / pink-asset pipelines, EMP downing of UFOs, holographic mountain bases, [[mind-controlled-craft|mind-controlled craft]]) inside fiction. [[OOr98r51Sj0]] positions Sentinels of Ether as the next iteration after [[tom-delonge]]'s [[secret-machines]] in the [[novel-as-disclosure]] tradition.
+
+### Toughbook recovery + on-record colleague
+
+Per [[OOr98r51Sj0]]: Barber's first major contractor mission involved recovering **missing Panasonic Toughbooks** (with hard drives sealed in a steel container 25 ft underwater in a Sierra glacier lake) that contained evidence of EMP-driven UFO take-downs in temporary-flight-restriction airspace — including the takedown of civilian aircraft. **[[don-paul-bales]]** (25-year military / law-enforcement veteran) has gone on record corroborating: "Technically, I did not work for them. I worked for Jacob."
+
+### 2023 Joey-is-not-my-name attribution
+
+Pre-public Barber leaked materials to the pseudonymous researcher [[joey-is-not-my-name]] (via [[michael-herrera]]) in 2023 describing P3-asset chipping, drug regimens, and "coma or death" attrition rates. [[OOr98r51Sj0]] re-attributes those 2023 leaks to Barber pre-defection.
 
 ### Origin Story and Recruitment (dnnpyNuPdXs)
 

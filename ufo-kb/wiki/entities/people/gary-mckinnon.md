@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Scottish IT contractor who hacked 97 US military/NASA networks in 2001–2002 seeking UFO evidence; found a tic-tac UAP image at NASA JSC and a 'Non-Terrestrial Officers' spreadsheet; fought extradition for a decade."
-sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/mOWwdIuyaQA.md]
+sources: [raw/youtube-transcripts/2ttdlCa5ZCI.md, raw/youtube-transcripts/mOWwdIuyaQA.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Gary McKinnon
 aliases: [Solo, the UFO hacker]
 roles: [witness, researcher, other]
@@ -91,3 +91,4 @@ In 2006, McKinnon was woken from deep sleep by sharp pain in his left heel. In t
 - [[the-program-fox]] — Fox's documentary featuring a McKinnon interview
 - [[jason-sanss]] — Fox's speculative connection: the entity Sanss encountered at Nellis may relate to the non-terrestrial officers infrastructure McKinnon found
 - [[bVhSPH2A5Vw]] — Fox's characterization of McKinnon and this speculative connection
+- Mentioned in [[OOr98r51Sj0]]

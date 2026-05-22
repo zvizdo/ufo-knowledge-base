@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "US Marine Corps whistleblower who witnessed a ~300ft octagonal craft loading psionic human assets in refrigerated containers during a 2009 Indonesia deployment; apprehended at gunpoint by American operators; made to sign an NDA under threat of execution at Camp Hansen, Okinawa; has since testified publicly at AARO and the National Press Club."
-sources: [raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/Sct30Qijfv8.md]
+sources: [raw/youtube-transcripts/9QMrhcpJq8I.md, raw/youtube-transcripts/CiQTBOQ1dTg.md, raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/Sct30Qijfv8.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Michael Herrera
 aliases: [Herrera]
 roles: [witness, military, whistleblower]
@@ -109,3 +109,4 @@ See [[credibility-frameworks]]. Herrera is a military witness with a specific op
 - [[D2tKCFmJjks]] — source
 - [[dnnpyNuPdXs]] — Barber mentions Herrera in context of psionic operations; back-referenced as operational peer
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[OOr98r51Sj0]]

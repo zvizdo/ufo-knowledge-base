@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "A 512-acre ranch in the Uintah Basin, Utah, notorious since the 1990s for reported UAP sightings, cattle mutilations, poltergeist activity, and anomalous phenomena; used as a field investigation site by AAWSAP."
-sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/tS_64sTN5AU.md]
+sources: [raw/youtube-transcripts/1f16VvXaSSE.md, raw/youtube-transcripts/tS_64sTN5AU.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Skinwalker Ranch
 aliases: [Sherman Ranch, Blind Frog Ranch adjacent area]
 region: Uintah Basin, Utah
@@ -86,3 +86,4 @@ This reframes the ranch from a "paranormal hotspot" to a **temporal transit poin
 - [[jesse-michaels]] — personal sulfur-smell experience at the ranch
 - Mentioned in [[BEWz4SXfyCQ]]
 - Mentioned in [[Hc6pbG4wICA]]
+- Mentioned in [[OOr98r51Sj0]]

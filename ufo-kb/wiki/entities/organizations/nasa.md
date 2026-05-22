@@ -4,6 +4,7 @@ entity-type: organizations
 name: NASA
 summary: "US civilian space agency; publicly treats UAP as uncharacterized natural or man-made phenomena, but convened an independent UAP study group in 2022–2023 that recommended a data-driven scientific approach."
 tags: [gov-agency, space, uap-study]
+sources: [raw/youtube-transcripts/OOr98r51Sj0.md]
 aliases: []
 ---
 
@@ -38,3 +39,4 @@ The National Aeronautics and Space Administration (NASA) is the U.S. civilian sp
 - Mentioned in [[nasa-uap-d1-apollo-12-transcript-1969]] — Apollo 12 mission transcript (November 1969); CDR Conrad particle/light observation from LM AOT dark quadrant; LMP Bean AGS "all 8's" pulsing anomaly; PURSUE Release 01
 - Mentioned in [[nasa-uap-d6-apollo-17-technical-crew-debriefing-1973]] — MSC-07631 technical debriefing (Jan 1973); partial OCR recovery; Schmitt cosmic ray phosphene flashes + ALFMED blindfold suppression; Cernan's recovery ship humor
 - Mentioned in [[nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973]] — MSC-07632 science instruments debriefing (Jan 1973); UV background survey, dark matter Coma cluster, Lyman-alpha data; no UAP observations
+- Mentioned in [[OOr98r51Sj0]]

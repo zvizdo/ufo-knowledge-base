@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "CIA program/directorate for acquiring access to denied areas and materials; founded by Doug Wolf; identified as a key node in the intelligence-agency program-administrator layer of the UAP legacy pyramid."
-sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md]
+sources: [raw/youtube-transcripts/u7g5Sn1DJF4.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Office of Global Access
 aliases: [OGA]
 type: gov-agency
@@ -32,3 +32,4 @@ In [[uap-gerb]]'s pyramid model, CIA DS&T is one of the six intelligence-agency 
 - [[ufo-legacy-program-pyramid]] — CIA DS&T / OGA as program-administrator node
 - [[uap-gerb]] — named OGA in UAP pyramid analysis
 - [[u7g5Sn1DJF4]] — source
+- Mentioned in [[OOr98r51Sj0]]

@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Former US Navy pilot, weapons designer, and neuroengineer at Lockheed Martin known for work in biofusion, biometrics, neuroweaponry, and neural pattern recognition (brain prints); died September 27, 2007 while on business for Concurrent Technologies."
-sources: [raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/QkuDvTFN7ms.md]
+sources: [raw/youtube-transcripts/wlsQIbpEKSM.md, raw/youtube-transcripts/QkuDvTFN7ms.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: John Norsine
 aliases: []
 roles: [researcher, inventor, official]
@@ -61,3 +61,4 @@ Jesse Michels frames this as either government surveillance of the witnesses (if
 - [[charlie-foltz]] — Allagash witness Norsine told directly about the TTR exercise; recipient of Norsine's coded death-predicting email
 - [[1976-allagash-abduction]] — the event Norsine claimed simultaneous government presence at
 - [[whistleblower-protection-gap]] — Norsine's suspicious death after sending a coded email predicting it
+- Mentioned in [[OOr98r51Sj0]]

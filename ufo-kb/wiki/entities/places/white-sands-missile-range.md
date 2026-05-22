@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Major US military test facility in New Mexico; site of the 1953–1954 Near-Earth Satellite Project led by Lincoln LaPaz and Clyde Tombaugh that tracked two unknown pre-Sputnik objects in low Earth orbit."
-sources: [raw/youtube-transcripts/1zRWi_r3HRM.md]
+sources: [raw/youtube-transcripts/1zRWi_r3HRM.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: White Sands Missile Range
 aliases: [White Sands]
 region: New Mexico
@@ -34,3 +34,4 @@ White Sands is adjacent to several key nuclear testing and research sites. LaPaz
 - [[project-twinkle]] — LaPaz's prior project; shows continuity of nuclear-adjacent anomaly investigation
 - [[ufo-nuclear-nexus]] — White Sands is embedded in the nuclear weapons test complex
 - [[1zRWi_r3HRM]] — source summary
+- Mentioned in [[OOr98r51Sj0]]

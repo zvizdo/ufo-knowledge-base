@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "US Army Lieutenant Colonel (ret.) and scalar electromagnetic theorist; his books are the primary public source for the scalar wave framework as applied to free energy, healing, and classified weapons — cited by Steve Coburn as his scalar wave reference."
-sources: [raw/youtube-transcripts/iPxbILOMQ08.md]
+sources: [raw/youtube-transcripts/iPxbILOMQ08.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Tom Bearden
 aliases: [Thomas Bearden, Lt. Col. Thomas Bearden]
 roles: [researcher, other]
@@ -36,3 +36,4 @@ Bearden's work has not been replicated or accepted in mainstream physics. His fr
 - [[physics-lockdown]] — the Heaviside simplification as the historical act of suppression
 - [[steve-coburn]] — directly cites Bearden's books as his scalar wave reference
 - [[iPxbILOMQ08]] — source (cited by Coburn)
+- Mentioned in [[OOr98r51Sj0]]

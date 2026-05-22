@@ -9,7 +9,7 @@ firsthand_claims:
   - Had a vivid, unprecedented dream of tall genderless beings (pinkish, large heads, large eyes) in a strange corridor; beings played psychological games and showed him reptilian entities being kept at bay behind flimsy barriers; Rogan interprets as possible future-humans contact or vivid UAP-adjacent dream
   - Has never personally witnessed a UAP or craft; describes adolescent sighting as likely a fighter jet
 first_seen_in: raw/youtube-transcripts/C_Na1tI5qpw.md
-sources: [raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/KhmUixSXxDo.md, raw/youtube-transcripts/SZBI85yvV5A.md]
+sources: [raw/youtube-transcripts/C_Na1tI5qpw.md, raw/youtube-transcripts/KhmUixSXxDo.md, raw/youtube-transcripts/SZBI85yvV5A.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 tags: [uap-disclosure, bob-lazar, podcaster, media, jre, future-humans, moon-landing-skeptic]
 ---
 
@@ -81,3 +81,4 @@ Rogan tentatively frames these beings as **future humans** — post-reproductive
 - Mentioned in [[dre-5Zy4f7c]]
 - Mentioned in [[sKwq7mpBTrY]] — Joe Rogan Experience #2495 with Tim Burchett (151 min); covers UAP disclosure momentum, Florida pilot briefing, Matt Gaetz alien-hybrid claim, USOs, congressional suppression
 - Mentioned in [[Gf_tKn9TaP8]] — Joe Rogan Experience #2314 with Hal Puthoff (169 min); covers Stargate origin, Bush-2 disclosure workshop, crash retrievals, UAP physics, Schumer-Rounds Act
+- Mentioned in [[OOr98r51Sj0]]

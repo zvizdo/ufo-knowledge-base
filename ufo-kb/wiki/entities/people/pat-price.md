@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Exceptionally capable remote viewer in the ONI/CIA program, simultaneously a high-level Scientology clear; demonstrated abilities including locating documents inside top-secret facilities by coordinate and tracking Soviet nuclear submarines from photographs."
-sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/OwrDI7GvenQ.md, raw/youtube-transcripts/37--O8Fw0Y0.md]
+sources: [raw/youtube-transcripts/2SQXAPCdmPE.md, raw/youtube-transcripts/OwrDI7GvenQ.md, raw/youtube-transcripts/37--O8Fw0Y0.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: Pat Price
 aliases: []
 roles: [researcher, other]
@@ -96,3 +96,4 @@ Account 4 is supported by [[joe-mcmoneagle]]'s blind RV of Price's photograph: M
 - [[semipalatinsk]] — Price's first operationally-tasked Soviet-site description (giant crane over building)
 - [[mount-ziel]] — One of the global UFO-base sites Price identified to Puthoff
 - [[1972-sri-quark-detector-session]] — Companion founding event for the Stargate program where Price arrived shortly after
+- Mentioned in [[OOr98r51Sj0]]

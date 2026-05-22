@@ -1,7 +1,7 @@
 ---
 type: entity
 summary: "Michael Herrera's firsthand encounter with a ~300ft octagonal craft in a jungle clearing in western Sumatra, Indonesia, during a Marine humanitarian deployment; craft was loading psionic human assets in refrigerated containers; six Marines were apprehended at gunpoint by American-speaking operators."
-sources: [raw/youtube-transcripts/D2tKCFmJjks.md]
+sources: [raw/youtube-transcripts/D2tKCFmJjks.md, raw/youtube-transcripts/OOr98r51Sj0.md]
 name: 2009 Indonesia UFO Encounter
 date: 2009
 location: Western Sumatra, Indonesia (jungle clearing, exact coordinates unknown)
@@ -97,3 +97,4 @@ After the last trucks loaded onto the platform:
 - [[breakaway-civilization]] — the apprehending operators and the craft's cargo suggest a rogue non-state or shadow-state entity
 - [[ufo-secrecy-cabal]] — NDA apparatus and camera destruction are consistent with this suppression infrastructure
 - [[D2tKCFmJjks]] — primary source; most detailed public account
+- Mentioned in [[OOr98r51Sj0]]
