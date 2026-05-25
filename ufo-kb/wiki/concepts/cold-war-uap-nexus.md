@@ -69,3 +69,4 @@ The Cold War UAP nexus refers to the deep intersection between US-Soviet militar
 - Mentioned in [[dos-uap-d1-cable-1-papua-new-guinea-1985-01]] — PNG Jan 1985; 6-8 high-altitude/high-speed aircraft; USCINCPAC and 43rd Strategic Wing (Andersen AFB, B-52 operator) queried IMMEDIATE; US denied any aircraft in PNG airspace
 - Mentioned in [[dow-uap-d55-mission-report-syria-2016-11-18]] — P-8A observed sea-skimming object at ~500 KTS outbound from Russian naval KCTG (Eastern Mediterranean, Nov 2016); assessed as possible Russian missile; USCENTCOM MDR
 - Mentioned in [[dow-uap-d54-mission-report-mediterranean-sea-na]] — triangular metallic UAP; Aegean Sea (~36°N 25°E); NATO-adjacent airspace; SECRET//NOFORN (not releasable to allied nations)
+- Mentioned in [[cia-uap-d1-sary-shagan-1973]] — CIA HUMINT cable (1977) on Sary Shagan ABM testing range; contains the 1973 green concentric-ring UAP observation by a defector source

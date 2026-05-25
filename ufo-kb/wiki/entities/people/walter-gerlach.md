@@ -5,7 +5,7 @@ aliases: [Walter Gerlach, W. Gerlach]
 roles: [researcher, official]
 affiliations: [university-of-frankfurt, uranverein, reichsforschungsrat]
 firsthand_claims: []
-first_seen_in: raw/youtube-transcripts/die-glocke-context.md
+first_seen_in: ""
 sources: []
 tags: [german-physics, stern-gerlach-experiment, uranverein, die-glocke, ww2-german-science]
 ---

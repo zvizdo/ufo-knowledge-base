@@ -42,3 +42,4 @@ AFSOC 16 SOS / 27 SOW AC-130 gunship observed a UAP traverse its sensor field du
 - [[2024-gulf-of-oman-uap-d27]] — AFSOC 27 SOW cluster (same wing)
 - [[2023-aegean-sea-uap-d33]] — AFSOC 27 SOW cluster (same wing)
 - [[2023-aegean-sea-uap-d35]] — AFSOC 27 SOW cluster (same wing)
+- Mentioned in [[odni-uap-d1-usper-narrative-2025]] — ODNI USPER first-person narrative of late-2025 western US test-range orb-swarm encounter; companion to the FBI 302 of the same witness

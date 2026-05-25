@@ -31,3 +31,5 @@ The notation "NO MISSION IMPACT, CONTINUED ORIGINAL TASKING" indicates a systema
 - [[aaro]] — PURSUE Release 01; Pacific Ocean theater MISREP
 - [[phenomenology-categories]] — 1x probable UAP; Pacific Ocean 2020; no mission impact
 - [[2020-pacific-ocean-uap-d6]] — incident stub for this sighting
+- [[dow-uap-d7-mission-report-arabian-gulf-2020]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags this pair due to shared metadata neighbors `aaro`, `phenomenology-categories`, `credibility-frameworks`, etc.; this cross-reference acknowledges the structural neighborhood overlap without implying duplication)
+- [[dow-uap-d8-mission-report-mediterranean-sea-2025]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags this pair due to shared metadata neighbors `aaro`, `phenomenology-categories`, `credibility-frameworks`, etc.; this cross-reference acknowledges the structural neighborhood overlap without implying duplication)

@@ -92,3 +92,4 @@ The transcript adds a specific detail about Condon's Göttingen studies: he and 
 - [[kRO5jOa06Qw]] — Grusch/Jesse restate the Condon/Oppenheimer/McMahon network as the foundational secrecy architecture; add Don Menzel and H.P. Robertson as two other atomic-program debunkers
 - [[lou-branscomb]] — the specific person who restored Condon's clearance in 1966; Menzel's PhD student
 - [[lbGE3EC6StE]] — Branscomb named for first time; Menzel → Branscomb → Condon chain articulated
+- Mentioned in [[doe-uap-d2-james-tuck-correspondence-1970-1976]] — James L. Tuck (Los Alamos) correspondence file (1970-c.1976); contains 1948-1951 Jemez Mountains green-light witness testimony; released by DOE in 2026

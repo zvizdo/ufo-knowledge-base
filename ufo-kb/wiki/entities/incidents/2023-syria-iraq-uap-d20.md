@@ -36,3 +36,4 @@ summary: '77 EFS / 378 AEW F-16CM 2-ship observed POSS 10X–20X UAP at FL600+ d
 - [[credibility-frameworks]] — F-16CM combat crew; SNIPER LDP targeting pod; DCA mission; analyst star-discrimination; SECRET//NOFORN
 - [[cold-war-uap-nexus]] — Eastern Syria; OP INHERENT RESOLVE; USCENTCOM theater
 - [[uap-camera-evasion-problem]] — Targeting pod lock then dimming/disappearance pattern
+- [[2023-syria-uap-d19]] — Related gov-release entry (distinct incident/document; structural-similarity detector triggers on shared metadata)

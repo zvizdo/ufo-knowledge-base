@@ -5,7 +5,7 @@ aliases: []
 roles: [witness, official]
 affiliations: [us-air-force-reserve, nasa-astronaut-program-semifinalist, boeing, raytheon]
 firsthand_claims: [delonge-podesta-meeting-calendar-confirmation]
-first_seen_in: raw/youtube-transcripts/2026-mccasland-disappearance-context.md
+first_seen_in: ""
 sources: []
 tags: [usaf-reserve, astrophysicist, delonge-podesta-emails, mccasland-family]
 ---

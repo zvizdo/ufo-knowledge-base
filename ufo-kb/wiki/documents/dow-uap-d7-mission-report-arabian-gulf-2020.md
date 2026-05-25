@@ -34,3 +34,4 @@ A weapons-quality radar track and simulated intercept ("next to shoot") distingu
 - [[aaro]] — PURSUE Release 01; Arabian Gulf theater MISREP; weapons-quality track
 - [[phenomenology-categories]] — balloon-like; 31,000 ft MSL; wind-track; weapons quality 1 radar; TFLIR visual ID
 - [[2020-arabian-gulf-uap-d7]] — incident stub for this sighting
+- [[dow-uap-d8-mission-report-mediterranean-sea-2025]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags this pair due to shared metadata neighbors `aaro`, `phenomenology-categories`, `credibility-frameworks`, etc.; this cross-reference acknowledges the structural neighborhood overlap without implying duplication)

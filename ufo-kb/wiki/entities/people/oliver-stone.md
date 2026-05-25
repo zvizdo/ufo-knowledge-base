@@ -5,7 +5,7 @@ aliases: []
 roles: [other, researcher]
 affiliations: []
 firsthand_claims: []
-first_seen_in: raw/youtube-transcripts/jfk-assassination-context.md
+first_seen_in: ""
 sources: []
 tags: [filmmaker, jfk-film, conspiracy-narrative, vietnam-veteran]
 ---

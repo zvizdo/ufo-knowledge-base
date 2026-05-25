@@ -17,6 +17,12 @@ UAP researcher who wrote one of the earliest foundational books on UFOs and wate
 
 The exact title of Feindt's book is not recalled precisely in this interview ("UFOs in the Water" or similar). He is also referenced by a description as "an Italian researcher who had been focused on underwater UAP for about 20 years" — though this may refer to a different figure; the Italian connection is uncertain.
 
+## USO Research Career
+
+Carl Feindt (d. 2019) was a retired USAF airman and amateur USO/UAP researcher who maintained a public database of unidentified-submersible-object reports for over two decades. His database (carlfeindt.com) cataloged 4,000+ historical USO sightings from 1947 through the 2010s, drawing on military records, Coast Guard logs, newspaper archives, and witness reports.
+
+Feindt's 2010 book *UFOs and Water* compiled the database into a thematic taxonomy: trans-medium objects (air-to-water and water-to-air), submerged stationary objects, USO-aircraft interactions, and USO-vessel encounters. His work is frequently cited in academic and journalistic USO surveys; the database itself is one of the most comprehensive amateur USO catalogs in the public domain.
+
 ## Connections
 
 - [[uso]] — foundational researcher in the field

@@ -6,7 +6,7 @@ summary: "Alleged 1954 meeting between President Eisenhower and non-human entiti
 sources: []
 date: 1954-02
 tags: [eisenhower, nhi, government-contact, 1954, holloman, edwards-afb, claims-thesis, contested]
-first_seen_in: raw/wiki-entities/edwards-air-force-base.md
+first_seen_in: ""
 ---
 
 # 1954 Eisenhower UFO Meeting

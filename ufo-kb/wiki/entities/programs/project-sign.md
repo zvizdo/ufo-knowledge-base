@@ -37,3 +37,4 @@ Project Sign was renamed [[project-grudge]] in February 1949. The new name refle
 
 - Mentioned in [[usaaf-1949-flying-discs-box186-incident-reports]]
 - Mentioned in [[dow-general-flying-disc-files-1946-1948]] — founding directive (Craigie letter, 30 Dec 1947) and operational context through mid-1948
+- Mentioned in [[dow-uap-d17-sandia-base-1948-1950]] — 116-page AFSWP Sandia Base File 333.5 "Unidentified Flying Objects" (1948-1950); foundational documentary corpus of the New Mexico green fireballs investigation; released by DOW under PURSUE Release 02

@@ -30,9 +30,10 @@ One of three primary US nuclear weapons labs (with Los Alamos and Lawrence Liver
 
 - Mentioned in [[hjzMV8H0YIQ]]
 
-- [[kirtland-air-force-base]] — physically co-located
+- [[kirtland-afb]] — physically co-located
 - [[henry-kissinger]] — Eric Wang reportedly reported to Kissinger via Sandia chain
 - [[1953-kingman-crash]] — Eric Wang's chain runs through Sandia
 - [[ufo-nuclear-nexus]] — nuclear site UAP pattern
 - [[Jpf0ZGY87c0]] — Kissinger episode context
 - Mentioned in [[u7g5Sn1DJF4]]
+- Mentioned in [[doe-uap-d1-pantex-image-fragment]] — DOE-released image fragment (pages 5-6 of 6) of a formal Pantex Unidentified Object Incident Report produced by Consolidated Nuclear Security; PURSUE Release 02 (2026-05-22)

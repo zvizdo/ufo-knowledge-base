@@ -69,3 +69,4 @@ These operations demonstrate the CIA's documented willingness to apply coercive 
 - [[jesse-michaels]] — American Alchemy host; CIA figures (Semivan, Mowatt-Larssen, Maguire, Brandon) appear across multiple episodes; CIA institutional track record is a recurring epistemic reference
 - Mentioned in [[u7g5Sn1DJF4]]
 - Mentioned in [[OOr98r51Sj0]]
+- Mentioned in [[cia-uap-d1-sary-shagan-1973]] — CIA HUMINT cable (1977) on Sary Shagan ABM testing range; contains the 1973 green concentric-ring UAP observation by a defector source

@@ -5,7 +5,7 @@ title: National Security Act of 1947
 aliases: [National Security Act, NSA 1947, National Security Act 1947]
 authors: [harry-truman]
 date: 1947-07-26
-first_seen_in: raw/entities/people/harry-truman.md
+first_seen_in: ""
 sources: []
 summary: "Legislation signed by President Truman on July 26, 1947 that unified the military services under the Secretary of Defense, created the CIA, created the NSC, and established the Joint Chiefs of Staff — the foundational legal architecture for Cold War national security and, per KB context, the same legislation that could have provided the legal framework for UAP program secrecy."
 tags: [legislation, truman, 1947, cia, dod, nsc, national-security, ic-structure]

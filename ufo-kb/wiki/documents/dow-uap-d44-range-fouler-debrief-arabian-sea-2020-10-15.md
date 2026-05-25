@@ -28,3 +28,4 @@ US Navy SPEAR Range Fouler Debrief; O-2 pilot, 172 ATKS squadron; ISR mission; A
 - [[phenomenology-categories]] — cold IR thermal signature (black-hot bright white); round morphology; slow ~20 mph movement; no wings or propulsion; daytime ISR encounter
 - [[classification-system]] — declassified by MG Richard A. Harrison
 - [[2020-arabian-sea-uap-d44]] — incident stub
+- [[dow-uap-d56-range-fouler-debrief-arabian-sea-2020-08-24]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags this pair due to shared metadata neighbors `aaro`, `phenomenology-categories`, `credibility-frameworks`, etc.; this cross-reference acknowledges the structural neighborhood overlap without implying duplication)

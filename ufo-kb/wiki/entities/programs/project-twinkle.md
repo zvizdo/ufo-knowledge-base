@@ -39,3 +39,4 @@ Project Twinkle is one of the earliest documented official acknowledgments of an
 - Mentioned in [[u7g5Sn1DJF4]]
 - Mentioned in [[fbi-62-hq-83894-ufo-investigations-1947-1968]] — FBI file documents Twinkle's Vaughn NM observation post; May 24, 1950 event with 8–10 simultaneously observed objects; Land-Air Inc. as contractor
 - Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]
+- Mentioned in [[dow-uap-d17-sandia-base-1948-1950]] — 116-page AFSWP Sandia Base File 333.5 "Unidentified Flying Objects" (1948-1950); foundational documentary corpus of the New Mexico green fireballs investigation; released by DOW under PURSUE Release 02

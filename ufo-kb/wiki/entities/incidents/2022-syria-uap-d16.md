@@ -36,3 +36,4 @@ USCENTCOM / AFCENT 89th Attack Squadron (89 ATKS) / 432nd Air Expeditionary Wing
 - [[cold-war-uap-nexus]] — OP INHERENT RESOLVE; USCENTCOM counterterrorism theater; TF CHOSIN force protection context
 - [[2022-syria-uap-d14]] — Syria cluster: same wing (432 AEW), different squadron (50 ATKS); 2 months earlier; N-NE trajectory; Russian naval ISR context
 - [[2023-syria-uap-d19]] — Syria cluster: F-15E 3× UAP + APG-82 EMI, Feb 2023; same INHERENT RESOLVE theater
+- [[2023-syria-iraq-uap-d20]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags due to shared metadata neighbors)

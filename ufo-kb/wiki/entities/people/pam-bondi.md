@@ -17,6 +17,12 @@ Former Florida Attorney General who became U.S. Attorney General under President
 
 Sheehan is pursuing a DOJ-level investigation into psionic assists, alongside [[kash-patel]] (FBI Director). His ability to do so depends on the DOJ Criminal Division maintaining enough functional staff — Sheehan notes that many Criminal Division staff were asked to sign mass resignation letters in early 2025, complicating institutional continuity.
 
+## DOJ Role and UAP-Adjacent Context
+
+Bondi served as Florida Attorney General 2011-2019 and was confirmed as US Attorney General in early 2025 under the second Trump administration. Her UAP-relevance is structural rather than substantive: as AG, she oversees DOJ's National Security Division (which handles classification challenges, source-protection litigation, and the prosecutorial framework that would apply if UAP whistleblower-protection mechanisms triggered DOJ involvement).
+
+Bondi has not made significant public statements on UAP topics. Her potential relevance to the disclosure debate is downstream — DOJ posture on UAP-related FOIA litigation, whistleblower-retaliation prosecutions, and Espionage Act applications to UAP disclosures shapes the practical landscape regardless of her personal views.
+
 ## Connections
 
 - [[kash-patel]] — FBI Director; co-relevant official for psionic investigation

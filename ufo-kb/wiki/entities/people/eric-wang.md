@@ -30,7 +30,7 @@ According to **Maria Wang** (his widow), traced by [[william-steinman]]:
 
 His subordinate [[arthur-stansel]] was the engineer transported to the [[1953-kingman-crash]] site, where he observed a 30-ft disc and humanoid figures. Wang's role was apparently the institutional superior overseeing the exploitation and analysis of such recovered material.
 
-In **1956**, Wang's Department of Special Studies was relocated from Wright-Patterson to [[sandia-national-laboratories]] at [[kirtland-air-force-base]], New Mexico — a move consistent with centralizing exotic-technology work within the nuclear-complex infrastructure. Wang died c.1960, before the full story became public.
+In **1956**, Wang's Department of Special Studies was relocated from Wright-Patterson to [[sandia-national-laboratories]] at [[kirtland-afb]], New Mexico — a move consistent with centralizing exotic-technology work within the nuclear-complex infrastructure. Wang died c.1960, before the full story became public.
 
 ## Schauberger Parallel
 
@@ -54,7 +54,7 @@ Wang's Vienna Technical Institute background places him as a possible contempora
 - [[victor-schauberger]] — Possible Vienna Technical Institute contemporary; anti-gravity researcher
 - [[wright-patterson]] — Wang's institutional home until 1956
 - [[sandia-national-laboratories]] — Wang's relocated department from 1956
-- [[kirtland-air-force-base]] — Location of Sandia; Kissinger later attended seminars there
+- [[kirtland-afb]] — Location of Sandia; Kissinger later attended seminars there
 - [[brookhaven-national-lab]] — Repository for Schauberger's IP; potential technology source for Wang
 - [[credibility-frameworks]] — Documentary gap (erasure) is itself treated as a credibility signal by researchers
 - [[ufo-secrecy-cabal]] — Wang as a node in the Wright-Patterson special-studies chain

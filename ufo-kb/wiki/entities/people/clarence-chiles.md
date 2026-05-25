@@ -21,6 +21,12 @@ Their rated commercial aviation credentials made them among the highest-credibil
 
 John Whitted (First Officer) provided a corroborating account consistent with Chiles's. Passenger Clarence McKelvie independently confirmed the sighting from within the cabin.
 
+## The July 24, 1948 Chiles-Whitted Encounter
+
+Clarence S. Chiles was the captain of an Eastern Airlines DC-3 on a routine Houston-to-Atlanta flight on July 24, 1948. At approximately 02:45 EST over Montgomery, Alabama, Chiles and his co-pilot John Whitted observed a cigar-shaped, wingless craft pass within 700 feet of their aircraft. Chiles described the object as "a torpedo-shaped vehicle" with two rows of brightly-lit square windows along its side and emitting an orange flame from its rear.
+
+The duration of the encounter was 5-10 seconds; the object passed in the opposite direction from the DC-3 and at much higher speed. A single passenger (Clarence McKelvie of Columbus OH) was awake and corroborated the sighting from his window. The Chiles-Whitted incident became one of Project Sign's foundational cases and contributed directly to the "Estimate of the Situation" — the Sign analysts' classified memo concluding the phenomena were of extraterrestrial origin (later rejected by USAF Chief of Staff Hoyt Vandenberg).
+
 ## Connections
 
 - Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]

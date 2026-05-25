@@ -38,7 +38,7 @@ This "automatic" classification mechanism is why UAP programs could theoreticall
 
 - [[edward-condon]] — co-authored this law; later ran the official UFO debunking study
 - [[atomic-energy-commission]] — agency created by this Act
-- [[department-of-energy]] — successor to AEC; inherits classification regime
+- [[doe]] — successor to AEC; inherits classification regime
 - [[atomic-energy-act-classification]] — the classification provisions now in force
 - [[david-grusch]] — cites this as the UAP secrecy mechanism
 - [[bob-maguire]] — independently cites same statute

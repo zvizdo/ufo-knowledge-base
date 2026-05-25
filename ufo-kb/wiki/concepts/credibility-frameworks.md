@@ -157,3 +157,9 @@ Every person page ends with a Connections section that implicitly applies this l
 - Mentioned in [[dos-uap-d1-cable-1-papua-new-guinea-1985-01]] — Air Niugini commercial pilot radar confirmation; NIO attributing institutional credibility to this report; official Embassy cable to USCINCPAC
 - Mentioned in [[western-us-event-slides-2023-incident-released-2026-05-08]] — seven federal law enforcement special agents; three independent teams from varying vantage points; AARO follow-up measurements independently confirmed dimensions and distance
 - Mentioned in [[OOr98r51Sj0]]
+- Mentioned in [[odni-uap-d1-usper-narrative-2025]] — ODNI USPER first-person narrative of late-2025 western US test-range orb-swarm encounter; companion to the FBI 302 of the same witness
+- Mentioned in [[cia-uap-d1-sary-shagan-1973]] — CIA HUMINT cable (1977) on Sary Shagan ABM testing range; contains the 1973 green concentric-ring UAP observation by a defector source
+- Mentioned in [[doe-uap-d1-pantex-image-fragment]] — DOE-released image fragment (pages 5-6 of 6) of a formal Pantex Unidentified Object Incident Report produced by Consolidated Nuclear Security; PURSUE Release 02 (2026-05-22)
+- Mentioned in [[doe-uap-d2-james-tuck-correspondence-1970-1976]] — James L. Tuck (Los Alamos) correspondence file (1970-c.1976); contains 1948-1951 Jemez Mountains green-light witness testimony; released by DOE in 2026
+- Mentioned in [[doe-uap-d3-pajarito-astronomers-1986]] — Pajarito Astronomers (Los Alamos staff club) 1986 meeting announcement scheduling a UFO lecture by Dr. John Warren (LANL AT-6); released by DOE 2026
+- Mentioned in [[dow-uap-d17-sandia-base-1948-1950]] — 116-page AFSWP Sandia Base File 333.5 "Unidentified Flying Objects" (1948-1950); foundational documentary corpus of the New Mexico green fireballs investigation; released by DOW under PURSUE Release 02

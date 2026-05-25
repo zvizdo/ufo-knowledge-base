@@ -39,3 +39,4 @@ The Condon Report is frequently cited as a template for **[[limited-hangout]]** 
 - [[credibility-frameworks]] — Condon's predetermined conclusion and the Low memo are primary-source evidence of institutional bias
 - [[source-type-frameworks]] — official study, but with documented internal contradictions
 - [[atomic-energy-commission]] — contextual: overlapping period of nuclear secrecy and UAP secrecy
+- Mentioned in [[doe-uap-d2-james-tuck-correspondence-1970-1976]] — James L. Tuck (Los Alamos) correspondence file (1970-c.1976); contains 1948-1951 Jemez Mountains green-light witness testimony; released by DOE in 2026

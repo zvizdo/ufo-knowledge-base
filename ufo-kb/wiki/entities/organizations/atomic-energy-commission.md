@@ -14,7 +14,7 @@ summary: "US civilian agency established by the Atomic Energy Act of 1946 (McMah
 
 # Atomic Energy Commission (AEC)
 
-US civilian agency created by the [[mcmahon-secrecy-act]] (Atomic Energy Act of 1946) to control the development, production, and use of atomic energy and nuclear weapons outside of military control. It was dissolved in 1974 and its functions split between the [[department-of-energy]] and the Nuclear Regulatory Commission.
+US civilian agency created by the [[mcmahon-secrecy-act]] (Atomic Energy Act of 1946) to control the development, production, and use of atomic energy and nuclear weapons outside of military control. It was dissolved in 1974 and its functions split between the [[doe]] and the Nuclear Regulatory Commission.
 
 ## Classification Regime
 
@@ -28,14 +28,14 @@ The AEC's classification framework — established by the McMahon Act — is the
 
 ## Successor
 
-The AEC was succeeded by the [[department-of-energy]], which inherited its classification regime and, according to disclosure research, its custodianship over UAP-related recovered materials.
+The AEC was succeeded by the [[doe]], which inherited its classification regime and, according to disclosure research, its custodianship over UAP-related recovered materials.
 
 ## Connections
 
 - Mentioned in [[1f16VvXaSSE]]
 - [[mcmahon-secrecy-act]] — founding legislation; co-authored by Condon
 - [[egng]] — prime contractor; ran Nevada Test Site
-- [[department-of-energy]] — successor agency; inherited classification regime
+- [[doe]] — successor agency; inherited classification regime
 - [[edward-condon]] — co-authored the founding statute; later ran UFO debunking study
 - [[david-grusch]] — cites AEC/DOE classification framework as UAP secrecy mechanism
 - [[bob-maguire]] — independently identifies same statute

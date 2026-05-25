@@ -37,7 +37,7 @@ Linda Moulton Howe presented Kissner's testimony at the 2002 or 2004 Second Annu
 - [[uap-gerb]] — sourced and contacted Kissner
 - [[afswp]] — named as early retrieval organization
 - [[dtra]] — AFSWP's successor
-- [[department-of-energy]] — national labs received craft custody under 1954 AEA
+- [[doe]] — national labs received craft custody under 1954 AEA
 - [[sandia-national-laboratories]] — probable custodian under Kissner's account
 - [[ufo-legacy-program-pyramid]] — corroborates the national-lab tier of the pyramid
 - [[crash-retrieval-research]] — direct firsthand documentation

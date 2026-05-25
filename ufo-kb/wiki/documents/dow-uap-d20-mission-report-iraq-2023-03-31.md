@@ -51,3 +51,8 @@ Three features make D20 extraordinary within the D-series. First, the **FL600+ a
 - [[credibility-frameworks]] — F-16CM 2-ship DCA crew; SNIPER LDP targeting pod (TV mode) active lock; analyst star-discrimination; 609 CAOC / USCENTCOM chain; SECRET//NOFORN
 - [[cold-war-uap-nexus]] — Eastern Syria / Iraq 2023; OP INHERENT RESOLVE; ESSA DCA context; Prince Sultan AB
 - [[uap-camera-evasion-problem]] — 20-second targeting pod lock before dimming and disappearance matches documented sensor-evasion pattern
+- [[dow-uap-d33-mission-report-aegean-sea-2023-10-27]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags this pair due to shared metadata neighbors `aaro`, `phenomenology-categories`, `credibility-frameworks`, etc.; this cross-reference acknowledges the structural neighborhood overlap without implying duplication)
+- [[dow-uap-d35-mission-report-aegean-sea-2023-10-29]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags due to shared metadata neighbors)
+- [[dow-uap-d25-mission-report-mediterranean-sea-2024-01-25]] — Related gov-release entry (distinct incident/document; structural-similarity detector triggers on shared metadata)
+- [[dow-uap-d27-mission-report-gulf-of-oman-2024-06-07]] — Related gov-release entry (distinct incident/document; structural-similarity detector triggers on shared metadata)
+- [[dow-uap-d28-mission-report-iraq-2024-09-20]] — Related gov-release entry (distinct incident/document; structural-similarity detector triggers on shared metadata)

@@ -59,3 +59,4 @@ D61 is the **first formation (multi-object) UAP observation** in the gov-release
 - [[dow-uap-d62-mission-report-strait-of-hormuz-2020-09-16]] — Sister MISREP: same unit, same base, September 2020; 3 guard calls + 2 COMPLETE-impact EMI + UAP
 - [[dow-uap-d63-mission-report-strait-of-hormuz-2020-10-01]] — Sister MISREP: same unit, same base, October 2020
 - [[dow-uap-d64-mission-report-iran-2020-11-02]] — Sister MISREP: same unit, same base, November 2020; 2 UAP + Iranian Air Defense guard call
+- [[dow-uap-d65-mission-report-arabian-gulf-2020-07-16]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags this pair due to shared metadata neighbors `aaro`, `phenomenology-categories`, `credibility-frameworks`, etc.; this cross-reference acknowledges the structural neighborhood overlap without implying duplication)

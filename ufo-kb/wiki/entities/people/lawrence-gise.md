@@ -32,7 +32,7 @@ The Bezos connection is notable: the most powerful private cloud computing and a
 ## Connections
 
 - [[harold-malmgren]] — told him directly about UAP recovery and reverse-engineering in 1963
-- [[department-of-energy]] — AEC Western Division is the DOE institutional predecessor
+- [[doe]] — AEC Western Division is the DOE institutional predecessor
 - [[crash-retrieval-research]] — AEC Western Division hosted or managed crash-retrieved objects per this disclosure
 - [[los-alamos]] — geographic location of the 1963 meeting
 - [[jay-andrew-kissner]] — parallel DOE-lineage disclosure chain corroborating Gise's statement

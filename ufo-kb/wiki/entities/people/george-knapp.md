@@ -91,3 +91,4 @@ In 2001, a **senior [[egng]] manager named [[alfred-odonnell]]** disclosed to Kn
 - [[sKwq7mpBTrY]] — JRE #2495 (2026-05-07); Burchett describes Knapp as a personal friend and UAP contact
 - Mentioned in [[dre-5Zy4f7c]]
 - Mentioned in [[h8vjx6-ZFvI]]
+- Mentioned in [[doe-uap-d1-pantex-image-fragment]] — DOE-released image fragment (pages 5-6 of 6) of a formal Pantex Unidentified Object Incident Report produced by Consolidated Nuclear Security; PURSUE Release 02 (2026-05-22)

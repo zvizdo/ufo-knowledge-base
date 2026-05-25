@@ -73,7 +73,7 @@ Dolan's framing: the US moved around the 1980s from pure denial to flood-the-zon
 Context markers:
 - Condon Committee (~1966) killed the official UFO investigation in the public eye
 - By 1974 DoD appeared to flip, producing "UFOs: Past Present and Future" — a publicly released product, suggesting a strategic shift
-- Through the 1980s, [[pentagon|the Pentagon]] officially maintained "no interest" while simultaneously running "shenanigans" — Rick Doty, AFOSI, [[kirtland-air-force-base|Kirtland AFB]] operations
+- Through the 1980s, [[pentagon|the Pentagon]] officially maintained "no interest" while simultaneously running "shenanigans" — Rick Doty, AFOSI, [[kirtland-afb|Kirtland AFB]] operations
 - [[roscoe-hillenkoetter|Roscoe Hillenkoetter]]'s sudden 1962 reversal (from UFO openness to "lay off") came exactly when congressional hearings were gaining traction — possibly an early example of managed controlled opposition
 - The pattern: not a clean binary of reveal-or-deny but managed partial release with planted discrediting elements
 - "Is every single thing a government psyop? Are they putting all of this out? I'm like, that is so wrong. You are going down a very incorrect path if you do that."

@@ -40,4 +40,4 @@ AFSWP went through a series of institutional evolutions and today exists as the 
 - [[uap-gerb]] — traced AFSWP lineage in UAP context
 - [[u7g5Sn1DJF4]] — source
 - [[recurring-claims]] — auto-added during 2026-05-03 maintenance pass for constitution compliance; verify and refine
-
+- Mentioned in [[dow-uap-d17-sandia-base-1948-1950]] — 116-page AFSWP Sandia Base File 333.5 "Unidentified Flying Objects" (1948-1950); foundational documentary corpus of the New Mexico green fireballs investigation; released by DOW under PURSUE Release 02

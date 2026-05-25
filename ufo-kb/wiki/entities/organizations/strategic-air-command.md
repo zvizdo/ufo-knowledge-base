@@ -40,3 +40,4 @@ SAC operated approximately 200 Minuteman missiles at Malmstrom AFB in 1967, orga
 - [[ufos-disable-nuclear-weapons]] — SAC's documented response treats the UFO connection as real
 - [[nuclear-deterrence-threat]] — the UFO-nuclear connection directly undermines SAC's deterrence logic
 - Mentioned in [[dow-uap-d49-vandenberg-launch-summary-1958-2000]]
+- Mentioned in [[dow-uap-d17-sandia-base-1948-1950]] — 116-page AFSWP Sandia Base File 333.5 "Unidentified Flying Objects" (1948-1950); foundational documentary corpus of the New Mexico green fireballs investigation; released by DOW under PURSUE Release 02

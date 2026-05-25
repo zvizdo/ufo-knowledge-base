@@ -41,7 +41,7 @@ After VE Day, Kissinger was assigned to **Oberammergau**, Bavaria — the locati
 
 ## Eric Wang, Kingman, and Kirtland
 
-The strongest direct link to UAP programs: Maria Wang (widow of Dr. [[eric-wang]], head of Special Studies at [[wright-patterson]]) told researcher [[william-steinman]] that Eric reported directly to Kissinger and that Kissinger was "deeply involved in the flying saucer program." Wang's department handled material from the [[1953-kingman-crash]], was relocated to [[sandia-national-laboratories]] at [[kirtland-air-force-base]] in 1956, and Kissinger himself participated in Kirtland interdisciplinary seminars c.1961–62. > ⚠ The Maria Wang claim is hearsay (widow-to-researcher chain); no independent corroboration exists.
+The strongest direct link to UAP programs: Maria Wang (widow of Dr. [[eric-wang]], head of Special Studies at [[wright-patterson]]) told researcher [[william-steinman]] that Eric reported directly to Kissinger and that Kissinger was "deeply involved in the flying saucer program." Wang's department handled material from the [[1953-kingman-crash]], was relocated to [[sandia-national-laboratories]] at [[kirtland-afb]] in 1956, and Kissinger himself participated in Kirtland interdisciplinary seminars c.1961–62. > ⚠ The Maria Wang claim is hearsay (widow-to-researcher chain); no independent corroboration exists.
 
 ## PSB, CFR, and Rockefeller (1951–1960)
 
@@ -100,7 +100,7 @@ This connection is significant: Kissinger knew about Soviet directed-energy weap
 - [[303-committee]] — Nixon-era covert ops body Kissinger oversaw
 - [[operation-moondust]] — debris program Kissinger queried January 1977
 - [[wright-patterson]] — Wang's base; Kissinger's alleged chain of command
-- [[kirtland-air-force-base]] — Sandia seminars with Kissinger c.1961–62
+- [[kirtland-afb]] — Sandia seminars with Kissinger c.1961–62
 - [[sandia-national-laboratories]] — Wang's relocated department
 - [[brookhaven-national-lab]] — repository for Schauberger IP secured by CIC
 - [[deep-state-continuity]] — Kissinger's compartmentalization philosophy

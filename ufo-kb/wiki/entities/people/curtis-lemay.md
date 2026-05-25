@@ -43,3 +43,4 @@ Malmgren's account of being present at the highest levels of Cuban Missile Crisi
 - [[nazi-ufo-hypothesis]] — LeMay's Roswell role is one plank of the Nazi psyop interpretation
 - [[ABw7EsWh2Us]] — second source; Roswell squadron commander claim
 - Mentioned in [[dow-general-flying-disc-files-1946-1948]] — signed 29 Aug 1947 routing form confirming "AAF has no research project with the characteristics described" in disc reports
+- Mentioned in [[dow-uap-d17-sandia-base-1948-1950]] — 116-page AFSWP Sandia Base File 333.5 "Unidentified Flying Objects" (1948-1950); foundational documentary corpus of the New Mexico green fireballs investigation; released by DOW under PURSUE Release 02

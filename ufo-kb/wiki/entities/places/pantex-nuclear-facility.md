@@ -7,8 +7,10 @@ affiliations: []
 firsthand_claims:
   - A jellyfish-shaped UAP conducted a controlled pass between nuclear warhead holding facilities 3 and 4 at Pantex; the object was visible in thermal imaging but invisible in infrared; weapon systems were jammed
 first_seen_in: raw/youtube-transcripts/dre-5Zy4f7c.md
-tags: [nuclear, uap, facility, texas, weapons-storage, security-incident]
-sources: [raw/youtube-transcripts/dre-5Zy4f7c.md]
+tags: [nuclear, uap, facility, texas, weapons-storage, security-incident, doe, ucni, ground-surveillance-radar]
+sources:
+  - raw/youtube-transcripts/dre-5Zy4f7c.md
+  - raw/documents/doe-uap-d1-pantex-image-fragment.md
 summary: "US nuclear warhead assembly and disassembly plant near Amarillo, Texas; site of a documented UAP incursion in which a jellyfish-shaped object conducted a controlled pass between nuclear warhead holding facilities 3 and 4; the object was thermal-visible but infrared-invisible, and jammed ground weapon systems; reported to George Knapp by a military source."
 ---
 
@@ -28,10 +30,17 @@ The combination of selective IR invisibility and active weapon system jamming is
 
 The Pantex incursion fits within the broader pattern documented in the [[ufo-nuclear-nexus]] literature: UAPs demonstrating specific operational interest in nuclear weapons storage, assembly, and delivery facilities.
 
+## DOE Documentary Corroboration (2026 release)
+
+[[doe-uap-d1-pantex-image-fragment]] (DoW PURSUE Release 02, 2026-05-22) released pages 5–6 of a formal "Pantex Unidentified Object Incident Report" produced by [[consolidated-nuclear-security-llc|Consolidated Nuclear Security, LLC]] (Pantex M&O contractor since July 2014). The released fragment contains a Ground Surveillance Radar Tower image and [[sandia-national-laboratories|Sandia]]-enhanced views of the object. The narrative pages 1–4 are withheld under UCNI / b(3). This is the first documentary corroboration that a formal Pantex UAP incident-report exists, though whether it documents the same incursion described above by the Knapp source is unresolved (see open questions on [[doe-uap-d1-pantex-image-fragment]]).
+
 ## Connections
 
-- [[george-knapp]] — received the Pantex report from a military source; source identity not disclosed
+- [[george-knapp]] — received a Pantex UAP incursion report from a military source; source identity not disclosed
 - [[ufo-nuclear-nexus]] — Pantex as a nuclear-facility UAP incursion; weapons jamming and nuclear warhead proximity
-- [[ufo-secrecy-cabal]] — nuclear facility incursion represents one of the most sensitive categories of UAP encounter; not publicly disclosed by DoD
+- [[ufo-secrecy-cabal]] — nuclear facility incursion represents one of the most sensitive categories of UAP encounter; not publicly disclosed by DoD until 2026
 - [[uso]] — jellyfish morphology appears in other UAP accounts; the non-standard shape is a recurring feature of nuclear-adjacent encounters
+- [[doe-uap-d1-pantex-image-fragment]] — DOE-released 2-page image fragment of a formal Pantex UAP incident report (PURSUE Release 02); 2014-or-later vintage based on CNS LLC's M&O assumption date
+- [[consolidated-nuclear-security-llc]] — Current Pantex M&O contractor (since July 2014); producer of the released incident-report fragment
+- [[sandia-national-laboratories]] — Analytical partner; image-enhancement chain for the released document
 - Mentioned in [[dre-5Zy4f7c]]

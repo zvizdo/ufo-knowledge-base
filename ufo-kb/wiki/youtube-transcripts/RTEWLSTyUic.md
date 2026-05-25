@@ -62,7 +62,7 @@ A feature-length [[american-alchemy|American Alchemy]] documentary on [[thomas-t
 - [[diana-pasulka]] — referenced: her book *American Cosmic*; [[tim-taylor|Tyler D]] connection to Townsend Brown's Nassau group
 - [[tim-taylor]] — American Cosmic's "Tyler D"; told his father's family he was in a Nassau group headed by Brown with time-travel technology
 - [[garry-nolan]] — bismuth-magnesium crash material; connects to Brown's high-K dielectric experiments
-- [[paul-benowitz]] — victim of Doty's disinformation psyop at [[kirtland-air-force-base|Kirtland AFB]]
+- [[paul-benowitz]] — victim of Doty's disinformation psyop at [[kirtland-afb|Kirtland AFB]]
 - [[john-warner-iv]] — grandson of CIA founding member [[paul-mellon|Paul Mellon]]; recounts grandfather's story of seeing a German flying disc in Pilsen, May 1945
 - [[ben-rich]] — Skunk Works director; deathbed statement about locked technologies; "international corporate board" as bigger threat than NHI
 - [[henry-kwanda]] — Romanian engineer; invented lenticular aerodyne UFO designs; consultant on [[avrocar-project|Project Y]] (Silverbug); convinced Brown to go to France in 1956

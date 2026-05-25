@@ -17,6 +17,12 @@ Wife of [[l-ron-hubbard]] and a senior figure in the [[church-of-scientology]]. 
 
 Sheehan accepted the condition of accessing every Scientology office's significant documents before deciding whether to take the case. It was during this access period that he encountered the intelligence files documenting [[ingo-swann]]'s espionage role and the [[pat-price]] remote-viewing experiments.
 
+## Scientology Leadership Role
+
+Mary Sue Whipp Hubbard (1931-2002) was the third wife of L. Ron Hubbard, married 1952. She held senior leadership positions in Scientology including Controller of the Guardian's Office (GO) — the church's intelligence and security arm — from its founding in 1966 until the GO's dissolution in 1981 following federal prosecution.
+
+Her UAP-relevance is via L. Ron Hubbard's documented interest in extraterrestrial / cosmic-history claims that shaped Scientology's higher-level doctrines (notably the "Xenu" / OT-III material). Mary Sue's GO oversight included Operation Snow White (1973-1977), the largest known infiltration of US federal agencies by a private organization in US history; GO operatives infiltrated IRS, DOJ, FBI, and other agencies, in part searching for files about Hubbard and Scientology. The operation's exposure led to Mary Sue's 1979 conviction and 4-year federal prison sentence. The intersection of her GO-intelligence experience with Scientology's ET-doctrine apparatus is a recurring topic in UAP-religious-movements scholarship.
+
 ## Connections
 
 - [[l-ron-hubbard]] — her husband; Sheehan was offered joint representation

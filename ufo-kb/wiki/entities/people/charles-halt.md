@@ -35,7 +35,7 @@ Halt's interviewed account, recorded on tape at the time (a recording that becam
 
 ## Nuclear Dimension
 
-[[robert-hastings]] specifically sought out WSA-related testimony and independently confirmed through a retired NATO weapons security colonel (unnamed, but whose background Hastings vouched for) that **two tactical nuclear weapons were subsequently removed from a bunker at Bentwaters**, flown on a C-5A to [[kirtland-air-force-base]] where an Air Force weapons lab analyzed them — presumably to assess whether the beams had affected their functionality or integrity.
+[[robert-hastings]] specifically sought out WSA-related testimony and independently confirmed through a retired NATO weapons security colonel (unnamed, but whose background Hastings vouched for) that **two tactical nuclear weapons were subsequently removed from a bunker at Bentwaters**, flown on a C-5A to [[kirtland-afb]] where an Air Force weapons lab analyzed them — presumably to assess whether the beams had affected their functionality or integrity.
 
 Halt told Hastings in a 2005 interview that he was out in the woods with the security team; he did not personally witness the WSA beam activity but heard it reported over radio by personnel at the storage area.
 

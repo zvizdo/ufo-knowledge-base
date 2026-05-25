@@ -78,7 +78,7 @@ tags: [abduction, ellsworth, nuclear-icbm, missing-time, military-witness, osi, 
 - [[new-lake-reservoir-dam]] — where the truck was found after missing time; ~8.5 miles from November 5
 - Newell, South Dakota — small town (pop. 230 in 1977) near November 5
 - De Queen Elementary, Port Arthur, Texas — site of 1961 saucer sighting
-- [[kirtland-air-force-base|Kirtland AFB]] — where Benowitz witnessed craft; Rick Doty ran psyop there
+- [[kirtland-afb|Kirtland AFB]] — where Benowitz witnessed craft; Rick Doty ran psyop there
 
 ### Incidents
 - [[1977-ellsworth-woods-abduction]] — the main incident; November 5, 1977

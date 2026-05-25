@@ -39,7 +39,7 @@ Fouché described a reverse-engineered triangular craft with the following param
 
 The TR3B reportedly achieves **vertical takeoff and landing in complete silence with no ground-dust disturbance** — a behavioral signature corroborated by:
 - [[randy-anderson]] (Green Beret who observed a triangular craft at Area 51)
-- [[paul-benowitz]] (who observed exotic vertically-landing craft at [[kirtland-air-force-base]])
+- [[paul-benowitz]] (who observed exotic vertically-landing craft at [[kirtland-afb]])
 
 ## Relationship to the X-Files Design
 

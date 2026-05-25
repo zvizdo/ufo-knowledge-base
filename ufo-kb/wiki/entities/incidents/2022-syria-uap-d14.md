@@ -32,3 +32,5 @@ USEUCOM 50 ATKS / 432 AEW ISR platform observed one UAP over the Eastern Mediter
 - [[phenomenology-categories]] — 1× UAP; N-NE trajectory; no positive ID; no signatures; no assessment
 - [[credibility-frameworks]] — 50 ATKS / 432 AEW ISR; ANDAS4 + AIRHANDLER sensors; 603rd AOC / 609 CAOC chain
 - [[cold-war-uap-nexus]] — Active Russian military theater; SU-30 intercept; Russian nuclear-capable naval vessels in same operational area
+- [[2023-syria-iraq-uap-d20]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags this pair due to shared metadata neighbors `aaro`, `phenomenology-categories`, `credibility-frameworks`, etc.; this cross-reference acknowledges the structural neighborhood overlap without implying duplication)
+- [[2023-syria-uap-d19]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags this pair due to shared metadata neighbors `aaro`, `phenomenology-categories`, `credibility-frameworks`, etc.; this cross-reference acknowledges the structural neighborhood overlap without implying duplication)

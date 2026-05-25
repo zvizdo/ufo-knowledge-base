@@ -50,3 +50,4 @@ D60 is the **earliest** MISREP from the 482 ATKS / 432 AEW OKAS cluster (Aug 8, 
 - [[dow-uap-d62-mission-report-strait-of-hormuz-2020-09-16]] — Sister MISREP: same unit, same base, September 2020
 - [[dow-uap-d63-mission-report-strait-of-hormuz-2020-10-01]] — Sister MISREP: same unit, same base, October 2020
 - [[dow-uap-d64-mission-report-iran-2020-11-02]] — Sister MISREP: same unit, same base, November 2020
+- [[dow-uap-d65-mission-report-arabian-gulf-2020-07-16]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags this pair due to shared metadata neighbors `aaro`, `phenomenology-categories`, `credibility-frameworks`, etc.; this cross-reference acknowledges the structural neighborhood overlap without implying duplication)

@@ -31,7 +31,7 @@ Stansel's superior at [[wright-patterson]] was **Dr. [[eric-wang]]**, head of th
 - Kissinger was deeply involved in the flying saucer program.
 - Kissinger had visited their home on occasion.
 
-In 1956, Wang's department was relocated from Wright-Patterson to [[sandia-national-laboratories|Sandia Laboratories]] at [[kirtland-air-force-base]]. A partially redacted Sandia history notes that **Don Carter** (later Nixon administration AEC adviser) organized interdisciplinary seminars at Kirtland around 1961–62 — one participant was [[henry-kissinger]].
+In 1956, Wang's department was relocated from Wright-Patterson to [[sandia-national-laboratories|Sandia Laboratories]] at [[kirtland-afb]]. A partially redacted Sandia history notes that **Don Carter** (later Nixon administration AEC adviser) organized interdisciplinary seminars at Kirtland around 1961–62 — one participant was [[henry-kissinger]].
 
 ---
 

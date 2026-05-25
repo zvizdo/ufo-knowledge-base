@@ -33,7 +33,7 @@ Stansel's assigned task was to calculate impact velocity.
 
 Former intelligence official [[chris-mellon]] confirmed in a later public statement that the Kingman craft was recovered and studied over subsequent decades. The analysis of recovered material apparently fell to the **Department of Special Studies at [[wright-patterson]]** under Dr. [[eric-wang]], who was subsequently alleged by his widow to have reported directly to [[henry-kissinger]].
 
-In 1956, Wang's department relocated to [[sandia-national-laboratories]] at [[kirtland-air-force-base]], New Mexico — consistent with centralizing exotic-material research within the nuclear complex.
+In 1956, Wang's department relocated to [[sandia-national-laboratories]] at [[kirtland-afb]], New Mexico — consistent with centralizing exotic-material research within the nuclear complex.
 
 ## Evidence
 

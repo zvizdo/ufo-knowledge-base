@@ -56,6 +56,7 @@ This is the most recent firsthand UAP witness statement in the gov-release batch
 ## Connections
 
 - [[2025-western-us-uap-orb-swarm]] — Incident entity for the orb swarm encounter
+- [[odni-uap-d1-usper-narrative-2025]] — Companion document: same witness's first-person narrative, released later under PURSUE Release 02 (2026-05-22) via ODNI; adds cave-entrance discovery, daytime search context, triangle formation
 - [[fbi]] — Originating agency; FBI 302 interview format
 - [[aaro]] — Submission and release authority; PURSUE Release 01
 - [[credibility-frameworks]] — Senior US intelligence official primary witness; FBI 302 format; LP/OP FLIR + NVG + naked eye triple sensor; multi-witness (WITNESS 1, WITNESS 2, two pilots, LP/OP crew, military aircraft); SECRET//NOFORN classification

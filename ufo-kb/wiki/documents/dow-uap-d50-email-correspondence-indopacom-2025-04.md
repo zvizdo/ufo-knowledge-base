@@ -32,3 +32,4 @@ Documents the same derivative classification review pathway as [[dow-uap-d51-ema
 - [[classification-system]] — 1.4(a) tearline declassification pipeline for UAP mission reports; INDOPACOM AOR confirmed UNCLASSIFIED
 - [[dow-uap-d51-email-correspondence-pacific-time-zone-2023-03-23]] — parallel email from same OUSD(I&S) derivative review pipeline (Pacific TZ 2023); same process applied to AFOSI IIR
 - [[phenomenology-categories]] — 1× POSS UAP, 12 s (Apr 10) and 23 s (Apr 11); unknown altitude and speed; no interference; INDOPACOM AOR 2025
+- [[dow-uap-d52-email-correspondence-na-2024-10-31]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags this pair due to shared metadata neighbors `aaro`, `phenomenology-categories`, `credibility-frameworks`, etc.; this cross-reference acknowledges the structural neighborhood overlap without implying duplication)

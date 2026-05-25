@@ -180,7 +180,7 @@ Per Rule 13: each is presented as personal experience or direct handling. Decomp
 - [[american-alchemy]] — host's channel
 - [[yes-theory]] — Aaron Candel's channel
 - [[alpha-66]] — Cuban-Exile militant group, Elizondo Sr.'s affiliation
-- [[manhattan-project]] / [[aec]] / [[department-of-energy]] — atomic-classification chain
+- [[manhattan-project]] / [[aec]] / [[doe]] — atomic-classification chain
 - [[australian-joint-intelligence-organisation|Australian Joint Intelligence Organisation]] — context for [[harry-turner]]'s 1971 anti-gravity memo
 
 ### Places

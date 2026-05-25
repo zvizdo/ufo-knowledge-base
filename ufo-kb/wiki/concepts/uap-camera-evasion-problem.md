@@ -51,3 +51,5 @@ The [[twining-memo]] (1947) is the earliest official documentation of evasivenes
 - [[dow-uap-d20-mission-report-iraq-2023-03-31]] — F-16CM targeting pod (TV mode) obtained ~20s lock before each object dimmed and disappeared; analyst confirmed results different from star; ESSA Syria 2023
 - [[dow-uap-d35-mission-report-aegean-sea-2023-10-29]] — Circular UAP sea-skimming toward land; lost from FMV feed at 0811Z during active observation; Aegean Sea Oct 2023
 - [[dow-uap-d33-mission-report-aegean-sea-2023-10-27]] — Circular UAP performing 90-degree turns; lost from FMV feed at 0038Z, 3 minutes after contact; same unit/location as D35, 48 hours earlier
+- Mentioned in [[odni-uap-d1-usper-narrative-2025]] — ODNI USPER first-person narrative of late-2025 western US test-range orb-swarm encounter; companion to the FBI 302 of the same witness
+- Mentioned in [[doe-uap-d1-pantex-image-fragment]] — DOE-released image fragment (pages 5-6 of 6) of a formal Pantex Unidentified Object Incident Report produced by Consolidated Nuclear Security; PURSUE Release 02 (2026-05-22)

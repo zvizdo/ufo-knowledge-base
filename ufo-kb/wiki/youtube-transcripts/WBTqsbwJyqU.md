@@ -52,7 +52,7 @@ Source summary of the [[american-alchemy|American Alchemy]] episode featuring [[
 
 ### Places
 - [[kirtland-afb]] — Benowitz lived and worked adjacent to it; site of the original anomalous orb sightings and the disinformation campaign
-- [[kirtland-air-force-base]] — duplicate entry in wiki; same location
+- [[kirtland-afb]] — duplicate entry in wiki; same location
 - [[sandia-national-laboratories]] — collocated with Kirtland; Benowitz's home was "basically across the street from the fence"
 - [[dulce-new-mexico]] — alleged underground base location derived from [[myrna-hansen|Myrna Hansen]]'s hypnotic regression; Archeleta Mesa on the Jicarilla Apache reservation
 - [[wright-patterson]] — referenced in context of anti-gravity research history; Doty claimed his father worked at [[area-51|Area 51]]
@@ -66,7 +66,7 @@ Source summary of the [[american-alchemy|American Alchemy]] episode featuring [[
 ### Concepts
 - [[flood-the-zone-disinfo]] — the Benowitz operation as paradigm case; Benowitz was his own worst enemy, needing only a "push here and there"
 - [[dulce-underground-base]] — the alien base mythology originated substantially with Myrna Hansen's regression and was amplified by the AFOSI operation; John Lear admitted fabricating the "firefight" element
-- [[ufo-nuclear-nexus]] — [[kirtland-air-force-base|Kirtland AFB]] as nuclear weapons hub; Benowitz's original observations were of objects near a nuclear-adjacent base
+- [[ufo-nuclear-nexus]] — [[kirtland-afb|Kirtland AFB]] as nuclear weapons hub; Benowitz's original observations were of objects near a nuclear-adjacent base
 - [[deep-underground-military-bases]] — Dulce mythology contributed to this broader concept
 - [[credibility-frameworks]] — Bishop's approach: verify through multiple sources, attribute claims to specific sources, never assume bad faith without evidence
 

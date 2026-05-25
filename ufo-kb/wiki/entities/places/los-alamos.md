@@ -66,3 +66,6 @@ The [[nnsa]] Nevada site (Las Vegas) also appears in this episode as a key node:
 - [[scientists-targeting-pattern]] — Casillas's disappearance added Los Alamos to the 2025–2026 cluster; source hedges on whether her case reflects the pattern
 - [[wlsQIbpEKSM]] — source; Casillas disappearance context
 - Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]
+- Mentioned in [[doe-uap-d2-james-tuck-correspondence-1970-1976]] — James L. Tuck (Los Alamos) correspondence file (1970-c.1976); contains 1948-1951 Jemez Mountains green-light witness testimony; released by DOE in 2026
+- Mentioned in [[doe-uap-d3-pajarito-astronomers-1986]] — Pajarito Astronomers (Los Alamos staff club) 1986 meeting announcement scheduling a UFO lecture by Dr. John Warren (LANL AT-6); released by DOE 2026
+- Mentioned in [[dow-uap-d17-sandia-base-1948-1950]] — 116-page AFSWP Sandia Base File 333.5 "Unidentified Flying Objects" (1948-1950); foundational documentary corpus of the New Mexico green fireballs investigation; released by DOW under PURSUE Release 02

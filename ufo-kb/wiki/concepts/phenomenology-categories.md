@@ -158,3 +158,7 @@ Notably, the East Coast objects did **not** display the reactive/interactive beh
 - Mentioned in [[dow-uap-d5-mission-report-mediterranean-sea-2020]] — Mediterranean 2020; 1× UAP 40 KTS constant FL160-170; 2× ~278 KTS direction change south; dual-observation same mission
 - Mentioned in [[dow-uap-d7-mission-report-arabian-gulf-2020]] — Arabian Gulf 2020; balloon-like; 31,000 ft wind-track; weapons quality 1 radar; TFLIR visual ID; simulated intercept performed
 - Mentioned in [[dow-uap-d6-mission-report-pacific-ocean-2020]] — Pacific Ocean 2020; 1× probable UAP; no mission impact; minimal observation data
+- Mentioned in [[odni-uap-d1-usper-narrative-2025]] — ODNI USPER first-person narrative of late-2025 western US test-range orb-swarm encounter; companion to the FBI 302 of the same witness
+- Mentioned in [[cia-uap-d1-sary-shagan-1973]] — CIA HUMINT cable (1977) on Sary Shagan ABM testing range; contains the 1973 green concentric-ring UAP observation by a defector source
+- Mentioned in [[doe-uap-d2-james-tuck-correspondence-1970-1976]] — James L. Tuck (Los Alamos) correspondence file (1970-c.1976); contains 1948-1951 Jemez Mountains green-light witness testimony; released by DOE in 2026
+- Mentioned in [[dow-uap-d17-sandia-base-1948-1950]] — 116-page AFSWP Sandia Base File 333.5 "Unidentified Flying Objects" (1948-1950); foundational documentary corpus of the New Mexico green fireballs investigation; released by DOW under PURSUE Release 02

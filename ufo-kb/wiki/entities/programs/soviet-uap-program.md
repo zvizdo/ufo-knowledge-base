@@ -31,3 +31,4 @@ The **1955 Azerbaijan disc sighting** ([[1955-azerbaijan-disc]]) adds a specific
 - [[ufo-secrecy-cabal]] — Soviet classification of UAP events mirrors the US pattern
 - [[ufo-nuclear-nexus]] — Soviet nuclear-site UAP incidents parallel US Malmstrom events
 - [[malmstrom-air-force-base]] — US nuclear-site case with Soviet analogues
+- Mentioned in [[cia-uap-d1-sary-shagan-1973]] — CIA HUMINT cable (1977) on Sary Shagan ABM testing range; contains the 1973 green concentric-ring UAP observation by a defector source

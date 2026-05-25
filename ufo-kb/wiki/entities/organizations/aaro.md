@@ -122,3 +122,4 @@ In [[3yrKVu35uSE]], [[james-fox]] reported a private SCIF meeting with Jon Koslo
 - Mentioned in [[dow-uap-d5-mission-report-mediterranean-sea-2020]] — MISREP D5; 2020; dual observation: 1× 40 KTS FL160-170 + 2× ~278 KTS direction change south; Mediterranean
 - Mentioned in [[dow-uap-d7-mission-report-arabian-gulf-2020]] — MISREP D7; 2020; balloon-like UAP 31,000 ft wind-track; weapons quality 1 radar; TFLIR visual ID; 48 FW cross-ref; Arabian Gulf
 - Mentioned in [[dow-uap-d6-mission-report-pacific-ocean-2020]] — MISREP D6; 2020; 1× probable UAP; no mission impact; Pacific Ocean
+- Mentioned in [[odni-uap-d1-usper-narrative-2025]] — ODNI USPER first-person narrative of late-2025 western US test-range orb-swarm encounter; companion to the FBI 302 of the same witness

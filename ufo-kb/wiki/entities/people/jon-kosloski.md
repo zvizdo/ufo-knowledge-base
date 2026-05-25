@@ -5,7 +5,7 @@ aliases: []
 roles: [official]
 affiliations: [aaro, dod, nsa]
 firsthand_claims: [aaro-true-anomalies-acknowledgment]
-first_seen_in: raw/youtube-transcripts/uap-camera-evasion-problem-context.md
+first_seen_in: ""
 sources: []
 tags: [aaro, dod, true-anomalies, kosloski-statement]
 ---

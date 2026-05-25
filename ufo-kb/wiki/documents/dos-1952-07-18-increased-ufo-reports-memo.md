@@ -12,7 +12,7 @@ tags: [nasc, dos, 1963, alien-contact-policy, maxwell-hunter, bnsp, executive-of
 
 # NASC Memo — Maxwell Hunter: "Thoughts on the Space Alien Race Question" (July 1963)
 
-**Date correction**: Source file slug reads "1952" but the document is unambiguously from **July 18, 1963** — references Mariner II (1962), Lunik III (1959), and Project Ozma (1960). The source PDF `59_214434_sp_16_7.18.1963.pdf` filename is accurate; the "1952" designation in the slug is a processing artifact. See also [[dos-1963-07-18-executive-office-nasc-memo]] — a companion file from the same PDF pair.
+**Date correction**: Source file slug reads "1952" but the document is unambiguously from **July 18, 1963** — references Mariner II (1962), Lunik III (1959), and Project Ozma (1960). The source PDF `59_214434_sp_16_7.18.1963.pdf` filename is accurate; the "1952" designation in the slug is a processing artifact. See also [[dos-1952-07-18-increased-ufo-reports-memo]] — a companion file from the same PDF pair.
 
 Memo to Robert F. Packard, Office of International Scientific Affairs, Department of State, from Maxwell W. Hunter II, Member, Professional Staff, National Aeronautics and Space Council. Subject: "Thoughts on the Space Alien Race Question." Classification: OFFICIAL USE ONLY.
 
@@ -41,4 +41,4 @@ Hunter was prompted by the occasional question during **BNSP (Basic National Sec
 - [[history-of-uap]] — 1963 US national security policy context for alien contact; BNSP Task I inclusion
 - [[disclosure-narratives]] — "grand panic" prediction; Hunter's assessment that institutional preparation is impossible and policy will be reactive
 - [[nasa]] — institutional context; NASC was the senior policy body above NASA; LBJ chaired NASC as VP in 1963
-- [[dos-1963-07-18-executive-office-nasc-memo]] — companion file (same document extracted from the bracketed PDF variant); that page redirects here as the canonical summary
+- [[dos-1952-07-18-increased-ufo-reports-memo]] — companion file (same document extracted from the bracketed PDF variant); that page redirects here as the canonical summary

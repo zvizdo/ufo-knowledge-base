@@ -5,7 +5,7 @@ aliases: []
 roles: [researcher]
 affiliations: [princeton-university]
 firsthand_claims: []
-first_seen_in: raw/youtube-transcripts/anti-gravity-context.md
+first_seen_in: ""
 sources: []
 tags: [topology, algebraic-geometry, princeton, mathematics]
 ---

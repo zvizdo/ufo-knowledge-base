@@ -5,7 +5,7 @@ aliases: [Johns Hopkins, JHU, Johns Hopkins Medical School]
 roles: []
 affiliations: []
 firsthand_claims: []
-first_seen_in: raw/entities/people/detlev-bronk.md
+first_seen_in: ""
 sources: []
 summary: "Major research university in Baltimore, Maryland; in the KB primarily through Detlev Bronk, who served as its president and is connected to alleged MJ-12 committee membership, linking a major medical research institution to early UAP program oversight claims."
 tags: [university, baltimore, detlev-bronk, majestic-12, medical-research, mj12]

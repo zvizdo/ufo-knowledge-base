@@ -6,7 +6,7 @@ summary: "September 27, 1989 landing event in Voronezh, USSR: multiple witnesses
 sources: []
 date: 1989-09-27
 tags: [uap, landing, ussr, 1989, nhi, close-encounter, russia, tass]
-first_seen_in: raw/wiki-entities/russia.md
+first_seen_in: ""
 ---
 
 # 1989 Voronezh UAP Landing

@@ -5,7 +5,7 @@ aliases: [Clint Murchison, Clinton Williams Murchison Jr.]
 roles: [other]
 affiliations: [murchison-oil, dallas-cowboys]
 firsthand_claims: []
-first_seen_in: raw/youtube-transcripts/jfk-assassination-context.md
+first_seen_in: ""
 sources: []
 tags: [texas-oil, dallas-cowboys, jfk-assassination-context]
 ---

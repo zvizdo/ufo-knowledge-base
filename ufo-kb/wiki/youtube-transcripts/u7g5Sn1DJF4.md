@@ -255,7 +255,7 @@ Second major [[american-alchemy]] episode featuring [[uap-gerb]]. UAPGerb's most
 
 ## Eric Henry Wang and the Kingman Crash Chain of Custody
 
-- **Eric Henry Wang**: American physicist of Chinese descent; described by researcher [[william-steinman|William Steinman]] as head of special projects at Wright-Patterson AFB and [[kirtland-air-force-base|Kirtland AFB]]
+- **Eric Henry Wang**: American physicist of Chinese descent; described by researcher [[william-steinman|William Steinman]] as head of special projects at Wright-Patterson AFB and [[kirtland-afb|Kirtland AFB]]
   - Studied in Vienna under [[victor-schauberger|Viktor Schauberger]] (Austrian inventor focused on implosion/vortex physics) before emigrating
   - Reported directly to **"H.A.K."** — a title/acronym UAPGerb and Steinman interpret as [[henry-kissinger|Henry Kissinger]]
   - Wang allegedly oversaw reverse-engineering of propulsion system from the [[1953-kingman-crash|1953 Kingman crash]] craft at Wright-Patterson

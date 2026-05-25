@@ -89,3 +89,4 @@ Brandenburg also describes Teller's curiosity about controlled fusion — Teller
 - [[andrei-sakharov]] — Teller's Soviet counterpart; confirmed Teller's H-bomb reasoning was correct; both converged on same vacuum physics insights
 - [[p0S0BfoZy0w]] — Brandenburg's direct personal account
 - Mentioned in [[BEWz4SXfyCQ]]
+- Mentioned in [[dow-uap-d17-sandia-base-1948-1950]] — 116-page AFSWP Sandia Base File 333.5 "Unidentified Flying Objects" (1948-1950); foundational documentary corpus of the New Mexico green fireballs investigation; released by DOW under PURSUE Release 02

@@ -32,3 +32,4 @@ tags: [2020, arabian-gulf, aaro, uap, fmv, navcent, three-observations, redacted
 - [[phenomenology-categories]] — 3× FMV UAP observations; no characteristics preserved in released version
 - [[credibility-frameworks]] — USCENTCOM ISR platform; FMV primary sensor; 609 CAOC chain
 - [[cold-war-uap-nexus]] — NAVCENT AOR operational reporting
+- [[2023-arabian-gulf-uap-d23]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags this pair due to shared metadata neighbors `aaro`, `phenomenology-categories`, `credibility-frameworks`, etc.; this cross-reference acknowledges the structural neighborhood overlap without implying duplication)

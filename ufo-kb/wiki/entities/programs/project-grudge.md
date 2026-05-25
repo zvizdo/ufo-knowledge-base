@@ -30,3 +30,4 @@ Grudge institutionalized the debunking posture that would define official U.S. g
 - [[horace-vandenberg]] — his 1948 rejection of the Project Sign Estimate created the institutional environment Grudge was created to fill
 
 - Mentioned in [[usaaf-1949-flying-discs-box186-incident-reports]]
+- Mentioned in [[dow-uap-d17-sandia-base-1948-1950]] — 116-page AFSWP Sandia Base File 333.5 "Unidentified Flying Objects" (1948-1950); foundational documentary corpus of the New Mexico green fireballs investigation; released by DOW under PURSUE Release 02

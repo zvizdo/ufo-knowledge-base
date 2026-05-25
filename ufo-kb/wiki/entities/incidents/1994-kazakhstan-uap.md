@@ -45,3 +45,4 @@ Unresolved. Embassy comment: "We have no opinion and report the above for what i
 - [[cold-war-uap-nexus]] — Kazakhstan (former Soviet territory), 1994 post-Soviet period; cable also sent to AMEMBASSY MOSCOW
 - [[credibility-frameworks]] — Pan Am veteran crew; active comparison to known atmospheric phenomena; diplomatic reporting chain
 - [[uap-aviation-safety]] — 40-minute crew observation during active commercial flight at cruise altitude
+- Mentioned in [[cia-uap-d1-sary-shagan-1973]] — CIA HUMINT cable (1977) on Sary Shagan ABM testing range; contains the 1973 green concentric-ring UAP observation by a defector source

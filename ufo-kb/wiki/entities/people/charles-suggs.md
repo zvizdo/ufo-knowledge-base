@@ -5,7 +5,7 @@ aliases: []
 roles: [witness]
 affiliations: [us-navy]
 firsthand_claims: [1954-eisenhower-ufo-meeting]
-first_seen_in: raw/wiki-entities/edwards-air-force-base.md
+first_seen_in: ""
 sources: []
 summary: "US Navy witness who allegedly claimed to have been present at the 1954 Eisenhower-NHI meeting at Muroc/Edwards Air Force Base; the claim is known primarily through his grandson's testimony and is not corroborated by primary sources."
 tags: [eisenhower, nhi, 1954, edwards-afb, witness, contested-claim]

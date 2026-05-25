@@ -17,6 +17,12 @@ Theoretical physicist at the University of Connecticut who has researched the th
 
 [[nick-pope]] references Mallett in [[B6WFLOIkyho]] as a boundary case: a credentialed physicist seriously advocating for technology that appears impossible to ordinary intuition. Pope uses this to contextualize the apparent impossibility of UAP capabilities — if mainstream scientists can rigorously advocate for backward time communication, then UAP-associated capabilities that seem physically impossible may also have serious theoretical support.
 
+## Time Travel Research
+
+Ronald L. Mallett (b. 1945) is Professor Emeritus of Physics at the University of Connecticut. His research program — pursued since the 1970s and most actively from the late 1990s onward — explores whether intense ring lasers can warp spacetime sufficiently to permit closed timelike curves, in principle enabling time travel for information.
+
+Mallett's UAP-relevance is theoretical: his research is one of the few academic physics programs explicitly investigating mechanisms that could underlie the "time-travel UAP" hypothesis (the speculation that some UAP are future-human time travelers rather than extraterrestrials). His personal motivation — published in his 2006 memoir *Time Traveler* — was the desire to travel back to see his father, who died of a heart attack when Mallett was 10. Mainstream physics is skeptical of his ring-laser proposals but the research has not been refuted in peer review.
+
 ## Connections
 
 - Mentioned in [[B6WFLOIkyho]]

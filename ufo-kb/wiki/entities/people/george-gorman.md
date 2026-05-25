@@ -19,6 +19,12 @@ North Dakota Air National Guard F-51 Mustang pilot; civilian occupation: constru
 
 Gorman's dual background (rated military pilot with professional civilian employment) was noted by investigators as elevating his credibility rating above typical military-only observers. The engagement was corroborated by Hector Airport tower controllers and ground witnesses.
 
+## Career After the 1948 Dogfight
+
+Gorman was reinterviewed multiple times by Project Sign and Project Blue Book investigators across the late 1940s and early 1950s. He remained consistent in his account through repeat interviews — a credibility factor highlighted in Edward Ruppelt's *The Report on Unidentified Flying Objects* (1956). Gorman continued his civilian construction-management career and his ANG service for several years post-incident; he did not pursue a public UFO-research role.
+
+The "Gorman Dogfight" became one of the canonical maneuverability cases cited in subsequent USAF UAP analyses. The Air Force's eventual official explanation (a lighted weather balloon) is widely considered inadequate given the 27-minute duration and the multiple high-G evasive maneuvers Gorman reported.
+
 ## Connections
 
 - Mentioned in [[usaf-blue-book-era-incident-summaries-box-7]]

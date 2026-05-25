@@ -32,3 +32,5 @@ AFCENT ISR aircraft observed 4× UAP in FOV over the Arabian Gulf in 2020. Seque
 - [[phenomenology-categories]] — 4× multi-UAP; side-by-side pairing; sequential 27-second appearance window; cloud-obstructed; Arabian Gulf 2020
 - [[credibility-frameworks]] — AFCENT ISR; redacted sensor and platform; SECRET; Arabian Gulf 2020
 - [[cold-war-uap-nexus]] — Arabian Gulf 2020; AFCENT USCENTCOM theater
+- [[2023-arabian-gulf-uap-d23]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags this pair due to shared metadata neighbors `aaro`, `phenomenology-categories`, `credibility-frameworks`, etc.; this cross-reference acknowledges the structural neighborhood overlap without implying duplication)
+- [[2020-arabian-gulf-uap-d65]] — Related D-numbered gov-release entry (distinct incident/document; structural-similarity detector flags due to shared metadata neighbors)

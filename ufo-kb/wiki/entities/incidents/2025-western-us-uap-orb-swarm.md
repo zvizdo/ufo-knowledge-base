@@ -7,8 +7,9 @@ date: '2025-12-01'
 location: 'Western United States (classified facility / mountain range, redacted coordinates)'
 sources:
   - raw/documents/fbi-western-us-late-2025-uap-investigation.md
-tags: [2025, western-us, fbi, orb, swarm, helicopter, classified-facility, flir, nvg, pursue-release, multi-witness, ce1]
-summary: 'FBI 302 witness statement from senior US intelligence official. Orb swarm near classified western US facility, late 2025. Key observables: orb split into two objects + third trajectory emerged; orb came within 10 feet of helicopter; sequential horizontal flaring display (4-5 orbs, repeated 3 times); orbs broke off from helicopter to pursue arriving military aircraft. "Super-hot" FLIR thermal signature. Multi-sensor (FLIR, NVG, naked eye) from helicopter crew and LP/OP ground team. 24 photo PDFs included. Released PURSUE Release 01 SECRET//NOFORN.'
+  - raw/documents/odni-uap-d1-usper-narrative-2025.md
+tags: [2025, western-us, fbi, odni, orb, swarm, helicopter, classified-facility, flir, nvg, pursue-release, pursue-release-02, multi-witness, ce1, cave-entrance]
+summary: 'FBI 302 witness statement plus ODNI first-person USPER narrative from the same senior US intelligence official. Orb swarm near classified western US facility, late 2025. Key observables: orb split into two objects + third trajectory emerged; orb came within 10 feet of helicopter; sequential horizontal/T-formation flaring display (4-5 orbs, repeated 3 times); separate triangle formation also observed; orbs broke off from helicopter to pursue arriving military aircraft. "Super-hot" FLIR thermal signature. Multi-sensor (FLIR, NVG, naked eye) from helicopter crew and LP/OP ground team. 24 photo PDFs included. Daytime pre-encounter aerial search discovered a "large cave entrance with no visible end in sight" in an orb-activity area (NEW from ODNI narrative). Released across PURSUE Release 01 (FBI 302) and Release 02 (ODNI narrative).'
 ---
 
 # 2025 Western US UAP Orb Swarm
@@ -31,11 +32,24 @@ FBI 302 interview of a senior US intelligence official documenting a multi-hour 
   - Sequential horizontal flaring display: 4–5 orbs flaring up one at a time, then down in reverse order — repeated three times (west of helicopter at 2227hrs, above military aircraft at 2228hrs, to the east at 2233hrs)
   - Orbs appeared to "break off from [CALL SIGN 1] and pursue the [MILITARY AIRCRAFT]" at the moment of military response arrival
 - **Photo evidence**: 24 photo PDFs (b1–b24) submitted; image-only, content not extractable from text
-- **Classification**: SECRET//NOFORN; released PURSUE Release 01
+- **Classification**: SECRET//NOFORN (FBI 302); ODNI narrative unmarked; released across PURSUE Release 01 (FBI 302) and Release 02 (ODNI USPER narrative)
+
+## Additional Detail from ODNI USPER Narrative (PURSUE Release 02)
+
+The witness's first-person narrative ([[odni-uap-d1-usper-narrative-2025]], released 2026-05-22) is a companion to the FBI 302 and adds:
+
+- **Daytime pre-encounter context**: Several hours of low-altitude "map of the earth" search through the mountain range; multiple debris finds attributed to rocket-test remnants; refueling at a "prepositioned tanker on the range" before being re-tasked.
+- **Cave entrance discovery**: During the daytime search, a "large cave entrance with no visible end in sight" was discovered in an area of reported orb activity. Terrain was unsafe for landing; pilot orbited several times for observation; location was noted. Not mentioned in the FBI 302. No follow-up survey is referenced.
+- **Triangle formation (separate from T-formation)**: Orange orbs "flaring up and down around us for several minutes, forming a distinct triangle before vanishing" — observed in addition to the FBI-302-documented T/horizontal formations.
+- **Witness explicitly explains photo gap**: "I didn't take photos, as I was focused on assessing what it was and whether it posed a threat." (Source of the 24 photo PDFs is therefore other observers — pilots, LP/OP, ground team — not the primary witness.)
+- **Affect**: Witness and pilots "virtually speechless after these observations" at the JOC after landing.
 
 ## Connections
 
-- [[fbi-western-us-late-2025-uap-investigation]] — Source FBI 302 and photo evidence package
+- [[fbi-western-us-late-2025-uap-investigation]] — Source FBI 302 (PURSUE Release 01) and photo evidence package
+- [[odni-uap-d1-usper-narrative-2025]] — Companion ODNI USPER first-person narrative (PURSUE Release 02); adds cave-entrance discovery, daytime search context, triangle formation, and explicit photo-absence rationale
+- [[odni]] — Issuing authority for the USPER narrative (PURSUE Release 02)
+- [[2026-department-of-war-uap-release]] — Release vehicle for the ODNI USPER narrative
 - [[fbi]] — Originating agency; FBI 302 interview
 - [[aaro]] — Submission and release authority
 - [[credibility-frameworks]] — Senior IC official primary witness; FBI 302 format; FLIR + NVG + naked eye triple sensor; multi-witness

@@ -5,7 +5,7 @@ aliases: [Bram Pais]
 roles: [researcher]
 affiliations: [institute-for-advanced-study, rockefeller-university]
 firsthand_claims: []
-first_seen_in: raw/concepts/pais-effect.md
+first_seen_in: ""
 sources: []
 summary: "Dutch-American theoretical physicist (1918–2000); close associate of Einstein and Bohr at the Institute for Advanced Study; author of Subtle is the Lord (definitive Einstein biography) and Niels Bohr's Times; in the KB through the Pais Effect patent, which Salvatore Pais named in honor of both himself and Abraham Pais."
 tags: [physics, einstein, bohr, ias, biography, pais-effect]

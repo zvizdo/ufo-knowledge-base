@@ -5,7 +5,7 @@ aliases: [Lenny Susskind, L. Susskind]
 roles: [researcher]
 affiliations: [stanford-university, stanford-institute-for-theoretical-physics]
 firsthand_claims: []
-first_seen_in: raw/youtube-transcripts/string-theory-context.md
+first_seen_in: ""
 sources: []
 tags: [physics, string-theory, holographic-principle, black-hole-information, stanford]
 ---

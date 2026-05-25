@@ -38,3 +38,4 @@ AARO conducted post-event measurements (establishing fiery orb at 1,050 m and 12
 - [[phenomenology-categories]] — mother/offspring orb behavior; zero-resistance hovering; partial transparency; spotlight absorption; triangular craft; pre-dawn + dusk observations
 - [[credibility-frameworks]] — seven federal law enforcement agents; multi-team independent corroboration
 - [[tag-along-orbs]] — mother-orb/offspring-orb pattern consistent with historical orb behavior
+- Mentioned in [[odni-uap-d1-usper-narrative-2025]] — ODNI USPER first-person narrative of late-2025 western US test-range orb-swarm encounter; companion to the FBI 302 of the same witness

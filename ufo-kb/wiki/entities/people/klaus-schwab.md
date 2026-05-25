@@ -5,7 +5,7 @@ aliases: [Klaus Martin Schwab]
 roles: [other]
 affiliations: [world-economic-forum]
 firsthand_claims: []
-first_seen_in: raw/youtube-transcripts/conspiratorial-frame.md
+first_seen_in: ""
 sources: []
 tags: [world-economic-forum, davos, globalist-discourse, conspiracy-figure]
 ---

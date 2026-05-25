@@ -17,6 +17,15 @@ The Romero Institute is the organizational successor to [[danny-sheehan]]'s [[ch
 
 The Institute eventually evolved into the [[new-paradigm-institute]], which focuses specifically on UAP disclosure and the Controlled Disclosure Campaign Act. The organizational lineage runs: Jesuit Social Ministry Office → Christic Institute → Romero Institute → New Paradigm Institute.
 
+## Historical Lineage
+
+- **1971**: Jesuit Social Ministry Office (Sheehan's start in public interest law)
+- **1980**: Christic Institute founded; named after Archbishop Oscar Romero's martyrdom theology
+- **1980s**: Christic litigates landmark cases (Karen Silkwood, Three Mile Island, La Penca / Iran-Contra)
+- **1988**: Iran-Contra civil RICO complaint dismissed; Judge King imposes $1.2M sanctions destroying Christic
+- **1990s**: Romero Institute incorporated as Christic successor (assets, staff, mission migrated)
+- **2010s-present**: Romero evolves toward UAP-focused work, eventually spinning off the [[new-paradigm-institute]] for the Controlled Disclosure Campaign Act
+
 ## Connections
 
 - [[danny-sheehan]] — founder and director

@@ -57,7 +57,7 @@ The absence of any Pentagon awareness suggests a strict compartmentalization by 
 - [[atomic-energy-act-classification]] — the DOE clearance architecture that likely holds this case
 - [[manhattan-project]] — probable initial custodian of crash materials per Vallée/Harris
 - [[atomic-energy-commission]] — probable successor custodian
-- [[department-of-energy]] — probable current custodian (if materials retained)
+- [[doe]] — probable current custodian (if materials retained)
 - [[control-system-hypothesis]] — Vallée's interpretation: the timing and obliqueness of the crash are not accidental
 - [[trickster-phenomenon]] — the absurdist staging of the event exemplifies trickster-intelligence behavior
 - [[passport-to-magonia]] — Vallée's thesis that UFOs predate the postwar era; Trinity is concrete evidence

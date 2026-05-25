@@ -18,6 +18,12 @@ Three crews of the 307th Bomb Group, participating in **Operation Daggar**, obse
 
 Reported by USAFE OI OB to USAFE Directorate of Intelligence via TT #1524 (USAFE 10, 4 Nov 1948); forwarded to [[cp-cabell|Gen. Cabell]], USAF Director of Intelligence.
 
+## Additional Context
+
+The 1948 Netherlands sighting by 307th Bombardment Group personnel is one of several US Air Force-bomber-crew European UAP reports from the immediate post-WWII period. The 307 BG was at the time a heavy-bomb-group stationed at MacDill AFB, FL but conducting forward-deployment training rotations to UK and West German bases during the Berlin Airlift era (June 1948 - September 1949).
+
+The incident is notable for its observer category (USAF bomber crew on training mission, multiple witnesses) and its European geography — extending the late-1940s "flying disc wave" beyond the well-documented US-only corpus. The report fed into the early Project Sign documentary base and is referenced in subsequent foo-fighter / European-UAP-cluster surveys.
+
 ## Connections
 
 - [[usaf-1948-11-netherlands-flying-saucers-intel-report]] — primary source; USAFE 10

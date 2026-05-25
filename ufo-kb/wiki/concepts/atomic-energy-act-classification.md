@@ -94,3 +94,4 @@ This is the most direct insider confirmation of the AEA → DOE → contractor p
 - [[TH10mD9hQas]] — Michels presents Grusch's direct statement that the McMahon/AEA mechanism is the trojan horse; Grusch car-ride quote on Manhattan Project as first UAP program
 
 - Synthesized in [[physics-consciousness-suppression-unified]]
+- Mentioned in [[doe-uap-d1-pantex-image-fragment]] — DOE-released image fragment (pages 5-6 of 6) of a formal Pantex Unidentified Object Incident Report produced by Consolidated Nuclear Security; PURSUE Release 02 (2026-05-22)

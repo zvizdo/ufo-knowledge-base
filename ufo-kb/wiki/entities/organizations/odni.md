@@ -35,3 +35,4 @@ ODNI has been centrally involved in UAP reporting and oversight:
 - [[uap-disclosure-act]] — ODNI reporting requirements
 - [[aaro]] — AARO reports to Congress through the USD(I&S) with ODNI coordination
 - [[disclosure-narratives]] — ODNI assessment reports are the primary official disclosure mechanism
+- Mentioned in [[odni-uap-d1-usper-narrative-2025]] — ODNI USPER first-person narrative of late-2025 western US test-range orb-swarm encounter; companion to the FBI 302 of the same witness

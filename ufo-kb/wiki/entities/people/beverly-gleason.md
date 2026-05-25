@@ -18,6 +18,12 @@ Wife of comedian and UFO researcher [[jackie-gleason]]. Beverly Gleason told Esq
 
 The significance of Beverly's account is structural: it is independent of [[larry-warren]]'s published version and predates it. Two sources with no coordination describing the same event constitutes a corroboration chain that Mellon treats as elevating the story above the level of UFO legend. Neither Beverly nor Warren had an obvious incentive to fabricate the Homestead detail specifically.
 
+## The 1974 Esquire Account
+
+Beverly Gleason (also known by her stage name Beverly McKittrick) gave the Esquire interview as part of pre-publication publicity for her planned autobiography. The Homestead account placed her at Jackie Gleason's home immediately after his return from the alleged 1973 Nixon visit; she described Jackie as visibly shaken and unable to discuss what he had seen. Her version of the story includes a specific detail — Jackie's request that she "never speak of this" — that does not appear in Larry Warren's later account, suggesting independent provenance rather than story-sharing between the two sources.
+
+Beverly and Jackie were divorced in 1971 (before the alleged Homestead visit) but maintained contact. The Esquire interview was published several years before Larry Warren's account appeared in print; the temporal precedence is the core of the credibility argument.
+
 ## Connections
 
 - [[jackie-gleason]] — wife; the Homestead story is her account of something Jackie experienced

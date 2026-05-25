@@ -18,6 +18,12 @@ Institut des Hautes Études de Défense Nationale — France's senior national d
 
 Most members of the [[cometa-report|COMETA]] group were former IHEDN auditors, including General [[bernard-norlain]] (former director). The first IHEDN UFO study group produced a report 20 years before COMETA; the COMETA Report explicitly credits that earlier work in its Conclusions section.
 
+## Programs and Auditeurs
+
+IHEDN's flagship is the annual *Session Nationale* — a 9-month seminar for ~80 senior military officers, civil servants, diplomats, business executives, and academics. Completion confers the lifelong title of *Auditeur* (auditor). The program is selective and prestigious; alumni form a tight network of France's strategic establishment.
+
+The institute also runs regional programs, youth seminars, and specialized study groups. The UFO/UAP study tradition within IHEDN began with a 1970s working group, was continued by the COMETA private-association project (1996-1999), and resumed institutionally with the GEIPAN-IHEDN collaboration of the 2010s.
+
 ## Connections
 
 - [[cometa-report]] — COMETA was produced by a group composed primarily of former IHEDN auditors
